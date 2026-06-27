@@ -20,7 +20,7 @@ export function getArticle(vertical: Vertical, slug: string): Article | null {
 }
 
 export function getAllArticles(): Article[] {
-  const verticals: Vertical[] = ['autos', 'tecnologia', 'peliculas', 'musica'];
+  const verticals: Vertical[] = ['autos', 'tecnologia', 'peliculas', 'musica', 'comida'];
   return verticals.flatMap(getArticlesByVertical);
 }
 

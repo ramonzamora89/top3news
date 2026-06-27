@@ -6,49 +6,65 @@ import VerticalPixelArt from '@/components/VerticalPixelArt';
 import AgendaCard from '@/components/AgendaCard';
 import type { Article, Vertical } from '@/types';
 
-const VERTICALS: Vertical[] = ['tecnologia', 'autos', 'peliculas', 'musica'];
+const VERTICALS: Vertical[] = ['tecnologia', 'autos', 'peliculas', 'musica', 'comida'];
 
-function StreamItem({ article }: { article: Article }) {
+function HeroItem({ article }: { article: Article }) {
   return (
-    <div className="py-3 border-b border-gray-100 last:border-0">
-      <Link
-        href={`/${article.vertical}/${article.id}`}
-        className="group block"
-        style={{ color: 'inherit', textDecoration: 'none' }}
-      >
-        <p className="text-xs text-gray-400 mb-0.5 font-medium">
-          {article.source} · {formatRelativeTime(article.publishedAt)}
+    <Link
+      href={`/${article.vertical}/${article.id}`}
+      className="group block pb-4 border-b border-gray-100"
+      style={{ color: 'inherit', textDecoration: 'none' }}
+    >
+      <p className="text-xs text-gray-400 mb-1 font-medium">
+        {article.source} · {formatRelativeTime(article.publishedAt)}
+      </p>
+      <h3 className="text-base font-black text-gray-950 group-hover:text-brand leading-snug transition-colors">
+        {article.title}
+      </h3>
+      {(article.whatHappening || article.summary) && (
+        <p className="text-xs text-gray-500 mt-1 line-clamp-2 leading-relaxed">
+          {article.whatHappening || article.summary}
         </p>
-        <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors">
-          {article.title}
-        </h3>
-        {article.whatHappening && (
-          <p className="text-xs text-gray-500 mt-0.5 line-clamp-2 leading-relaxed">
-            {article.whatHappening}
-          </p>
-        )}
-      </Link>
-    </div>
+      )}
+    </Link>
+  );
+}
+
+function SecondaryItem({ article }: { article: Article }) {
+  return (
+    <Link
+      href={`/${article.vertical}/${article.id}`}
+      className="group block"
+      style={{ color: 'inherit', textDecoration: 'none' }}
+    >
+      <p className="text-xs text-gray-400 mb-0.5 font-medium">
+        {article.source} · {formatRelativeTime(article.publishedAt)}
+      </p>
+      <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors">
+        {article.title}
+      </h3>
+    </Link>
   );
 }
 
 function VerticalSection({ vertical }: { vertical: Vertical }) {
-  const articles = getArticlesByVertical(vertical).slice(0, 6);
+  const articles = getArticlesByVertical(vertical).slice(0, 3);
   const label = VERTICAL_LABELS[vertical];
+  const [hero, ...rest] = articles;
 
   return (
     <section className="grid grid-cols-1 sm:grid-cols-[152px_1fr] gap-8 py-10 border-b border-gray-200 last:border-0">
       {/* Left: 8-bit pixel art anchor */}
       <div className="flex flex-col items-center gap-3">
-        <div className="w-36 h-28 sm:w-36 sm:h-28">
+        <div className="w-36 h-28">
           <VerticalPixelArt vertical={vertical} />
         </div>
         <span className="font-pixel text-brand text-[9px] text-center leading-loose">{label}</span>
       </div>
 
-      {/* Right: article stream */}
+      {/* Right: top 3 layout */}
       <div>
-        <div className="flex items-center justify-between mb-3 pb-2 border-b-2 border-brand">
+        <div className="flex items-center justify-between mb-4 pb-2 border-b-2 border-brand">
           <h2 className="text-lg font-black uppercase tracking-tight text-gray-950">{label}</h2>
           <Link
             href={`/${vertical}`}
@@ -58,12 +74,21 @@ function VerticalSection({ vertical }: { vertical: Vertical }) {
             See all →
           </Link>
         </div>
+
         {articles.length === 0 ? (
           <p className="text-gray-400 text-sm py-4">No articles yet. Check back soon.</p>
         ) : (
-          <div>
-            {articles.map((a) => <StreamItem key={a.id} article={a} />)}
-          </div>
+          <>
+            {/* Hero — #1 */}
+            {hero && <HeroItem article={hero} />}
+
+            {/* Secondary — #2 and #3 side by side */}
+            {rest.length > 0 && (
+              <div className="grid grid-cols-2 gap-4 pt-4">
+                {rest.map((a) => <SecondaryItem key={a.id} article={a} />)}
+              </div>
+            )}
+          </>
         )}
       </div>
     </section>

@@ -7,6 +7,7 @@ const NAV_LINKS = [
   { href: '/tecnologia', label: 'Technology' },
   { href: '/peliculas', label: 'Movies' },
   { href: '/musica', label: 'Music' },
+  { href: '/comida', label: 'Food' },
   { href: '/agenda', label: 'Agenda' },
 ];
 

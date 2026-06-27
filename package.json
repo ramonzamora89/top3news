@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "fetch": "node scripts/fetch-rss.js morning && node scripts/scrape-movies.js && node scripts/enhance-articles.js",
+    "fetch": "node scripts/fetch-rss.js morning && node scripts/scrape-movies.js && node scripts/fetch-yelp.js && node scripts/enhance-articles.js",
     "fetch:agenda": "node scripts/fetch-agenda.js --force",
+    "fetch:food": "node scripts/fetch-yelp.js",
     "enhance": "node scripts/enhance-articles.js"
   },
   "dependencies": {

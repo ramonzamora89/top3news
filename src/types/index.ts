@@ -1,4 +1,4 @@
-export type Vertical = 'autos' | 'tecnologia' | 'peliculas' | 'musica';
+export type Vertical = 'autos' | 'tecnologia' | 'peliculas' | 'musica' | 'comida';
 
 export interface Article {
   id: string;
@@ -49,6 +49,7 @@ export const VERTICAL_LABELS: Record<Vertical, string> = {
   tecnologia: 'Technology',
   peliculas: 'Movies',
   musica: 'Music',
+  comida: 'Food',
 };
 
 export const VERTICAL_COLORS: Record<Vertical, string> = {
@@ -56,4 +57,5 @@ export const VERTICAL_COLORS: Record<Vertical, string> = {
   tecnologia: 'bg-brand text-white',
   peliculas: 'bg-brand text-white',
   musica: 'bg-brand text-white',
+  comida: 'bg-brand text-white',
 };
