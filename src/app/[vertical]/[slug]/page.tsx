@@ -6,7 +6,7 @@ import { VERTICAL_LABELS } from '@/types';
 import { formatDate } from '@/lib/utils';
 import type { Vertical } from '@/types';
 
-const VALID_VERTICALS: Vertical[] = ['autos', 'tecnologia', 'peliculas', 'musica'];
+const VALID_VERTICALS: Vertical[] = ['autos', 'tecnologia', 'peliculas', 'musica', 'comida'];
 
 interface Props {
   params: { vertical: string; slug: string };

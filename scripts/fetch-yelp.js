@@ -1,6 +1,5 @@
-// Fetches top restaurants in Miami from Yelp Fusion API.
-// Requires YELP_API_KEY — get a free key at https://www.yelp.com/developers
-// Also adds Eater Miami food news via RSS.
+// Fetches Miami food content from curated local RSS feeds.
+// Sources: Eater Miami, Miami Food Pug, Digest Miami, Miami Curated, Miami Take
 
 const Parser = require('rss-parser');
 const fs = require('fs');
@@ -10,6 +9,14 @@ const crypto = require('crypto');
 const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const FILE = path.join(CONTENT_DIR, 'comida.json');
 const MAX_ITEMS = 30;
+
+const FOOD_FEEDS = [
+  { id: 'eater-miami',    name: 'Eater Miami',    url: 'https://miami.eater.com/rss/index.xml' },
+  { id: 'digest-miami',   name: 'Digest Miami',   url: 'https://www.digestmiami.com/category/best-miami-restaurants/feed/' },
+  { id: 'miamifoodpug',  name: 'Miami Food Pug', url: 'https://miamifoodpug.com/feed/' },
+  { id: 'miami-curated',  name: 'Miami Curated',  url: 'https://www.miamicurated.com/category/food/feed/' },
+  { id: 'miami-take',     name: 'Miami Take',     url: 'https://miamitake.com/category/food/feed/' },
+];
 
 function slugify(text) {
   return text.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
@@ -24,107 +31,62 @@ function decodeEntities(t) {
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)));
 }
-
-// ── 1. Yelp Fusion API ────────────────────────────────────────────────────────
-
-async function fetchYelpRestaurants() {
-  const key = process.env.YELP_API_KEY;
-  if (!key) {
-    console.warn('⚠ YELP_API_KEY not set — skipping Yelp restaurants');
-    return [];
-  }
-
-  const params = new URLSearchParams({
-    location: 'Miami, FL',
-    categories: 'restaurants',
-    sort_by: 'review_count',
-    limit: '15',
-    radius: '20000',
-  });
-
-  const res = await fetch(`https://api.yelp.com/v3/businesses/search?${params}`, {
-    headers: { Authorization: `Bearer ${key}`, Accept: 'application/json' },
-    signal: AbortSignal.timeout(10000),
-  });
-  if (!res.ok) throw new Error(`Yelp API HTTP ${res.status}`);
-  const data = await res.json();
-
-  const now = new Date().toISOString();
-  return (data.businesses || []).map((biz) => {
-    const rating = biz.rating?.toFixed(1) ?? '?';
-    const reviews = (biz.review_count ?? 0).toLocaleString();
-    const cats = biz.categories?.map((c) => c.title).join(', ') ?? '';
-    const price = biz.price ?? '';
-    const area = biz.location?.city ?? 'Miami';
-    const addr = biz.location?.address1 ?? '';
-
-    return {
-      id: makeId(biz.name, biz.id),
-      title: biz.name,
-      summary: [rating + '★', reviews + ' reviews', cats, price, area].filter(Boolean).join(' · '),
-      url: biz.url,
-      source: 'Yelp',
-      sourceId: 'yelp',
-      vertical: 'comida',
-      publishedAt: now,
-      fetchedAt: now,
-      imageUrl: biz.image_url || undefined,
-      lang: 'en',
-      whatHappening: `${biz.name} is one of Miami's most visited restaurants with ${reviews} Yelp reviews${cats ? ' — ' + cats : ''}.`,
-      whoInvolved: [addr, area].filter(Boolean).join(', '),
-      whyMatters: `Rated ${rating}★${price ? ' · ' + price + ' price range' : ''} — a crowd-tested pick in Miami.`,
-      enhanced: true,
-    };
-  });
+function cleanText(t, max = 280) {
+  const s = decodeEntities((t || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim());
+  return s.length > max ? s.slice(0, max).replace(/\s\S*$/, '') + '…' : s;
 }
 
-// ── 2. Eater Miami RSS ────────────────────────────────────────────────────────
-
-async function fetchEaterMiami() {
-  const parser = new Parser();
+async function fetchFeed(feed) {
+  const parser = new Parser({
+    customFields: { item: [['media:content', 'media:content', { keepArray: false }]] },
+  });
   const now = new Date().toISOString();
   try {
-    const feed = await parser.parseURL('https://miami.eater.com/rss/index.xml');
-    return feed.items.slice(0, 10).map((item) => ({
-      id: makeId(item.title || '', item.link || now),
-      title: decodeEntities((item.title || '').trim()),
-      summary: decodeEntities((item.contentSnippet || '').replace(/<[^>]+>/g, '').slice(0, 280)),
-      url: item.link || '',
-      source: 'Eater Miami',
-      sourceId: 'eater-miami',
-      vertical: 'comida',
-      publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : now,
-      fetchedAt: now,
-      lang: 'en',
-    })).filter((a) => a.title && a.url);
+    const parsed = await parser.parseURL(feed.url);
+    const items = parsed.items.slice(0, 8).map((item) => {
+      let imageUrl = item.enclosure?.url || item['media:content']?.url;
+      if (!imageUrl) {
+        const m = (item['content:encoded'] || item.content || '').match(/<img[^>]+src="([^"]+)"/);
+        if (m) imageUrl = m[1];
+      }
+      return {
+        id: makeId(item.title || '', item.link || now),
+        title: cleanText(item.title),
+        summary: cleanText(item.contentSnippet || item['content:encoded'] || ''),
+        url: item.link || '',
+        source: feed.name,
+        sourceId: feed.id,
+        vertical: 'comida',
+        publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : now,
+        fetchedAt: now,
+        imageUrl: imageUrl || undefined,
+        lang: 'en',
+      };
+    }).filter((a) => a.title && a.url);
+    console.log(`✓ ${feed.name}: ${items.length} articles`);
+    return items;
   } catch (err) {
-    console.warn(`⚠ Eater Miami RSS: ${err.message}`);
+    console.warn(`⚠ ${feed.name}: ${err.message}`);
     return [];
   }
 }
 
-// ── main ──────────────────────────────────────────────────────────────────────
-
 async function main() {
-  console.log('Fetching food content...');
+  console.log('Fetching Miami food feeds...\n');
 
-  const [restaurants, news] = await Promise.all([
-    fetchYelpRestaurants().catch((e) => { console.warn('⚠ Yelp:', e.message); return []; }),
-    fetchEaterMiami(),
-  ]);
+  const results = await Promise.all(FOOD_FEEDS.map(fetchFeed));
+  const fresh = results.flat();
 
-  // Load existing, keep Yelp fresh (replace) but accumulate Eater news
+  // Merge with existing — keep old articles not seen in fresh batch
   let existing = [];
   try { existing = JSON.parse(fs.readFileSync(FILE, 'utf-8')); } catch {}
 
-  const existingNews = existing.filter((a) => a.sourceId !== 'yelp');
-  const existingUrls = new Set(existingNews.map((a) => a.url));
-  const newNews = news.filter((a) => !existingUrls.has(a.url));
+  const freshUrls = new Set(fresh.map((a) => a.url));
+  const kept = existing.filter((a) => !freshUrls.has(a.url));
+  const combined = [...fresh, ...kept].slice(0, MAX_ITEMS);
 
-  const combined = [...restaurants, ...newNews, ...existingNews].slice(0, MAX_ITEMS);
   fs.writeFileSync(FILE, JSON.stringify(combined, null, 2));
-
-  console.log(`✓ comida: ${restaurants.length} restaurants (Yelp) + ${newNews.length} new articles (Eater Miami)`);
+  console.log(`\n✓ comida.json: ${combined.length} articles total`);
 }
 
 main().catch((err) => { console.error(err); process.exit(1); });

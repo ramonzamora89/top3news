@@ -57,11 +57,9 @@ jobs:
         run: node scripts/scrape-movies.js
         continue-on-error: true
 
-      - name: Fetch top restaurants (Yelp)
+      - name: Fetch Miami food feeds
         run: node scripts/fetch-yelp.js
         continue-on-error: true
-        env:
-          YELP_API_KEY: ${{ secrets.YELP_API_KEY }}
 
       - name: Fetch Thursday agenda
         run: node scripts/fetch-agenda.js
