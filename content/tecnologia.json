@@ -46,7 +46,8 @@
     "whatHappening": "Margaret Atwood is warning that AI systems suffer from a fundamental flaw: they produce poor outputs when trained on poor inputs. The legendary author is sharing her perspective on artificial intelligence's limitations during a literary festival appearance.",
     "whoInvolved": "Margaret Atwood, acclaimed author of The Handmaid's Tale, speaking at the Babell Literary and Cultural Festival in Porto, Portugal.",
     "whyMatters": "As AI becomes increasingly integrated into creative and informational spaces, Atwood's critique highlights a critical vulnerability in how these systems are built and trained. Her warnings resonate with ongoing debates about AI quality, bias, and the sources used to train large language models.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "apple-wants-permission-to-buy-memory-from-a-blacklisted-chinese-supplier-a2b365",
