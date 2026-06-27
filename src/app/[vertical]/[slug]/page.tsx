@@ -16,12 +16,36 @@ export function generateStaticParams() {
   return getAllArticles().map((a) => ({ vertical: a.vertical, slug: a.id }));
 }
 
+const BASE_URL = 'https://top3.news';
+
 export function generateMetadata({ params }: Props) {
   const vertical = params.vertical as Vertical;
   if (!VALID_VERTICALS.includes(vertical)) return {};
   const article = getArticle(vertical, params.slug);
   if (!article) return {};
-  return { title: `${article.title} — top3news`, description: article.whatHappening ?? article.summary };
+
+  const description = article.whatHappening ?? article.summary ?? '';
+  const image = article.imageUrl || `${BASE_URL}/og/${vertical}.png`;
+  const url = `${BASE_URL}/${vertical}/${article.id}`;
+
+  return {
+    title: `${article.title} — top3news`,
+    description,
+    openGraph: {
+      title: article.title,
+      description,
+      url,
+      siteName: 'top3news',
+      images: [{ url: image, width: 1200, height: 630, alt: article.title }],
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description,
+      images: [image],
+    },
+  };
 }
 
 function Section({ label, children }: { label: string; children: React.ReactNode }) {
