@@ -8,16 +8,30 @@ import type { Article, Vertical } from '@/types';
 
 const VERTICALS: Vertical[] = ['tecnologia', 'autos', 'peliculas', 'musica', 'comida'];
 
-function HeroItem({ article }: { article: Article }) {
+function RankBadge({ n }: { n: number }) {
+  return (
+    <span
+      className="inline-flex items-center justify-center bg-brand text-white flex-shrink-0"
+      style={{ fontFamily: '"Press Start 2P", monospace', fontSize: '9px', width: '20px', height: '20px', lineHeight: 1 }}
+    >
+      {n}
+    </span>
+  );
+}
+
+function HeroItem({ article, rank }: { article: Article; rank: number }) {
   return (
     <Link
       href={`/${article.vertical}/${article.id}`}
       className="group block pb-4 border-b border-gray-100"
       style={{ color: 'inherit', textDecoration: 'none' }}
     >
-      <p className="text-xs text-gray-400 mb-1 font-medium">
-        {article.source} · {formatRelativeTime(article.publishedAt)}
-      </p>
+      <div className="flex items-center gap-2 mb-1.5">
+        <RankBadge n={rank} />
+        <p className="text-xs text-gray-400 font-medium">
+          {article.source} · {formatRelativeTime(article.publishedAt)}
+        </p>
+      </div>
       <h3 className="text-base font-black text-gray-950 group-hover:text-brand leading-snug transition-colors">
         {article.title}
       </h3>
@@ -30,17 +44,20 @@ function HeroItem({ article }: { article: Article }) {
   );
 }
 
-function SecondaryItem({ article }: { article: Article }) {
+function SecondaryItem({ article, rank }: { article: Article; rank: number }) {
   return (
     <Link
       href={`/${article.vertical}/${article.id}`}
       className="group block"
       style={{ color: 'inherit', textDecoration: 'none' }}
     >
-      <p className="text-xs text-gray-400 mb-0.5 font-medium">
-        {article.source} · {formatRelativeTime(article.publishedAt)}
-      </p>
-      <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors">
+      <div className="flex items-center gap-2 mb-0.5">
+        <RankBadge n={rank} />
+        <p className="text-xs text-gray-400 font-medium">
+          {article.source} · {formatRelativeTime(article.publishedAt)}
+        </p>
+      </div>
+      <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors pl-7">
         {article.title}
       </h3>
     </Link>
@@ -80,12 +97,12 @@ function VerticalSection({ vertical }: { vertical: Vertical }) {
         ) : (
           <>
             {/* Hero — #1 */}
-            {hero && <HeroItem article={hero} />}
+            {hero && <HeroItem article={hero} rank={1} />}
 
             {/* Secondary — #2 and #3 side by side */}
             {rest.length > 0 && (
               <div className="grid grid-cols-2 gap-4 pt-4">
-                {rest.map((a) => <SecondaryItem key={a.id} article={a} />)}
+                {rest.map((a, i) => <SecondaryItem key={a.id} article={a} rank={i + 2} />)}
               </div>
             )}
           </>
