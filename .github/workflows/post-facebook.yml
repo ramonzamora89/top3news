@@ -1,0 +1,47 @@
+name: Post to Facebook
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 7am ET
+    - cron: '0 13 * * *'   # 9am ET
+    - cron: '0 15 * * *'   # 11am ET
+    - cron: '0 17 * * *'   # 1pm ET
+    - cron: '0 19 * * *'   # 3pm ET
+    - cron: '0 21 * * *'   # 5pm ET
+    - cron: '0 23 * * *'   # 7pm ET
+    - cron: '0 1 * * *'    # 9pm ET
+    - cron: '0 3 * * *'    # 11pm ET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Post to Facebook
+        run: node scripts/post-facebook.js
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+
+      - name: Commit fbPosted flags
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git diff --staged --quiet || git commit -m "chore: mark articles fb-posted [skip ci]"
+          git push
