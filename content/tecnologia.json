@@ -1,5 +1,37 @@
 [
   {
+    "id": "openai-limits-gpt-56-rollout-after-government-request-says-restrictions-shouldnt-e258fb",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "source": "TechCrunch",
+    "sourceId": "techcrunch",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-26T18:32:14.000Z",
+    "fetchedAt": "2026-06-27T20:23:01.104Z",
+    "lang": "en",
+    "whatHappening": "OpenAI is restricting the rollout of GPT-5.6 following a government request. The company says such limitations shouldn't become standard practice.",
+    "whoInvolved": "OpenAI and an unspecified government entity are at the center of this decision.",
+    "whyMatters": "This raises questions about government control over AI capabilities and access to advanced tools. OpenAI's pushback suggests potential friction between regulatory oversight and the company's desire to broadly distribute its technology.",
+    "enhanced": true
+  },
+  {
+    "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us-9e9fd0",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "source": "TechCrunch",
+    "sourceId": "techcrunch",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-26T18:19:36.000Z",
+    "fetchedAt": "2026-06-27T20:23:01.104Z",
+    "lang": "en",
+    "whatHappening": "OpenAI has hired Uber India's chief to lead operations in India, its largest market outside the US. The move signals the AI company's aggressive expansion plans in the country.",
+    "whoInvolved": "OpenAI and Uber India, with the Uber India executive making the move to lead OpenAI's India operations.",
+    "whyMatters": "The hire underscores OpenAI's commitment to growing in India through expanded offices, partnerships, and talent acquisition. It reflects the strategic importance of India's market for AI companies seeking growth beyond North America.",
+    "enhanced": true
+  },
+  {
     "id": "margaret-atwood-says-the-problem-with-ai-is-8216garbage-in-garbage-out8217-103d77",
     "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
     "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it…",
