@@ -11,7 +11,7 @@ const Anthropic = require('@anthropic-ai/sdk');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const CONTENT_DIR = path.join(__dirname, '..', 'content');
-const VERTICALS = ['autos', 'tecnologia', 'peliculas', 'musica'];
+const VERTICALS = ['autos', 'tecnologia', 'peliculas', 'musica', 'comida'];
 
 async function enhanceArticle(article) {
   const prompt = `You are a news editor using Smart Brevity style. Given a news article, produce a structured breakdown as JSON.
@@ -33,7 +33,9 @@ Return ONLY valid JSON (no markdown, no code fences) with exactly these fields:
     messages: [{ role: 'user', content: prompt }],
   });
 
-  const text = msg.content[0].text.trim();
+  const raw = msg.content[0].text.trim();
+  // Strip markdown code fences if Claude adds them despite instructions
+  const text = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
   return JSON.parse(text);
 }
 
