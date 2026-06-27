@@ -1,5 +1,37 @@
 [
   {
+    "id": "corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-a-13f6c7",
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+    "summary": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+    "source": "TechCrunch",
+    "sourceId": "techcrunch",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-26T22:00:37.000Z",
+    "fetchedAt": "2026-06-27T17:57:30.496Z",
+    "lang": "en",
+    "whatHappening": "Corgi, a Y Combinator-backed insurance tech startup, is denying allegations that it stole open source software from Papermark. The dispute has ignited debate about the practice of 'vibe coding' in the startup world.",
+    "whoInvolved": "Corgi (Y Combinator-backed insurance startup) and Papermark (open source software creator) are at the center of the dispute.",
+    "whyMatters": "The accusation raises serious questions about intellectual property practices in tech startups and whether founders are appropriately crediting or licensing open source code. This incident highlights the tension between rapid startup development and ethical software development practices.",
+    "enhanced": true
+  },
+  {
+    "id": "novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic-d60a0c",
+    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+    "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
+    "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+    "source": "TechCrunch",
+    "sourceId": "techcrunch",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-26T19:13:40.000Z",
+    "fetchedAt": "2026-06-27T17:57:30.496Z",
+    "lang": "en",
+    "whatHappening": "Novak Djokovic is joining General Atlantic as a global strategic advisor. The tennis champion is expanding beyond sports into the private equity world.",
+    "whoInvolved": "Novak Djokovic, the tennis legend, and General Atlantic, a major private equity firm.",
+    "whyMatters": "The move signals Djokovic's pivot toward business and investment after his dominant tennis career. It also represents General Atlantic's strategy to leverage celebrity influence and networks for deal-making and portfolio guidance.",
+    "enhanced": true
+  },
+  {
     "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a-762c95",
     "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -9,7 +41,11 @@
     "vertical": "tecnologia",
     "publishedAt": "2026-06-27T01:01:37.000Z",
     "fetchedAt": "2026-06-27T17:31:06.868Z",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "The Trump administration is releasing Anthropic's Mythos 5 AI model for use by over 100 U.S. companies and government agencies. The authorization extends access to both American and non-American employees within these organizations.",
+    "whoInvolved": "Anthropic (AI company), the Trump administration, and 100+ U.S. companies and government agencies.",
+    "whyMatters": "This marks a significant expansion of advanced AI access across the private and public sectors, potentially accelerating AI adoption in critical industries and government functions. The decision to include non-American employees suggests a shift in how the administration is managing AI technology access policies.",
+    "enhanced": true
   },
   {
     "id": "ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh-676634",
@@ -21,7 +57,11 @@
     "vertical": "tecnologia",
     "publishedAt": "2026-06-27T00:38:34.000Z",
     "fetchedAt": "2026-06-27T17:31:06.868Z",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "The FTC has approved Elon Musk's acquisition of Mesh, a startup founded by former SpaceX employees. Mesh emerged from stealth in February with $50 million in Series A funding.",
+    "whoInvolved": "Elon Musk, Mesh (SpaceX alumni startup), and the Federal Trade Commission.",
+    "whyMatters": "The approval clears the way for Musk to expand his portfolio with talent and technology from former SpaceX team members. This acquisition could strengthen capabilities across Musk's companies, though regulatory scrutiny suggests concentration of resources was a consideration.",
+    "enhanced": true
   },
   {
     "id": "the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back-6e868f",
@@ -33,7 +73,11 @@
     "vertical": "tecnologia",
     "publishedAt": "2026-06-27T14:00:00.000Z",
     "fetchedAt": "2026-06-27T17:19:59.405Z",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "A tech founder diagnosed with cancer is using Claude AI to analyze his personal health data—blood results, scans, wearables, and journal entries—to inform his treatment strategy. He's leveraging AI as a tool to fight back against the disease.",
+    "whoInvolved": "Connor Christou, a founder known for fitness, working with Claude (Anthropic's AI model).",
+    "whyMatters": "This illustrates how AI is moving from theoretical applications into deeply personal healthcare decisions, showing both the potential and real-world stakes of AI in medicine. It raises questions about AI's role in patient empowerment versus the need for medical expertise.",
+    "enhanced": true
   },
   {
     "id": "asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on-2d80d9",
@@ -45,7 +89,11 @@
     "vertical": "tecnologia",
     "publishedAt": "2026-06-27T12:00:00.000Z",
     "fetchedAt": "2026-06-27T17:19:59.405Z",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Asian AI startups are launching models with capabilities comparable to Anthropic's offerings, capitalizing on uncertainty around U.S. export restrictions. These new models aim to fill the market gap created by regulatory concerns.",
+    "whoInvolved": "Asian AI startups, Anthropic, and U.S. AI labs.",
+    "whyMatters": "The export ban risk is driving talent and market share away from American AI companies to international competitors. U.S. AI labs risk losing dominance in the massive Asian market to homegrown alternatives.",
+    "enhanced": true
   },
   {
     "id": "24-prime-day-deals-verge-readers-are-grabbing-before-prime-day-ends-8c6b4f",
@@ -58,7 +106,11 @@
     "publishedAt": "2026-06-27T02:33:54.000Z",
     "fetchedAt": "2026-06-27T16:56:28.840Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "The Verge is highlighting 24 Prime Day deals that readers are actively purchasing before the sale ends. The Xteink X4 reader is emerging as a surprising customer favorite among the available offers.",
+    "whoInvolved": "The Verge editorial team and Amazon Prime Day shoppers are the primary parties involved.",
+    "whyMatters": "With Prime Day's overwhelming deal volume, curated recommendations from trusted reviewers help consumers make informed purchasing decisions. This article cuts through the noise by featuring only products The Verge has tested and endorsed, saving readers time and money during the sales event.",
+    "enhanced": true
   },
   {
     "id": "apple-vision-pro-exec-is-reportedly-leaving-for-openai-0ec7fc",
@@ -70,7 +122,11 @@
     "vertical": "tecnologia",
     "publishedAt": "2026-06-27T16:45:09.000Z",
     "fetchedAt": "2026-06-27T16:56:28.886Z",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Paul Meade, Apple's VP overseeing the Vision Pro headset, is departing the company. He's joining OpenAI's hardware division.",
+    "whoInvolved": "Paul Meade (Apple VP), Apple, and OpenAI.",
+    "whyMatters": "The exit signals potential shifts in Apple's Vision Pro strategy while strengthening OpenAI's hardware ambitions. It reflects talent movement between two of tech's most prominent companies in the race for next-generation computing platforms.",
+    "enhanced": true
   },
   {
     "id": "this-might-be-the-new-best-smart-speaker-c58e1e",
@@ -83,7 +139,11 @@
     "publishedAt": "2026-06-27T12:00:00.000Z",
     "fetchedAt": "2026-06-27T16:31:10.951Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-134.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "The Verge's Installer newsletter is highlighting what might be the new best smart speaker on the market. The publication is featuring this week's tech recommendations and product reviews.",
+    "whoInvolved": "The Verge's editorial team is curating and reviewing smart speaker products for their audience.",
+    "whyMatters": "Smart speakers are increasingly central to home automation and daily routines, making reliable product recommendations important for consumers evaluating which device to buy. The Verge's endorsement can significantly influence purchasing decisions in this competitive market segment.",
+    "enhanced": true
   },
   {
     "id": "its-the-last-day-of-prime-day-here-are-over-140-great-deals-to-choose-from-40d285",
@@ -96,7 +156,11 @@
     "publishedAt": "2026-06-27T02:54:45.000Z",
     "fetchedAt": "2026-06-27T16:31:10.951Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Amazon Prime Day is ending today with over 140 active deals across gadgets, TVs, smart home devices, and accessories. Some of the best discounts are already selling out as shoppers rush to grab final bargains.",
+    "whoInvolved": "Amazon is running the sale; The Verge is curating and covering the deals.",
+    "whyMatters": "This is a key shopping event where consumers can save significantly on tech purchases before inventory runs dry. The rapid sellouts signal strong consumer demand and shrinking windows for deal-hunters to act.",
+    "enhanced": true
   },
   {
     "id": "indie-developers-got-tired-of-waiting-for-a-new-star-fox-so-theyre-making-their--6b7348",
@@ -109,7 +173,11 @@
     "publishedAt": "2026-06-27T14:00:00.000Z",
     "fetchedAt": "2026-06-27T16:22:03.185Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_f13e94982ebee258e47fa7ae66350ed6270118d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Indie developers are creating their own Star Fox game because Nintendo hasn't released a new entry in the beloved franchise in years. Fans are channeling nostalgia for the classic late-'90s space shooter into homemade alternatives.",
+    "whoInvolved": "Independent game developers and Star Fox fans frustrated with Nintendo's lack of new releases in the series.",
+    "whyMatters": "This reflects how beloved gaming franchises can languish without new official entries, creating an opening for passionate fan communities to fill the gap. It highlights both the enduring appeal of classic games and indie developers' ability to meet demand when major publishers don't.",
+    "enhanced": true
   },
   {
     "id": "why-is-apple-asking-me-to-pay-more-for-big-techs-ai-obsession-e06142",
@@ -122,7 +190,11 @@
     "publishedAt": "2026-06-27T13:30:00.000Z",
     "fetchedAt": "2026-06-27T16:22:03.185Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Apple is raising prices across its product lineup, including a $300 increase on the 16-inch MacBook Pro and hikes on the iPad Air and HomePod Mini. CEO Tim Cook is framing these increases as unavoidable and necessary.",
+    "whoInvolved": "Apple and CEO Tim Cook are driving the price increases across multiple product categories.",
+    "whyMatters": "Consumers are being asked to pay more for devices as tech companies invest heavily in AI capabilities and infrastructure. This reflects broader industry pressure to fund the AI arms race, potentially pricing out budget-conscious buyers and raising questions about whether these upgrades justify the cost.",
+    "enhanced": true
   },
   {
     "id": "the-guardian8217s-kai-wright-refuses-to-buy-a-new-phone-04694b",
@@ -135,7 +207,11 @@
     "publishedAt": "2026-06-27T15:15:00.000Z",
     "fetchedAt": "2026-06-27T15:24:56.910Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/KAI-FNL-0089-EV3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Kai Wright, co-host of Stateside with Kai and Carter at The Guardian, is refusing to buy a new phone. The decision highlights a stance against unnecessary consumer electronics upgrades.",
+    "whoInvolved": "Kai Wright, a long-time audio journalist and host at The Guardian who has also produced shows including Notes From America and The United States of Anxiety.",
+    "whyMatters": "Wright's choice reflects growing consumer resistance to constant tech upgrades and planned obsolescence in the smartphone industry. It raises questions about sustainability, consumerism, and the durability of modern devices.",
+    "enhanced": true
   },
   {
     "id": "inside-the-room-where-the-smart-home-industry-is-still-betting-on-matter-9976fb",
@@ -148,7 +224,11 @@
     "publishedAt": "2026-06-27T13:00:00.000Z",
     "fetchedAt": "2026-06-27T13:17:22.828Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Unify-3E1A1400.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "The smart home industry is still doubling down on Matter, the interoperability standard launched four years ago in Amsterdam. Despite early promises, the industry continues betting on this open-standard solution to solve fragmentation problems.",
+    "whoInvolved": "Multiple smart home companies and industry players are backing Matter as the unified standard for device compatibility.",
+    "whyMatters": "Matter represents a critical attempt to break down silos in the smart home market where competing platforms have historically locked users into proprietary ecosystems. If successful, it could finally enable seamless device interoperability across brands; if it fails, consumers remain trapped in fragmented product ecosystems.",
+    "enhanced": true
   },
   {
     "id": "this-puzzle-game8217s-simple-premise-hides-surprising-depth-e6e111",
@@ -161,7 +241,11 @@
     "publishedAt": "2026-06-27T12:00:00.000Z",
     "fetchedAt": "2026-06-27T13:17:22.828Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "A new puzzle game called What's the Password? is gaining attention for its deceptively simple design. Players solve over 100 puzzles by entering four-digit passwords on a number pad.",
+    "whoInvolved": "Solo developer Dan DiIorio created the game, and The Verge is covering it.",
+    "whyMatters": "The game demonstrates how severe constraints can foster creativity and depth rather than limit it. It showcases the potential for minimalist design to deliver engaging gameplay experiences.",
+    "enhanced": true
   },
   {
     "id": "prime-day-is-almost-over-but-these-are-still-the-best-apple-deals-i8217ve-seen-d387a7",
@@ -174,7 +258,11 @@
     "publishedAt": "2026-06-26T23:41:12.000Z",
     "fetchedAt": "2026-06-27T01:51:48.611Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Amazon's Prime Day is in its final hours with steep discounts still available on Apple products. The Apple Watch Series 11 and AirPods Pro 3 are among the devices hitting their lowest prices.",
+    "whoInvolved": "Amazon, Apple, and consumers shopping for tech deals.",
+    "whyMatters": "This is the last chance for shoppers to grab premium Apple gear at significant discounts before Prime Day ends. These deals represent rare opportunities to save on typically expensive products.",
+    "enhanced": true
   },
   {
     "id": "prime-day8217s-final-hours-bring-rare-discounts-on-philips-hue-smart-lights-034ba0",
@@ -187,7 +275,11 @@
     "publishedAt": "2026-06-27T00:20:50.000Z",
     "fetchedAt": "2026-06-27T01:51:44.402Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips-hue-a19-bulb-spec-up-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Philips Hue smart lights are experiencing rare, significant price cuts during Prime Day's final hours. Discounts are spanning the company's entire product lineup, including starter kits and specialty items.",
+    "whoInvolved": "Amazon (running Prime Day) and Philips Hue are the main players in these deals.",
+    "whyMatters": "Philips Hue products rarely go on sale, making this Prime Day event a genuine opportunity for consumers to purchase premium smart lighting at lower prices. This could drive adoption of the brand among price-conscious buyers who typically avoid its premium pricing.",
+    "enhanced": true
   },
   {
     "id": "the-17-best-robot-vacuum-deals-you-can-still-get-before-prime-day-ends-9fd816",
@@ -200,7 +292,11 @@
     "publishedAt": "2026-06-27T00:42:42.000Z",
     "fetchedAt": "2026-06-27T01:51:39.150Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Roborock-S8-MaxV-Ultra.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Robot vacuum prices are dropping dramatically during Prime Day, with top-tier models like the Roborock S8 MaxV Ultra now selling for over 50% off their original prices. The deals are still available but won't last long as the event winds down.",
+    "whoInvolved": "Roborock (manufacturer of premium robot vacuums) and Amazon (Prime Day retailer) are the main players, with The Verge reporting on the deals.",
+    "whyMatters": "This makes high-quality robot vacuums accessible to budget-conscious consumers who've previously avoided the category due to high costs, potentially expanding the market for smart home cleaning devices.",
+    "enhanced": true
   },
   {
     "id": "anthropic8217s-mythos-5-is-back-0d3dc3",
@@ -213,6 +309,10 @@
     "publishedAt": "2026-06-27T00:33:44.000Z",
     "fetchedAt": "2026-06-27T01:51:39.150Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Anthropic's Mythos 5 is resuming operations after a two-week negotiation with the Trump administration. The AI model is being reactivated for a limited group of organizations.",
+    "whoInvolved": "Anthropic, the Trump administration, and select organizations with access to Mythos 5.",
+    "whyMatters": "This signals a potential resolution to regulatory tensions around advanced AI development and deployment. The selective rollout suggests ongoing government oversight of how powerful AI systems are distributed and used.",
+    "enhanced": true
   }
 ]
