@@ -1,101 +1,110 @@
-import Image from "next/image";
+import Link from 'next/link';
+import { getArticlesByVertical, getAgendaEvents } from '@/lib/content';
+import { VERTICAL_LABELS } from '@/types';
+import { formatRelativeTime } from '@/lib/utils';
+import VerticalPixelArt from '@/components/VerticalPixelArt';
+import AgendaCard from '@/components/AgendaCard';
+import type { Article, Vertical } from '@/types';
 
-export default function Home() {
+const VERTICALS: Vertical[] = ['tecnologia', 'autos', 'peliculas', 'musica'];
+
+function StreamItem({ article }: { article: Article }) {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <div className="py-3 border-b border-gray-100 last:border-0">
+      <Link
+        href={`/${article.vertical}/${article.id}`}
+        className="group block"
+        style={{ color: 'inherit', textDecoration: 'none' }}
+      >
+        <p className="text-xs text-gray-400 mb-0.5 font-medium">
+          {article.source} · {formatRelativeTime(article.publishedAt)}
+        </p>
+        <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors">
+          {article.title}
+        </h3>
+        {article.whatHappening && (
+          <p className="text-xs text-gray-500 mt-0.5 line-clamp-2 leading-relaxed">
+            {article.whatHappening}
+          </p>
+        )}
+      </Link>
+    </div>
+  );
+}
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+function VerticalSection({ vertical }: { vertical: Vertical }) {
+  const articles = getArticlesByVertical(vertical).slice(0, 6);
+  const label = VERTICAL_LABELS[vertical];
+
+  return (
+    <section className="grid grid-cols-1 sm:grid-cols-[152px_1fr] gap-8 py-10 border-b border-gray-200 last:border-0">
+      {/* Left: 8-bit pixel art anchor */}
+      <div className="flex flex-col items-center gap-3">
+        <div className="w-36 h-28 sm:w-36 sm:h-28">
+          <VerticalPixelArt vertical={vertical} />
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        <span className="font-pixel text-brand text-[9px] text-center leading-loose">{label}</span>
+      </div>
+
+      {/* Right: article stream */}
+      <div>
+        <div className="flex items-center justify-between mb-3 pb-2 border-b-2 border-brand">
+          <h2 className="text-lg font-black uppercase tracking-tight text-gray-950">{label}</h2>
+          <Link
+            href={`/${vertical}`}
+            className="text-xs font-bold text-brand hover:text-brand-dark uppercase tracking-wide"
+            style={{ textDecoration: 'none' }}
+          >
+            See all →
+          </Link>
+        </div>
+        {articles.length === 0 ? (
+          <p className="text-gray-400 text-sm py-4">No articles yet. Check back soon.</p>
+        ) : (
+          <div>
+            {articles.map((a) => <StreamItem key={a.id} article={a} />)}
+          </div>
+        )}
+      </div>
+    </section>
+  );
+}
+
+export default function HomePage() {
+  const agendaEvents = getAgendaEvents().slice(0, 3);
+  const hasContent = VERTICALS.some((v) => getArticlesByVertical(v).length > 0);
+
+  return (
+    <div>
+      {!hasContent && (
+        <div className="text-center py-24 text-gray-400">
+          <div className="font-pixel text-brand text-xs mb-6">top3news</div>
+          <p className="font-bold text-gray-600 text-lg mb-2">Loading news...</p>
+          <p className="text-sm">
+            Run <code className="bg-gray-100 text-brand px-2 py-0.5">npm run fetch</code> to populate the site.
+          </p>
+        </div>
+      )}
+
+      {VERTICALS.map((v) => <VerticalSection key={v} vertical={v} />)}
+
+      {agendaEvents.length > 0 && (
+        <section className="pt-10">
+          <div className="flex items-center justify-between mb-4 pb-3 border-b-2 border-amber-500">
+            <h2 className="text-lg font-black uppercase tracking-tight text-gray-950">Cultural Agenda</h2>
+            <Link
+              href="/agenda"
+              className="text-xs font-bold text-amber-600 hover:text-amber-700 uppercase tracking-wide"
+              style={{ textDecoration: 'none' }}
+            >
+              See all →
+            </Link>
+          </div>
+          <div className="divide-y divide-gray-100">
+            {agendaEvents.map((e) => <AgendaCard key={e.id} event={e} />)}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

@@ -9,8 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        brand: {
+          DEFAULT: "#ff5500",
+          dark: "#cc4400",
+          light: "#ff7733",
+          muted: "#fff0e8",
+        },
+      },
+      fontFamily: {
+        pixel: ['"Press Start 2P"', 'monospace'],
       },
     },
   },

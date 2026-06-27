@@ -1,0 +1,89 @@
+name: Publish News
+
+on:
+  schedule:
+    - cron: '0 8 * * *'    # 4am ET (EDT = UTC-4)
+    - cron: '0 15 * * *'   # 11am ET
+    - cron: '0 23 * * *'   # 7pm ET
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch override (morning / midday / evening)'
+        required: false
+        default: 'morning'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine batch
+        id: batch
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "name=${{ github.event.inputs.batch }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(date -u +%H | sed 's/^0//')
+            if [ "$HOUR" -ge 7 ] && [ "$HOUR" -lt 12 ]; then
+              echo "name=morning" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" -ge 14 ] && [ "$HOUR" -lt 18 ]; then
+              echo "name=midday" >> $GITHUB_OUTPUT
+            else
+              echo "name=evening" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-rss.js ${{ steps.batch.outputs.name }}
+
+      - name: Scrape streaming sites
+        run: node scripts/scrape-movies.js
+        continue-on-error: true
+
+      - name: Fetch Thursday agenda
+        run: node scripts/fetch-agenda.js
+        continue-on-error: true
+
+      - name: Enhance articles with Claude
+        run: node scripts/enhance-articles.js
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git diff --staged --quiet || git commit -m "chore: update content [${{ steps.batch.outputs.name }}] [skip ci]"
+          git push
+
+      - name: Build static site
+        run: npm run build
+        env:
+          GITHUB_ACTIONS: 'true'
+          NEXT_PUBLIC_OWM_KEY: ${{ secrets.OWM_KEY }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          cname: ''
