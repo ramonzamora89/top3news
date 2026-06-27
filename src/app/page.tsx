@@ -5,6 +5,21 @@ import { formatRelativeTime } from '@/lib/utils';
 import VerticalPixelArt from '@/components/VerticalPixelArt';
 import AgendaCard from '@/components/AgendaCard';
 import type { Article, Vertical } from '@/types';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'top3news — What matters today',
+  description: 'The top 3 stories in Autos, Technology, Movies, Music, and Food. Smart Brevity — updated 3× daily from Miami.',
+  openGraph: {
+    title: 'top3news — What matters today',
+    description: 'The top 3 stories in Autos, Technology, Movies, Music, and Food. Updated 3× daily.',
+    url: 'https://top3.news',
+    siteName: 'top3news',
+    images: [{ url: 'https://top3.news/og/tecnologia.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: { card: 'summary_large_image', title: 'top3news — What matters today', description: 'The top 3 stories in Autos, Tech, Movies, Music, and Food.', images: ['https://top3.news/og/tecnologia.png'] },
+};
 
 const VERTICALS: Vertical[] = ['tecnologia', 'autos', 'peliculas', 'musica', 'comida'];
 

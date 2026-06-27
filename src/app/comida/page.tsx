@@ -2,7 +2,19 @@ import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByVertical } from '@/lib/content';
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Food — top3news' };
+export const metadata: Metadata = {
+  title: 'Food — top3news',
+  description: 'The top 3 food and dining stories from Miami today. News from Eater Miami, Digest Miami, and more.',
+  openGraph: {
+    title: 'Food — top3news',
+    description: 'The top 3 food and dining stories from Miami today.',
+    url: 'https://top3.news/comida',
+    siteName: 'top3news',
+    images: [{ url: 'https://top3.news/og/comida.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: { card: 'summary_large_image', title: 'Food — top3news', description: 'The top 3 food and dining stories from Miami today.', images: ['https://top3.news/og/comida.png'] },
+};
 
 export default function ComidaPage() {
   const articles = getArticlesByVertical('comida');

@@ -64,9 +64,31 @@ export default function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   const hasEnhanced = article.whatHappening || article.whoInvolved || article.whyMatters;
+  const articleUrl = `${BASE_URL}/${article.vertical}/${article.id}`;
+  const articleImage = article.imageUrl || `${BASE_URL}/og/${article.vertical}.png`;
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: article.title,
+    description: article.whatHappening ?? article.summary ?? '',
+    url: articleUrl,
+    datePublished: article.publishedAt,
+    image: articleImage,
+    author: { '@type': 'Organization', name: article.source },
+    publisher: {
+      '@type': 'Organization',
+      name: 'top3news',
+      logo: { '@type': 'ImageObject', url: `${BASE_URL}/icon.png` },
+    },
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', '.article-speakable'],
+    },
+  };
 
   return (
     <article className="max-w-2xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="mb-6">
         <Link
           href={`/${vertical}`}
@@ -95,7 +117,7 @@ export default function ArticlePage({ params }: Props) {
         </div>
       )}
 
-      <div className="border-l-4 border-brand pl-5 py-4 mb-8 bg-orange-50">
+      <div className="article-speakable border-l-4 border-brand pl-5 py-4 mb-8 bg-orange-50">
         {hasEnhanced ? (
           <>
             {article.whatHappening && <Section label="What's happening">{article.whatHappening}</Section>}

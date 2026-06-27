@@ -2,7 +2,19 @@ import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByVertical } from '@/lib/content';
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Autos — top3news' };
+export const metadata: Metadata = {
+  title: 'Autos — top3news',
+  description: 'The top 3 auto industry stories today. News from Car and Driver, Autoblog, and Road & Track.',
+  openGraph: {
+    title: 'Autos — top3news',
+    description: 'The top 3 auto industry stories today.',
+    url: 'https://top3.news/autos',
+    siteName: 'top3news',
+    images: [{ url: 'https://top3.news/og/autos.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: { card: 'summary_large_image', title: 'Autos — top3news', description: 'The top 3 auto industry stories today.', images: ['https://top3.news/og/autos.png'] },
+};
 
 export default function AutosPage() {
   const articles = getArticlesByVertical('autos');

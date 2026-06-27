@@ -2,7 +2,19 @@ import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByVertical } from '@/lib/content';
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Movies — top3news' };
+export const metadata: Metadata = {
+  title: 'Movies — top3news',
+  description: 'The top 3 movie and entertainment stories today. News from Variety, Hollywood Reporter, and Screen Rant.',
+  openGraph: {
+    title: 'Movies — top3news',
+    description: 'The top 3 movie and entertainment stories today.',
+    url: 'https://top3.news/peliculas',
+    siteName: 'top3news',
+    images: [{ url: 'https://top3.news/og/peliculas.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: { card: 'summary_large_image', title: 'Movies — top3news', description: 'The top 3 movie and entertainment stories today.', images: ['https://top3.news/og/peliculas.png'] },
+};
 
 export default function PeliculasPage() {
   const articles = getArticlesByVertical('peliculas');

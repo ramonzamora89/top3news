@@ -2,7 +2,19 @@ import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByVertical } from '@/lib/content';
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Technology — top3news' };
+export const metadata: Metadata = {
+  title: 'Technology — top3news',
+  description: 'The top 3 tech stories today. News from The Verge, TechCrunch, and Wired.',
+  openGraph: {
+    title: 'Technology — top3news',
+    description: 'The top 3 tech stories today.',
+    url: 'https://top3.news/tecnologia',
+    siteName: 'top3news',
+    images: [{ url: 'https://top3.news/og/tecnologia.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: { card: 'summary_large_image', title: 'Technology — top3news', description: 'The top 3 tech stories today.', images: ['https://top3.news/og/tecnologia.png'] },
+};
 
 export default function TecnologiaPage() {
   const articles = getArticlesByVertical('tecnologia');
