@@ -103,7 +103,7 @@ function SecondaryCard({ article }: { article: Article }) {
 function CompactCard({ article }: { article: Article }) {
   const href = `/${article.vertical}/${article.id}`;
   const ago = formatRelativeTime(article.publishedAt);
-  const [firstSentence] = splitSummary(article.summary);
+  const preview = article.whatHappening || (() => { const [s] = splitSummary(article.summary); return s; })();
 
   return (
     <article className="group flex gap-4 py-5 border-b border-gray-100">
@@ -119,9 +119,9 @@ function CompactCard({ article }: { article: Article }) {
             {article.title}
           </h2>
         </Link>
-        {firstSentence && (
+        {preview && (
           <p className="text-sm text-gray-500 leading-relaxed line-clamp-2">
-            {truncate(firstSentence, 180)}
+            {truncate(preview, 180)}
           </p>
         )}
         <Link href={href} className="inline-block mt-2 text-xs font-bold text-brand hover:text-brand-dark uppercase tracking-wide">

@@ -40,6 +40,9 @@ function HeroItem({ article, rank }: { article: Article; rank: number }) {
           {article.whatHappening || article.summary}
         </p>
       )}
+      <span className="inline-block mt-2 text-xs font-bold text-brand group-hover:text-brand-dark uppercase tracking-wide">
+        Read more →
+      </span>
     </Link>
   );
 }
@@ -60,6 +63,9 @@ function SecondaryItem({ article, rank }: { article: Article; rank: number }) {
       <h3 className="text-sm font-bold text-gray-900 group-hover:text-brand leading-snug transition-colors pl-7">
         {article.title}
       </h3>
+      <span className="inline-block mt-1 pl-7 text-xs font-bold text-brand group-hover:text-brand-dark">
+        Read →
+      </span>
     </Link>
   );
 }
