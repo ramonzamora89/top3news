@@ -1,12 +1,15 @@
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Privacy Policy — top3news' };
+export const metadata: Metadata = {
+  title: 'Privacy Policy — top3news',
+  robots: { index: false, follow: false },
+};
 
 export default function PrivacyPage() {
   return (
     <div className="max-w-2xl mx-auto py-8">
       <h1 className="text-3xl font-black uppercase tracking-tight text-gray-950 mb-2">Privacy Policy</h1>
-      <p className="text-sm text-gray-400 mb-8">Last updated: June 27, 2026</p>
+      <p className="text-sm text-gray-400 mb-8">Last updated: June 28, 2026</p>
 
       <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
 
@@ -18,14 +21,14 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-lg font-black text-gray-900 mb-2">2. Information We Do Not Collect</h2>
-          <p>We do not collect, store, or process any personally identifiable information (PII) from visitors, including:</p>
+          <p>top3news does not collect, store, or process any personally identifiable information (PII) from visitors, including:</p>
           <ul className="list-disc pl-5 mt-2 space-y-1">
             <li>Names, email addresses, or phone numbers</li>
             <li>Account credentials or passwords</li>
             <li>Payment or financial information</li>
             <li>Location data</li>
-            <li>Cookies for tracking or advertising purposes</li>
           </ul>
+          <p className="mt-2">Note: Third-party services embedded on this site (Google Analytics, Google AdSense) may collect anonymized usage data and use cookies. See Section 4 for details.</p>
         </section>
 
         <section>
@@ -41,7 +44,14 @@ export default function PrivacyPage() {
             <li><strong>GitHub Pages</strong> — for hosting (github.com/privacy)</li>
             <li><strong>Anthropic Claude API</strong> — for AI-generated article summaries (anthropic.com/privacy)</li>
             <li><strong>wttr.in</strong> — for weather data (no user data sent)</li>
+            <li><strong>Google Analytics (GA4)</strong> — to understand site traffic and usage patterns. Google may collect anonymized usage data via cookies. See <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand hover:underline">Google's Privacy Policy</a>. You can opt out via <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" className="text-brand hover:underline">Google Analytics Opt-out</a>.</li>
+            <li><strong>Google AdSense</strong> — to display advertisements on this Site. Google may use cookies to serve ads based on your prior visits to this or other websites. You can opt out of personalized advertising at <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-brand hover:underline">Google Ads Settings</a> or <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer" className="text-brand hover:underline">aboutads.info</a>.</li>
           </ul>
+        </section>
+
+        <section>
+          <h2 className="text-lg font-black text-gray-900 mb-2">4a. Cookies</h2>
+          <p>top3news itself does not set cookies. However, third-party services we use (Google Analytics, Google AdSense) may set cookies on your browser to measure traffic and deliver relevant advertising. By using this Site, you consent to the use of these cookies. You may disable cookies in your browser settings, though some site features may be affected.</p>
         </section>
 
         <section>

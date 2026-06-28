@@ -1,6 +1,9 @@
 import type { Metadata } from 'next';
 
-export const metadata: Metadata = { title: 'Data Deletion — top3news' };
+export const metadata: Metadata = {
+  title: 'Data Deletion — top3news',
+  robots: { index: false, follow: false },
+};
 
 export default function DataDeletionPage() {
   return (
