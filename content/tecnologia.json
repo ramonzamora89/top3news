@@ -1,5 +1,22 @@
 [
   {
+    "id": "chinas-zai-claims-it-can-match-mythos-on-cybersecurity-d1baa5",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-28T21:42:51.000Z",
+    "fetchedAt": "2026-06-28T23:22:31.933Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "China's Zhipu AI released GLM-5.2, an open-weight model that researchers say matches OpenAI's o1 (Mythos) in cybersecurity and bug-finding tasks. The breakthrough narrows China's AI gap in specialized domains despite lagging in general-purpose benchmarks.",
+    "whoInvolved": "Zhipu AI (Z.ai), OpenAI, Anthropic, and independent researchers are the key players.",
+    "whyMatters": "This demonstrates China is closing the capability gap with leading Western AI labs in critical security applications. The development could reshape the geopolitical AI competition and influence which models enterprises adopt for cybersecurity work.",
+    "enhanced": true
+  },
+  {
     "id": "tmds-keyless-bike-lock-is-a-280-solution-to-a-60-problem-260599",
     "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
     "summary": "A $280 bike lock on a $10,000 e-bike. I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain…",
