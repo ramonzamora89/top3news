@@ -28,7 +28,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm'
 
       - name: Install dependencies
@@ -77,7 +77,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/
           git diff --staged --quiet || git commit -m "chore: update content [${{ steps.batch.outputs.name }}] [skip ci]"
-          git push
+          git pull --rebase && git push
 
       - name: Build static site
         run: npm run build

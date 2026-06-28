@@ -2,15 +2,7 @@ name: Post to Twitter/X
 
 on:
   schedule:
-    - cron: '0 11 * * *'   # 7am ET
-    - cron: '0 13 * * *'   # 9am ET
-    - cron: '0 15 * * *'   # 11am ET
     - cron: '0 17 * * *'   # 1pm ET
-    - cron: '0 19 * * *'   # 3pm ET
-    - cron: '0 21 * * *'   # 5pm ET
-    - cron: '0 23 * * *'   # 7pm ET
-    - cron: '0 1 * * *'    # 9pm ET
-    - cron: '0 3 * * *'    # 11pm ET
   workflow_dispatch:
 
 permissions:
@@ -26,7 +18,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm'
 
       - name: Install dependencies
