@@ -32,7 +32,8 @@
     "whatHappening": "Teenage Engineering is rolling out OS 2.5, a major software update for its KO II sampler that adds USB audio connectivity, lo-fi mode with selectable sample rates, sample reverse capability, and an arpeggiator. This is one of the biggest updates yet for the $329 device.",
     "whoInvolved": "Teenage Engineering, the company behind the KO II sampler.",
     "whyMatters": "The update significantly expands the capabilities of an already feature-rich affordable sampler, making it more competitive with pricier alternatives and giving existing owners substantial new creative tools. Frequent substantial updates demonstrate Teenage Engineering's commitment to supporting the device long-term.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "openai-limits-gpt-56-rollout-after-government-request-says-restrictions-shouldnt-e258fb",
