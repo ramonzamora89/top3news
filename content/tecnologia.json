@@ -64,7 +64,8 @@
     "whatHappening": "Apple is seeking a Trump administration exemption to purchase RAM chips from CXMT, a Chinese memory supplier blacklisted by the Pentagon. The move aims to ease supply chain pressure on the tech giant.",
     "whoInvolved": "Apple, the Trump administration, CXMT (Chinese memory manufacturer), and the U.S. Pentagon.",
     "whyMatters": "This reveals tensions between national security concerns and corporate supply chain needs, as CXMT is blacklisted due to alleged ties to China's People's Liberation Army. The outcome could set a precedent for other U.S. companies seeking similar exceptions during heightened U.S.-China trade tensions.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-a-13f6c7",
