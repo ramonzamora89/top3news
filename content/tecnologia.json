@@ -14,7 +14,8 @@
     "whatHappening": "China's Zhipu AI released GLM-5.2, an open-weight model that researchers say matches OpenAI's o1 (Mythos) in cybersecurity and bug-finding tasks. The breakthrough narrows China's AI gap in specialized domains despite lagging in general-purpose benchmarks.",
     "whoInvolved": "Zhipu AI (Z.ai), OpenAI, Anthropic, and independent researchers are the key players.",
     "whyMatters": "This demonstrates China is closing the capability gap with leading Western AI labs in critical security applications. The development could reshape the geopolitical AI competition and influence which models enterprises adopt for cybersecurity work.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "tmds-keyless-bike-lock-is-a-280-solution-to-a-60-problem-260599",
