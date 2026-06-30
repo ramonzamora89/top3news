@@ -13,7 +13,8 @@
     "whatHappening": "Land Rover is recalling 250,857 SUVs due to a potential airbag deployment failure. The defect affects driver-side airbags in the Defender, Discovery, and Range Rover models.",
     "whoInvolved": "Land Rover is conducting the recall across multiple vehicle lines.",
     "whyMatters": "A non-deploying airbag significantly increases injury risk in frontal collisions. Affected owners should contact Land Rover immediately to have their vehicles inspected and repaired.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "mitsubishi-teases-the-return-of-an-iconic-feature-on-the-new-montero-e4badb",
