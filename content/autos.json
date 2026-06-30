@@ -1,5 +1,37 @@
 [
   {
+    "id": "land-rover-recalls-250857-suvs-over-potential-airbag-issue-e81563",
+    "title": "Land Rover Recalls 250,857 SUVs over Potential Airbag Issue",
+    "summary": "The Land Rover Defender, Discovery, and Range Rover are all being recalled because the driver's airbag may not deploy as intended.",
+    "url": "https://www.caranddriver.com/news/a71772477/land-rover-defender-discovery-range-rover-driver-airbag-recall/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-06-29T18:58:00.000Z",
+    "fetchedAt": "2026-06-30T09:15:03.418Z",
+    "lang": "en",
+    "whatHappening": "Land Rover is recalling 250,857 SUVs due to a potential airbag deployment failure. The defect affects driver-side airbags in the Defender, Discovery, and Range Rover models.",
+    "whoInvolved": "Land Rover is conducting the recall across multiple vehicle lines.",
+    "whyMatters": "A non-deploying airbag significantly increases injury risk in frontal collisions. Affected owners should contact Land Rover immediately to have their vehicles inspected and repaired.",
+    "enhanced": true
+  },
+  {
+    "id": "mitsubishi-teases-the-return-of-an-iconic-feature-on-the-new-montero-e4badb",
+    "title": "Mitsubishi Teases the Return of an Iconic Feature on the New Montero",
+    "summary": "The Montero—or Pajero, depending on where you live—will debut in Asia later this year and launch in North America closer to 2030.",
+    "url": "https://www.caranddriver.com/news/a71770022/mitsubishi-montero-iconic-gauges-teased/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-06-29T15:27:00.000Z",
+    "fetchedAt": "2026-06-30T09:15:03.418Z",
+    "lang": "en",
+    "whatHappening": "Mitsubishi is bringing back an iconic feature on the redesigned Montero SUV. The new model will debut in Asia later this year with a North American launch expected around 2030.",
+    "whoInvolved": "Mitsubishi Motors is leading the Montero's revival.",
+    "whyMatters": "The Montero's return signals Mitsubishi's commitment to reviving a legendary nameplate that has been absent from markets. This move could help the automaker compete in the competitive SUV segment and reconnect with nostalgic consumers who remember the original model's off-road capabilities.",
+    "enhanced": true
+  },
+  {
     "id": "jaguar-xj220-and-xj220-c-reimagined-as-modern-masterpieces-b3e4e7",
     "title": "Jaguar XJ220 and XJ220-C Reimagined as Modern Masterpieces",
     "summary": "Legendary designer Ian Callum, the brain behind nearly 20 years of Jaguar design, revealed his reinterpretation of the iconic XJ220.",
@@ -449,22 +481,6 @@
     "whatHappening": "Porsche is introducing a simulated gear-shifting system in its 2027 Taycan electric vehicle that mimics traditional engine sounds and rev-limiting behavior. The feature creates a virtual manual transmission experience for drivers despite the car being fully electric.",
     "whoInvolved": "Porsche is developing this technology for the next-generation Taycan EV.",
     "whyMatters": "This addresses EV buyers' nostalgia for traditional driving experiences while Porsche maintains performance credentials in an increasingly electric lineup. It demonstrates how automakers are blending heritage driving dynamics with modern electric powertrains to appeal to enthusiasts.",
-    "enhanced": true
-  },
-  {
-    "id": "feds-want-to-drop-requirement-for-autonomous-cars-to-have-a-brake-pedal-c9ea12",
-    "title": "Feds Want to Drop Requirement for Autonomous Cars to Have a Brake Pedal",
-    "summary": "Braking distance regulations would stick around, but the physical pedals would no longer be required for cars designed to be exclusively autonomous.",
-    "url": "https://www.caranddriver.com/news/a71746274/federal-standards-drop-brake-pedal-requirement-driverless-cars/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T19:01:00.000Z",
-    "fetchedAt": "2026-06-27T01:51:38.848Z",
-    "lang": "en",
-    "whatHappening": "Federal regulators are moving to eliminate the requirement for autonomous vehicles to have physical brake pedals. Cars designed to operate without human drivers would still need to meet braking distance safety standards, just without the mechanical pedal.",
-    "whoInvolved": "The federal government's transportation regulators are pushing this change for automakers developing fully autonomous vehicles.",
-    "whyMatters": "This removes a design constraint that could accelerate autonomous vehicle development by allowing manufacturers to optimize cabin space and control systems for driverless operation. It signals regulatory willingness to adapt safety rules for new technology while maintaining actual safety performance standards.",
     "enhanced": true
   }
 ]
