@@ -1,5 +1,21 @@
 [
   {
+    "id": "view-interior-photos-of-the-2027-bmw-x5-hybrid-95a8e5",
+    "title": "View Interior Photos of the 2027 BMW X5 Hybrid",
+    "summary": "See the interior of the 2027 BMW X5 Hybrid, now in its fifth generation.",
+    "url": "https://www.caranddriver.com/photos/g71783044/2027-bmw-x5-hybrid-revealed-interior-gallery/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-06-30T15:31:00.000Z",
+    "fetchedAt": "2026-06-30T15:46:33.624Z",
+    "lang": "en",
+    "whatHappening": "BMW is unveiling interior photos of its redesigned 2027 X5 Hybrid, marking the luxury SUV's entry into its fifth generation. The photos showcase the updated cabin design and features for the new model year.",
+    "whoInvolved": "BMW is the automaker behind the 2027 X5 Hybrid, with coverage from Car and Driver.",
+    "whyMatters": "The fifth-generation X5 Hybrid represents BMW's latest technology and design language in the competitive luxury SUV segment. New interior photos give potential buyers and enthusiasts an early look at what to expect from the refreshed model.",
+    "enhanced": true
+  },
+  {
     "id": "land-rover-recalls-250857-suvs-over-potential-airbag-issue-e81563",
     "title": "Land Rover Recalls 250,857 SUVs over Potential Airbag Issue",
     "summary": "The Land Rover Defender, Discovery, and Range Rover are all being recalled because the driver's airbag may not deploy as intended.",
@@ -466,22 +482,6 @@
     "whatHappening": "Photographer Marc Urbano is experiencing the 24 Hours of Le Mans for the first time, documenting the legendary endurance race through his lens. Ford Racing has given him exclusive access to capture the event.",
     "whoInvolved": "Photographer Marc Urbano and Ford Racing are the main parties involved in this story.",
     "whyMatters": "Le Mans is motorsport's most prestigious endurance race, and a first-timer's perspective offers fresh insights into the event's intensity and spectacle. This access highlights Ford Racing's continued involvement in one of racing's most storied competitions.",
-    "enhanced": true
-  },
-  {
-    "id": "we-drive-porsches-fake-shifting-2027-taycan-dbd35b",
-    "title": "We Drive Porsche's Fake-Shifting 2027 Taycan",
-    "summary": "Ever wanted to hit a virtual rev limiter in your electric Taycan? Now you can.",
-    "url": "https://www.caranddriver.com/reviews/a71741123/2027-porsche-taycan-e-shift-drive/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T19:35:00.000Z",
-    "fetchedAt": "2026-06-27T01:51:38.848Z",
-    "lang": "en",
-    "whatHappening": "Porsche is introducing a simulated gear-shifting system in its 2027 Taycan electric vehicle that mimics traditional engine sounds and rev-limiting behavior. The feature creates a virtual manual transmission experience for drivers despite the car being fully electric.",
-    "whoInvolved": "Porsche is developing this technology for the next-generation Taycan EV.",
-    "whyMatters": "This addresses EV buyers' nostalgia for traditional driving experiences while Porsche maintains performance credentials in an increasingly electric lineup. It demonstrates how automakers are blending heritage driving dynamics with modern electric powertrains to appeal to enthusiasts.",
     "enhanced": true
   }
 ]

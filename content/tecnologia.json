@@ -1,5 +1,22 @@
 [
   {
+    "id": "libby-will-filter-out-ai-content-kind-of-308143",
+    "title": "Libby will filter out AI content, kind of",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week.…",
+    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-06-30T15:30:00.000Z",
+    "fetchedAt": "2026-06-30T15:46:33.747Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Libby, the popular library app owned by OverDrive, is adding filters to help users identify and avoid AI-generated content. The new CEO of OverDrive says AI is a major priority for the company going forward.",
+    "whoInvolved": "OverDrive (Libby's parent company), new CEO Marc DeBevoise, and The Verge's Janko Roettgers reporting.",
+    "whyMatters": "As AI-generated books flood digital libraries, readers increasingly want transparency about what they're consuming. This move signals how platforms are grappling with authenticity and user trust in the AI age.",
+    "enhanced": true
+  },
+  {
     "id": "after-a-great-start-dcs-new-cinematic-universe-is-already-slowing-down-3d2bd3",
     "title": "After a great start, DC’s new cinematic universe is already slowing down",
     "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new…",
@@ -492,23 +509,6 @@
     "whatHappening": "Amazon's Prime Day is in its final hours with steep discounts still available on Apple products. The Apple Watch Series 11 and AirPods Pro 3 are among the devices hitting their lowest prices.",
     "whoInvolved": "Amazon, Apple, and consumers shopping for tech deals.",
     "whyMatters": "This is the last chance for shoppers to grab premium Apple gear at significant discounts before Prime Day ends. These deals represent rare opportunities to save on typically expensive products.",
-    "enhanced": true
-  },
-  {
-    "id": "prime-day8217s-final-hours-bring-rare-discounts-on-philips-hue-smart-lights-034ba0",
-    "title": "Prime Day’s final hours bring rare discounts on Philips Hue smart lights",
-    "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart…",
-    "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T00:20:50.000Z",
-    "fetchedAt": "2026-06-27T01:51:44.402Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips-hue-a19-bulb-spec-up-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Philips Hue smart lights are experiencing rare, significant price cuts during Prime Day's final hours. Discounts are spanning the company's entire product lineup, including starter kits and specialty items.",
-    "whoInvolved": "Amazon (running Prime Day) and Philips Hue are the main players in these deals.",
-    "whyMatters": "Philips Hue products rarely go on sale, making this Prime Day event a genuine opportunity for consumers to purchase premium smart lighting at lower prices. This could drive adoption of the brand among price-conscious buyers who typically avoid its premium pricing.",
     "enhanced": true
   }
 ]
