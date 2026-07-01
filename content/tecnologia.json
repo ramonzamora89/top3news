@@ -1,5 +1,41 @@
 [
   {
+    "id": "range-anxiety-8318fd",
+    "title": "Range anxiety",
+    "summary": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming…",
+    "url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-01T11:00:02.000Z",
+    "fetchedAt": "2026-07-01T11:17:09.083Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268434_Rivian_Factory_ATahlier_0009_3x4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A severe storm system rapidly developed over west central Illinois on April 17th, initially forming as a single powerful supercell before evolving into an extensive squall line of thunderstorms by evening. The system contained a dangerous wall of wind with multiple smaller, fast-developing storm cells embedded within it.",
+    "whoInvolved": "The National Weather Service and local meteorologists tracked the storm's development. The affected region includes west central Illinois and surrounding areas in the path of the severe weather system.",
+    "whyMatters": "Rapid storm development like this poses significant risks to communities in its path, including damaging winds, severe weather, and potential for tornadoes. Understanding how supercells transform into squall lines helps meteorologists improve warning systems and gives residents critical time to seek safety.",
+    "moreContext": "Supercells are among the most dangerous thunderstorm formations, capable of producing large hail, damaging winds, and tornadoes. When supercells organize into squall lines—long bands of intense thunderstorms—they can affect much wider geographic areas and persist for extended periods. The April 17th event demonstrates how atmospheric conditions in spring create favorable environments for rapid storm intensification across the Midwest, a region historically prone to severe weather during this season.",
+    "enhanced": true
+  },
+  {
+    "id": "the-cube-was-a-lie-up-close-with-our-dbrand-companion-cube-before-it-gets-destro-adb351",
+    "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+    "summary": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious…",
+    "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-01T11:00:00.000Z",
+    "fetchedAt": "2026-07-01T11:17:09.083Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-dbrand-companion-cube-sean-hollister-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Dbrand, a phone case and device skin company known for irreverent marketing, has created a Companion Cube product that faces legal destruction. The company is documenting the cube before it gets taken down, in what appears to be another clash with corporate legal teams.",
+    "whoInvolved": "Dbrand is a accessories company famous for snarky marketing and defiant stances against major tech companies' legal threats. The Companion Cube references Valve's Portal franchise, bringing another intellectual property holder into potential conflict with the brand.",
+    "whyMatters": "Dbrand's repeated legal provocations and product survival strategies have made the company a symbol of irreverent tech culture, while also highlighting how smaller companies navigate IP enforcement. This incident continues a pattern that tests the boundaries of corporate legal action and brand loyalty.",
+    "moreContext": "Dbrand previously told Nintendo to \"go fuck yourself\" in response to cease-and-desist letters and successfully pivoted PS5 plate designs when Sony threatened litigation, demonstrating a pattern of antagonistic corporate communication paired with legal workarounds. The company has built a brand identity around mocking tech giants and surviving their legal threats, earning a reputation among consumers who appreciate the defiance. The Companion Cube—a beloved object from Valve's Portal games—likely violates trademark or copyright, making it a deliberate provocation. This latest destruction appears to be Dbrand's documented surrender to legal pressure, or possibly a theatrical marketing stunt consistent with the company's previous tactics.",
+    "enhanced": true
+  },
+  {
     "id": "cleared-by-the-us-derailed-by-the-uk-gettys-shutterstock-merger-falls-apart-cb2345",
     "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
     "summary": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would…",
@@ -10,7 +46,12 @@
     "publishedAt": "2026-07-01T08:41:26.000Z",
     "fetchedAt": "2026-07-01T09:15:59.530Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Getty Images is terminating its $3.7 billion merger with Shutterstock after the UK's Competition and Markets Authority imposed conditions that would require Shutterstock to divest its editorial business. Getty says it won't accept these restrictions, despite receiving approval from US regulators.",
+    "whoInvolved": "Getty Images, a major stock photo and digital media company, and Shutterstock, a competitor in the same space offering both creative assets and editorial imagery. The UK's Competition and Markets Authority (CMA) blocked the deal with conditions, while US regulators had cleared it.",
+    "whyMatters": "The merger's collapse signals how international regulatory scrutiny can kill major tech and media deals even when home-country approval is secured. This likely signals continued consolidation challenges in the creative licensing industry and leaves both companies to pursue separate strategies.",
+    "moreContext": "The CMA expressed concerns that combining Getty's and Shutterstock's editorial image libraries would reduce competition and harm customers, prompting the divestment requirement. The merger had been announced earlier as a significant consolidation in the stock imagery market. US antitrust officials had approved the deal without such conditions, highlighting diverging regulatory approaches between American and British authorities on media industry consolidation. This reflects broader tension between transatlantic regulators on tech and media M&A deals.",
+    "enhanced": true
   },
   {
     "id": "meta-is-adding-ridiculous-8216rate-limits8217-and-a-soft-paywall-to-its-smart-gl-d87d67",
@@ -23,7 +64,12 @@
     "publishedAt": "2026-07-01T00:51:03.000Z",
     "fetchedAt": "2026-07-01T09:15:59.530Z",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en"
+    "lang": "en",
+    "whatHappening": "Meta is implementing usage limits on its Ray-Ban smart glasses, capping the Conversation Focus feature at three hours per month before requiring a $19.99 monthly subscription. The company is quietly introducing this soft paywall for hardware users have already purchased.",
+    "whoInvolved": "Meta, the parent company of Facebook and Instagram, is rolling out these restrictions on its Ray-Ban smart glasses, which it developed in partnership with Ray-Ban manufacturer EssilorLuxottica. The move affects existing customers who bought the hardware at full price.",
+    "whyMatters": "This represents Meta's shift toward recurring revenue from hardware sales and signals a new business model where AI features become subscription-gated. The strategy could frustrate early adopters and set a concerning precedent for other tech companies monetizing features on already-purchased devices.",
+    "moreContext": "Meta's Ray-Ban smart glasses launched as a premium product, positioning the Conversation Focus feature—which uses AI to filter and enhance audio during conversations—as a key differentiator. The move comes as Meta increasingly relies on AI subscriptions across its platforms, including potential paywalls for advanced AI features. This follows industry trends where companies like Apple and Microsoft are exploring subscription models for AI capabilities. The 'ridiculous' rate limits on a feature already built into owned hardware highlight growing tension between hardware manufacturers and consumers over software monetization.",
+    "enhanced": true
   },
   {
     "id": "dish-files-for-bankruptcy-but-not-shutting-down-448ba9",
@@ -469,40 +515,6 @@
     "whatHappening": "Indie developers are creating their own Star Fox game because Nintendo hasn't released a new entry in the beloved franchise in years. Fans are channeling nostalgia for the classic late-'90s space shooter into homemade alternatives.",
     "whoInvolved": "Independent game developers and Star Fox fans frustrated with Nintendo's lack of new releases in the series.",
     "whyMatters": "This reflects how beloved gaming franchises can languish without new official entries, creating an opening for passionate fan communities to fill the gap. It highlights both the enduring appeal of classic games and indie developers' ability to meet demand when major publishers don't.",
-    "enhanced": true
-  },
-  {
-    "id": "why-is-apple-asking-me-to-pay-more-for-big-techs-ai-obsession-e06142",
-    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-    "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed…",
-    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T13:30:00.000Z",
-    "fetchedAt": "2026-06-27T16:22:03.185Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Apple is raising prices across its product lineup, including a $300 increase on the 16-inch MacBook Pro and hikes on the iPad Air and HomePod Mini. CEO Tim Cook is framing these increases as unavoidable and necessary.",
-    "whoInvolved": "Apple and CEO Tim Cook are driving the price increases across multiple product categories.",
-    "whyMatters": "Consumers are being asked to pay more for devices as tech companies invest heavily in AI capabilities and infrastructure. This reflects broader industry pressure to fund the AI arms race, potentially pricing out budget-conscious buyers and raising questions about whether these upgrades justify the cost.",
-    "enhanced": true
-  },
-  {
-    "id": "the-guardian8217s-kai-wright-refuses-to-buy-a-new-phone-04694b",
-    "title": "The Guardian’s Kai Wright refuses to buy a new phone",
-    "summary": "That is an objectively dope couch. | Image: Kai Wright Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and…",
-    "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T15:15:00.000Z",
-    "fetchedAt": "2026-06-27T15:24:56.910Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/KAI-FNL-0089-EV3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Kai Wright, co-host of Stateside with Kai and Carter at The Guardian, is refusing to buy a new phone. The decision highlights a stance against unnecessary consumer electronics upgrades.",
-    "whoInvolved": "Kai Wright, a long-time audio journalist and host at The Guardian who has also produced shows including Notes From America and The United States of Anxiety.",
-    "whyMatters": "Wright's choice reflects growing consumer resistance to constant tech upgrades and planned obsolescence in the smartphone industry. It raises questions about sustainability, consumerism, and the durability of modern devices.",
     "enhanced": true
   }
 ]
