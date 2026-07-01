@@ -33,6 +33,12 @@ const BATCH_SIZES = { morning: 2, midday: 1, evening: 1 };
 const MAX_ARTICLES = 30;
 const CONTENT_DIR = path.join(__dirname, '..', 'content');
 
+// URLs excluded because the source RSS summary didn't match the article
+// (e.g. a mismatched excerpt), producing nonsensical enhanced content.
+const EXCLUDED_URLS = new Set([
+  'https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain',
+]);
+
 // ── helpers ──────────────────────────────────────────────────────────────────
 
 function getBatch() {
@@ -177,6 +183,7 @@ async function fetchFeed(feed) {
       lang: feed.lang,
     })).filter((a) => {
       if (!a.title || !a.url) return false;
+      if (EXCLUDED_URLS.has(a.url)) return false;
       if (feed.denyKeywords) {
         const title = a.title.toLowerCase();
         if (feed.denyKeywords.some((kw) => title.includes(kw.toLowerCase()))) return false;
