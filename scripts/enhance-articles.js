@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Calls Claude API to generate structured Smart Brevity content for new articles.
- * Adds: whatHappening, whoInvolved, whyMatters fields.
+ * Adds: whatHappening, whoInvolved, whyMatters, moreContext fields.
  * Skips articles already marked enhanced: true.
  */
 
@@ -22,14 +22,15 @@ Summary: ${article.summary || ''}
 
 Return ONLY valid JSON (no markdown, no code fences) with exactly these fields:
 {
-  "whatHappening": "1-2 punchy sentences describing what is happening right now, present tense",
-  "whoInvolved": "Key people, companies, or organizations involved — 1 sentence",
-  "whyMatters": "Why this matters or what the impact is — 1-2 sentences"
+  "whatHappening": "2-3 punchy sentences describing what is happening right now, present tense",
+  "whoInvolved": "Key people, companies, or organizations involved — 1-2 sentences with relevant background on who they are",
+  "whyMatters": "Why this matters or what the impact is — 2-3 sentences covering short and long-term implications",
+  "moreContext": "3-4 sentences of background context: relevant history, industry trends, prior events, or additional details that help a reader fully understand the story. Be specific and informative, not generic."
 }`;
 
   const msg = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 350,
+    max_tokens: 700,
     messages: [{ role: 'user', content: prompt }],
   });
 
@@ -58,6 +59,7 @@ async function processVertical(vertical) {
       article.whatHappening = result.whatHappening;
       article.whoInvolved = result.whoInvolved;
       article.whyMatters = result.whyMatters;
+      article.moreContext = result.moreContext;
       article.enhanced = true;
       enhanced++;
       // Small delay to avoid rate limits

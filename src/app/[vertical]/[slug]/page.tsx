@@ -132,6 +132,13 @@ export default function ArticlePage({ params }: Props) {
         )}
       </div>
 
+      {article.moreContext && (
+        <div className="mb-8">
+          <p className="text-[10px] font-black text-brand uppercase tracking-widest mb-3">More context</p>
+          <p className="text-base text-gray-700 leading-relaxed">{article.moreContext}</p>
+        </div>
+      )}
+
       <a
         href={article.url}
         target="_blank"

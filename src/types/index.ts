@@ -15,6 +15,7 @@ export interface Article {
   whatHappening?: string;
   whoInvolved?: string;
   whyMatters?: string;
+  moreContext?: string;
   enhanced?: boolean;
 }
 

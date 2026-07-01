@@ -13,7 +13,8 @@ const FEEDS = [
   { id: 'roadandtrack',  name: 'Road & Track',    url: 'https://www.roadandtrack.com/rss/all.xml/', vertical: 'autos', priority: 3, lang: 'en' },
 
   // TECHNOLOGY
-  { id: 'the-verge',   name: 'The Verge',   url: 'https://www.theverge.com/rss/index.xml', vertical: 'tecnologia', priority: 1, lang: 'en' },
+  { id: 'the-verge',   name: 'The Verge',   url: 'https://www.theverge.com/rss/index.xml', vertical: 'tecnologia', priority: 1, lang: 'en',
+    denyKeywords: ['superhero', 'Marvel', 'DC Comics', 'DC Studios', 'box office', 'movie review', 'film review', 'comic book', 'Batman', 'Superman', 'Spider-Man', 'Avengers', 'Justice League'] },
   { id: 'techcrunch',  name: 'TechCrunch',  url: 'https://techcrunch.com/feed/',            vertical: 'tecnologia', priority: 2, lang: 'en' },
   { id: 'wired',       name: 'Wired',       url: 'https://www.wired.com/feed/rss',          vertical: 'tecnologia', priority: 3, lang: 'en' },
 
@@ -174,7 +175,14 @@ async function fetchFeed(feed) {
       fetchedAt: now,
       imageUrl: extractImage(item),
       lang: feed.lang,
-    })).filter((a) => a.title && a.url);
+    })).filter((a) => {
+      if (!a.title || !a.url) return false;
+      if (feed.denyKeywords) {
+        const title = a.title.toLowerCase();
+        if (feed.denyKeywords.some((kw) => title.includes(kw.toLowerCase()))) return false;
+      }
+      return true;
+    });
   } catch (err) {
     console.warn(`⚠ Failed to fetch ${feed.name}: ${err.message}`);
     return [];
