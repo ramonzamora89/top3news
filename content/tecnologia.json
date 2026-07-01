@@ -1,5 +1,23 @@
 [
   {
+    "id": "apples-entry-level-macbook-pro-could-be-up-for-a-redesign-1f3725",
+    "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+    "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The…",
+    "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-01T22:39:43.000Z",
+    "fetchedAt": "2026-07-01T23:28:26.031Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero-251015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Apple is developing a redesigned entry-level MacBook Pro targeted for launch in the first half of 2027. The company is simultaneously testing four new iPad Pro models set to arrive in spring with a focus on internal performance enhancements rather than design overhauls.",
+    "whoInvolved": "Apple is the primary company involved, working on hardware refreshes across its pro-level portable device lineup. Bloomberg is reporting on internal Apple plans based on sources familiar with the company's development roadmap.",
+    "whyMatters": "The MacBook Pro redesign could signal a meaningful refresh cycle for Apple's entry-level pro laptop tier, potentially making professional tools more accessible. These updates reflect Apple's strategy to balance hardware innovation with incremental improvements, affecting purchasing decisions among creative professionals and developers.",
+    "moreContext": "Apple's entry-level MacBook Pro has been a crucial product for attracting students and early-career professionals to its ecosystem. The company typically staggered product refreshes across its hardware lines to maintain consistent revenue streams and manage manufacturing. Recent iPad Pro updates have focused on performance gains and M-series chip upgrades rather than dramatic design changes, suggesting a pattern where Apple refines internals while maintaining familiar form factors. A 2027 timeline indicates Apple is planning products roughly 18+ months in advance, standard practice for major hardware manufacturers coordinating supply chains and component availability.",
+    "enhanced": true
+  },
+  {
     "id": "comcasts-split-could-make-or-break-peacock-da0c80",
     "title": "Comcast’s split could make or break Peacock",
     "summary": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the…",
@@ -500,23 +518,6 @@
     "whatHappening": "Amazon Prime Day is ending today with over 140 active deals across gadgets, TVs, smart home devices, and accessories. Some of the best discounts are already selling out as shoppers rush to grab final bargains.",
     "whoInvolved": "Amazon is running the sale; The Verge is curating and covering the deals.",
     "whyMatters": "This is a key shopping event where consumers can save significantly on tech purchases before inventory runs dry. The rapid sellouts signal strong consumer demand and shrinking windows for deal-hunters to act.",
-    "enhanced": true
-  },
-  {
-    "id": "indie-developers-got-tired-of-waiting-for-a-new-star-fox-so-theyre-making-their--6b7348",
-    "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-    "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat…",
-    "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T14:00:00.000Z",
-    "fetchedAt": "2026-06-27T16:22:03.185Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_f13e94982ebee258e47fa7ae66350ed6270118d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Indie developers are creating their own Star Fox game because Nintendo hasn't released a new entry in the beloved franchise in years. Fans are channeling nostalgia for the classic late-'90s space shooter into homemade alternatives.",
-    "whoInvolved": "Independent game developers and Star Fox fans frustrated with Nintendo's lack of new releases in the series.",
-    "whyMatters": "This reflects how beloved gaming franchises can languish without new official entries, creating an opening for passionate fan communities to fill the gap. It highlights both the enduring appeal of classic games and indie developers' ability to meet demand when major publishers don't.",
     "enhanced": true
   }
 ]
