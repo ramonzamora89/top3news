@@ -1,5 +1,37 @@
 [
   {
+    "id": "the-ornate-bugatti-mistral-blanc-eternel-wears-porcelain-accents-097696",
+    "title": "The Ornate Bugatti Mistral Blanc Éternel Wears Porcelain Accents",
+    "summary": "The Blanc Éternel references the Veyron L'Or Blanc from 2011, featuring porcelain details inside and out and an eye-catching black-and-white paint job.",
+    "url": "https://www.caranddriver.com/news/a71786075/bugatti-mistral-blanc-eternel-details/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-06-30T20:47:00.000Z",
+    "fetchedAt": "2026-07-01T09:15:59.455Z",
+    "lang": "en",
+    "whatHappening": "Bugatti has unveiled the Mistral Blanc Éternel, a luxury hypercar adorned with porcelain accents and a striking black-and-white paint scheme. The vehicle pays homage to the 2011 Veyron L'Or Blanc with its ornate design details both inside and outside.",
+    "whoInvolved": "Bugatti, the ultra-luxury automotive manufacturer, created this special edition model.",
+    "whyMatters": "This release demonstrates Bugatti's commitment to pushing boundaries in automotive design and craftsmanship, blending fine art materials like porcelain into high-performance vehicles. It appeals to ultra-wealthy collectors seeking exclusive, conversation-starting supercars that transcend traditional automotive aesthetics.",
+    "enhanced": true
+  },
+  {
+    "id": "2027-honda-prelude-limited-edition-shimmers-under-the-summer-sun-1704d1",
+    "title": "2027 Honda Prelude Limited Edition Shimmers Under the Summer Sun",
+    "summary": "This special-edition Prelude pairs a brilliant red exterior with a burgundy interior in an uncharacteristically bold look from Honda.",
+    "url": "https://www.caranddriver.com/news/a71781881/2027-honda-prelude-limited-edition-revealed/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-06-30T16:03:00.000Z",
+    "fetchedAt": "2026-07-01T09:15:59.455Z",
+    "lang": "en",
+    "whatHappening": "Honda is unveiling a striking 2027 Prelude Limited Edition that features a brilliant red exterior paired with a burgundy interior. The bold color combination marks an unusually daring aesthetic choice for the Japanese automaker.",
+    "whoInvolved": "Honda Motor Company is releasing this special-edition vehicle.",
+    "whyMatters": "This limited edition signals Honda's willingness to take design risks and appeal to buyers seeking distinctive styling. The bold color pairing could set a new tone for how the brand approaches special editions going forward.",
+    "enhanced": true
+  },
+  {
     "id": "ford-and-lincoln-recall-741195-trucks-and-suvs-that-may-roll-away-0a5dea",
     "title": "Ford and Lincoln Recall 741,195 Trucks and SUVs That May Roll Away",
     "summary": "The recall affects the Ford Expedition, Ford Explorer, Ford F-150, Lincoln Aviator, and Lincoln Navigator.",
@@ -451,38 +483,6 @@
     "whatHappening": "Car and Driver is showcasing a four-seat convertible comparison test from 2001, featuring detailed photos of five popular models from every angle. The visual gallery captures the interior and exterior design of each vehicle.",
     "whoInvolved": "Car and Driver conducted the test featuring Toyota, Ford, Chrysler, Mitsubishi, and Chevrolet convertible models.",
     "whyMatters": "This comparison provides potential buyers with a comprehensive visual reference to evaluate the design, styling, and features of top convertible options in the early 2000s market. The detailed photography helps consumers make informed purchasing decisions among competing models.",
-    "enhanced": true
-  },
-  {
-    "id": "from-the-archive-2001-four-seat-convertible-comparison-test-8c41f9",
-    "title": "From the Archive: 2001 Four-Seat Convertible Comparison Test",
-    "summary": "Chevy Camaro vs. Chrysler Sebring vs. Ford Mustang vs. Mitsubishi Eclipse vs. Toyota Camry Solara.",
-    "url": "https://www.caranddriver.com/reviews/comparison-test/a71682750/2001-four-seat-convertible-archive-comparison-test/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-27T13:01:00.000Z",
-    "fetchedAt": "2026-06-27T13:17:22.740Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver revisits a classic 2001 comparison test of four-seat convertibles, pitting five popular models against each other to determine which deserves the top spot.",
-    "whoInvolved": "Chevrolet, Chrysler, Ford, Mitsubishi, and Toyota competed with their Camaro, Sebring, Mustang, Eclipse, and Camry Solara models respectively.",
-    "whyMatters": "This archival test captures a pivotal moment in the convertible market when American muscle cars competed directly with Japanese imports. It provides historical context for how these iconic nameplates have evolved over two decades.",
-    "enhanced": true
-  },
-  {
-    "id": "view-exterior-photos-of-the-2026-tesla-model-y-4749e2",
-    "title": "View Exterior Photos of the 2026 Tesla Model Y",
-    "summary": "See the exterior of the 2026 Tesla Model Y from every angle.",
-    "url": "https://www.caranddriver.com/photos/g71664593/2026-tesla-model-y-test-exterior-gallery/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T18:13:00.000Z",
-    "fetchedAt": "2026-06-27T01:51:48.511Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver is showcasing exclusive exterior photos of Tesla's upcoming 2026 Model Y. The images provide a comprehensive 360-degree view of the vehicle's redesigned styling.",
-    "whoInvolved": "Tesla and Car and Driver are the key players in this automotive reveal.",
-    "whyMatters": "The 2026 Model Y refresh signals Tesla's continued evolution of its best-selling vehicle and gives potential buyers their first look at the next generation's design direction. This preview builds anticipation ahead of the official launch.",
     "enhanced": true
   }
 ]
