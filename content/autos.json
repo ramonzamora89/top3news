@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026-mercedes-amg-sl63-s-e-performance-test-sound-and-fury-7211c5",
+    "title": "2026 Mercedes-AMG SL63 S E Performance Test: Sound and Fury",
+    "summary": "The SL63 S E Performance's potent plug-in hybrid powertrain generates some serious numbers, at a cost.",
+    "url": "https://www.caranddriver.com/reviews/a71769437/2026-mercedes-amg-sl63-s-e-performance-test/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-01T13:52:00.000Z",
+    "fetchedAt": "2026-07-01T15:51:17.756Z",
+    "lang": "en",
+    "whatHappening": "Mercedes-AMG has unveiled the 2026 SL63 S E Performance, a plug-in hybrid roadster that delivers impressive performance metrics through its advanced powertrain. Car and Driver has tested the vehicle and found it generates serious power numbers, though at a premium cost.",
+    "whoInvolved": "Mercedes-AMG, the high-performance division of Mercedes-Benz, engineered this model as part of the luxury automaker's shift toward electrified performance vehicles. Car and Driver, a leading automotive publication, conducted the evaluation and assessment.",
+    "whyMatters": "This represents Mercedes-AMG's strategy to maintain performance credentials while meeting increasingly stringent emissions regulations through hybridization. The model signals how luxury automakers are balancing raw power delivery with environmental compliance, a trend that will define the next generation of high-end vehicles.",
+    "moreContext": "Mercedes-AMG has progressively electrified its lineup over recent years, adding plug-in hybrid options to flagship models to reduce emissions without sacrificing driving dynamics. The SL roadster has been a cornerstone of Mercedes' sports car portfolio for decades, and this latest generation reflects the industry-wide pivot toward hybrid and electric powertrains. Competitors like BMW and Porsche have similarly introduced high-powered plug-in hybrids in their premium segments. The SL63 S E Performance variant represents the top-tier offering in the refreshed SL lineup, combining traditional engine performance with electric motor assistance.",
+    "enhanced": true
+  },
+  {
     "id": "2027-lamborghini-urus-se-performante-ups-the-ante-on-hybrid-power-9dabc7",
     "title": "2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power",
     "summary": "The Performante name returns, now with an 801-hp plug-in hybrid powertrain, new air suspension, and copious carbon fiber.",
@@ -472,22 +489,6 @@
     "whatHappening": "Morgan is launching the Midsummer, a six-cylinder limited-run coupe with only nine units available for sale. This marks an exclusive new offering from the British automaker.",
     "whoInvolved": "Morgan Motor Company is behind this vehicle release.",
     "whyMatters": "The extreme scarcity—just nine cars—makes this a highly coveted collector's piece for enthusiasts willing to pay premium prices. It showcases Morgan's commitment to hand-crafted, limited-production vehicles that command attention in the luxury automotive market.",
-    "enhanced": true
-  },
-  {
-    "id": "frrom-the-archive-2001-toyota-camry-solara-trd-tested-6df590",
-    "title": "Frrom the Archive: 2001 Toyota Camry Solara TRD Tested",
-    "summary": "Supercharged and lowered, it's a much quicker ride to the golf course.",
-    "url": "https://www.caranddriver.com/reviews/a71732269/2001-toyota-camry-solara-trd-archive-test/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-27T12:58:00.000Z",
-    "fetchedAt": "2026-06-27T16:22:03.059Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver revisits a modified 2001 Toyota Camry Solara TRD that's been supercharged and lowered for enhanced performance. The upgrades transform the vehicle into a significantly quicker ride.",
-    "whoInvolved": "Car and Driver tested the modified Toyota Camry Solara TRD.",
-    "whyMatters": "The archive piece showcases how aftermarket modifications can dramatically improve a sedan's performance capabilities. It highlights the tuning potential of early 2000s Toyota models for enthusiasts seeking to enhance their vehicles.",
     "enhanced": true
   }
 ]
