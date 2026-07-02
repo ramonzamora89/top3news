@@ -1,5 +1,22 @@
 [
   {
+    "id": "right-now-you-can-buy-a-polestar-4-for-less-than-a-new-chevy-bolt-5acec2",
+    "title": "Right Now You Can Buy a Polestar 4 for Less Than a New Chevy Bolt",
+    "summary": "Last week's U.S. sales ban spurred a fire sale on the remaining Polestar 3 and 4 inventory—and you won't believe the deals.",
+    "url": "https://www.caranddriver.com/news/a71809463/polestar-3-4-models-huge-discounts/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-02T19:29:00.000Z",
+    "fetchedAt": "2026-07-02T23:23:43.045Z",
+    "lang": "en",
+    "whatHappening": "Polestar is slashing prices on remaining Polestar 3 and 4 inventory in the U.S., making them cheaper than a new Chevy Bolt. The fire sale was triggered by last week's U.S. sales ban on the vehicles.",
+    "whoInvolved": "Polestar, the Swedish electric vehicle brand owned by Volvo and Geely, is conducting the clearance. Chevrolet's Bolt serves as the price comparison benchmark in the EV market.",
+    "whyMatters": "These deals represent a rare opportunity for EV buyers to access premium Polestar models at significantly reduced prices. The clearance could accelerate Polestar's market exit or restructuring in the U.S., potentially affecting the brand's long-term presence and credibility with consumers.",
+    "moreContext": "The U.S. sales ban on Polestar vehicles represents a significant regulatory or trade action that forced the company to liquidate its remaining North American inventory quickly. Polestar had been positioning itself as a premium EV alternative to Tesla and traditional luxury brands. The Chevy Bolt has become a benchmark for affordable EV pricing, making it a notable comparison point. This fire sale highlights the vulnerability of smaller EV manufacturers to sudden policy changes and market disruptions in the competitive electric vehicle landscape.",
+    "enhanced": true
+  },
+  {
     "id": "trump-refuses-to-renew-usmca-heres-what-that-means-for-autos-25f30d",
     "title": "Trump Refuses to Renew USMCA: Here's What That Means for Autos",
     "summary": "The trade agreement still has 10 years left, but the president's refusal to extend the deal puts the automotive sector in jeopardy.",
@@ -479,22 +496,6 @@
     "whatHappening": "Le Mans Hypercars are switching to rear-wheel-drive-only regulations starting in 2030. This significant rule change will eliminate the complex all-wheel drive hybrid systems currently dominating top-tier sports car racing.",
     "whoInvolved": "Le Mans organizers and FIA (Fédération Internationale de l'Automobile), along with major hypercar manufacturers competing in the series.",
     "whyMatters": "The RWD-only mandate will make hypercar racing more accessible to manufacturers by reducing technological complexity and costs, while potentially sacrificing some performance innovation. This democratization could attract new competitors and strengthen the long-term health of the series.",
-    "enhanced": true
-  },
-  {
-    "id": "when-your-car-lease-is-over-what-should-you-do-next-59181a",
-    "title": "When Your Car Lease Is Over, What Should You Do Next?",
-    "summary": "Should you buy your car at lease end, or start a new relationship with a new vehicle? In this time of higher prices and scarcity, it's important to think it through.",
-    "url": "https://www.caranddriver.com/news/a39799387/car-lease-ends-next-steps/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-27T16:35:00.000Z",
-    "fetchedAt": "2026-06-27T16:56:28.305Z",
-    "lang": "en",
-    "whatHappening": "Drivers are facing a critical decision as their car leases end during a period of elevated vehicle prices and limited inventory. They must choose between purchasing their leased vehicle or starting fresh with a new one.",
-    "whoInvolved": "Car lessees and the automotive industry, including dealers and manufacturers managing end-of-lease vehicles.",
-    "whyMatters": "In today's expensive and competitive auto market, making the wrong choice at lease end could cost thousands of dollars or leave drivers stuck with unfavorable options. The decision requires careful financial and practical consideration given current market conditions.",
     "enhanced": true
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "tesla-driver-faces-manslaughter-charges-over-texas-crash-that-killed-a-woman-ins-642646",
+    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+    "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving…",
+    "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-02T22:09:33.000Z",
+    "fetchedAt": "2026-07-02T23:23:43.102Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A Tesla driver in Texas is facing manslaughter charges after his vehicle struck and killed a woman inside her home last month. 44-year-old Michael Butler was arrested Wednesday and claimed to have been driving the vehicle at the time of the incident.",
+    "whoInvolved": "Michael Butler, a 44-year-old Tesla driver, was arrested in connection with the crash. An unidentified woman died inside her Texas home when Butler's Tesla struck the residence.",
+    "whyMatters": "The case raises critical questions about autonomous vehicle safety, driver responsibility, and whether Tesla's autopilot or driver assistance features may have contributed to the deadly collision. It could set precedent for how manslaughter charges are applied in incidents involving advanced driver-assistance systems and potentially impact liability frameworks for both manufacturers and drivers.",
+    "moreContext": "The incident occurred last month when a Tesla vehicle crashed through a home, killing a woman inside. The case has drawn attention from major news outlets including The Wall Street Journal and local Houston news station KHOU 11. This incident adds to growing scrutiny of Tesla vehicles in accident investigations, particularly regarding the company's autopilot and Full Self-Driving features. The circumstances surrounding whether automation played a role in the crash remain part of the investigation.",
+    "enhanced": true
+  },
+  {
     "id": "godoxs-feature-packed-key-light-is-down-to-its-best-price-yet-c15fe9",
     "title": "Godox’s feature-packed key light is down to its best price yet",
     "summary": "If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and color temperature. Right now, it’s cheaper than usual for…",
@@ -507,23 +525,6 @@
     "whatHappening": "Asian AI startups are launching models with capabilities comparable to Anthropic's offerings, capitalizing on uncertainty around U.S. export restrictions. These new models aim to fill the market gap created by regulatory concerns.",
     "whoInvolved": "Asian AI startups, Anthropic, and U.S. AI labs.",
     "whyMatters": "The export ban risk is driving talent and market share away from American AI companies to international competitors. U.S. AI labs risk losing dominance in the massive Asian market to homegrown alternatives.",
-    "enhanced": true
-  },
-  {
-    "id": "24-prime-day-deals-verge-readers-are-grabbing-before-prime-day-ends-8c6b4f",
-    "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
-    "summary": "The tiny Xteink X4 reader is proving surprisingly popular. There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendations are only one way to…",
-    "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T02:33:54.000Z",
-    "fetchedAt": "2026-06-27T16:56:28.840Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "The Verge is highlighting 24 Prime Day deals that readers are actively purchasing before the sale ends. The Xteink X4 reader is emerging as a surprising customer favorite among the available offers.",
-    "whoInvolved": "The Verge editorial team and Amazon Prime Day shoppers are the primary parties involved.",
-    "whyMatters": "With Prime Day's overwhelming deal volume, curated recommendations from trusted reviewers help consumers make informed purchasing decisions. This article cuts through the noise by featuring only products The Verge has tested and endorsed, saving readers time and money during the sales event.",
     "enhanced": true
   }
 ]
