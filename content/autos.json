@@ -1,5 +1,22 @@
 [
   {
+    "id": "trump-refuses-to-renew-usmca-heres-what-that-means-for-autos-25f30d",
+    "title": "Trump Refuses to Renew USMCA: Here's What That Means for Autos",
+    "summary": "The trade agreement still has 10 years left, but the president's refusal to extend the deal puts the automotive sector in jeopardy.",
+    "url": "https://www.caranddriver.com/news/a71806511/trump-refuses-usmca-renewal-what-that-means/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-02T15:38:00.000Z",
+    "fetchedAt": "2026-07-02T15:43:31.688Z",
+    "lang": "en",
+    "whatHappening": "President Trump is refusing to renew the USMCA (United States-Mexico-Canada Agreement), the trade deal governing North American commerce. This decision creates uncertainty for the automotive sector despite the agreement having 10 years remaining on its current term.",
+    "whoInvolved": "Trump and his administration are making the trade policy decision. The automotive industry—including major manufacturers and suppliers operating across the U.S., Mexico, and Canada—faces direct consequences from any changes to the trade framework that governs their operations.",
+    "whyMatters": "The automotive sector relies heavily on cross-border supply chains under USMCA's favorable terms, and uncertainty about renewal could disrupt manufacturing, increase costs, and trigger investment pullbacks. A collapse or renegotiation of the deal could threaten jobs and competitiveness across North America in the short term, with long-term implications for vehicle pricing and availability for consumers.",
+    "moreContext": "The USMCA replaced NAFTA in 2020 and includes provisions specifically designed for automotive trade, such as rules of origin requirements and labor standards. The automotive industry has already faced supply chain pressures from pandemic disruptions and the semiconductor shortage, making additional trade uncertainty particularly precarious. Mexico has become a critical manufacturing hub for U.S. automakers, producing millions of vehicles annually and serving as a major source of auto parts. Trump's refusal to commit to renewal signals potential renegotiation, tariffs, or more restrictive trade policies that could reshape how North American auto production operates.",
+    "enhanced": true
+  },
+  {
     "id": "tuxmats-custom-fit-floor-mats-are-engineered-to-elevate-your-interior-7b83c2",
     "title": "TuxMat’s Custom-Fit Floor Mats Are Engineered to Elevate Your Interior",
     "summary": "Precision fit, three-layer construction, and the kind of detail most floor mats overlook.",
@@ -478,22 +495,6 @@
     "whatHappening": "Drivers are facing a critical decision as their car leases end during a period of elevated vehicle prices and limited inventory. They must choose between purchasing their leased vehicle or starting fresh with a new one.",
     "whoInvolved": "Car lessees and the automotive industry, including dealers and manufacturers managing end-of-lease vehicles.",
     "whyMatters": "In today's expensive and competitive auto market, making the wrong choice at lease end could cost thousands of dollars or leave drivers stuck with unfavorable options. The decision requires careful financial and practical consideration given current market conditions.",
-    "enhanced": true
-  },
-  {
-    "id": "pearley-a-lot-to-love-about-nascars-weekend-at-naval-base-coronado-but-it-could--39b8e2",
-    "title": "Pearley: A Lot to Love About NASCAR's Weekend at Naval Base Coronado. But It Could Be Better.",
-    "summary": "NASCAR in Coronado reminds me of Formula 5000 in Long Beach 50 years ago.",
-    "url": "https://www.roadandtrack.com/car-culture/a71746796/nascars-naval-base-coronado-much-to-love/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T22:56:00.000Z",
-    "fetchedAt": "2026-06-27T16:56:28.706Z",
-    "lang": "en",
-    "whatHappening": "NASCAR is racing at Naval Base Coronado for a weekend event. The unique venue offers nostalgic appeal but has room for improvement.",
-    "whoInvolved": "NASCAR and the venue at Naval Base Coronado.",
-    "whyMatters": "The event harks back to historic racing moments like Formula 5000 in Long Beach decades ago, signaling NASCAR's willingness to experiment with unconventional venues. However, execution gaps suggest the series needs to refine how it stages such events to maximize their potential.",
     "enhanced": true
   }
 ]

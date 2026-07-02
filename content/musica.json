@@ -1,5 +1,22 @@
 [
   {
+    "id": "eurovision-welcomes-canada-to-participate-in-2027-song-contest-f5d773",
+    "title": "Eurovision Welcomes Canada to Participate in 2027 Song Contest",
+    "summary": "North American country to join Australia and Israel as non-European competitors",
+    "url": "https://www.rollingstone.com/music/music-news/eurovision-2027-canada-1235588059/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-02T14:21:10.000Z",
+    "fetchedAt": "2026-07-02T15:43:31.878Z",
+    "lang": "en",
+    "whatHappening": "Canada has been officially invited to compete in the Eurovision Song Contest for the first time, joining the 2027 competition. The North American nation will become only the third non-European country to participate in the annual international music event.",
+    "whoInvolved": "The European Broadcasting Union (EBU), which organizes Eurovision, extended the invitation to Canada. Canada joins Australia and Israel as the only non-European nations permitted to compete in the contest, which traditionally features European countries.",
+    "whyMatters": "Canada's inclusion marks a significant geographic expansion for Eurovision, potentially opening doors for other North American nations to participate in future contests. The move could boost viewership and engagement in North America while diversifying the competition's traditionally European-focused participant base.",
+    "moreContext": "Eurovision, established in 1956, has historically been limited to European countries and their broadcaster members. Australia first participated in 2015 as a special guest for the contest's 60th anniversary and has competed regularly since then. Israel has been a long-standing competitor since 1973. Canada's entry represents the EBU's strategic effort to globalize the contest and expand its cultural and commercial reach beyond Europe's borders.",
+    "enhanced": true
+  },
+  {
     "id": "lil-wayne-apologizes-after-failing-to-appear-at-his-own-concert-im-so-sorry-5bb5b5",
     "title": "Lil Wayne Apologizes After Failing to Appear at His Own Concert: ‘I’m So Sorry’",
     "summary": "The rapper was a no-show at his 20 Years of Carter Classics stop in Maine",
@@ -480,22 +497,6 @@
     "whatHappening": "Empress Of is releasing a new album called Dream House led by the single \"Wild Storm.\" The project confronts the devastation from the Altadena fires that destroyed her home.",
     "whoInvolved": "Empress Of (artist) and Pitchfork (reporting).",
     "whyMatters": "The album represents a personal artistic response to a major natural disaster and loss, transforming grief into creative work. It reflects how artists process trauma through their craft.",
-    "enhanced": true
-  },
-  {
-    "id": "vanilla-ices-concert-at-freedom-250-canceled-due-to-weather-2f2919",
-    "title": "Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather",
-    "summary": "\"Ice Ice Baby\" rapper, one of the last music artists standing at the ill-fated Great American State Fair, has gig canceled Friday after inclement weather hits Washington, D.C.",
-    "url": "https://www.rollingstone.com/music/music-news/vanilla-ice-concert-freedom-250-canceled-weather-1235585451/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-06-27T16:34:05.000Z",
-    "fetchedAt": "2026-06-27T16:56:29.291Z",
-    "lang": "en",
-    "whatHappening": "Vanilla Ice's concert at Freedom 250 in Washington, D.C. has been canceled due to inclement weather. The Friday night performance won't happen as planned.",
-    "whoInvolved": "Vanilla Ice, the '90s rap icon behind 'Ice Ice Baby,' was scheduled to perform at the Great American State Fair's Freedom 250 event.",
-    "whyMatters": "The cancellation marks another setback for the already troubled Great American State Fair, which has seen multiple artists drop out. The weather-related postponement highlights operational challenges facing the event.",
     "enhanced": true
   }
 ]
