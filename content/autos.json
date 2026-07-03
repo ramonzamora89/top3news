@@ -1,5 +1,39 @@
 [
   {
+    "id": "audi-says-markets-are-too-different-for-a-global-car-to-work-6cd3b2",
+    "title": "Audi Says Markets Are Too Different for a 'Global Car' to Work",
+    "summary": "Audi and AUDI, its Chinese spinoff brand, are heading in different directions to remain competitive across contrasting market trends.",
+    "url": "https://www.caranddriver.com/news/a71809100/audi-says-global-car-cant-work/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-02T19:19:00.000Z",
+    "fetchedAt": "2026-07-03T09:09:33.153Z",
+    "lang": "en",
+    "whatHappening": "Audi is abandoning the concept of a single global car platform, instead tailoring vehicles separately for different regional markets. The German automaker and its Chinese spinoff brand AUDI are diverging strategies to stay competitive in their distinct automotive landscapes.",
+    "whoInvolved": "Audi, the German luxury car manufacturer owned by Volkswagen Group, is splitting focus between its core European and global operations and AUDI, a standalone Chinese brand designed specifically for that market's unique demands and consumer preferences.",
+    "whyMatters": "This shift signals a major strategic pivot away from the cost-saving model of global platforms that automakers have pursued for decades. The move reflects how fragmented today's auto markets have become, with China, Europe, and North America each requiring fundamentally different vehicle designs and features to succeed.",
+    "moreContext": "Automakers have traditionally sought to maximize profitability through platform sharing across markets, reducing development costs. However, Chinese consumers increasingly demand locally-tailored features, EV capabilities, and technology integration that differ significantly from Western preferences. China's rapid EV adoption, strong domestic competition, and different regulatory standards have forced global automakers to reconsider the one-size-fits-all approach. Audi's decision follows similar moves by other luxury brands recognizing that regional market divergence now outweighs the economies of scale in global platforms.",
+    "enhanced": true
+  },
+  {
+    "id": "these-are-the-biggest-winners-and-losers-in-auto-sales-in-q2-2026-c75e97",
+    "title": "These Are the Biggest Winners and Losers in Auto Sales in Q2 2026",
+    "summary": "Sedans seem to be making a comeback and Stellantis had a couple of big improvements, while some important Toyotas and Fords struggled.",
+    "url": "https://www.caranddriver.com/news/g71808102/auto-sales-q2-2026-winners-losers/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-02T17:13:00.000Z",
+    "fetchedAt": "2026-07-03T09:09:33.153Z",
+    "lang": "en",
+    "whatHappening": "Sedans are staging an unexpected comeback in Q2 2026 auto sales, bucking years of consumer preference for SUVs and trucks. Stellantis notched significant sales gains while Toyota and Ford faced headwinds with struggling key models.",
+    "whoInvolved": "Stellantis, the multinational automotive manufacturer formed from the 2021 merger of Fiat Chrysler and PSA Group, is capitalizing on market shifts. Toyota and Ford, two of the world's largest automakers with deep roots in sedan manufacturing, are grappling with changing market dynamics.",
+    "whyMatters": "The sedan resurgence could signal a shift in consumer priorities toward fuel efficiency and affordability as gas prices and economic pressures mount. For Stellantis, strong Q2 performance could reshape investor confidence and competitive positioning, while Toyota and Ford's struggles threaten market share in a critical segment they've historically dominated.",
+    "moreContext": "The auto industry has spent the past decade pivoting aggressively toward SUVs and crossovers as consumer preferences shifted and profit margins improved on larger vehicles. However, rising interest rates, inflation concerns, and mixed economic signals in 2026 are prompting buyers to reconsider fuel-efficient sedans as practical alternatives. Stellantis has leveraged its diverse brand portfolio—including Jeep, Ram, and Peugeot—to capture market opportunities across segments, while traditional sedan leaders like Toyota's Camry and Ford's Fusion have faced increased competition from new entrants and overlooked product refreshes.",
+    "enhanced": true
+  },
+  {
     "id": "right-now-you-can-buy-a-polestar-4-for-less-than-a-new-chevy-bolt-5acec2",
     "title": "Right Now You Can Buy a Polestar 4 for Less Than a New Chevy Bolt",
     "summary": "Last week's U.S. sales ban spurred a fire sale on the remaining Polestar 3 and 4 inventory—and you won't believe the deals.",
@@ -465,38 +499,6 @@
     "whatHappening": "Volkswagen's CEO is planning to lay off approximately 100,000 employees and shut down four factories. The restructuring represents a major shift for the German automaker.",
     "whoInvolved": "Volkswagen and its CEO are leading this restructuring effort.",
     "whyMatters": "The layoffs would significantly reshape Volkswagen's workforce and production capacity, affecting thousands of employees and potentially impacting the company's manufacturing footprint. This signals major challenges in the automotive industry, likely tied to the shift toward electric vehicles and changing market demands.",
-    "enhanced": true
-  },
-  {
-    "id": "florida-law-puts-end-to-nascar-founders-great-grandsons-controversial-motorcycle-0088c1",
-    "title": "Florida Law Puts End to NASCAR Founder's Great-Grandson’s Controversial Motorcycle YouTube Channel",
-    "summary": "The channel featured video of motorcycles engaging in stunt riding and traveling at indicated speeds of 150-plus miles an hour.",
-    "url": "https://www.roadandtrack.com/news/a71744023/nascar-founder-great-grandson-florida-super-speeder-law-motorcycle-youtube-channel/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T20:58:00.000Z",
-    "fetchedAt": "2026-06-27T17:19:59.208Z",
-    "lang": "en",
-    "whatHappening": "A Florida law has shut down a controversial motorcycle YouTube channel run by a NASCAR founder's great-grandson. The channel featured extreme stunt riding and footage of bikes traveling over 150 mph.",
-    "whoInvolved": "A descendant of NASCAR's founding family and Florida state lawmakers.",
-    "whyMatters": "The action highlights growing legal pushback against dangerous content on social media platforms. It raises questions about platform accountability and whether family legacy provides immunity from traffic and safety laws.",
-    "enhanced": true
-  },
-  {
-    "id": "2030s-new-rwd-only-rules-for-le-mans-hypercars-are-a-must-for-the-continued-heal-7737c0",
-    "title": "2030's New RWD-Only Rules for Le Mans Hypercars Are a Must for the Continued Health of the Series",
-    "summary": "Top-tier sports car racing is about to be more accessible than ever, something worth the cost of the more innovative all-wheel drive hybrids racing today.",
-    "url": "https://www.roadandtrack.com/news/a71745226/2030-rwd-only-hypercar-24-hours-of-le-mans-rules/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T20:45:00.000Z",
-    "fetchedAt": "2026-06-27T17:19:59.208Z",
-    "lang": "en",
-    "whatHappening": "Le Mans Hypercars are switching to rear-wheel-drive-only regulations starting in 2030. This significant rule change will eliminate the complex all-wheel drive hybrid systems currently dominating top-tier sports car racing.",
-    "whoInvolved": "Le Mans organizers and FIA (Fédération Internationale de l'Automobile), along with major hypercar manufacturers competing in the series.",
-    "whyMatters": "The RWD-only mandate will make hypercar racing more accessible to manufacturers by reducing technological complexity and costs, while potentially sacrificing some performance innovation. This democratization could attract new competitors and strengthen the long-term health of the series.",
     "enhanced": true
   }
 ]
