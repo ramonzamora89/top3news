@@ -1,5 +1,23 @@
 [
   {
+    "id": "while-youre-watching-the-world-cup-the-feds-may-be-watching-you-b82fbb",
+    "title": "While you’re watching the World Cup, the feds may be watching you",
+    "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being…",
+    "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-03T15:00:00.000Z",
+    "fetchedAt": "2026-07-03T15:37:20.245Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS525_MASS_SURVEILLANCE6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Federal agencies are deploying surveillance technology at World Cup venues and host cities across the United States during the tournament. Spectators and residents may be unknowingly subject to facial recognition, data collection, and other monitoring systems.",
+    "whoInvolved": "The federal government, including law enforcement and intelligence agencies, is implementing surveillance infrastructure. The United States is cohosting the 2026 FIFA World Cup alongside Canada and Mexico, making American cities focal points for both the sporting event and security operations.",
+    "whyMatters": "Citizens attending or living in World Cup host cities face privacy risks from warrantless surveillance and data collection without explicit consent. The precedent set during this high-profile event could normalize expanded federal surveillance capabilities that persist long after the tournament ends, affecting civil liberties and public trust in government.",
+    "moreContext": "The U.S. has increasingly deployed facial recognition and surveillance technology at major events and public spaces over the past decade, often without transparent disclosure to the public. The 2026 World Cup coincides with America250 celebrations, marking the nation's semiquincentennial and presenting an opportunity for federal agencies to test and expand monitoring infrastructure. Previous major sporting events have involved surveillance expansions that authorities later justified on security grounds, setting patterns for future deployments.",
+    "enhanced": true
+  },
+  {
     "id": "sonys-playstation-disc-factory-is-already-being-repurposed-aa7b5f",
     "title": "Sony’s PlayStation disc factory is already being repurposed",
     "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs…",
@@ -515,22 +533,6 @@
     "whatHappening": "The Trump administration is releasing Anthropic's Mythos 5 AI model for use by over 100 U.S. companies and government agencies. The authorization extends access to both American and non-American employees within these organizations.",
     "whoInvolved": "Anthropic (AI company), the Trump administration, and 100+ U.S. companies and government agencies.",
     "whyMatters": "This marks a significant expansion of advanced AI access across the private and public sectors, potentially accelerating AI adoption in critical industries and government functions. The decision to include non-American employees suggests a shift in how the administration is managing AI technology access policies.",
-    "enhanced": true
-  },
-  {
-    "id": "ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh-676634",
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "summary": "Mesh came out of stealth in February with a $50 million Series A.",
-    "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-    "source": "TechCrunch",
-    "sourceId": "techcrunch",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T00:38:34.000Z",
-    "fetchedAt": "2026-06-27T17:31:06.868Z",
-    "lang": "en",
-    "whatHappening": "The FTC has approved Elon Musk's acquisition of Mesh, a startup founded by former SpaceX employees. Mesh emerged from stealth in February with $50 million in Series A funding.",
-    "whoInvolved": "Elon Musk, Mesh (SpaceX alumni startup), and the Federal Trade Commission.",
-    "whyMatters": "The approval clears the way for Musk to expand his portfolio with talent and technology from former SpaceX team members. This acquisition could strengthen capabilities across Musk's companies, though regulatory scrutiny suggests concentration of resources was a consideration.",
     "enhanced": true
   }
 ]
