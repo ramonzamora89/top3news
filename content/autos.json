@@ -1,5 +1,22 @@
 [
   {
+    "id": "ferrari-revives-the-gated-shifter-with-the-new-12cilindri-manuale-7d4c3b",
+    "title": "Ferrari Revives the Gated Shifter with the New 12Cilindri Manuale",
+    "summary": "The 12Cilindri Manuale feels like it has a traditional manual transmission, but there's no physical connection—it's a simulation.",
+    "url": "https://www.caranddriver.com/news/a71785496/2027-ferrari-12cilindri-manuale-revealed/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-03T18:00:00.000Z",
+    "fetchedAt": "2026-07-03T23:22:12.159Z",
+    "lang": "en",
+    "whatHappening": "Ferrari is introducing a simulated manual transmission in its new 12Cilindri Manuale, featuring a traditional gated shifter that creates the tactile experience of a manual without any physical mechanical connection to the engine. The car delivers the mechanical feel and engagement drivers crave while using modern automatic transmission technology underneath.",
+    "whoInvolved": "Ferrari, the iconic Italian luxury automaker known for high-performance sports cars, is behind this innovation. The company has a storied history of manual transmissions but has largely shifted to automatics in recent decades due to performance and efficiency demands.",
+    "whyMatters": "This move signals Ferrari's attempt to preserve the emotional connection drivers have with manual transmissions while acknowledging that modern performance and emissions standards make traditional manuals impractical. For enthusiasts, it offers the last chance to experience gated shifter engagement in a new Ferrari, potentially becoming a highly collectible future classic.",
+    "moreContext": "Manual transmissions have nearly disappeared from high-performance cars as dual-clutch and automatic transmissions outperform them in acceleration and fuel efficiency. Ferrari phased out traditional manuals years ago, but enthusiasts have consistently lamented their loss. This simulated manual approach—similar to video game force-feedback controllers—allows Ferrari to offer nostalgia and engagement without sacrificing the 12Cilindri's modern performance capabilities. The gated shifter, a mechanical component that guides gear selection through defined positions, remains an iconic element of classic Ferrari DNA.",
+    "enhanced": true
+  },
+  {
     "id": "view-photos-of-the-2026-volkswagen-atlas-sel-premium-r-line-cefeb2",
     "title": "View Photos of the 2026 Volkswagen Atlas SEL Premium R-Line",
     "summary": "See the interior and exterior of the 2026 Volkswagen Atlas SEL Premium R-Line from every angle.",
@@ -486,22 +503,6 @@
     "whatHappening": "Luigi Colani is showcasing a collection of fantastical concept cars in a parade that blends artistic vision with automotive engineering. Automorrow '89 demonstrates how far designers will push the boundaries of vehicle aesthetics and functionality.",
     "whoInvolved": "Luigi Colani, a renowned designer, is leading this concept car exhibition covered by Road & Track.",
     "whyMatters": "The event represents a rare intersection of substance and showmanship in automotive design, influencing how manufacturers think about future vehicle concepts. Colani's work pushes creative boundaries and challenges conventional thinking about car design.",
-    "enhanced": true
-  },
-  {
-    "id": "a-resurgent-lewis-hamilton-isnt-thinking-about-the-f1-world-championship-just-ye-37be7b",
-    "title": "A Resurgent Lewis Hamilton Isn’t Thinking About the F1 World Championship Just Yet",
-    "summary": "The Ferrari ace isn’t getting carried away, even after his win in Spain.",
-    "url": "https://www.roadandtrack.com/news/a71746765/resurgent-lewis-hamilton-not-thinking-about-f1-world-championship/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T18:42:00.000Z",
-    "fetchedAt": "2026-06-27T17:31:06.630Z",
-    "lang": "en",
-    "whatHappening": "Lewis Hamilton has won in Spain, showing a resurgence in form with Ferrari. Despite the strong performance, he's maintaining a measured mindset about championship prospects.",
-    "whoInvolved": "Lewis Hamilton and Ferrari are at the center of this story.",
-    "whyMatters": "Hamilton's renewed competitiveness signals Ferrari's growing strength in the F1 season, while his cautious approach suggests the championship battle remains wide open with significant racing ahead.",
     "enhanced": true
   }
 ]

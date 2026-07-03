@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-updated-2023s-fire-hd-10-tablet-with-4gb-of-ram-b84f48",
+    "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+    "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but…",
+    "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-03T17:33:55.000Z",
+    "fetchedAt": "2026-07-03T23:22:12.197Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Amazon has quietly updated its 2023 Fire HD 10 tablet, boosting the RAM from 3GB to 4GB across all storage configurations. The upgrade arrives months after the company released the Fire HD 8 in 2024, marking a subtle refresh to its budget tablet lineup.",
+    "whoInvolved": "Amazon is making the change to its Fire HD 10 tablet, part of the company's budget-focused device portfolio that competes with other affordable tablets in the market. The Verge, a technology news outlet, reported on the under-the-radar update.",
+    "whyMatters": "The RAM increase improves multitasking performance and app responsiveness on a popular budget tablet without a price hike, making it a better value proposition for cost-conscious consumers. This incremental upgrade extends the life of the 2023 model and keeps it competitive as Amazon develops its tablet strategy.",
+    "moreContext": "Amazon's Fire HD 10 debuted in 2023 with 3GB of RAM and multiple storage options. The company's most recent major tablet launch was the Fire HD 8 in 2024, suggesting Amazon is taking a measured approach to updating its budget tablet lineup rather than releasing entirely new models annually. Budget tablets remain a growing category as consumers seek affordable devices for media consumption and basic productivity tasks.",
+    "enhanced": true
+  },
+  {
     "id": "while-youre-watching-the-world-cup-the-feds-may-be-watching-you-b82fbb",
     "title": "While you’re watching the World Cup, the feds may be watching you",
     "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being…",
@@ -518,22 +536,6 @@
     "whatHappening": "Novak Djokovic is joining General Atlantic as a global strategic advisor. The tennis champion is expanding beyond sports into the private equity world.",
     "whoInvolved": "Novak Djokovic, the tennis legend, and General Atlantic, a major private equity firm.",
     "whyMatters": "The move signals Djokovic's pivot toward business and investment after his dominant tennis career. It also represents General Atlantic's strategy to leverage celebrity influence and networks for deal-making and portfolio guidance.",
-    "enhanced": true
-  },
-  {
-    "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a-762c95",
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "source": "TechCrunch",
-    "sourceId": "techcrunch",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T01:01:37.000Z",
-    "fetchedAt": "2026-06-27T17:31:06.868Z",
-    "lang": "en",
-    "whatHappening": "The Trump administration is releasing Anthropic's Mythos 5 AI model for use by over 100 U.S. companies and government agencies. The authorization extends access to both American and non-American employees within these organizations.",
-    "whoInvolved": "Anthropic (AI company), the Trump administration, and 100+ U.S. companies and government agencies.",
-    "whyMatters": "This marks a significant expansion of advanced AI access across the private and public sectors, potentially accelerating AI adoption in critical industries and government functions. The decision to include non-American employees suggests a shift in how the administration is managing AI technology access policies.",
     "enhanced": true
   }
 ]
