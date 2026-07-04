@@ -1,5 +1,22 @@
 [
   {
+    "id": "drivers-parade-returns-to-f1-grid-with-smaller-faster-lego-race-cars-5da798",
+    "title": "Drivers' Parade Returns to F1 Grid with Smaller, Faster Lego Race Cars",
+    "summary": "The new Lego F1 minicars are smaller than last year and made with fewer bricks, but their top speed is now a blazing 15 mph.",
+    "url": "https://www.caranddriver.com/news/a71818864/f1-silverstone-race-drivable-lego-cars/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-04T18:00:00.000Z",
+    "fetchedAt": "2026-07-04T23:20:05.666Z",
+    "lang": "en",
+    "whatHappening": "Formula 1's iconic drivers' parade is returning to the grid, but this time featuring miniature Lego race cars instead of full-size vehicles. The new Lego F1 cars are smaller and more efficient than last year's version, constructed with fewer bricks while achieving an impressive top speed of 15 mph.",
+    "whoInvolved": "Formula 1 and Lego have partnered to create this novelty attraction for the sport's pre-race festivities. Both companies are global leaders in their respective fields—F1 is motorsport's premier racing series, while Lego is the world's largest toy manufacturer by revenue.",
+    "whyMatters": "This innovation brings a playful, accessible element to F1's traditional pageantry, potentially engaging younger audiences and families who might not otherwise connect with the sport. The engineering achievement of making faster, more efficient Lego vehicles demonstrates continued innovation in the partnership and could inspire interest in both racing and construction toys.",
+    "moreContext": "The drivers' parade is a long-standing F1 tradition where competitors wave to fans before each race. Last year's iteration featured Lego F1 minicars, establishing this year's redesign as part of an ongoing collaboration. The new vehicles represent an engineering improvement despite using fewer bricks, suggesting Lego designers optimized weight distribution and aerodynamics. This continues the trend of F1 embracing entertainment elements alongside competitive racing to broaden its appeal.",
+    "enhanced": true
+  },
+  {
     "id": "this-1975-chevy-caprice-classic-convertible-on-bring-a-trailer-got-a-late-start--6f5773",
     "title": "This 1975 Chevy Caprice Classic Convertible on Bring a Trailer Got a Late Start in Life",
     "summary": "First titled in 2021, it has 951 miles.",
@@ -491,22 +508,5 @@
     "whoInvolved": "Ian Callum, the designer responsible for modern Jaguar vehicles, is the central figure in this design unveiling.",
     "whyMatters": "This reimagining signals continued interest in reviving Jaguar's most celebrated performance vehicles and shows how legendary designers are reinterpreting automotive icons for contemporary audiences. It reflects the ongoing conversation about blending classic design heritage with modern automotive aesthetics.",
     "enhanced": true
-  },
-  {
-    "id": "how-to-buy-or-lease-a-new-car-e6b1df",
-    "title": "How to Buy or Lease a New Car",
-    "summary": "We walk through the steps a smart car buyer should take to remove intimidation from the process and end up with the best deal on the right new car.",
-    "url": "https://www.caranddriver.com/shopping-advice/a35768730/how-to-lease-buy-new-car/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-27T18:20:00.000Z",
-    "fetchedAt": "2026-06-27T18:42:57.545Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver is breaking down the intimidating car buying and leasing process into manageable steps. The guide aims to help consumers navigate dealership negotiations and secure the best possible deal.",
-    "whoInvolved": "Car and Driver provides the guidance; the audience is prospective car buyers and lessees.",
-    "whyMatters": "Most people find car buying stressful and complex, often resulting in overpaying or making poor decisions. A clear roadmap empowers consumers to approach dealerships with confidence and save money.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
