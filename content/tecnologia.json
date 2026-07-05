@@ -15,7 +15,8 @@
     "whoInvolved": "NASA is collaborating with Katalyst Space Technologies, which is testing a new orbital servicing technology called Link designed to rescue and reboost aging satellites. The Swift Observatory, launched by NASA in 2004, is the spacecraft in danger.",
     "whyMatters": "Losing Swift would eliminate a critical tool for detecting and studying gamma-ray bursts and other high-energy cosmic phenomena that advance astrophysics research. The mission also represents a test case for in-orbit satellite servicing, a capability essential for extending the life of expensive space assets and reducing orbital debris.",
     "moreContext": "Swift has been operational for nearly two decades, far exceeding its original mission timeline. Increased solar activity during the current solar maximum has expanded Earth's atmosphere, creating drag that has pushed the satellite into a lower, deteriorating orbit. In-orbit servicing missions are still a nascent technology, making this rescue attempt significant for demonstrating whether spacecraft can be repositioned without decommissioning. The mission exemplifies growing efforts to address the space sustainability challenge as more satellites accumulate in orbit.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "flatbush-zombies-erick-the-architect-misses-his-blackberry-keyboard-81221a",
