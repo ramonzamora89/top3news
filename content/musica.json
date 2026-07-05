@@ -1,5 +1,22 @@
 [
   {
+    "id": "paul-mccartney-played-beatles-classic-for-first-time-since-1964-at-taylor-swifts-10b33b",
+    "title": "Paul McCartney Played Beatles Classic for First Time Since 1964 at Taylor Swift’s Wedding",
+    "summary": "Sixty-two years after the Beatles last performed \"I Want to Hold Your Hand,\" McCartney played the song for the first time as a solo artist at Madison Square Garden reception",
+    "url": "https://www.rollingstone.com/music/music-news/paul-mccartney-i-want-to-hold-your-hand-taylor-swift-wedding-1235589257/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-05T13:48:39.000Z",
+    "fetchedAt": "2026-07-05T15:25:13.692Z",
+    "lang": "en",
+    "whatHappening": "Paul McCartney performed \"I Want to Hold Your Hand\" at Taylor Swift's wedding reception at Madison Square Garden, marking the first time he's played the Beatles classic as a solo artist since the band's final performance of it in 1964. The intimate performance at one of music's biggest venues created a rare moment bringing together three generations of pop music royalty.",
+    "whoInvolved": "Paul McCartney, the surviving co-leader of The Beatles, one of history's most influential bands. Taylor Swift, one of the world's biggest contemporary pop stars, whose wedding at MSG was the setting for this musical moment.",
+    "whyMatters": "The performance reconnects McCartney with one of The Beatles' most iconic hits in a deeply personal context, 62 years after the original band last played it live. It symbolizes continuity in pop music legacy, with Swift—known for her own meticulous re-recording projects and musical reverence—as the bridge between eras.",
+    "moreContext": "\"I Want to Hold Your Hand\" was a cornerstone of Beatlemania when released in 1963 and became the band's first major U.S. hit. McCartney has performed countless Beatles songs over his six-decade solo career, but this marked a significant moment given the song's historical weight and the notable venue and occasion. Taylor Swift has a documented appreciation for music history and legacy artists, having collaborated with and honored musicians across generations. MSG holds particular significance as a venue associated with iconic Beatles performances and major pop culture moments.",
+    "enhanced": true
+  },
+  {
     "id": "beyonce-delivers-fourth-of-july-fireworks-with-surprise-new-song-morning-dew-don-82ba4a",
     "title": "Beyoncé Delivers Fourth of July Fireworks With Surprise New Song ‘Morning Dew (Donk)’",
     "summary": "The track, written by the singer, Pharrell Williams, The-Dream, and Darius Dixon, will appear on an upcoming 20th anniversary reissue of Beyoncé's B'Day, out on Beyoncé's birthday (September 4)",
@@ -494,24 +511,5 @@
     "whoInvolved": "The B-52s, specifically frontman Fred Schneider, and The C Trop Music Festival promoters in France.",
     "whyMatters": "The last-minute cancellation likely saved attendees from potential injury or death during the severe weather event. The incident raises questions about festival safety protocols and whether warnings were communicated adequately to the public.",
     "enhanced": true
-  },
-  {
-    "id": "mick-jagger-praises-geese-for-being-very-experimental-and-rosalia-for-her-concep-02c0c7",
-    "title": "Mick Jagger praises Geese for being “very experimental” and Rosalía for her “conceptual” album ‘Lux’",
-    "summary": "He also added that \"loads\" of modern music is \"rubbish\" The post Mick Jagger praises Geese for being “very experimental” and Rosalía for her “conceptual” album ‘Lux’ appeared first on NME.",
-    "url": "https://www.nme.com/news/music/mick-jagger-praises-geese-for-being-very-experimental-and-rosalia-for-her-conceptual-album-lux-3953717?utm_source=rss&utm_medium=rss&utm_campaign=mick-jagger-praises-geese-for-being-very-experimental-and-rosalia-for-her-conceptual-album-lux",
-    "source": "NME",
-    "sourceId": "nme",
-    "vertical": "musica",
-    "publishedAt": "2026-06-28T08:46:45.000Z",
-    "fetchedAt": "2026-06-28T09:09:46.428Z",
-    "imageUrl": "https://www.nme.com/wp-content/uploads/2026/06/Mick-Jagger.-CREDIT_-Gary-Miller_Getty-Images.jpg",
-    "lang": "en",
-    "whatHappening": "Mick Jagger is praising experimental modern artists Geese and Rosalía while simultaneously criticizing much of today's music as subpar. The Rolling Stones legend singled out Rosalía's album 'Lux' for its conceptual approach.",
-    "whoInvolved": "Mick Jagger, the band Geese, and artist Rosalía are at the center of these comments.",
-    "whyMatters": "Jagger's endorsement carries weight in the music industry, potentially boosting visibility for emerging artists while his broader critique of modern music reflects ongoing generational debates about artistic quality. This provides insight into what legacy rock icons value in contemporary music.",
-    "enhanced": true,
-    "fbPosted": true,
-    "twitterPosted": true
   }
 ]

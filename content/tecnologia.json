@@ -1,5 +1,23 @@
 [
   {
+    "id": "infuriating-google-commercial-imagines-the-founding-fathers-embracing-ai-ba040a",
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-05T14:23:11.000Z",
+    "fetchedAt": "2026-07-05T15:25:13.314Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Google has released a new Workspace commercial that imagines the U.S. Founding Fathers collaborating using Google's productivity tools in 1776. The ad has drawn criticism for being cringeworthy and tone-deaf in its attempt to connect historical figures with modern AI technology.",
+    "whoInvolved": "Google, the tech giant behind Workspace (its suite of productivity and collaboration tools), created the ad. The Verge, a major tech news publication, is covering the backlash to the campaign.",
+    "whyMatters": "The commercial highlights the ongoing trend of tech companies using nostalgia and humor to market AI and collaboration software to consumers and businesses. The critical reception signals growing consumer skepticism about corporate attempts to normalize AI through forced historical analogies and cringey marketing tactics.",
+    "moreContext": "Tech companies have increasingly leaned on celebrity endorsements and creative advertising to demystify AI tools and drive adoption. Google Workspace competes directly with Microsoft Teams and other collaboration platforms in a crowded market. The ad's premise—framing historical collaboration through a modern tech lens—reflects Silicon Valley's broader tendency to retrofit contemporary technology onto historical narratives. This campaign comes as AI adoption remains mixed, with many consumers expressing fatigue over aggressive tech marketing and AI hype.",
+    "enhanced": true
+  },
+  {
     "id": "white-house-deletes-thousands-of-web-pages-about-energy-conservation-as-heatwave-5efcea",
     "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
     "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain…",
@@ -530,24 +548,6 @@
     "whatHappening": "TMD is launching a $280 keyless bike lock that aims to justify its premium price point in a market saturated with cheaper alternatives. The smart lock company, which built its reputation securing ATMs for banks, is betting it can convince cyclists that added features warrant the steep cost.",
     "whoInvolved": "TMD, a company with experience in bank ATM security systems, is the key player introducing this high-end bike lock solution.",
     "whyMatters": "The smart bike lock market has struggled to convince consumers that digital features justify costs far exceeding traditional locks. If TMD succeeds, it could reshape how cyclists think about security and spark a shift toward premium connected bike locks.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "teenage-engineering-adds-lo-fi-mode-usb-audio-and-more-to-its-ko-ii-sampler-98e6d8",
-    "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-    "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length…",
-    "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-27T21:20:32.000Z",
-    "fetchedAt": "2026-06-28T09:09:45.565Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Teenage Engineering is rolling out OS 2.5, a major software update for its KO II sampler that adds USB audio connectivity, lo-fi mode with selectable sample rates, sample reverse capability, and an arpeggiator. This is one of the biggest updates yet for the $329 device.",
-    "whoInvolved": "Teenage Engineering, the company behind the KO II sampler.",
-    "whyMatters": "The update significantly expands the capabilities of an already feature-rich affordable sampler, making it more competitive with pricier alternatives and giving existing owners substantial new creative tools. Frequent substantial updates demonstrate Teenage Engineering's commitment to supporting the device long-term.",
     "enhanced": true,
     "fbPosted": true
   }
