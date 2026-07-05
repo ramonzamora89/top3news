@@ -1,5 +1,39 @@
 [
   {
+    "id": "the-toyota-4runners-defining-feature-isnt-four-wheel-drive-a75647",
+    "title": "The Toyota 4Runner's Defining Feature Isn't Four-Wheel Drive",
+    "summary": "The 4Runner's lore is built on off-road adventure, sure. But it's also about that power window in the liftgate.",
+    "url": "https://www.caranddriver.com/features/a71796832/toyota-4runner-defining-feature/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-04T16:00:00.000Z",
+    "fetchedAt": "2026-07-05T09:07:06.102Z",
+    "lang": "en",
+    "whatHappening": "Car and Driver argues that the Toyota 4Runner's cultural identity extends far beyond its legendary off-road capabilities. The vehicle's defining characteristic is actually the power window in its liftgate—a seemingly minor feature that has become iconic to the SUV's legacy.",
+    "whoInvolved": "Toyota manufactures the 4Runner, one of the longest-running SUV nameplates in automotive history. Car and Driver is a leading automotive publication that analyzes vehicles through both performance and cultural lenses.",
+    "whyMatters": "This perspective reframes how consumers and enthusiasts think about vehicle identity and brand heritage. It highlights how seemingly small design details can become more memorable and meaningful than headline specifications, influencing purchasing decisions and brand loyalty.",
+    "moreContext": "The 4Runner has been in production since 1984 and built a reputation as a rugged, adventure-capable SUV that could handle extreme terrain and conditions. Over decades, the power liftgate window became a practical feature that owners valued for convenience during off-road trips and daily use. The vehicle's cultural cachet derives not just from capability specs but from the accumulated small details and lived experiences of its owners, making it emblematic of how automotive legacy is constructed through both engineering and mythology.",
+    "enhanced": true
+  },
+  {
+    "id": "fords-30000-electric-truck-comes-into-focus-in-new-spy-photos-c041ad",
+    "title": "Ford's $30,000 Electric Truck Comes into Focus in New Spy Photos",
+    "summary": "We're still wondering what the future pickup-like EV will be called, but the name Ranchero feels like a real possibility.",
+    "url": "https://www.caranddriver.com/news/a71809222/2028-ford-ranchero-ev-truck-spy-photos/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-04T16:00:00.000Z",
+    "fetchedAt": "2026-07-05T09:07:06.102Z",
+    "lang": "en",
+    "whatHappening": "Ford's upcoming affordable electric truck is taking shape, with new spy photos revealing design details of the highly anticipated $30,000 EV. The automaker hasn't officially confirmed the vehicle's name, though internal speculation suggests it could be called the Ranchero, reviving a classic nameplate.",
+    "whoInvolved": "Ford is developing this electric pickup as part of its broader EV strategy to compete in the mass-market segment. The company has been aggressively investing in electric vehicles to challenge Tesla's dominance and meet changing consumer demand.",
+    "whyMatters": "A $30,000 electric truck could democratize EV ownership by making electric pickups accessible to mainstream buyers, a critical market segment in the U.S. This move positions Ford to capture price-conscious consumers who've been priced out of premium EV offerings, potentially reshaping the affordable truck market.",
+    "moreContext": "Ford has committed billions to EV development, already launching the Mustang Mach-E and F-150 Lightning. The auto industry is racing to offer affordable electric vehicles as battery costs decline and competition intensifies. The Ranchero name—originally used for a car-truck hybrid produced from 1959 to 1979—would signal Ford's intention to create a unique vehicle category rather than a direct F-150 rival. Pricing this model at $30,000 would undercut most current EV competitors and address the industry's push toward making electrification economically viable for average buyers.",
+    "enhanced": true
+  },
+  {
     "id": "drivers-parade-returns-to-f1-grid-with-smaller-faster-lego-race-cars-5da798",
     "title": "Drivers' Parade Returns to F1 Grid with Smaller, Faster Lego Race Cars",
     "summary": "The new Lego F1 minicars are smaller than last year and made with fewer bricks, but their top speed is now a blazing 15 mph.",
@@ -477,37 +511,5 @@
     "whyMatters": "Russell's pole-position lap demonstrates precise execution under pressure and potentially gives Mercedes a crucial advantage heading into the race. The contrast with Antonelli's approach highlights the fine margins that separate success from failure in elite motorsport qualifying.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "mazda-was-forced-to-change-the-miata-because-it-was-too-noisy-d3f9d6",
-    "title": "Mazda Was Forced to Change the Miata Because It Was ... Too Noisy?",
-    "summary": "You wouldn’t expect the tiny roadster to break noise requirements, and yet, the issue apparently arose.",
-    "url": "https://www.roadandtrack.com/news/a71744170/mazda-forced-to-change-miata-because-it-was-too-noisy/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T15:57:00.000Z",
-    "fetchedAt": "2026-06-27T20:23:00.975Z",
-    "lang": "en",
-    "whatHappening": "Mazda had to redesign the Miata roadster because it was exceeding noise regulations. The tiny sports car's engine was apparently too loud to meet legal requirements.",
-    "whoInvolved": "Mazda is addressing regulatory compliance issues with its iconic Miata model.",
-    "whyMatters": "This reveals how even small, lightweight vehicles must comply with increasingly strict environmental and noise standards. It highlights the engineering challenges automakers face in meeting global regulations without compromising performance character.",
-    "enhanced": true
-  },
-  {
-    "id": "ian-callum-has-a-vision-of-a-reimagined-jaguar-xj220-c99f64",
-    "title": "Ian Callum Has a Vision of a Reimagined Jaguar XJ220",
-    "summary": "The legendary designer behind modern Jaguars has unveiled a striking new take on the iconic supercar.",
-    "url": "https://www.roadandtrack.com/news/a71743053/ian-callum-new-jaguar-xj220/",
-    "source": "Road & Track",
-    "sourceId": "roadandtrack",
-    "vertical": "autos",
-    "publishedAt": "2026-06-26T15:03:00.000Z",
-    "fetchedAt": "2026-06-27T20:23:00.975Z",
-    "lang": "en",
-    "whatHappening": "Ian Callum, the legendary Jaguar designer, has revealed a reimagined vision of the iconic XJ220 supercar. His modern take presents a striking design update to the classic model.",
-    "whoInvolved": "Ian Callum, the designer responsible for modern Jaguar vehicles, is the central figure in this design unveiling.",
-    "whyMatters": "This reimagining signals continued interest in reviving Jaguar's most celebrated performance vehicles and shows how legendary designers are reinterpreting automotive icons for contemporary audiences. It reflects the ongoing conversation about blending classic design heritage with modern automotive aesthetics.",
-    "enhanced": true
   }
 ]
