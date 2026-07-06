@@ -1,5 +1,22 @@
 [
   {
+    "id": "cadillac-vistiqs-recalled-for-possibly-dangerous-power-folding-third-row-6bd7c3",
+    "title": "Cadillac Vistiqs Recalled for Possibly Dangerous Power-Folding Third Row",
+    "summary": "Following Hyundai's second- and third-row recall earlier this year, GM tested the fold function on the Vistiq and found a similar issue.",
+    "url": "https://www.caranddriver.com/news/a71834296/cadillac-vistiq-power-third-row-recall/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-06T15:46:00.000Z",
+    "fetchedAt": "2026-07-06T16:06:29.357Z",
+    "lang": "en",
+    "whatHappening": "General Motors is recalling Cadillac Vistiqs due to a potentially dangerous malfunction in the power-folding third-row seat mechanism. GM discovered the issue during testing and found it mirrors a similar problem that prompted Hyundai to recall vehicles earlier this year.",
+    "whoInvolved": "General Motors and its luxury brand Cadillac are issuing the recall for the Vistiq, their three-row electric crossover. Hyundai previously identified comparable power-folding seat defects in second- and third-row configurations of its own vehicles.",
+    "whyMatters": "The faulty power-folding mechanism poses a safety risk to passengers, potentially causing unexpected seat collapse or entrapment. This recall adds to growing concerns about power seat reliability across the auto industry and could impact consumer confidence in premium electric vehicle features.",
+    "moreContext": "Power-folding seats have become popular convenience features in modern SUVs and crossovers, particularly in premium segments where the Vistiq competes. Hyundai's recall earlier this year flagged similar issues with automated third-row folding systems, prompting other manufacturers like GM to audit their own designs. The Vistiq, launched as Cadillac's answer to three-row electric crossovers, relies heavily on electronic features and automation as selling points. This recall highlights the emerging quality challenges automakers face as they rapidly introduce complex power mechanisms in new electric vehicle platforms.",
+    "enhanced": true
+  },
+  {
     "id": "the-only-cizeta-moroder-v16t-supercar-ever-made-can-now-be-yours-d450f7",
     "title": "The Only Cizeta Moroder V16T Supercar Ever Made Can Now Be Yours",
     "summary": "This crazy 16-cylinder prototype spawned a few production cars, but here's the only one to have music legend Giorgio Moroder's name on the back.",
@@ -499,21 +516,5 @@
     "whyMatters": "This reinterpretation bridges classic automotive heritage with contemporary design sensibilities, potentially influencing how iconic vehicles are reimagined for modern audiences. Callum's vision demonstrates how legendary designs can remain relevant through thoughtful modernization.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "2026-nissan-frontier-celebrates-america-with-free-patriotic-badge-1e0a44",
-    "title": "2026 Nissan Frontier Celebrates America with Free Patriotic Badge",
-    "summary": "Not only is Nissan honoring our country's 250th birthday, but it has also now built 1 million Frontiers at its factory in Canton, Mississippi.",
-    "url": "https://www.caranddriver.com/news/a71770532/2026-nissan-frontier-america-250-badge/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-29T16:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:17:06.211Z",
-    "lang": "en",
-    "whatHappening": "Nissan is giving the 2026 Frontier a free patriotic badge to celebrate America's 250th birthday. The automaker has simultaneously hit a production milestone of 1 million Frontiers at its Canton, Mississippi factory.",
-    "whoInvolved": "Nissan and its Canton, Mississippi manufacturing facility.",
-    "whyMatters": "The milestone demonstrates Nissan's long-term commitment to domestic production and the strength of the Frontier nameplate in the American truck market. The patriotic branding ties the achievement to national pride during a significant anniversary year.",
-    "enhanced": true
   }
 ]

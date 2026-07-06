@@ -1,5 +1,23 @@
 [
   {
+    "id": "i-spy-7f4b0e",
+    "title": "I spy",
+    "summary": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands. I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is…",
+    "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-06T16:00:00.000Z",
+    "fetchedAt": "2026-07-06T16:06:29.599Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A writer is grappling with the ethical implications of smart glasses technology after watching Netflix's A Man on the Inside. They're exploring how these devices create uncomfortable power dynamics around privacy and surveillance.",
+    "whoInvolved": "The Verge, a major technology and culture publication, is examining the intersection of wearable tech and privacy concerns. Netflix's series A Man on the Inside appears to have prompted this reflection on how smart glasses are portrayed versus their real-world implications.",
+    "whyMatters": "Smart glasses are becoming increasingly mainstream consumer products, but their surveillance capabilities raise serious privacy questions that Hollywood often glosses over. The discomfort of holding others' privacy in one's hands signals a growing tension between technological capability and ethical responsibility that will shape how these devices are adopted and regulated.",
+    "moreContext": "Hollywood has long glamorized smart glasses through films and shows, setting unrealistic expectations about their capabilities and social acceptance. Netflix's A Man on the Inside appears to explore surveillance themes that resonated with the author's concerns about real-world privacy implications. The smart glasses market is actively growing with products from major tech companies, making the ethical questions about constant recording and data collection increasingly urgent. The gap between entertainment's portrayal of these devices and their actual social impact remains a critical conversation in tech circles.",
+    "enhanced": true
+  },
+  {
     "id": "mr-lifs-emergency-rations-ep-is-post-911-hip-hop-at-its-most-daring-4263a4",
     "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
     "summary": "First, you drop bombs, then you send aid. Totally logical. | Image: Definitive Jux There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing,…",
@@ -534,24 +552,6 @@
     "whatHappening": "WhatsApp is rolling out usernames, letting people chat without sharing phone numbers. Users can reserve their preferred username now before the feature launches later this year.",
     "whoInvolved": "Meta's WhatsApp is introducing this privacy-focused feature to its messaging platform.",
     "whyMatters": "This change gives users more privacy control and makes it easier to connect with new contacts without exposing personal phone numbers. It represents a shift in how people can discover and communicate on the platform.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-mach-4f985b",
-    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-28T20:27:36.000Z",
-    "fetchedAt": "2026-06-29T09:44:11.019Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Suno is launching Spark, a new incubator program designed to support independent musicians. The initiative offers grants, mentorship, and marketing assistance to help artists develop their craft.",
-    "whoInvolved": "Suno, an AI music generation platform, is spearheading the program for independent artists.",
-    "whyMatters": "The move signals Suno's ambition to evolve beyond being a novelty tool for generating AI music into a legitimate platform for discovering and developing emerging talent. This positions Suno as a potential disruptor in artist development and music discovery, blending AI tools with traditional industry support mechanisms.",
     "enhanced": true,
     "fbPosted": true
   }
