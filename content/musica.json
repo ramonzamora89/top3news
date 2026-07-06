@@ -1,5 +1,39 @@
 [
   {
+    "id": "stevie-nicks-performs-at-taylor-swift-and-travis-kelces-wedding-a7f998",
+    "title": "Stevie Nicks Performs at Taylor Swift and Travis Kelce’s Wedding",
+    "summary": "The Fleetwood Mac singer took the stage at Madison Square Garden following the couple's ceremony on Friday night",
+    "url": "https://www.rollingstone.com/music/music-news/stevie-nicks-performance-taylor-swift-travis-kelce-wedding-1235586080/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-04T12:33:59.000Z",
+    "fetchedAt": "2026-07-06T09:28:44.651Z",
+    "lang": "en",
+    "whatHappening": "Stevie Nicks performed at Taylor Swift and Travis Kelce's wedding reception following their Friday night ceremony. The legendary Fleetwood Mac singer took the stage at Madison Square Garden to entertain the newlyweds and their guests.",
+    "whoInvolved": "Stevie Nicks is an iconic rock vocalist and songwriter best known for her 40+ year career with Fleetwood Mac and as a solo artist. Taylor Swift is a global superstar pop/country musician, while Travis Kelce is an NFL tight end for the Kansas City Chiefs.",
+    "whyMatters": "The high-profile celebrity wedding marks a major moment in pop culture, combining music royalty with sports and entertainment industries. The collaboration between generations of music icons signals Swift and Kelce's wedding as one of the year's most star-studded events, with significant media and social attention.",
+    "moreContext": "Swift and Kelce's relationship became public in September 2023 and has drawn massive media coverage, including frequent appearances together at Chiefs games. Nicks has previously expressed admiration for Swift's songwriting abilities. Madison Square Garden served as the venue for the ceremony and reception, one of New York City's most prestigious locations. This wedding joins a growing trend of celebrities hosting elaborate, celebrity-filled celebrations that generate significant entertainment news coverage.",
+    "enhanced": true
+  },
+  {
+    "id": "surprise-surprise-white-house-tries-to-make-taylor-swifts-wedding-about-trump-ded386",
+    "title": "Surprise, Surprise: White House Tries to Make Taylor Swift’s Wedding About Trump",
+    "summary": "The pop star married Travis Kelce at Madison Square Garden on July 3",
+    "url": "https://www.rollingstone.com/music/music-news/the-white-house-taylor-swift-wedding-trump-meme-msg-1235589159/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-04T12:16:38.000Z",
+    "fetchedAt": "2026-07-06T09:28:44.651Z",
+    "lang": "en",
+    "whatHappening": "Taylor Swift married NFL player Travis Kelce in a high-profile ceremony at Madison Square Garden on July 3. The White House has attempted to connect the wedding to former President Trump in an unexpected political move.",
+    "whoInvolved": "Taylor Swift is a global pop superstar with massive cultural influence and a history of political engagement. Travis Kelce is a Kansas City Chiefs tight end and one of the NFL's biggest stars. The White House represents the current Biden administration.",
+    "whyMatters": "The incident highlights how major celebrity moments become flashpoints in the partisan political landscape, with both sides seeking to claim or weaponize cultural narratives. Swift's cultural power and her previous endorsements make her a target for political narratives. The move risks further deepening divisions over how public figures and their personal milestones are politicized.",
+    "moreContext": "Swift has been politically outspoken in recent years, most notably endorsing Joe Biden in 2020 and speaking against Trump. Her relationship with Kelce, which began in fall 2023, became public in September when she attended Chiefs games and sparked national media coverage. The couple's relationship represents a rare convergence of pop culture and sports celebrity. Political figures from both parties have previously attempted to leverage Swift's image for their narratives, making her a recurring focal point in culture war debates.",
+    "enhanced": true
+  },
+  {
     "id": "its-a-love-story-fans-react-to-taylor-swift-and-travis-kelces-happily-ever-after-c4620a",
     "title": "It’s a Love Story: Fans React to Taylor Swift and Travis Kelce’s Happily Ever After",
     "summary": "\"Love really works in mysterious ways, and today's happy ending genuinely moves me\"",
@@ -482,37 +516,5 @@
     "enhanced": true,
     "twitterPosted": true,
     "fbPosted": true
-  },
-  {
-    "id": "french-montana-max-b-and-rick-ross-perform-at-bet-awards-2026-2f5ffb",
-    "title": "French Montana, Max B, and Rick Ross Perform at BET Awards 2026",
-    "summary": "The trio brought New York and Miami vibes to L.A. with their dual performance",
-    "url": "https://www.rollingstone.com/music/music-news/rick-ross-performance-bet-awards-2026-1235582446/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-06-29T03:15:44.000Z",
-    "fetchedAt": "2026-06-29T09:44:11.218Z",
-    "lang": "en",
-    "whatHappening": "French Montana, Max B, and Rick Ross just took the BET Awards 2026 stage together for a dual performance. The trio blended New York and Miami hip-hop vibes in Los Angeles.",
-    "whoInvolved": "French Montana, Max B, and Rick Ross performed at the BET Awards 2026.",
-    "whyMatters": "The collaboration reunites major figures from East Coast and South Coast rap scenes, delivering a high-profile moment at one of hip-hop's biggest award shows. It signals the continued cultural relevance of these artists and the nostalgic appeal of their regional styles.",
-    "enhanced": true
-  },
-  {
-    "id": "bet-awards-2026-the-complete-winners-list-d5b64f",
-    "title": "BET Awards 2026: The Complete Winners List",
-    "summary": "The full rundown of who won what at Sunday night’s awards ceremony",
-    "url": "https://www.rollingstone.com/music/music-news/bet-awards-2026-complete-winners-list-1235581172/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-06-29T03:10:56.000Z",
-    "fetchedAt": "2026-06-29T09:44:11.218Z",
-    "lang": "en",
-    "whatHappening": "The BET Awards 2026 took place Sunday night with winners crowned across music, television, and entertainment categories. The ceremony celebrated the year's biggest achievements in Black culture and entertainment.",
-    "whoInvolved": "Musicians, actors, and entertainers across hip-hop, R&B, gospel, and television were recognized at the awards show.",
-    "whyMatters": "The BET Awards represent one of the year's most prominent celebrations of Black excellence in entertainment. The winners and performances shape cultural conversations and set industry standards for recognition.",
-    "enhanced": true
   }
 ]
