@@ -1,5 +1,23 @@
 [
   {
+    "id": "discord-accidentally-banned-over-8000-people-for-posting-grids-and-other-8216ben-792136",
+    "title": "Discord accidentally banned over 8,000 people for posting grids and other ‘benign’ images",
+    "summary": "A Reddit users says they were banned on Discord after uploading this picture of a chessboard. | Image: u/Laskof via Reddit Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of…",
+    "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-07T15:02:30.000Z",
+    "fetchedAt": "2026-07-07T15:51:47.238Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Discord has acknowledged a bug in its safety system that incorrectly banned over 8,000 user accounts since May. Users were flagged and removed from the platform for posting innocuous images like chessboards and grids that triggered false positives in the automated moderation system.",
+    "whoInvolved": "Discord, the popular communication platform with tens of millions of users, operates an automated safety system designed to detect and prevent harmful content. The company publicly disclosed the error following complaints from affected users on Reddit and other forums.",
+    "whyMatters": "The mass banning reveals vulnerabilities in Discord's automated moderation that punishes innocent users without human review, potentially eroding trust in the platform's fairness. This raises broader questions about over-reliance on AI moderation systems and the need for better safeguards when automation affects user accounts.",
+    "moreContext": "Discord's safety systems are meant to combat harassment, illegal content, and other violations, but the algorithm apparently struggled to distinguish between benign grid patterns and potentially problematic material. The bug persisted for months before being publicly identified, suggesting the company may not have robust processes for catching and addressing moderation errors. This incident follows industry-wide challenges with content moderation at scale, from major platforms like Meta and Twitter also grappling with balancing automation with accuracy. Discord has not yet detailed a timeline for restoring banned accounts or compensating affected users.",
+    "enhanced": true
+  },
+  {
     "id": "americas-greatest-idea-is-still-under-threat-a8fe98",
     "title": "America’s greatest idea is still under threat",
     "summary": "The Patrouille de France perform a flyover during the Sail4th 250 Tall Ships Parade along the Hudson River in New York on July 4th, 2026. | Photo by John Lamparski/Bloomberg via Getty Images The United States of America recently turned 250 years old. What a spectacle! The…",
@@ -538,24 +556,6 @@
     "whatHappening": "Libby, the popular library app owned by OverDrive, is adding filters to help users identify and avoid AI-generated content. The new CEO of OverDrive says AI is a major priority for the company going forward.",
     "whoInvolved": "OverDrive (Libby's parent company), new CEO Marc DeBevoise, and The Verge's Janko Roettgers reporting.",
     "whyMatters": "As AI-generated books flood digital libraries, readers increasingly want transparency about what they're consuming. This move signals how platforms are grappling with authenticity and user trust in the AI age.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "after-a-great-start-dcs-new-cinematic-universe-is-already-slowing-down-3d2bd3",
-    "title": "After a great start, DC’s new cinematic universe is already slowing down",
-    "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new…",
-    "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-29T21:00:00.000Z",
-    "fetchedAt": "2026-06-30T09:15:03.504Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/rev-1-SGRL-TRL-101_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "DC's newly rebooted cinematic universe is losing momentum after an initial strong start. Warner Bros. Discovery's plans to fast-track a standalone Supergirl film following Superman's surprise ending are raising questions about the studio's strategy.",
-    "whoInvolved": "Warner Bros. Discovery, director James Gunn, and actress Kara Zor-El are central to DC's cinematic universe restructuring.",
-    "whyMatters": "The slowdown signals potential missteps in DC's ambitious plan to rebuild its film franchise after years of underperformance. How the studio manages its roster of superhero projects could determine whether it can compete with Marvel's dominance.",
     "enhanced": true,
     "fbPosted": true
   }

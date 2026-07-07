@@ -1,5 +1,22 @@
 [
   {
+    "id": "duffy-performs-at-secret-london-concert-for-her-first-live-show-in-15-years-a40cef",
+    "title": "Duffy Performs at Secret London Concert for Her First Live Show in 15 Years",
+    "summary": "The Grammy Award-winning vocalist performed a mix of fan favorites and new material",
+    "url": "https://www.rollingstone.com/music/music-news/duffy-performs-secret-london-concert-first-live-show-years-1235590204/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-07T15:31:38.000Z",
+    "fetchedAt": "2026-07-07T15:51:47.448Z",
+    "lang": "en",
+    "whatHappening": "Duffy, the Grammy Award-winning vocalist, performed her first live concert in 15 years at a secret venue in London. The intimate show featured a mix of her biggest hits and previously unheard new material.",
+    "whoInvolved": "Duffy is a Welsh-British singer best known for her 2008 debut album \"Rockferry,\" which spawned the massive hit \"Mercy.\" She won a Grammy Award and largely stepped away from the public eye for over a decade before this surprise performance.",
+    "whyMatters": "The concert marks a significant return for a major artist who had largely disappeared from the music industry, signaling potential plans for new music or a comeback. For fans who've waited 15 years, the performance represents a rare opportunity to see her live and hear fresh material.",
+    "moreContext": "Duffy's last major album release was \"Endlessly\" in 2010, after which she withdrew from performing and public life. In 2020, she revealed on social media that she had been raped and held captive, partially explaining her extended absence from music. This secret London concert comes as artists increasingly use intimate, invitation-only shows to build buzz for comebacks and test new material before wider releases.",
+    "enhanced": true
+  },
+  {
     "id": "fugazi-definitely-did-not-do-a-brand-collab-with-vans-e0b804",
     "title": "Fugazi Definitely Did Not Do a Brand Collab With Vans",
     "summary": "An exec for the shoe company apologized after its collaboration with a streetwear brand, also named Fugazi, was confused for a partnership with the famously anti-consumerist punk band",
@@ -502,23 +519,5 @@
     "whoInvolved": "Jay-Z, Tidal, James Blake, and Blue Ivy Carter (featured on one of the bonus tracks).",
     "whyMatters": "This expands access to previously hard-to-find music for the vast majority of streaming users who don't subscribe to Tidal. It caps a long exclusivity window that lasted several years.",
     "enhanced": true
-  },
-  {
-    "id": "peter-gabriel-recalls-early-eighties-synth-sound-on-new-i-belong-to-the-sky-577972",
-    "title": "Peter Gabriel Recalls Early Eighties Synth Sound on New ‘I Belong to the Sky’",
-    "summary": "Song will appear on artist's upcoming o\\i album",
-    "url": "https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-i-belong-to-the-sky-1235586551/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-06-30T14:38:25.000Z",
-    "fetchedAt": "2026-06-30T15:46:34.108Z",
-    "lang": "en",
-    "whatHappening": "Peter Gabriel is releasing a new song called 'I Belong to the Sky' that draws inspiration from his synth-heavy work in the early 1980s. The track will appear on his upcoming album.",
-    "whoInvolved": "Peter Gabriel, the legendary Genesis frontman and solo artist.",
-    "whyMatters": "This represents Gabriel's return to recording and marks a nostalgic callback to one of his most influential creative periods. The release signals new material from an artist who hasn't been prolific in recent years.",
-    "enhanced": true,
-    "twitterPosted": true,
-    "fbPosted": true
   }
 ]
