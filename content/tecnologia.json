@@ -15,7 +15,8 @@
     "whoInvolved": "Discord, the popular communication platform with tens of millions of users, operates an automated safety system designed to detect and prevent harmful content. The company publicly disclosed the error following complaints from affected users on Reddit and other forums.",
     "whyMatters": "The mass banning reveals vulnerabilities in Discord's automated moderation that punishes innocent users without human review, potentially eroding trust in the platform's fairness. This raises broader questions about over-reliance on AI moderation systems and the need for better safeguards when automation affects user accounts.",
     "moreContext": "Discord's safety systems are meant to combat harassment, illegal content, and other violations, but the algorithm apparently struggled to distinguish between benign grid patterns and potentially problematic material. The bug persisted for months before being publicly identified, suggesting the company may not have robust processes for catching and addressing moderation errors. This incident follows industry-wide challenges with content moderation at scale, from major platforms like Meta and Twitter also grappling with balancing automation with accuracy. Discord has not yet detailed a timeline for restoring banned accounts or compensating affected users.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "americas-greatest-idea-is-still-under-threat-a8fe98",
