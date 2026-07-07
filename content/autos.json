@@ -1,5 +1,22 @@
 [
   {
+    "id": "trumps-latest-pardons-include-diesel-tuners-who-violated-clean-air-act-790315",
+    "title": "Trump's Latest Pardons Include Diesel Tuners Who Violated Clean Air Act",
+    "summary": "Nine people convicted of bypassing emissions controls or selling equipment to do so have had their convictions overturned.",
+    "url": "https://www.caranddriver.com/news/a71858929/trump-diesel-tuners-presidential-pardons/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-07T22:58:00.000Z",
+    "fetchedAt": "2026-07-07T23:19:40.776Z",
+    "lang": "en",
+    "whatHappening": "Trump has pardoned nine people convicted of selling or installing diesel engine tuning devices that bypass emissions controls. The convictions have been overturned, freeing individuals prosecuted under clean air regulations.",
+    "whoInvolved": "The pardoned individuals were convicted under federal environmental laws for modifying diesel engines, primarily pickup trucks, to remove pollution-control systems. Trump's pardon authority allows him to overturn convictions without requiring congressional approval.",
+    "whyMatters": "The pardons signal a rollback of EPA enforcement priorities and weaken deterrents against emissions violations in the diesel aftermarket industry. This could embolden similar modifications and undermine decades of clean air standards while potentially facing legal challenges from environmental groups.",
+    "moreContext": "Diesel tuning has been a persistent enforcement issue, with the EPA and DOJ prosecuting sellers of defeat devices—equipment designed to circumvent emissions standards—since at least the early 2000s. The practice increased visibility after the 2015 Volkswagen dieselgate scandal exposed how manufacturers used software to cheat emissions tests. These tuning modifications increase nitrogen oxide emissions and particulate matter, contributing to respiratory illness and smog. Trump's pardon aligns with his administration's pattern of reducing environmental regulations and reflecting skepticism toward climate and air quality enforcement.",
+    "enhanced": true
+  },
+  {
     "id": "2026-fiat-topolino-1c9de8",
     "title": "2026 Fiat Topolino",
     "summary": "What We Know So Far",
@@ -503,22 +520,5 @@
     "whyMatters": "The bold color combination signals Honda's willingness to take design risks with its iconic Prelude nameplate, potentially appealing to buyers seeking more expressive styling. This departure from Honda's typical restrained aesthetic could influence how the brand positions its sports cars in an increasingly competitive market.",
     "moreContext": "The Prelude, originally produced from 1978-2008, was revived for 2025 as a two-door coupe targeting driving enthusiasts. Special editions and limited runs have become common industry strategies to boost brand perception and command premium pricing. This particular variant demonstrates how manufacturers are experimenting with bolder interior-exterior color pairings as younger consumers seek more personalized, visually distinctive vehicles. The summer reveal timing capitalizes on peak automotive interest and seasonal purchasing patterns.",
     "enhanced": true
-  },
-  {
-    "id": "ford-and-lincoln-recall-741195-trucks-and-suvs-that-may-roll-away-0a5dea",
-    "title": "Ford and Lincoln Recall 741,195 Trucks and SUVs That May Roll Away",
-    "summary": "The recall affects the Ford Expedition, Ford Explorer, Ford F-150, Lincoln Aviator, and Lincoln Navigator.",
-    "url": "https://www.caranddriver.com/news/a71784524/ford-lincoln-truck-suv-rollaway-risk-recall/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-06-30T20:59:00.000Z",
-    "fetchedAt": "2026-06-30T23:27:25.693Z",
-    "lang": "en",
-    "whatHappening": "Ford and Lincoln are recalling over 741,000 trucks and SUVs due to a defect that could cause vehicles to roll away unexpectedly. The recall affects five popular models: Ford Expedition, Explorer, F-150, Lincoln Aviator, and Lincoln Navigator.",
-    "whoInvolved": "Ford Motor Company and its luxury division Lincoln are issuing the recall.",
-    "whyMatters": "The rollaway risk poses a serious safety hazard to owners and bystanders, potentially causing accidents, injuries, or property damage. Owners of affected vehicles should have the issue addressed immediately through authorized dealers.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]

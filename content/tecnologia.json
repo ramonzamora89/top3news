@@ -1,5 +1,23 @@
 [
   {
+    "id": "of-course-viewers-are-giving-up-on-netflix-shows-ab68a7",
+    "title": "Of course viewers are giving up on Netflix shows",
+    "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it…",
+    "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-07T21:58:39.000Z",
+    "fetchedAt": "2026-07-07T23:19:40.824Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Avatar__The_Last_Airbender__Season_2__00_54_10_07__3250314.jpg?quality=90&#038;strip=all&#038;crop=9.1587509155273,7.4747546520292,69.807490539551,92.525245347971",
+    "lang": "en",
+    "whatHappening": "Netflix viewers are abandoning shows after their first seasons at alarming rates. The anthology series Beef lost 70 percent of its audience when moving from season one to season two, exemplifying a broader pattern of viewership drop-off across the platform.",
+    "whoInvolved": "Netflix, the world's dominant paid streaming service with hundreds of millions of subscribers globally. The company has built its business model on original content production and subscriber retention.",
+    "whyMatters": "High drop-off rates threaten Netflix's ability to justify massive spending on multi-season productions and could force the company to shift strategy toward limited series or films. This pattern suggests viewers are less engaged with long-form storytelling on the platform, which could reshape how streaming services greenlight and structure content going forward.",
+    "moreContext": "Netflix has heavily invested in prestige television series to compete with traditional networks and cable, but the streaming landscape has become increasingly crowded with competitors like Disney+, Max, and others. The company has also been more aggressive about canceling shows after one or two seasons, creating tension with viewers who fear investing time in new series. This viewership decline occurs as Netflix navigates password-sharing crackdowns and ad-tier expansion to boost revenue, suggesting content engagement issues compound existing subscriber challenges.",
+    "enhanced": true
+  },
+  {
     "id": "discord-accidentally-banned-over-8000-people-for-posting-grids-and-other-8216ben-792136",
     "title": "Discord accidentally banned over 8,000 people for posting grids and other ‘benign’ images",
     "summary": "A Reddit users says they were banned on Discord after uploading this picture of a chessboard. | Image: u/Laskof via Reddit Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of…",
@@ -539,24 +557,6 @@
     "whatHappening": "Dish is filing for Chapter 11 bankruptcy but will continue operating. The move allows the company to wind down its wireless operations after delays derailed a $23 billion sale.",
     "whoInvolved": "Dish (which operates Dish TV and Sling TV) and its parent company EchoStar are at the center, with the wireless sale plans now in limbo.",
     "whyMatters": "This protects Dish's core TV business while it untangles its troubled wireless ambitions, potentially reshaping the competitive landscape in both pay-TV and wireless sectors. Subscribers to Dish TV and Sling TV should see no immediate service disruptions.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "libby-will-filter-out-ai-content-kind-of-308143",
-    "title": "Libby will filter out AI content, kind of",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week.…",
-    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-06-30T15:30:00.000Z",
-    "fetchedAt": "2026-06-30T15:46:33.747Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Libby, the popular library app owned by OverDrive, is adding filters to help users identify and avoid AI-generated content. The new CEO of OverDrive says AI is a major priority for the company going forward.",
-    "whoInvolved": "OverDrive (Libby's parent company), new CEO Marc DeBevoise, and The Verge's Janko Roettgers reporting.",
-    "whyMatters": "As AI-generated books flood digital libraries, readers increasingly want transparency about what they're consuming. This move signals how platforms are grappling with authenticity and user trust in the AI age.",
     "enhanced": true,
     "fbPosted": true
   }
