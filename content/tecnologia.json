@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-is-reportedly-working-on-smart-glasses-that-would-be-recording-all-the-time-7ac347",
+    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+    "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask…",
+    "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-08T22:37:25.000Z",
+    "fetchedAt": "2026-07-08T23:24:40.763Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Meta is developing prototype smart glasses with always-on recording capabilities that continuously capture audio and photos every few seconds. The \"super sensing\" wearables would allow users to query the AI about what they've recorded, creating a persistent visual and audio memory device.",
+    "whoInvolved": "Meta, the parent company of Facebook and Instagram, is spearheading this project. The Financial Times first reported on the development, bringing the initiative into public view.",
+    "whyMatters": "This move positions Meta to compete in the rapidly evolving AI wearables market alongside companies like OpenAI and Google. Always-on recording glasses raise significant privacy concerns for both wearers and people around them, potentially creating major regulatory and social backlash.",
+    "moreContext": "The smart glasses market is heating up as tech companies race to create the next computing platform after smartphones. OpenAI and Qualcomm have invested in related wearable technologies, while traditional eyewear companies explore AR integration. Meta has previously invested heavily in AR and VR through its Reality Labs division. The concept of continuous recording devices challenges existing privacy frameworks and social norms around consent and surveillance.",
+    "enhanced": true
+  },
+  {
     "id": "this-jumping-800-robot-camera-dog-filled-me-with-joy-0b016d",
     "title": "This jumping $800 robot camera dog filled me with joy",
     "summary": "The Mondo Robotics Beni. | Photo by Sean Hollister / The Verge What if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs and jumps? What if it could do tricks on command, and film your tricks as well? What if it could get…",
@@ -541,25 +559,6 @@
     "whoInvolved": "Comcast, a major telecommunications and media conglomerate, owns NBCUniversal and its streaming service Peacock, along with European pay-TV company Sky. NBCUniversal executives will now be responsible for making Peacock viable as a standalone business.",
     "whyMatters": "The spin-off is a critical test for Peacock's viability as a profitable streaming service at a time when the industry is consolidating around a handful of dominant players. Without Comcast's financial backing and bundling power, Peacock must prove it can attract and retain subscribers through content quality and competitive pricing alone.",
     "moreContext": "Peacock launched in 2020 as Comcast's answer to Disney+, Netflix, and other streamers, but has struggled to gain market share despite heavy investment in content and sports rights. The streaming wars have intensified with most major platforms now prioritizing profitability over subscriber growth, forcing services to find sustainable business models. Comcast's decision to separate these divisions reflects investor pressure to unlock shareholder value and allow each business unit to be valued independently. This move mirrors similar restructuring by other media conglomerates seeking to clarify the financial performance of their streaming operations.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "the-cube-was-a-lie-up-close-with-our-dbrand-companion-cube-before-it-gets-destro-adb351",
-    "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-    "summary": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious…",
-    "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-01T11:00:00.000Z",
-    "fetchedAt": "2026-07-01T11:17:09.083Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-dbrand-companion-cube-sean-hollister-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Dbrand, a phone case and device skin company known for irreverent marketing, has created a Companion Cube product that faces legal destruction. The company is documenting the cube before it gets taken down, in what appears to be another clash with corporate legal teams.",
-    "whoInvolved": "Dbrand is a accessories company famous for snarky marketing and defiant stances against major tech companies' legal threats. The Companion Cube references Valve's Portal franchise, bringing another intellectual property holder into potential conflict with the brand.",
-    "whyMatters": "Dbrand's repeated legal provocations and product survival strategies have made the company a symbol of irreverent tech culture, while also highlighting how smaller companies navigate IP enforcement. This incident continues a pattern that tests the boundaries of corporate legal action and brand loyalty.",
-    "moreContext": "Dbrand previously told Nintendo to \"go fuck yourself\" in response to cease-and-desist letters and successfully pivoted PS5 plate designs when Sony threatened litigation, demonstrating a pattern of antagonistic corporate communication paired with legal workarounds. The company has built a brand identity around mocking tech giants and surviving their legal threats, earning a reputation among consumers who appreciate the defiance. The Companion Cube—a beloved object from Valve's Portal games—likely violates trademark or copyright, making it a deliberate provocation. This latest destruction appears to be Dbrand's documented surrender to legal pressure, or possibly a theatrical marketing stunt consistent with the company's previous tactics.",
     "enhanced": true,
     "fbPosted": true
   }
