@@ -1,5 +1,23 @@
 [
   {
+    "id": "this-jumping-800-robot-camera-dog-filled-me-with-joy-0b016d",
+    "title": "This jumping $800 robot camera dog filled me with joy",
+    "summary": "The Mondo Robotics Beni. | Photo by Sean Hollister / The Verge What if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs and jumps? What if it could do tricks on command, and film your tricks as well? What if it could get…",
+    "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-08T15:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:43:37.268Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DJI_20260701132950_0659_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Mondo Robotics has released Beni, an $800 robot dog that can jump, run, and perform tricks while filming video. The device offers an alternative to traditional drones by combining the functionality of an aerial camera with the appeal of a ground-based robotic companion.",
+    "whoInvolved": "Mondo Robotics, the company behind Beni, is developing consumer robotics that blend entertainment with practical features. The Verge's Sean Hollister reviewed the device, highlighting its potential to capture a new market segment between toy robots and professional filmmaking equipment.",
+    "whyMatters": "This represents a shift in how consumers might approach personal filming and entertainment — replacing buzzing drones with a more socially acceptable, ground-level alternative that neighbors are less likely to resent. The $800 price point positions Beni as an accessible entry point for robotics enthusiasts and content creators looking for novel filming perspectives.",
+    "moreContext": "The consumer robotics market has been dominated by aerial drones since DJI's rise in the 2010s, but ground-based robots are gaining traction as companies explore alternatives. Beni's combination of autonomous tricks, interactive features, and built-in camera capability suggests a broader trend toward multifunctional companion robots. Earlier robotic dogs like Boston Dynamics' Spot pioneered the quadruped format, though at much higher price points. This democratization of robot dog technology at under $1,000 could open the category to mainstream consumers beyond industrial or research applications.",
+    "enhanced": true
+  },
+  {
     "id": "samsung-will-launch-its-new-wide-foldable-on-july-22nd-a72735",
     "title": "Samsung will launch its new wide foldable on July 22nd",
     "summary": "Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: \"A new shape unfolds.\" It's long been rumored that Samsung is about to expand its foldable phone line to a third format, with a shorter and wider version of its big…",
@@ -543,23 +561,5 @@
     "moreContext": "Dbrand previously told Nintendo to \"go fuck yourself\" in response to cease-and-desist letters and successfully pivoted PS5 plate designs when Sony threatened litigation, demonstrating a pattern of antagonistic corporate communication paired with legal workarounds. The company has built a brand identity around mocking tech giants and surviving their legal threats, earning a reputation among consumers who appreciate the defiance. The Companion Cube—a beloved object from Valve's Portal games—likely violates trademark or copyright, making it a deliberate provocation. This latest destruction appears to be Dbrand's documented surrender to legal pressure, or possibly a theatrical marketing stunt consistent with the company's previous tactics.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "cleared-by-the-us-derailed-by-the-uk-gettys-shutterstock-merger-falls-apart-cb2345",
-    "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-    "summary": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would…",
-    "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-01T08:41:26.000Z",
-    "fetchedAt": "2026-07-01T09:15:59.530Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Getty Images is terminating its $3.7 billion merger with Shutterstock after the UK's Competition and Markets Authority imposed conditions that would require Shutterstock to divest its editorial business. Getty says it won't accept these restrictions, despite receiving approval from US regulators.",
-    "whoInvolved": "Getty Images, a major stock photo and digital media company, and Shutterstock, a competitor in the same space offering both creative assets and editorial imagery. The UK's Competition and Markets Authority (CMA) blocked the deal with conditions, while US regulators had cleared it.",
-    "whyMatters": "The merger's collapse signals how international regulatory scrutiny can kill major tech and media deals even when home-country approval is secured. This likely signals continued consolidation challenges in the creative licensing industry and leaves both companies to pursue separate strategies.",
-    "moreContext": "The CMA expressed concerns that combining Getty's and Shutterstock's editorial image libraries would reduce competition and harm customers, prompting the divestment requirement. The merger had been announced earlier as a significant consolidation in the stock imagery market. US antitrust officials had approved the deal without such conditions, highlighting diverging regulatory approaches between American and British authorities on media industry consolidation. This reflects broader tension between transatlantic regulators on tech and media M&A deals.",
-    "enhanced": true
   }
 ]
