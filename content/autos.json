@@ -1,5 +1,22 @@
 [
   {
+    "id": "2027-toyota-highlander-production-delayed-due-to-final-adjustments-fef62d",
+    "title": "2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'",
+    "summary": "The new EV SUV was supposed to go on sale by the end of the year, but now it may not arrive until 2027 after an eight-week delay.",
+    "url": "https://www.caranddriver.com/news/a71888001/2027-toyota-highlander-production-delayed/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-09T21:05:00.000Z",
+    "fetchedAt": "2026-07-09T23:26:43.351Z",
+    "lang": "en",
+    "whatHappening": "Toyota is pushing back the launch of its new 2027 Highlander EV SUV by eight weeks due to final adjustments. The vehicle was originally scheduled to hit dealerships by year's end but will now arrive in 2027.",
+    "whoInvolved": "Toyota, Japan's largest automaker and a global leader in hybrid and electric vehicle technology, is responsible for the delay. The company has been aggressively expanding its EV lineup to compete with Tesla and traditional automakers pivoting to electrification.",
+    "whyMatters": "The delay could affect Toyota's EV sales targets and give competitors more runway to capture early adopters in the premium electric SUV segment. For consumers, the postponement means longer wait times for what's expected to be a flagship electric vehicle in Toyota's expanding lineup.",
+    "moreContext": "The Highlander has long been one of Toyota's best-selling three-row SUVs, and the electric version represents a major shift in the brand's electrification strategy. This delay comes as automakers face supply chain pressures, battery sourcing challenges, and the need for extensive testing on new EV platforms. Toyota has committed to launching multiple electric vehicles through 2030 as part of its broader carbon neutrality goals. The eight-week adjustment period suggests potential issues with battery integration, software calibration, or safety systems that require additional refinement.",
+    "enhanced": true
+  },
+  {
     "id": "mercedes-amg-cla45-ev-revealed-as-670-horsepower-forbidden-fruit-6b7164",
     "title": "Mercedes-AMG CLA45 EV Revealed as 670-Horsepower Forbidden Fruit",
     "summary": "The luxury sport compact sedan ditched its turbocharged four-banger for a much more powerful trio of axial-flux electric motors.",
@@ -505,23 +522,5 @@
     "whyMatters": "The automotive sector relies heavily on cross-border supply chains under USMCA's favorable terms, and uncertainty about renewal could disrupt manufacturing, increase costs, and trigger investment pullbacks. A collapse or renegotiation of the deal could threaten jobs and competitiveness across North America in the short term, with long-term implications for vehicle pricing and availability for consumers.",
     "moreContext": "The USMCA replaced NAFTA in 2020 and includes provisions specifically designed for automotive trade, such as rules of origin requirements and labor standards. The automotive industry has already faced supply chain pressures from pandemic disruptions and the semiconductor shortage, making additional trade uncertainty particularly precarious. Mexico has become a critical manufacturing hub for U.S. automakers, producing millions of vehicles annually and serving as a major source of auto parts. Trump's refusal to commit to renewal signals potential renegotiation, tariffs, or more restrictive trade policies that could reshape how North American auto production operates.",
     "enhanced": true
-  },
-  {
-    "id": "tuxmats-custom-fit-floor-mats-are-engineered-to-elevate-your-interior-7b83c2",
-    "title": "TuxMat’s Custom-Fit Floor Mats Are Engineered to Elevate Your Interior",
-    "summary": "Precision fit, three-layer construction, and the kind of detail most floor mats overlook.",
-    "url": "https://www.caranddriver.com/sponsored/a71605162/tuxmat-is-the-ultra-premium-floor-mat-your-vehicle-deserves-1779107399-1781636281/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-01T20:09:00.000Z",
-    "fetchedAt": "2026-07-02T09:10:40.445Z",
-    "lang": "en",
-    "whatHappening": "TuxMat is promoting its custom-fit floor mats as a premium interior upgrade, emphasizing precision engineering and multi-layer construction. The product targets car owners seeking higher-quality alternatives to standard factory or generic aftermarket mats.",
-    "whoInvolved": "TuxMat, an automotive accessories manufacturer, is the focus of this feature in Car and Driver, a leading automotive publication with a large enthusiast audience. The company specializes in precision-fit interior products designed for specific vehicle models.",
-    "whyMatters": "Quality floor mats protect vehicle interiors from wear, moisture, and dirt while improving aesthetics—factors that affect resale value and driving experience. As consumers increasingly invest in vehicle customization and long-term maintenance, premium mat options represent a growing segment of the aftermarket accessories market.",
-    "moreContext": "The aftermarket floor mat category has traditionally been dominated by basic, one-size-fits-all products or expensive OEM options. Custom-fit mats have gained traction as 3D manufacturing and precision tooling have made vehicle-specific products more affordable and accessible. Car and Driver's coverage suggests TuxMat's three-layer construction and attention to detail differentiate it in a competitive market where fitment and durability are primary customer concerns.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]

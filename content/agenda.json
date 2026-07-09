@@ -1,21 +1,12 @@
 [
   {
-    "id": "sm-events-a53a5252",
-    "title": "Annual 1st Responders & PD blood drive",
-    "description": "Event date: July 9, 2026 Event Time: 10:00 AM - 03:30 PM Location: 6130 Sunset Dr South Miami, FL 33143",
-    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3806",
-    "eventDate": "2026-06-29T19:20:36.000Z",
-    "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-09T15:59:13.344Z"
-  },
-  {
     "id": "sm-parks-42af9ee5",
     "title": "Pickleball Tournament",
     "description": "Event date: July 17, 2026 Event Time: 05:00 PM - 07:00 PM Location: 6121 SW 68 St South Miami, FL 33143",
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3807",
     "eventDate": "2026-06-30T21:21:04.000Z",
     "source": "South Miami Parks & Rec",
-    "fetchedAt": "2026-07-09T15:59:13.644Z"
+    "fetchedAt": "2026-07-09T23:29:01.254Z"
   },
   {
     "id": "sm-events-34647291",
@@ -24,6 +15,6 @@
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3809",
     "eventDate": "2026-07-07T21:13:56.000Z",
     "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-09T15:59:13.344Z"
+    "fetchedAt": "2026-07-09T23:29:00.794Z"
   }
 ]

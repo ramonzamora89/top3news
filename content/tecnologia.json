@@ -1,5 +1,23 @@
 [
   {
+    "id": "fidji-simo-steps-down-from-leading-openais-agi-work-due-to-illness-b9f0af",
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-09T23:24:04.000Z",
+    "fetchedAt": "2026-07-09T23:26:43.435Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Fidji Simo is stepping down from her full-time role as OpenAI's AGI (Artificial General Intelligence) chief and moving to a part-time advisory position. The departure comes after she took medical leave in April due to a neuroimmune illness.",
+    "whoInvolved": "Fidji Simo is a high-profile tech executive who previously led Meta's Instagram division before joining OpenAI. OpenAI is the AI research company behind ChatGPT and is focused on developing safe artificial general intelligence.",
+    "whyMatters": "The departure signals leadership instability at a critical juncture as OpenAI pursues its core AGI mission. It raises questions about the company's ability to retain senior talent and maintain continuity on its most important strategic initiatives.",
+    "moreContext": "Simo joined OpenAI in late 2023 specifically to lead its AGI efforts, representing a significant hire from the consumer tech world. She initially announced medical leave in April after disclosing a neuroimmune condition, which now appears to be affecting her ability to maintain a full-time executive role. The move to part-time advisor status suggests her health condition remains a limiting factor. This comes during a period of broader leadership changes and strategic questions at OpenAI regarding its path to AGI development.",
+    "enhanced": true
+  },
+  {
     "id": "sonos-ace-wireless-headphones-are-steeply-discounted-58b559",
     "title": "Sonos Ace wireless headphones are steeply discounted",
     "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including…",
@@ -541,25 +559,6 @@
     "whoInvolved": "Godox, a Chinese lighting equipment manufacturer known for affordable pro-grade gear, is competing against Elgato, a streaming and content creation brand owned by Corsair that dominates the premium key light market with its $180 Key Light model.",
     "whyMatters": "This price drop makes professional-quality lighting more accessible to streamers, podcasters, and video creators on tight budgets. The competitive pressure from Godox's affordable offerings could reshape the lighting market, forcing premium brands to justify higher price points through additional features or brand value.",
     "moreContext": "The key light category has exploded in popularity alongside the streaming and remote work boom, with Elgato's Key Light becoming the industry standard for content creators since its 2018 launch. However, competition from budget manufacturers like Godox has intensified, offering 80-90% of the functionality at 50-60% of the price. The ES45 joins a growing category of affordable LED lighting options that challenge the notion that professional-grade equipment requires premium pricing. This trend reflects broader shifts in the creator economy where accessible pricing can compete effectively against brand prestige.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "the-funeral-for-playstation-discs-has-begun-09a98c",
-    "title": "The funeral for PlayStation discs has begun",
-    "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for…",
-    "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-01T22:03:37.000Z",
-    "fetchedAt": "2026-07-02T09:10:40.499Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072867/110923_new_Playstation_5_Slim_ADiBenedetto_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Sony announced it will stop manufacturing discs for new PlayStation games starting January 2028, marking a major shift toward digital-only gaming. Retail chains like Pink Gorilla Games are already feeling the impact of this decision.",
-    "whoInvolved": "Sony, the gaming giant behind PlayStation, is making the change. Small independent game retailers like Pink Gorilla Games co-owned by Cody Spencer are directly affected by the shift away from physical media.",
-    "whyMatters": "The move accelerates the industry's transition to all-digital game sales, potentially eliminating physical game retail as a viable business model for independent stores. Consumers who prefer owning physical copies or have limited internet access face reduced options and less consumer choice in the gaming market.",
-    "moreContext": "The gaming industry has been gradually shifting toward digital distribution for years, with major releases increasingly available only through online stores. PlayStation discs have been a cornerstone of physical game retail since the original PlayStation launched in 1994. This announcement represents a symbolic endpoint for disc-based console gaming and reflects broader industry trends where digital sales now outpace physical media. The January 2028 timeline gives the industry about three years to prepare for a fully digital PlayStation ecosystem.",
     "enhanced": true,
     "fbPosted": true
   }
