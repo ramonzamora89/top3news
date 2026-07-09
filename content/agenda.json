@@ -6,7 +6,7 @@
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3806",
     "eventDate": "2026-06-29T19:20:36.000Z",
     "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-09T09:12:07.767Z"
+    "fetchedAt": "2026-07-09T15:59:13.344Z"
   },
   {
     "id": "sm-parks-42af9ee5",
@@ -15,7 +15,7 @@
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3807",
     "eventDate": "2026-06-30T21:21:04.000Z",
     "source": "South Miami Parks & Rec",
-    "fetchedAt": "2026-07-09T09:12:07.974Z"
+    "fetchedAt": "2026-07-09T15:59:13.644Z"
   },
   {
     "id": "sm-events-34647291",
@@ -24,6 +24,6 @@
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3809",
     "eventDate": "2026-07-07T21:13:56.000Z",
     "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-09T09:12:07.767Z"
+    "fetchedAt": "2026-07-09T15:59:13.344Z"
   }
 ]

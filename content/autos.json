@@ -1,5 +1,22 @@
 [
   {
+    "id": "mercedes-amg-cla45-ev-revealed-as-670-horsepower-forbidden-fruit-6b7164",
+    "title": "Mercedes-AMG CLA45 EV Revealed as 670-Horsepower Forbidden Fruit",
+    "summary": "The luxury sport compact sedan ditched its turbocharged four-banger for a much more powerful trio of axial-flux electric motors.",
+    "url": "https://www.caranddriver.com/news/a71882787/2027-mercedes-amg-cla45-ev-revealed/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-09T15:56:00.000Z",
+    "fetchedAt": "2026-07-09T15:59:10.023Z",
+    "lang": "en",
+    "whatHappening": "Mercedes-AMG has unveiled an electric version of its CLA45 compact sport sedan, replacing the traditional turbocharged four-cylinder engine with three axial-flux electric motors that generate 670 horsepower. The new EV represents a dramatic power increase and a significant shift in the brand's approach to performance vehicles.",
+    "whoInvolved": "Mercedes-AMG, the high-performance division of Mercedes-Benz, has long been known for engineering potent turbocharged engines in compact and mid-size vehicles. The company is one of the automotive industry's leading luxury performance brands competing directly with BMW M and Audi RS divisions.",
+    "whyMatters": "The CLA45 EV signals that even traditional combustion-focused performance brands must embrace electrification to meet emissions regulations and consumer demands. This move could influence how luxury automakers balance performance credentials with environmental mandates, setting expectations for future AMG models and the broader premium automotive market.",
+    "moreContext": "The original CLA45 AMG debuted in 2013 as a compact sedan with roughly 360 horsepower, establishing itself as an entry point to the AMG performance lineup. Mercedes has gradually expanded its electrified portfolio, but this marks one of the most powerful electric offerings from a traditional luxury performance marque. The shift to axial-flux motors—a newer, more compact motor technology—allows manufacturers to package multiple motors efficiently while delivering dramatic power outputs. This electric variant reflects broader industry trends where EV powertrains are becoming competitive or superior to traditional engines in raw performance metrics.",
+    "enhanced": true
+  },
+  {
     "id": "2027-maserati-grecale-folgores-price-cut-is-much-more-than-a-fiat-topolino-df78fb",
     "title": "2027 Maserati Grecale Folgore's Price Cut Is Much More Than a Fiat Topolino",
     "summary": "The electric version of the Grecale is heavily discounted, with Maserati slashing over $22,000 off last year's starting price.",
@@ -505,22 +522,5 @@
     "moreContext": "The aftermarket floor mat category has traditionally been dominated by basic, one-size-fits-all products or expensive OEM options. Custom-fit mats have gained traction as 3D manufacturing and precision tooling have made vehicle-specific products more affordable and accessible. Car and Driver's coverage suggests TuxMat's three-layer construction and attention to detail differentiate it in a competitive market where fitment and durability are primary customer concerns.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "every-ev-from-every-brand-in-america-1965f6",
-    "title": "Every EV from Every Brand in America",
-    "summary": "We've created this handy guide to let you know all the brands that sell electric vehicles in the United States.",
-    "url": "https://www.caranddriver.com/features/g64446307/every-ev-automaker/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-01T19:45:00.000Z",
-    "fetchedAt": "2026-07-02T09:10:40.445Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver has published a comprehensive guide cataloging every electric vehicle available from all brands currently selling in the United States. The resource provides consumers with a complete snapshot of the EV market landscape as it exists right now.",
-    "whoInvolved": "Car and Driver, a major automotive publication, compiled this guide. The guide covers offerings from established automakers (Tesla, Ford, GM, BMW, etc.) and newer EV-focused brands (Rivian, Lucid, Polestar) all competing in the U.S. market.",
-    "whyMatters": "This guide helps consumers navigate an increasingly crowded EV market with clearer options and comparisons. As automakers rapidly expand their electric lineups and new entrants launch vehicles, having a centralized reference point matters for purchasing decisions and understanding market penetration across price points and vehicle types.",
-    "moreContext": "The U.S. EV market has accelerated dramatically over the past 3-4 years, with major manufacturers committing billions to electrification and dozens of new models launching annually. Federal incentives like the $7,500 tax credit have spurred consumer interest, while stricter emissions regulations push automakers to expand their EV portfolios. The competitive landscape now includes legacy automakers alongside new startups, creating a fragmented market where consumers struggle to track available options. This guide addresses that fragmentation by aggregating vehicles across all brands and segments.",
-    "enhanced": true
   }
 ]
