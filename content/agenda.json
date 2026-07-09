@@ -1,254 +1,29 @@
 [
   {
-    "id": "sm-events-9c72ef55",
-    "title": "South Miami's 4th of July America's 250th Celebration",
-    "description": "Event date: July 4, 2026 Event Time: 05:00 PM - 09:30 PM Location: 6100 SW 67 Ave. South Miami, FL 33143",
-    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3796",
-    "eventDate": "2026-06-02T14:08:13.000Z",
-    "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-02T23:23:48.483Z"
-  },
-  {
     "id": "sm-events-a53a5252",
     "title": "Annual 1st Responders & PD blood drive",
     "description": "Event date: July 9, 2026 Event Time: 10:00 AM - 03:30 PM Location: 6130 Sunset Dr South Miami, FL 33143",
     "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3806",
     "eventDate": "2026-06-29T19:20:36.000Z",
     "source": "South Miami Special Events",
-    "fetchedAt": "2026-07-02T23:23:48.483Z"
+    "fetchedAt": "2026-07-09T09:12:07.767Z"
   },
   {
-    "id": "eb-ba797cf0",
-    "title": "TAP TAP! DJ Bullet + Friends . Kompa, Raboday, Afrobeats + More",
-    "description": "TAP TAP is an Afro-Caribbean dance party heavy on Raboday, Kompa, Zouk along with Dancehall Afrobeats & Amapiano.",
-    "url": "https://www.eventbrite.com/e/tap-tap-dj-bullet-friends-kompa-raboday-afrobeats-more-tickets-1991421521378",
-    "eventDate": "2026-07-03T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
+    "id": "sm-parks-42af9ee5",
+    "title": "Pickleball Tournament",
+    "description": "Event date: July 17, 2026 Event Time: 05:00 PM - 07:00 PM Location: 6121 SW 68 St South Miami, FL 33143",
+    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3807",
+    "eventDate": "2026-06-30T21:21:04.000Z",
+    "source": "South Miami Parks & Rec",
+    "fetchedAt": "2026-07-09T09:12:07.974Z"
   },
   {
-    "id": "eb-78deef2f",
-    "title": "4THE YAMS FREAKNIK MIAMI EDITION FRIDAY JULY 3RD (TICKET LINK)",
-    "description": "4 THE YAMS MIAMI FREAKNIK EDITION @ REVENGE NIGHT CLUB GET YOUR TICKETS",
-    "url": "https://www.eventbrite.com/e/4the-yams-freaknik-miami-edition-friday-july-3rd-ticket-link-tickets-1991336256348",
-    "eventDate": "2026-07-03T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-5b6b60ad",
-    "title": "R&BLACK: ALL BLACK INDEPENDENCE DAY R&B EXPERIENCE",
-    "description": "BRING YOUR SINGING VOICES FOR R&BLACK!",
-    "url": "https://www.eventbrite.com/e/rblack-all-black-independence-day-rb-experience-tickets-1990658836166",
-    "eventDate": "2026-07-03T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-d2997d3b",
-    "title": "Alta Joda Fest Miami - Watch Party & Afterparty: Round of 32",
-    "description": "Volvimos! Arranca el Mundial y lo festejamos como solo los argentinos saben: fútbol, cumbia, fernet y pura locura. Que no te la cuenten!⚽️",
-    "url": "https://www.eventbrite.com/e/alta-joda-fest-miami-watch-party-afterparty-round-of-32-tickets-1992674591344",
-    "eventDate": "2026-07-03T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-a6f70c0a",
-    "title": "Sunset Party at Gekko presented by Casamigos",
-    "description": "Long weekend + Gekko + Casamigos. Need we say more?",
-    "url": "https://www.eventbrite.com/e/sunset-party-at-gekko-presented-by-casamigos-tickets-1988839847522",
-    "eventDate": "2026-07-03T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-0784a6f4",
-    "title": "STAMPED Pool Party AYA x Friends JULY 4th Ed. Amapiano Afrobeats & more",
-    "description": "A Miami sunset, a rooftop, and the latest sounds from the continent and the continent only. Amapiano, afrobeats and more... STAMPED",
-    "url": "https://www.eventbrite.com/e/stamped-pool-party-aya-x-friends-july-4th-ed-amapiano-afrobeats-more-tickets-1983903400476",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-6cabdc89",
-    "title": "STAMPED x BASHMENT @ MIDLINE MIAMI",
-    "description": "STAMPED x BASHMENT - July 4th at Midline Miami",
-    "url": "https://www.eventbrite.com/e/stamped-x-bashment-midline-miami-tickets-1990784722696",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-fa37df8b",
-    "title": "ARE N BEE: 90s vs 00s Edition | Miami",
-    "description": "One Night • Two Eras • All R&B All Night",
-    "url": "https://www.eventbrite.com/e/are-n-bee-90s-vs-00s-edition-miami-tickets-1992112620474",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-1df3b69e",
-    "title": "WHITE BOY WASTED BLOCK PARTY MIAMI EDITION",
-    "description": "WHITE BOY WASTED MIAMI EDITION 4TH OF JULY BLOCK PARTY IN WYNWOOD SATURDAY JULY 4TH EVERYBODY FREE UNTIL 11:30PM EARLY ARRIVAL HIGHLY",
-    "url": "https://www.eventbrite.com/e/white-boy-wasted-block-party-miami-edition-tickets-1992096701861",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-96e74838",
-    "title": "4th Of July Celebration & Fireworks Show at Regatta Grove",
-    "description": "Celebrate 250 years of American independence at Regatta Grove's 4th of July Firework Show! Doors open at noon.",
-    "url": "https://www.eventbrite.com/e/4th-of-july-celebration-fireworks-show-at-regatta-grove-tickets-1991498272944",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-7d81049e",
-    "title": "WET DREAMS MIAMI POOL PARTY",
-    "description": "WET DREAMS MIAMI A carnival-themed pool party with DJs, games, food, VIP cabanas & summer vibes!",
-    "url": "https://www.eventbrite.com/e/wet-dreams-miami-pool-party-tickets-1992404504507",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-6f453075",
-    "title": "KOFFEE + KULTURE - COFFEE MORNING PARTY MIAMI - THROW SOCIAL WYNWOOD",
-    "description": "A blend of your favorite Koffee and Drink mixes, along with your favorite music; Dancehall, reggae, soca, afro beat, top 40.",
-    "url": "https://www.eventbrite.com/e/koffee-kulture-coffee-morning-party-miami-throw-social-wynwood-tickets-1991571886123",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-8bbaf0ea",
-    "title": "CRAZY BRUNCH JULY 4TH WEEKEND MIAMI",
-    "description": "COOLEST DAY PARTY EVER COOKOUT EDITION",
-    "url": "https://www.eventbrite.com/e/crazy-brunch-july-4th-weekend-miami-tickets-1992131572159",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-fdacf30a",
-    "title": "4th of July Miami Party: Red, White & Fireworks Cruise",
-    "description": "Cruise in Luxury along Bayfront Park and the Miami Skyline this July 4th 2026 with 1 DJ, dinner, open bar, and spectacular fireworks views.",
-    "url": "https://www.eventbrite.com/e/4th-of-july-miami-party-red-white-fireworks-cruise-tickets-1980726522348",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-60a38824",
-    "title": "4th of July Party at Rusty Pelican Miami",
-    "description": "Join us for an Independence Day Party, featuring Live Entertainment, Unbeatable Firework Views, Chef's Stations, and more!",
-    "url": "https://www.eventbrite.com/e/4th-of-july-party-at-rusty-pelican-miami-tickets-1992005909298",
-    "eventDate": "2026-07-04T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-32baf38d",
-    "title": "Angels Only Summer - July Edit",
-    "description": "Angels Only Miami is a queer femme-led pop up market highlighting local businesses and curating a space to nurture community.",
-    "url": "https://www.eventbrite.com/e/angels-only-summer-july-edit-tickets-1991283572770",
-    "eventDate": "2026-07-05T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-c5e667c1",
-    "title": "From Fear To Love — delivered by Trauma Informed Parenting",
-    "description": "This two-part online workshop will take place on July 6th and 7th from 10:00am-12:00pm both mornings.",
-    "url": "https://www.eventbrite.co.uk/e/from-fear-to-love-delivered-by-trauma-informed-parenting-tickets-1978140069197",
-    "eventDate": "2026-07-06T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-95de999e",
-    "title": "Newark Career Fair",
-    "description": "Meet live with hiring employers",
-    "url": "https://www.eventbrite.com/e/newark-career-fair-tickets-1438447568399",
-    "eventDate": "2026-07-15T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-74c93feb",
-    "title": "Big Opportunities-Bold Partnerships Session 2: Behind the Buy: VT/Radford",
-    "description": "Hear directly from buyers at Virginia Tech & Radford University - what they purchase, how they purchase, and how your business can connect.",
-    "url": "https://www.eventbrite.com/e/big-opportunities-bold-partnerships-session-2-behind-the-buy-vtradford-tickets-1990571108771",
-    "eventDate": "2026-07-15T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-17b033a1",
-    "title": "Sorted Live: Back To Their Old School",
-    "description": "It’s time for another epic weekender and we’re packing this one with classroom nostalgia, organised fun and your favourite Sorted formats!",
-    "url": "https://www.eventbrite.co.uk/e/sorted-live-back-to-their-old-school-tickets-1982666728557",
-    "eventDate": "2026-07-25T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-1bc08cb9",
-    "title": "San Diego Career Fair",
-    "description": "Connect live with Employers",
-    "url": "https://www.eventbrite.com/e/san-diego-career-fair-tickets-775251456977",
-    "eventDate": "2026-07-27T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-6586f629",
-    "title": "Raleigh Hiring event",
-    "description": "Meet live with Raleigh Employers",
-    "url": "https://www.eventbrite.com/e/raleigh-hiring-event-tickets-767130918227",
-    "eventDate": "2026-07-28T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-e4d69faf",
-    "title": "How to Do a Venture Capital Financing!",
-    "description": "The speaker will discuss how to do a venture capital financing.",
-    "url": "https://www.eventbrite.ca/e/how-to-do-a-venture-capital-financing-tickets-812165377507",
-    "eventDate": "2026-08-06T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-a55d4290",
-    "title": "slayr Presents: Half Blood Tour @ MIDLINE MIAMI",
-    "description": "slayr brings the Half Blood Tour to MIDLINE MIAMI on August 18th!",
-    "url": "https://www.eventbrite.com/e/slayr-presents-half-blood-tour-midline-miami-tickets-1992455031635",
-    "eventDate": "2026-08-18T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-8a9808c8",
-    "title": "NASA's Nancy Grace Roman Space Telescope Launch",
-    "description": "Join NASA to Participate Online in the Launch of the Nancy Grace Roman Space Telescope",
-    "url": "https://www.eventbrite.com/e/nasas-nancy-grace-roman-space-telescope-launch-tickets-1983457247019",
-    "eventDate": "2026-08-30T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
-  },
-  {
-    "id": "eb-772b8719",
-    "title": "Loe Shimmy – Pretty Girls Run The World Tour @ MIDLINE MIAMI",
-    "description": "In a crowded Florida Hip-Hop scene, Loe Shimmy has been putting on for his city while actively setting himself apart!",
-    "url": "https://www.eventbrite.com/e/loe-shimmy-pretty-girls-run-the-world-tour-midline-miami-tickets-1990111021638",
-    "eventDate": "2026-09-25T00:00:00.000Z",
-    "source": "Eventbrite",
-    "fetchedAt": "2026-07-02T23:23:50.184Z"
+    "id": "sm-events-34647291",
+    "title": "TConnect is Coming to South Miami!",
+    "description": "Event date: July 16, 2026 Event Time: 09:00 AM - 04:00 PM Location: 6130 Sunset Dr South Miami, FL 33143",
+    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3809",
+    "eventDate": "2026-07-07T21:13:56.000Z",
+    "source": "South Miami Special Events",
+    "fetchedAt": "2026-07-09T09:12:07.767Z"
   }
 ]
