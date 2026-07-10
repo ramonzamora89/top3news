@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-fcc-is-cracking-down-on-dji-tech-that-dodged-the-foreign-drone-ban-6aea93",
+    "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+    "summary": "The Xtra Muse and the DJI Osmo Pocket 3. | Photo by Sean Hollister / The Verge Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms…",
+    "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-10T22:35:18.000Z",
+    "fetchedAt": "2026-07-10T23:19:17.745Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&#038;strip=all&#038;crop=6,0,94,95.799934373975",
+    "lang": "en",
+    "whatHappening": "The FCC is cracking down on DJI camera and drone technology that circumvented the US foreign drone ban through shell companies and rebranding schemes. Companies like Xtra and Skyrover have been selling DJI products under different brand names to dodge restrictions.",
+    "whoInvolved": "The FCC (Federal Communications Commission) is taking enforcement action against DJI, the Chinese drone manufacturer, and intermediary companies like Xtra and Skyrover that have been facilitating the sale of DJI products in the US market despite restrictions on foreign drones.",
+    "whyMatters": "This crackdown signals the government's serious intent to enforce national security restrictions on Chinese drone technology and close loopholes being exploited by workaround companies. The action could significantly disrupt the consumer drone market and limit US consumers' access to popular affordable camera devices.",
+    "moreContext": "Last year, reporting revealed how companies were successfully circumventing DJI restrictions by rebranding products like the Osmo Pocket 3 under new brand names and selling them through different distribution channels. DJI has faced ongoing US scrutiny over national security concerns related to data collection and foreign control. The broader context involves the Biden administration's push to restrict Chinese tech companies' access to US markets across multiple sectors including drones, semiconductors, and AI.",
+    "enhanced": true
+  },
+  {
     "id": "disney-plus-is-reportedly-looking-into-a-free-streaming-tier-7e406e",
     "title": "Disney Plus is reportedly looking into a free streaming tier",
     "summary": "Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday.…",
@@ -541,25 +559,6 @@
     "whoInvolved": "The federal government, including law enforcement and intelligence agencies, is implementing surveillance infrastructure. The United States is cohosting the 2026 FIFA World Cup alongside Canada and Mexico, making American cities focal points for both the sporting event and security operations.",
     "whyMatters": "Citizens attending or living in World Cup host cities face privacy risks from warrantless surveillance and data collection without explicit consent. The precedent set during this high-profile event could normalize expanded federal surveillance capabilities that persist long after the tournament ends, affecting civil liberties and public trust in government.",
     "moreContext": "The U.S. has increasingly deployed facial recognition and surveillance technology at major events and public spaces over the past decade, often without transparent disclosure to the public. The 2026 World Cup coincides with America250 celebrations, marking the nation's semiquincentennial and presenting an opportunity for federal agencies to test and expand monitoring infrastructure. Previous major sporting events have involved surveillance expansions that authorities later justified on security grounds, setting patterns for future deployments.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "sonys-playstation-disc-factory-is-already-being-repurposed-aa7b5f",
-    "title": "Sony’s PlayStation disc factory is already being repurposed",
-    "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs…",
-    "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-03T01:05:13.000Z",
-    "fetchedAt": "2026-07-03T09:09:33.294Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072872/110923_new_Playstation_5_Slim_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Sony is repurposing its disc manufacturing facility in Thalgau, Austria as video game discs become obsolete. The plant, which once produced 600,000 discs, is being transitioned away from physical media production.",
-    "whoInvolved": "Sony DADC, the company's disc-making division led by president Dietmar Tanzer, operates the Thalgau facility. Sony has been systematically phasing out physical media as the gaming industry shifts to digital distribution.",
-    "whyMatters": "This marks a definitive end to an era of physical game media that dominated for decades. The shift reflects broader industry movement toward digital-only distribution, affecting manufacturing jobs and supply chains tied to disc production.",
-    "moreContext": "Console gaming has progressively moved toward digital downloads and streaming services, reducing demand for physical discs. PlayStation's own strategy—offering discless console versions like the PS5 Digital Edition—accelerated this transition. The disc format, once central to gaming, has been declining as internet speeds improved and digital storefronts matured. Sony's decision to repurpose the facility rather than maintain disc production signals confidence that the format's decline is permanent and irreversible.",
     "enhanced": true,
     "fbPosted": true
   }
