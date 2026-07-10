@@ -15,7 +15,8 @@
     "whoInvolved": "Microsoft, one of the world's largest technology companies that has pledged aggressive climate goals, including reaching carbon negativity by 2030. The company's sustainability performance is being scrutinized as it expands AI infrastructure and data centers.",
     "whyMatters": "Microsoft's emissions increase undermines its credibility on climate leadership and raises questions about whether major tech companies can meet net-zero targets while scaling AI operations. The 25 percent spike signals that energy-intensive AI development may be incompatible with current climate pledges.",
     "moreContext": "Microsoft committed in 2020 to becoming carbon negative by 2030 and reducing emissions by 75 percent by that same year. The company's emissions have been climbing as it accelerates AI investments and expands global data center operations to support OpenAI partnerships and enterprise AI services. Major tech firms including Amazon, Google, and Meta are similarly facing emissions growth despite sustainability pledges, as demand for AI compute power outpaces renewable energy deployment. This trend highlights the tension between the AI industry's rapid growth and the infrastructure needed to support global climate goals.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "netflix-reportedly-considers-adding-always-on-channels-8d2b48",
