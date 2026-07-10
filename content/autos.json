@@ -1,5 +1,22 @@
 [
   {
+    "id": "vw-could-cut-half-its-global-lineup-to-prioritize-most-profitable-models-e4be3d",
+    "title": "VW Could Cut Half Its Global Lineup to Prioritize Most Profitable Models",
+    "summary": "The big changes likely won't have a huge effect on Volkswagen's U.S. lineup, but they could lead to fewer variants and trim levels.",
+    "url": "https://www.caranddriver.com/news/a71897612/vw-global-model-lineup-cuts/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-10T15:34:00.000Z",
+    "fetchedAt": "2026-07-10T15:45:18.116Z",
+    "lang": "en",
+    "whatHappening": "Volkswagen is considering slashing its global vehicle lineup by up to 50% to focus resources on its most profitable models. The automaker is evaluating which vehicles and variants to keep as it restructures its portfolio.",
+    "whoInvolved": "Volkswagen Group, the world's largest automaker by volume, is the company driving this strategic shift. The decision affects the German manufacturer's operations across multiple global markets and its various brands.",
+    "whyMatters": "Cutting unprofitable models could significantly improve VW's margins and allow it to invest more heavily in electric vehicles and new technologies where competition is intensifying. While U.S. customers may see fewer trim and variant options rather than complete model eliminations, the move signals VW's aggressive pivot toward profitability in a rapidly shifting automotive market.",
+    "moreContext": "Volkswagen has faced mounting pressure to reduce costs and accelerate its EV transition while competing against Tesla and Chinese automakers. The company previously announced significant restructuring plans including potential plant closures in Germany and workforce reductions. This portfolio consolidation aligns with industry-wide trends as traditional automakers struggle with the capital-intensive shift to electric vehicles. The strategy reflects VW's need to streamline operations and focus on segments where it can maintain competitive advantages and healthy profit margins.",
+    "enhanced": true
+  },
+  {
     "id": "2027-audi-rs-q8-8936f9",
     "title": "2027 Audi RS Q8",
     "summary": "Review, Pricing, and Specs",
@@ -505,22 +522,5 @@
     "moreContext": "Automakers have traditionally sought to maximize profitability through platform sharing across markets, reducing development costs. However, Chinese consumers increasingly demand locally-tailored features, EV capabilities, and technology integration that differ significantly from Western preferences. China's rapid EV adoption, strong domestic competition, and different regulatory standards have forced global automakers to reconsider the one-size-fits-all approach. Audi's decision follows similar moves by other luxury brands recognizing that regional market divergence now outweighs the economies of scale in global platforms.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "these-are-the-biggest-winners-and-losers-in-auto-sales-in-q2-2026-c75e97",
-    "title": "These Are the Biggest Winners and Losers in Auto Sales in Q2 2026",
-    "summary": "Sedans seem to be making a comeback and Stellantis had a couple of big improvements, while some important Toyotas and Fords struggled.",
-    "url": "https://www.caranddriver.com/news/g71808102/auto-sales-q2-2026-winners-losers/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-02T17:13:00.000Z",
-    "fetchedAt": "2026-07-03T09:09:33.153Z",
-    "lang": "en",
-    "whatHappening": "Sedans are staging an unexpected comeback in Q2 2026 auto sales, bucking years of consumer preference for SUVs and trucks. Stellantis notched significant sales gains while Toyota and Ford faced headwinds with struggling key models.",
-    "whoInvolved": "Stellantis, the multinational automotive manufacturer formed from the 2021 merger of Fiat Chrysler and PSA Group, is capitalizing on market shifts. Toyota and Ford, two of the world's largest automakers with deep roots in sedan manufacturing, are grappling with changing market dynamics.",
-    "whyMatters": "The sedan resurgence could signal a shift in consumer priorities toward fuel efficiency and affordability as gas prices and economic pressures mount. For Stellantis, strong Q2 performance could reshape investor confidence and competitive positioning, while Toyota and Ford's struggles threaten market share in a critical segment they've historically dominated.",
-    "moreContext": "The auto industry has spent the past decade pivoting aggressively toward SUVs and crossovers as consumer preferences shifted and profit margins improved on larger vehicles. However, rising interest rates, inflation concerns, and mixed economic signals in 2026 are prompting buyers to reconsider fuel-efficient sedans as practical alternatives. Stellantis has leveraged its diverse brand portfolio—including Jeep, Ram, and Peugeot—to capture market opportunities across segments, while traditional sedan leaders like Toyota's Camry and Ford's Fusion have faced increased competition from new entrants and overlooked product refreshes.",
-    "enhanced": true
   }
 ]
