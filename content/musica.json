@@ -1,5 +1,22 @@
 [
   {
+    "id": "record-industry-proposes-adding-labels-to-ai-generated-music-599643",
+    "title": "Record Industry Proposes Adding Labels to AI-Generated Music",
+    "summary": "\"These labels will provide an immediately understandable and easily scalable approach to transparency,\" RIAA and other companies say of initiative",
+    "url": "https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-11T18:15:43.000Z",
+    "fetchedAt": "2026-07-11T23:17:18.301Z",
+    "lang": "en",
+    "whatHappening": "The recording industry is pushing for mandatory labels on AI-generated music to signal transparency to listeners and platforms. The RIAA and partner companies argue these labels will create a scalable, immediately recognizable system for identifying synthetic content.",
+    "whoInvolved": "The Recording Industry Association of America (RIAA) is leading the initiative alongside other major music industry companies. They represent major labels and rights holders who have been increasingly concerned about AI's impact on music creation and copyright.",
+    "whyMatters": "Clear AI labeling could help protect artists from unauthorized voice cloning and protect consumers from unknowingly consuming synthetic music. The move signals the industry's attempt to establish standards before AI-generated music becomes more prevalent, potentially influencing how streaming platforms and regulators handle the technology.",
+    "moreContext": "The music industry has faced growing threats from AI tools that can replicate artist voices and generate songs without permission, sparking numerous copyright disputes and artist outcry. Major labels have sued AI music platforms like Suno and Udio, while artists including Drake and The Weeknd have had their voices cloned without consent. This labeling proposal represents an industry effort to establish voluntary standards rather than wait for government regulation. The RIAA's initiative follows similar transparency efforts in other industries grappling with AI-generated content.",
+    "enhanced": true
+  },
+  {
     "id": "fiona-apple-wants-to-write-about-the-endless-barrage-of-horrors-in-todays-world-aed6fc",
     "title": "Fiona Apple Wants to Write About the ‘Endless Barrage of Horrors’ in Today’s World",
     "summary": "“I just didn’t want you to think that I was turning a blind eye or that I didn’t care,” the singer-songwriter says in a rare update. “I fucking care”",
@@ -507,22 +524,5 @@
     "enhanced": true,
     "twitterPosted": true,
     "fbPosted": true
-  },
-  {
-    "id": "taylor-swift-and-travis-kelce-are-officially-married-6b2070",
-    "title": "Taylor Swift and Travis Kelce Are Officially Married!",
-    "summary": "The celebrity power couple married on July 3 at Madison Square Garden",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-ceremony-1235575513/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-07-03T23:35:39.000Z",
-    "fetchedAt": "2026-07-04T08:58:19.756Z",
-    "lang": "en",
-    "whatHappening": "Taylor Swift and Travis Kelce have officially married in a high-profile ceremony at Madison Square Garden on July 3. The wedding brings together two of entertainment and sports' biggest names.",
-    "whoInvolved": "Taylor Swift is a 14-time Grammy Award-winning musician and one of the world's highest-grossing artists. Travis Kelce is a star tight end for the Kansas City Chiefs and three-time Super Bowl champion.",
-    "whyMatters": "The marriage solidifies one of pop culture's most watched relationships, with major implications for both their brands and fan bases. This union combines the entertainment and sports industries in a way that's likely to generate sustained media attention and cultural conversation for years to come.",
-    "moreContext": "Swift and Kelce's relationship became public in fall 2023 and quickly captivated mainstream media, with Swift attending multiple Chiefs games during the 2023-2024 NFL season. Their high-profile courtship drew unprecedented interest in the intersection of music and football fanbases. Madison Square Garden, where the wedding took place, holds iconic significance in Swift's career as the site of multiple record-breaking concert runs. The timing and venue choice signal a carefully orchestrated celebration befitting two of the world's most recognizable public figures.",
-    "enhanced": true
   }
 ]

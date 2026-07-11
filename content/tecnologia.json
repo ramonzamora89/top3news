@@ -1,5 +1,23 @@
 [
   {
+    "id": "after-years-of-teasing-the-viral-nopia-synth-is-basically-finished-50d5ce",
+    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+    "summary": "More mint green synths please. | Image: Nopia After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices…",
+    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-11T20:57:42.000Z",
+    "fetchedAt": "2026-07-11T23:17:18.108Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "The long-awaited Nopia synthesizer is nearing completion after years of anticipation. Creators Martin Grieco and Rocío Gal are demonstrating the nearly-finished synth to media outlets, signaling an imminent market launch.",
+    "whoInvolved": "Martin Grieco and Rocío Gal are the creators behind Nopia, an indie synth project that has built significant buzz in music gear communities. The duo recently showcased the instrument at MusicRadar's offices.",
+    "whyMatters": "The Nopia's arrival could fill a gap in the affordable, visually distinctive synth market that has seen growing consumer interest. A successful launch could validate the indie synth market and inspire similar projects from emerging creators.",
+    "moreContext": "Nopia first captured widespread attention in 2023 when the creators shared initial glimpses of the instrument, generating viral interest across music production communities. The mint green aesthetic and design philosophy resonated with online audiences, creating months of anticipation. The extended development timeline reflects the complexity of bringing custom hardware to market as an independent project. Nopia joins a growing wave of boutique synthesizers challenging traditional gear manufacturers.",
+    "enhanced": true
+  },
+  {
     "id": "fl-studio-head-constantin-koehncke-turns-to-reddit-for-feedback-and-fun-9f3129",
     "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
     "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW)…",
@@ -540,25 +558,6 @@
     "whoInvolved": "Erick the Architect is a founding member and primary producer for Flatbush Zombies, a Brooklyn-based hip-hop group known for their psychedelic sound and global touring presence. The Verge is a major technology and culture publication covering the intersection of tech and entertainment.",
     "whyMatters": "The story reflects broader nostalgia for pre-smartphone era devices and the tactile interfaces they offered, resonating with creatives who value hands-on tools. It highlights how legacy technology continues to influence modern artists and the ongoing debate over whether newer isn't always better for creative workflows.",
     "moreContext": "BlackBerry devices dominated the smartphone market in the 2000s and early 2010s before declining as touchscreen phones became standard. The Flatbush Zombies rose to prominence in the 2010s with hit albums like 'Better Off Dead' (2012) and 'Vacation in Hell' (2016), performing at major festivals including Coachella and appearing on late-night shows like Kimmel and Fallon. Interest in retro tech has surged in recent years, with younger users discovering outdated devices for their unique interfaces and perceived privacy benefits.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "qi-fan-fan-34cb65",
-    "title": "Qi fan fan",
-    "summary": "The Kuxiu D5 keeps Qi-compatible phones cool while also charging a watch and earbuds. Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky,…",
-    "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-04T07:00:00.000Z",
-    "fetchedAt": "2026-07-04T08:58:19.551Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG20260703155425.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "The Kuxiu D5 is a wireless Qi charger that combines phone charging with an integrated cooling fan and multi-device charging capabilities. The device can simultaneously charge a Qi-compatible phone, smartwatch, and earbuds while keeping the phone cool during the charging process.",
-    "whoInvolved": "The Verge, a major technology news outlet known for consumer electronics reviews and analysis, is covering the Kuxiu D5. Kuxiu appears to be a consumer electronics manufacturer specializing in charging solutions.",
-    "whyMatters": "This addresses a real pain point in wireless charging—phones often generate heat during charging, which can degrade battery health and slow charging speeds. The integration of cooling technology with multi-device charging capability makes it a practical solution for users with multiple connected devices, potentially extending device lifespan and improving user experience.",
-    "moreContext": "Wireless Qi charging has become standard on flagship smartphones but has faced criticism for generating excessive heat during operation. Previous attempts to add cooling to chargers faced skepticism about noise levels and effectiveness, but The Verge's reviewer suggests the Kuxiu D5 overcomes these concerns. The trend toward multi-device ecosystems—phones, watches, and wireless earbuds—has created demand for consolidated charging solutions. This represents manufacturers' efforts to solve practical thermal issues while meeting consumer expectations for convenient, unified charging experiences.",
     "enhanced": true,
     "fbPosted": true
   }
