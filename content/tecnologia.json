@@ -1,5 +1,23 @@
 [
   {
+    "id": "fl-studio-head-constantin-koehncke-turns-to-reddit-for-feedback-and-fun-9f3129",
+    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+    "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW)…",
+    "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-11T15:00:00.000Z",
+    "fetchedAt": "2026-07-11T15:19:30.151Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "FL Studio's head Constantin Koehncke is actively engaging with the music production community on Reddit, seeking feedback and fostering direct interaction with users. The move reflects a shift toward grassroots community engagement for one of the industry's most influential digital audio workstations.",
+    "whoInvolved": "Constantin Koehncke is the leader of Image-Line, the company behind FL Studio, a pioneering DAW that has been a staple in music production for decades. The Verge is reporting on this development, highlighting the intersection of established software companies and modern social media community building.",
+    "whyMatters": "Direct engagement with users on Reddit allows FL Studio to gather authentic feedback and maintain relevance in a competitive DAW market dominated by industry heavyweights like Ableton Live and Logic Pro. This grassroots approach can strengthen user loyalty and provide valuable insights into feature development and user experience improvements.",
+    "moreContext": "FL Studio, formerly known as Fruity Loops, became ubiquitous in the 2000s partly due to widespread piracy that paradoxically expanded its user base among aspiring producers who later became paying customers. The software has evolved from a simple loop-based tool into a full-featured professional DAW used by established artists and producers. The DAW market has intensified in recent years with increased competition and subscription-based models becoming standard. Koehncke's Reddit engagement represents a broader trend of software companies leveraging social platforms to build community and stay connected with their user base.",
+    "enhanced": true
+  },
+  {
     "id": "are-you-filthy-enough-for-a-700-portable-shower--2dd0b2",
     "title": "Are you filthy enough for a $700 portable shower?",
     "summary": "A luxurious hot shower anywhere you go. Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An…",
@@ -543,23 +561,5 @@
     "moreContext": "Wireless Qi charging has become standard on flagship smartphones but has faced criticism for generating excessive heat during operation. Previous attempts to add cooling to chargers faced skepticism about noise levels and effectiveness, but The Verge's reviewer suggests the Kuxiu D5 overcomes these concerns. The trend toward multi-device ecosystems—phones, watches, and wireless earbuds—has created demand for consolidated charging solutions. This represents manufacturers' efforts to solve practical thermal issues while meeting consumer expectations for convenient, unified charging experiences.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "this-slim-camera-has-a-transparent-lcd-screen-for-a-viewfinder-05483b",
-    "title": "This slim camera has a transparent LCD screen for a viewfinder",
-    "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company…",
-    "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-03T14:51:38.000Z",
-    "fetchedAt": "2026-07-04T08:58:19.551Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "A new slim camera featuring a transparent LCD screen is being introduced as the latest entrant in the resurgent point-and-shoot camera market. The innovative transparent viewfinder design offers a unique approach to the traditional camera format.",
-    "whoInvolved": "Godox, a camera accessories and equipment manufacturer, is behind this new camera model. The company is capitalizing on the broader revival of standalone cameras among photographers and content creators.",
-    "whyMatters": "This launch signals the continued momentum in the point-and-shoot camera renaissance, suggesting manufacturers see real market demand beyond smartphones. The transparent LCD innovation could influence how other camera makers design viewfinders and user interfaces for future models.",
-    "moreContext": "Standalone cameras have unexpectedly surged in popularity despite smartphones offering powerful photography capabilities, with models like the Kodak Charmera becoming bestsellers and older Canon cameras commanding high prices on the secondhand market. Influencers and photographers are actively seeking out dedicated cameras, driven by nostalgia, superior optics, and a desire for tools that feel more intentional than phone cameras. This trend reflects a broader cultural pushback against smartphone-centric workflows and a renewed appreciation for specialized hardware. Godox's entry into the camera market with this distinctive transparent-screen design demonstrates how the industry is innovating to meet this renewed demand.",
-    "enhanced": true
   }
 ]
