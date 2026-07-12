@@ -1,5 +1,23 @@
 [
   {
+    "id": "lorde-says-ray-ban-meta-ai-glasses-are-not-sexy-d3a8b5",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-12T20:10:19.000Z",
+    "fetchedAt": "2026-07-12T23:17:02.784Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Lorde is publicly criticizing Ray-Ban Meta AI glasses during her performance at Madrid's Real Cool Festival, calling them 'not sexy.' The pop star used her stage time to speak out against the wearable AI technology.",
+    "whoInvolved": "Lorde is an acclaimed New Zealand singer-songwriter known for hits like 'Green Light' and 'Solar Power.' Ray-Ban Meta is a partnership between Meta and the iconic eyewear brand that produces AI-enabled smart glasses.",
+    "whyMatters": "Celebrity criticism of emerging tech products can influence public perception and cultural adoption of new gadgets. As AI wearables become more mainstream, cultural figures' endorsements or rejections shape whether consumers view them as desirable status symbols or uncool surveillance devices.",
+    "moreContext": "Ray-Ban Meta glasses launched in 2023 as Meta's push into wearable computing, featuring cameras and AI capabilities that sparked privacy concerns. The device has faced ongoing scrutiny about surveillance and data collection. Smart glasses have struggled for mainstream adoption despite tech industry investment, with design and social acceptance remaining barriers to market success.",
+    "enhanced": true
+  },
+  {
     "id": "one-of-steelseries8217-best-gaming-headsets-is-over-100-off-235c04",
     "title": "One of SteelSeries’ best gaming headsets is over $100 off",
     "summary": "The SteelSeries Arctis Nova Pro gaming headset. | Photo by Amelia Holowaty Krales SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms…",
@@ -540,25 +558,6 @@
     "whoInvolved": "Google, the tech giant behind Workspace (its suite of productivity and collaboration tools), created the ad. The Verge, a major tech news publication, is covering the backlash to the campaign.",
     "whyMatters": "The commercial highlights the ongoing trend of tech companies using nostalgia and humor to market AI and collaboration software to consumers and businesses. The critical reception signals growing consumer skepticism about corporate attempts to normalize AI through forced historical analogies and cringey marketing tactics.",
     "moreContext": "Tech companies have increasingly leaned on celebrity endorsements and creative advertising to demystify AI tools and drive adoption. Google Workspace competes directly with Microsoft Teams and other collaboration platforms in a crowded market. The ad's premise—framing historical collaboration through a modern tech lens—reflects Silicon Valley's broader tendency to retrofit contemporary technology onto historical narratives. This campaign comes as AI adoption remains mixed, with many consumers expressing fatigue over aggressive tech marketing and AI hype.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "white-house-deletes-thousands-of-web-pages-about-energy-conservation-as-heatwave-5efcea",
-    "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
-    "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain…",
-    "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-04T16:19:06.000Z",
-    "fetchedAt": "2026-07-05T09:07:06.185Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739860/1998630585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100.51963048499,100.51966048848",
-    "lang": "en",
-    "whatHappening": "The US Department of Energy has deleted approximately 6,000 web pages focused on energy conservation while the nation faces a historic heatwave. The timing of the deletion follows Republican criticism of a New York City mayor's public request for residents to reduce energy consumption.",
-    "whoInvolved": "The US Department of Energy, under the current administration, removed the content. Mayor Zohran Mamdani of New York City had recently urged New Yorkers to conserve energy during peak heat demand, triggering backlash from Republican officials.",
-    "whyMatters": "Removing energy conservation guidance during an extreme weather event undermines public health messaging when demand for cooling is at critical levels. The deletion signals a policy shift away from conservation priorities and raises concerns about access to federal resources during climate emergencies.",
-    "moreContext": "Energy conservation initiatives have been a standard part of federal policy for decades, particularly during peak demand periods like summer heatwaves. The incident reflects broader political divisions over climate and energy policy, with Republicans increasingly opposing conservation messaging. Heatwaves strain electrical grids and can cause blackouts, making conservation guidance particularly relevant during these periods. The suspiciously timed deletion suggests the removals were politically motivated rather than routine administrative changes.",
     "enhanced": true,
     "fbPosted": true
   }
