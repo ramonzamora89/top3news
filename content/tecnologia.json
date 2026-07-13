@@ -15,7 +15,8 @@
     "whoInvolved": "Xinzhou Wu leads Nvidia's automotive division, which is betting heavily on self-driving car technology. Nvidia is the world's most valuable chipmaker and dominant supplier of GPUs powering the AI industry boom, making it a gatekeeper for compute resources across multiple business units.",
     "whyMatters": "The internal resource struggle reveals how constrained Nvidia's supply remains despite record production and how fiercely different segments compete for access. It underscores that even within one company, the AI computing bottleneck creates difficult trade-offs between potentially lucrative business opportunities in autonomous vehicles and immediate GPU demand from AI model makers.",
     "moreContext": "Nvidia has become the essential infrastructure provider for the AI boom, with its GPUs commanding premium prices and long wait times across industries. The company's automotive ambitions represent a major growth opportunity beyond data centers, but securing engineering resources and chips internally demonstrates how severely compute remains constrained. GPU scarcity has become a competitive advantage in itself, forcing even Nvidia executives to battle internally for allocation. This tension reflects broader industry dynamics where demand for AI computing vastly outpaces supply across all segments.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "waze-is-getting-a-bunch-of-new-ai-powered-features-04b529",
