@@ -1,7 +1,7 @@
 {
-  "price": 7575,
-  "change": 31.75,
-  "changePercent": 0.42,
-  "up": true,
-  "fetchedAt": "2026-07-13T09:11:53.803Z"
+  "price": 7541,
+  "change": -34.69,
+  "changePercent": -0.46,
+  "up": false,
+  "fetchedAt": "2026-07-13T15:52:33.741Z"
 }
