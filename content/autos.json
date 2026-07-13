@@ -1,5 +1,22 @@
 [
   {
+    "id": "californians-buying-their-first-ev-can-save-3500-with-new-incentive-0148c2",
+    "title": "Californians Buying Their First EV Can Save $3500 with New Incentive",
+    "summary": "While there's a $50,000 price cap, that doesn't apply to California-based automakers like Rivian and Lucid Motors.",
+    "url": "https://www.caranddriver.com/news/a71921709/california-first-time-ev-buyer-incentive-3500/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-13T21:23:00.000Z",
+    "fetchedAt": "2026-07-13T23:18:33.626Z",
+    "lang": "en",
+    "whatHappening": "California is offering a new $3,500 incentive for first-time EV buyers. The program comes with a $50,000 price cap on vehicles, though California-based automakers like Rivian and Lucid Motors are exempt from this limit.",
+    "whoInvolved": "California state government is administering the incentive program. Rivian and Lucid Motors, both California-based EV manufacturers, benefit from the exemption that allows their higher-priced vehicles to qualify.",
+    "whyMatters": "The incentive lowers the barrier to EV adoption for first-time buyers in the nation's largest car market, potentially accelerating electric vehicle sales. The exemption for California automakers gives Rivian and Lucid a competitive advantage by allowing luxury models to remain eligible despite exceeding the $50,000 cap.",
+    "moreContext": "EV incentives have become a key policy tool as states and the federal government work to meet climate goals and boost electric vehicle adoption. California has historically led the U.S. in EV sales and policy innovation. The $50,000 price cap targets mass-market vehicles while the carve-out for homegrown manufacturers aims to support the state's burgeoning EV industry. This move reflects tensions between democratizing EV access and supporting local companies.",
+    "enhanced": true
+  },
+  {
     "id": "view-exterior-photos-of-the-2026-mercedes-benz-cla250-bbbcf1",
     "title": "View Exterior Photos of the 2026 Mercedes-Benz CLA250+",
     "summary": "See the exterior of the 2026 Mercedes-Benz CLA250+ from every angle.",
@@ -503,23 +520,6 @@
     "whoInvolved": "General Motors and its luxury brand Cadillac are issuing the recall for the Vistiq, their three-row electric crossover. Hyundai previously identified comparable power-folding seat defects in second- and third-row configurations of its own vehicles.",
     "whyMatters": "The faulty power-folding mechanism poses a safety risk to passengers, potentially causing unexpected seat collapse or entrapment. This recall adds to growing concerns about power seat reliability across the auto industry and could impact consumer confidence in premium electric vehicle features.",
     "moreContext": "Power-folding seats have become popular convenience features in modern SUVs and crossovers, particularly in premium segments where the Vistiq competes. Hyundai's recall earlier this year flagged similar issues with automated third-row folding systems, prompting other manufacturers like GM to audit their own designs. The Vistiq, launched as Cadillac's answer to three-row electric crossovers, relies heavily on electronic features and automation as selling points. This recall highlights the emerging quality challenges automakers face as they rapidly introduce complex power mechanisms in new electric vehicle platforms.",
-    "enhanced": true
-  },
-  {
-    "id": "the-only-cizeta-moroder-v16t-supercar-ever-made-can-now-be-yours-d450f7",
-    "title": "The Only Cizeta Moroder V16T Supercar Ever Made Can Now Be Yours",
-    "summary": "This crazy 16-cylinder prototype spawned a few production cars, but here's the only one to have music legend Giorgio Moroder's name on the back.",
-    "url": "https://www.caranddriver.com/news/a71811275/1988-cizeta-moroder-v16t-rm-sothebys-auction/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-05T13:00:00.000Z",
-    "fetchedAt": "2026-07-06T09:28:43.907Z",
-    "lang": "en",
-    "whatHappening": "A rare Cizeta Moroder V16T supercar—the only one ever made with music legend Giorgio Moroder's name on it—is being offered for sale. This exotic prototype features a massive 16-cylinder engine and represents a unique piece of automotive and music history.",
-    "whoInvolved": "Giorgio Moroder, the legendary music producer and composer known for his work on Flashdance and Scarface soundtracks, lent his name to this supercar collaboration. Cizeta, an Italian supercar manufacturer, created the vehicle as a limited-production hypercar project.",
-    "whyMatters": "This car represents a rare intersection of music, design, and automotive engineering that appeals to collectors of both supercar memorabilia and music history. Its sale could set a precedent for celebrity-branded exotic vehicles and highlights the continued demand for one-off prototype supercars in the luxury market.",
-    "moreContext": "The Cizeta Moroder V16T was conceived in the 1980s as an ambitious supercar project that combined Italian craftsmanship with cutting-edge engineering. While the prototype spawned a limited number of production vehicles, this particular example is distinguished by Moroder's personal involvement and branding. The 16-cylinder engine was a bold engineering choice that set it apart from competitors of the era. This sale represents a rare opportunity to own a piece of automotive history that bridges the worlds of high-performance cars and music culture.",
     "enhanced": true
   }
 ]

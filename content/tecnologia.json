@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-tests-windows-search-without-all-the-ads-and-fluff-7f0d4e",
+    "title": "Microsoft tests Windows Search without all the ads and fluff",
+    "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks…",
+    "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-13T21:53:20.000Z",
+    "fetchedAt": "2026-07-13T23:18:34.019Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&#038;strip=all&#038;crop=0,6.2259176247693,100,93.774082375231",
+    "lang": "en",
+    "whatHappening": "Microsoft is testing a streamlined Windows 11 search interface that removes recommended content and ads from the search menu. The cleaner version is being rolled out to Windows Insiders in the Experimental channel.",
+    "whoInvolved": "Microsoft is the tech giant behind Windows 11 and its search functionality. Windows Insiders are early adopters and beta testers who voluntarily test new features before general release.",
+    "whyMatters": "A less cluttered search experience could improve user satisfaction and productivity by reducing distractions and speeding up information retrieval. This move signals Microsoft may be reconsidering its aggressive monetization approach in core Windows features, which has faced user criticism.",
+    "moreContext": "Windows 11's search menu has increasingly featured sponsored content and recommendations, mirroring trends across Microsoft's products to generate advertising revenue. User complaints about bloatware and ads in Windows have mounted since Windows 11's launch, with many viewing the cluttered interface as degrading the OS experience. The shift to testing a cleaner version suggests Microsoft is weighing user experience improvements against ad revenue opportunities. This experimental rollout allows Microsoft to gauge user preference and gather feedback before deciding on wider implementation.",
+    "enhanced": true
+  },
+  {
     "id": "even-nvidias-head-of-automotive-fights-with-nvidia-for-compute-2b765a",
     "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
     "summary": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is…",
@@ -539,25 +557,6 @@
     "whoInvolved": "The Verge, a major technology and culture publication, is examining the intersection of wearable tech and privacy concerns. Netflix's series A Man on the Inside appears to have prompted this reflection on how smart glasses are portrayed versus their real-world implications.",
     "whyMatters": "Smart glasses are becoming increasingly mainstream consumer products, but their surveillance capabilities raise serious privacy questions that Hollywood often glosses over. The discomfort of holding others' privacy in one's hands signals a growing tension between technological capability and ethical responsibility that will shape how these devices are adopted and regulated.",
     "moreContext": "Hollywood has long glamorized smart glasses through films and shows, setting unrealistic expectations about their capabilities and social acceptance. Netflix's A Man on the Inside appears to explore surveillance themes that resonated with the author's concerns about real-world privacy implications. The smart glasses market is actively growing with products from major tech companies, making the ethical questions about constant recording and data collection increasingly urgent. The gap between entertainment's portrayal of these devices and their actual social impact remains a critical conversation in tech circles.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "mr-lifs-emergency-rations-ep-is-post-911-hip-hop-at-its-most-daring-4263a4",
-    "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
-    "summary": "First, you drop bombs, then you send aid. Totally logical. | Image: Definitive Jux There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing,…",
-    "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-05T18:30:00.000Z",
-    "fetchedAt": "2026-07-06T09:28:44.412Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Mr-Lif-Emergency-Rations.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Mr. Lif's Emergency Rations EP is being recognized as a landmark example of post-9/11 hip hop that pushed artistic boundaries during a politically charged era. The project exemplifies the daring experimental approach that defined early-2000s underground hip hop.",
-    "whoInvolved": "Mr. Lif is an underground hip hop artist who released Emergency Rations through Definitive Jux (formerly Def Jux), an independent label founded by El-P that became known for cultivating experimental and politically conscious rap music.",
-    "whyMatters": "The EP represents a critical moment when hip hop artists were grappling with post-9/11 American politics through bold artistic expression. This work demonstrates how underground labels and artists used music as a vehicle for challenging mainstream narratives during a turbulent historical period.",
-    "moreContext": "Definitive Jux emerged in the early 2000s as a creative force in hip hop, signing politically engaged and experimental artists during an era when the genre was wrestling with themes of war, surveillance, and national identity. Emergency Rations exemplifies the label's commitment to boundary-pushing content that addressed contemporary social and political issues head-on. The early aughts represented a unique moment when underground hip hop maintained artistic autonomy while engaging with urgent real-world events. This period is now recognized as a distinctive chapter in hip hop history when independent labels served as platforms for urgent political commentary.",
     "enhanced": true,
     "fbPosted": true
   }

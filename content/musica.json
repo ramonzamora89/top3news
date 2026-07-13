@@ -1,5 +1,22 @@
 [
   {
+    "id": "levon-helms-family-embroiled-in-dispute-over-his-famed-woodstock-venue-a6538a",
+    "title": "Levon Helm’s Family Embroiled in Dispute Over His Famed Woodstock Venue",
+    "summary": "Daughter Amy Helm claims “disturbing circumstances” led to her ouster from Levon Helm Studio after her stepmother, Sandra, backed a leadership change",
+    "url": "https://www.rollingstone.com/music/music-news/levon-helm-studios-dispute-amy-helm-removed-takeover-fight-1235592959/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-13T20:49:34.000Z",
+    "fetchedAt": "2026-07-13T23:18:34.936Z",
+    "lang": "en",
+    "whatHappening": "Amy Helm, daughter of late Band drummer Levon Helm, is feuding with her stepmother Sandra over control of Levon Helm Studio, the legendary Woodstock venue. Amy claims she was ousted under \"disturbing circumstances\" after Sandra supported a leadership transition.",
+    "whoInvolved": "Amy Helm is a musician and producer who worked at the studio founded by her father Levon Helm, the iconic drummer of The Band. Sandra Helm, Levon's widow, backed the management change that led to Amy's departure.",
+    "whyMatters": "The dispute threatens the future direction of a culturally significant music venue in Woodstock that has hosted recordings and performances by major artists. Family ownership battles over legacy projects often result in operational instability and loss of the original artistic vision.",
+    "moreContext": "Levon Helm, a founding member of The Band, opened his studio in Woodstock as a creative hub before his death in 2012. The venue became known for hosting intimate sessions with renowned musicians and preserving the region's storied recording heritage. Family disputes over artist estates and music venues have become increasingly common as estates grow in value and second marriages complicate inheritance and control. The specifics of Sandra's leadership decision and Amy's allegations remain contested between the parties.",
+    "enhanced": true
+  },
+  {
     "id": "jay-z-concert-delayed-by-gatecrashers-who-stormed-over-ticketholders-3c8b45",
     "title": "Jay-Z Concert Delayed by Gatecrashers Who ‘Stormed Over Ticketholders’",
     "summary": "What was supposed to be a 9 p.m. start time on Sunday night was pushed back past midnight after the security incident",
@@ -507,22 +524,5 @@
     "enhanced": true,
     "twitterPosted": true,
     "fbPosted": true
-  },
-  {
-    "id": "stevie-nicks-performs-at-taylor-swift-and-travis-kelces-wedding-a7f998",
-    "title": "Stevie Nicks Performs at Taylor Swift and Travis Kelce’s Wedding",
-    "summary": "The Fleetwood Mac singer took the stage at Madison Square Garden following the couple's ceremony on Friday night",
-    "url": "https://www.rollingstone.com/music/music-news/stevie-nicks-performance-taylor-swift-travis-kelce-wedding-1235586080/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-07-04T12:33:59.000Z",
-    "fetchedAt": "2026-07-06T09:28:44.651Z",
-    "lang": "en",
-    "whatHappening": "Stevie Nicks performed at Taylor Swift and Travis Kelce's wedding reception following their Friday night ceremony. The legendary Fleetwood Mac singer took the stage at Madison Square Garden to entertain the newlyweds and their guests.",
-    "whoInvolved": "Stevie Nicks is an iconic rock vocalist and songwriter best known for her 40+ year career with Fleetwood Mac and as a solo artist. Taylor Swift is a global superstar pop/country musician, while Travis Kelce is an NFL tight end for the Kansas City Chiefs.",
-    "whyMatters": "The high-profile celebrity wedding marks a major moment in pop culture, combining music royalty with sports and entertainment industries. The collaboration between generations of music icons signals Swift and Kelce's wedding as one of the year's most star-studded events, with significant media and social attention.",
-    "moreContext": "Swift and Kelce's relationship became public in September 2023 and has drawn massive media coverage, including frequent appearances together at Chiefs games. Nicks has previously expressed admiration for Swift's songwriting abilities. Madison Square Garden served as the venue for the ceremony and reception, one of New York City's most prestigious locations. This wedding joins a growing trend of celebrities hosting elaborate, celebrity-filled celebrations that generate significant entertainment news coverage.",
-    "enhanced": true
   }
 ]
