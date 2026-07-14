@@ -15,7 +15,8 @@
     "whoInvolved": "Microsoft is the tech giant behind Windows 11 and its search functionality. Windows Insiders are early adopters and beta testers who voluntarily test new features before general release.",
     "whyMatters": "A less cluttered search experience could improve user satisfaction and productivity by reducing distractions and speeding up information retrieval. This move signals Microsoft may be reconsidering its aggressive monetization approach in core Windows features, which has faced user criticism.",
     "moreContext": "Windows 11's search menu has increasingly featured sponsored content and recommendations, mirroring trends across Microsoft's products to generate advertising revenue. User complaints about bloatware and ads in Windows have mounted since Windows 11's launch, with many viewing the cluttered interface as degrading the OS experience. The shift to testing a cleaner version suggests Microsoft is weighing user experience improvements against ad revenue opportunities. This experimental rollout allows Microsoft to gauge user preference and gather feedback before deciding on wider implementation.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "even-nvidias-head-of-automotive-fights-with-nvidia-for-compute-2b765a",
