@@ -1,5 +1,23 @@
 [
   {
+    "id": "nothings-good-looking-watch-3-pro-smartwatch-is-just-69-e2e7e6",
+    "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+    "summary": "The CMF by Nothing Watch 3 Pro comes in four different styles. | Image: Nothing While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even…",
+    "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-14T22:24:26.000Z",
+    "fetchedAt": "2026-07-14T23:17:53.352Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-BY-NOTHING-Watch-3-Pro-Lifestyle-Press-Image-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "CMF by Nothing is launching the Watch 3 Pro smartwatch at just $69, undercutting the market with a budget-friendly option that still includes a 1.43-inch OLED display. The device comes in four different style options, breaking the trend of fitness trackers ditching screens to hit lower price points.",
+    "whoInvolved": "Nothing, the tech company known for affordable consumer electronics, is behind the CMF sub-brand that focuses on accessible pricing. The Verge, a major tech publication, is reporting on the launch.",
+    "whyMatters": "This aggressive pricing pressures competitors to reconsider their value propositions in the smartwatch market, particularly affecting brands that have stripped features to compete on cost. The move signals that consumers can get OLED display technology with smartwatch functionality at a fraction of typical prices, potentially reshaping expectations for the budget wearables segment.",
+    "moreContext": "The smartwatch market has seen a clear divide recently, with budget options typically sacrificing screens entirely to keep prices low, while premium models command $200-400 price tags. Nothing has built its brand around delivering tech features at aggressive price points, establishing itself as a disruptor in categories like smartphones and audio devices. The CMF sub-brand specifically targets cost-conscious buyers without compromising core functionality. This Watch 3 Pro continues that strategy by offering OLED technology—typically a premium feature—at an entry-level price point.",
+    "enhanced": true
+  },
+  {
     "id": "sam-altman-didnt-need-another-lawsuit-2a3dd7",
     "title": "Sam Altman didn’t need another lawsuit",
     "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line.…",
@@ -538,25 +556,6 @@
     "whoInvolved": "Discord, the popular communication platform with tens of millions of users, operates an automated safety system designed to detect and prevent harmful content. The company publicly disclosed the error following complaints from affected users on Reddit and other forums.",
     "whyMatters": "The mass banning reveals vulnerabilities in Discord's automated moderation that punishes innocent users without human review, potentially eroding trust in the platform's fairness. This raises broader questions about over-reliance on AI moderation systems and the need for better safeguards when automation affects user accounts.",
     "moreContext": "Discord's safety systems are meant to combat harassment, illegal content, and other violations, but the algorithm apparently struggled to distinguish between benign grid patterns and potentially problematic material. The bug persisted for months before being publicly identified, suggesting the company may not have robust processes for catching and addressing moderation errors. This incident follows industry-wide challenges with content moderation at scale, from major platforms like Meta and Twitter also grappling with balancing automation with accuracy. Discord has not yet detailed a timeline for restoring banned accounts or compensating affected users.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "americas-greatest-idea-is-still-under-threat-a8fe98",
-    "title": "America’s greatest idea is still under threat",
-    "summary": "The Patrouille de France perform a flyover during the Sail4th 250 Tall Ships Parade along the Hudson River in New York on July 4th, 2026. | Photo by John Lamparski/Bloomberg via Getty Images The United States of America recently turned 250 years old. What a spectacle! The…",
-    "url": "https://www.theverge.com/policy/961802/america-250-free-speech",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-06T18:36:33.000Z",
-    "fetchedAt": "2026-07-07T09:13:13.930Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284040155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "The United States is marking its 250th anniversary as a nation, celebrating with major spectacles like military flyovers and tall ships parades. The milestone is prompting reflection on the country's foundational ideals and their current state.",
-    "whoInvolved": "The Patrouille de France (French military aerobatic team) participated in celebratory events in New York, while The Verge is providing analysis of America's democratic institutions and principles. The broader celebration involves U.S. government institutions and international partners marking the occasion.",
-    "whyMatters": "The 250-year anniversary serves as a critical moment to assess whether America's founding principles remain intact and protected. The piece's framing that democracy is \"still under threat\" suggests current vulnerabilities in institutions many consider foundational to the nation's identity.",
-    "moreContext": "America declared independence in 1776, establishing a democratic republic based on principles of individual liberty and representative government. The U.S. has experienced previous periods of democratic stress, including the Civil War, Great Depression, and civil rights era. Contemporary threats to democracy range from polarization and disinformation to institutional erosion and international interference. This reflective moment coincides with ongoing national debates about voting rights, judicial independence, and the strength of democratic norms.",
     "enhanced": true,
     "fbPosted": true
   }

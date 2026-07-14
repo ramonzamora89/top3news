@@ -1,5 +1,22 @@
 [
   {
+    "id": "red-bulls-75-million-rb17-breaks-cover-at-the-goodwood-festival-of-speed-012187",
+    "title": "Red Bull’s $7.5 Million RB17 Breaks Cover at the Goodwood Festival of Speed",
+    "summary": "Red Bull brought a running prototype to the legendary British festival.",
+    "url": "https://www.caranddriver.com/features/a71920446/red-bull-rb17-goodwood-festival-of-speed/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-14T22:33:00.000Z",
+    "fetchedAt": "2026-07-14T23:17:53.216Z",
+    "lang": "en",
+    "whatHappening": "Red Bull has unveiled its $7.5 million RB17 hypercar at the Goodwood Festival of Speed, one of the automotive world's most prestigious events. The company brought a running prototype to the legendary British festival, marking a significant public debut for the exclusive vehicle.",
+    "whoInvolved": "Red Bull, the energy drink company and Formula 1 powerhouse, partnered with legendary F1 designer Adrian Newey to create the RB17. The vehicle represents Red Bull's expansion into limited-production hypercars, leveraging the company's motorsport expertise and engineering prowess.",
+    "whyMatters": "The RB17's debut signals Red Bull's serious ambitions beyond F1 into the ultra-luxury hypercar market, potentially establishing a new revenue stream and brand extension. The appearance at Goodwood—where automotive enthusiasts and industry insiders gather—amplifies visibility for the exclusive vehicle and validates Red Bull's credentials as a legitimate manufacturer beyond beverages and racing.",
+    "moreContext": "Red Bull has been leveraging its F1 success and technical expertise to diversify into high-performance vehicles, with the RB17 representing the company's flagship automotive project. Goodwood Festival of Speed, held annually in West Sussex, England, is where manufacturers traditionally showcase their most innovative and exclusive vehicles to a global audience of collectors and enthusiasts. The $7.5 million price point positions the RB17 in the elite hypercar segment alongside vehicles from McLaren, Ferrari, and Pagani. By bringing a running prototype rather than just a concept, Red Bull demonstrated confidence in the vehicle's development and readiness for production.",
+    "enhanced": true
+  },
+  {
     "id": "the-grand-tour-will-return-on-september-4-with-a-new-trio-of-hosts-d4de31",
     "title": "'The Grand Tour' Will Return on September 4 with a New Trio of Hosts",
     "summary": "YouTube's Throttle House duo and TikTok's Francis Bourgeois will officially take on the legendary show come September.",
@@ -503,23 +520,5 @@
     "whyMatters": "The new Topolino represents Fiat's strategy to democratize electric vehicles by offering an affordable entry point into EV ownership for mass-market consumers. This move is critical as European automakers face pressure to transition away from combustion engines while maintaining accessibility across income levels.",
     "moreContext": "The original Topolino was one of Italy's most beloved cars and helped motorize the nation in the mid-20th century. Stellantis has been aggressive in launching affordable EVs across its portfolio to compete with Chinese manufacturers and Tesla in the budget segment. Fiat previously launched the 500 electric as a premium-priced option, but the Topolino revival signals the brand is doubling down on its heritage of practical, cost-effective vehicles for everyday drivers.",
     "enhanced": true
-  },
-  {
-    "id": "2027-mercedes-maybach-s580-drive-more-more-more-a2a7c5",
-    "title": "2027 Mercedes-Maybach S580 Drive: More, More, More",
-    "summary": "How do you like it? If you want top-tier luxury with dashes of Mercedes flavoring, the V-8 Maybach delivers it all in ample doses.",
-    "url": "https://www.caranddriver.com/reviews/a71783027/2027-mercedes-maybach-s580-drive/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-06T22:01:00.000Z",
-    "fetchedAt": "2026-07-07T09:13:13.763Z",
-    "lang": "en",
-    "whatHappening": "Mercedes-Maybach has unveiled the 2027 S580, a ultra-luxury sedan packed with premium features and a powerful V-8 engine. The vehicle represents the automaker's latest push into the high-end luxury segment with abundant comfort and performance.",
-    "whoInvolved": "Mercedes-Benz, the German luxury automaker, is behind the Maybach line, which targets ultra-wealthy consumers seeking the pinnacle of automotive luxury. Car and Driver, a leading automotive publication, tested and reviewed the vehicle.",
-    "whyMatters": "The 2027 S580 signals Mercedes' continued investment in the ultra-luxury market despite economic uncertainty and shifting consumer preferences toward electric vehicles. Success in this segment demonstrates demand remains strong among affluent buyers willing to pay premium prices for exclusivity and traditional luxury experiences.",
-    "moreContext": "The Maybach nameplate, originally a luxury brand from the 1920s-30s, was revived by Mercedes in 2002 as an ultra-premium sub-brand positioned above the S-Class. The V-8 engine choice reflects Mercedes' strategy to maintain gas powertrains in its highest-tier offerings, even as the broader automotive industry transitions to electrification. Maybach vehicles typically start at $180,000+ and cater to a niche market of executives, celebrities, and international elites seeking bespoke luxury experiences.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
