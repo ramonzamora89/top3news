@@ -1,5 +1,23 @@
 [
   {
+    "id": "sam-altman-didnt-need-another-lawsuit-2a3dd7",
+    "title": "Sam Altman didn’t need another lawsuit",
+    "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line.…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-14T14:01:07.000Z",
+    "fetchedAt": "2026-07-14T15:27:59.679Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Apple has filed a high-profile lawsuit against OpenAI, marking one of the most significant legal actions the company faces this year. The suit targets OpenAI's hardware strategy, adding to an already crowded docket of litigation the AI company is juggling.",
+    "whoInvolved": "OpenAI, the AI company led by Sam Altman that's at the center of the AI boom, is facing legal action from Apple, the tech giant known for closely controlling its hardware and software ecosystem. OpenAI has been embroiled in multiple lawsuits throughout the year, including one from Elon Musk.",
+    "whyMatters": "The lawsuit threatens OpenAI's hardware ambitions at a critical moment when the company is betting heavily on custom devices to compete in the AI market. A loss could force OpenAI to restructure its hardware strategy and drain resources already stretched thin by ongoing legal battles.",
+    "moreContext": "OpenAI has faced an unusually litigious year with lawsuits from various parties, but Apple's involvement signals that even major tech partners view certain OpenAI initiatives as competitive threats. The hardware space has become increasingly central to AI companies' strategies as they seek to differentiate beyond software models. OpenAI's hardware push represents a significant capital commitment and strategic pivot away from its pure software focus. This lawsuit comes as tensions between major tech companies over AI development and device integration continue to escalate across the industry.",
+    "enhanced": true
+  },
+  {
     "id": "oneplus-is-reportedly-bailing-on-the-us-977711",
     "title": "OnePlus is reportedly bailing on the US",
     "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors…",
@@ -540,23 +558,5 @@
     "moreContext": "America declared independence in 1776, establishing a democratic republic based on principles of individual liberty and representative government. The U.S. has experienced previous periods of democratic stress, including the Civil War, Great Depression, and civil rights era. Contemporary threats to democracy range from polarization and disinformation to institutional erosion and international interference. This reflective moment coincides with ongoing national debates about voting rights, judicial independence, and the strength of democratic norms.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "five-questions-for-dr-rubin-whos-armed-with-a-mic-and-a-bowtie-81bac1",
-    "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
-    "summary": "Dr. Rubin’s feed Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet…",
-    "url": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-06T17:15:29.000Z",
-    "fetchedAt": "2026-07-07T09:13:13.930Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rbn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Dr. Rubin is making waves as a truth-telling communicator armed with a microphone and signature bowtie, tackling the spread of viral misinformation. The piece frames a larger problem: false information spreads cheaply and easily while accurate information requires expertise and effort to produce and verify.",
-    "whoInvolved": "Dr. Rubin is a credible expert willing to publicly counter misinformation. The Verge is covering this trend of specialized communicators fighting against the democratization of false narratives online.",
-    "whyMatters": "As misinformation continues to go viral at scale, trusted experts stepping into the public arena becomes increasingly critical for public discourse. This matters because the time and energy of highly trained professionals is being diverted from productive work to constantly debunk falsehoods that anyone can generate.",
-    "moreContext": "The digital information landscape has fundamentally shifted—social media algorithms reward engagement over accuracy, making it trivial for anyone to create and spread false claims that accumulate massive reach. Meanwhile, fact-checking and truth-telling require genuine expertise, research time, and credibility that can't be rushed. This asymmetry has created a growing class of public intellectuals and subject-matter experts who feel compelled to engage directly with audiences to combat viral falsehoods. Dr. Rubin's approach of combining accessible communication style with expertise represents a broader response to this challenge.",
-    "enhanced": true
   }
 ]
