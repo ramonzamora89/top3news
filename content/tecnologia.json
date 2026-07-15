@@ -15,7 +15,8 @@
     "whoInvolved": "SpaceX, the aerospace company led by Elon Musk, continues to expand its Starlink satellite internet service. The company has been aggressively pushing satellite-based broadband as an alternative to traditional terrestrial internet providers.",
     "whyMatters": "A smaller, lighter dish with better power efficiency makes Starlink more practical for a wider range of installations and reduces operational costs. This incremental hardware improvement helps SpaceX remain competitive in the growing satellite internet market and could accelerate adoption in underserved areas.",
     "moreContext": "Starlink has been steadily rolling out hardware upgrades since launching commercial service in 2021. The V4 dish represented a previous generation of the technology that served as the baseline for residential deployments. The V5 represents SpaceX's continued iteration on the hardware design to improve performance and user experience. Broader rollout to more areas is planned, suggesting this is part of a phased release strategy rather than an immediate global availability.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "google-and-epic-give-up-fighting-third-party-android-app-stores-are-coming-next--03cb1c",
