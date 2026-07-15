@@ -1,5 +1,22 @@
 [
   {
+    "id": "california-dmv-demands-drivers-retake-test-or-lose-their-license-3effb6",
+    "title": "California DMV Demands Drivers Retake Test or Lose Their License",
+    "summary": "The government agency says there's a possibility that flagged patterns show evidence of cheating.",
+    "url": "https://www.caranddriver.com/news/a72056809/california-dmv-cheating-scandal-retake-drivers-test/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-15T21:00:00.000Z",
+    "fetchedAt": "2026-07-15T23:19:23.691Z",
+    "lang": "en",
+    "whatHappening": "California's Department of Motor Vehicles is ordering certain drivers to retake their licensing exams or face license revocation. The DMV says it detected suspicious patterns suggesting widespread cheating during test administration.",
+    "whoInvolved": "The California DMV, the state agency responsible for issuing and managing driver's licenses, is initiating the crackdown. Affected drivers across the state are being notified of the requirement to retest.",
+    "whyMatters": "This could result in thousands of drivers losing legal driving privileges if they don't comply with retesting. The move signals the DMV's effort to ensure road safety by validating that license holders actually meet competency standards, potentially preventing accidents caused by unqualified drivers.",
+    "moreContext": "Driver's license testing has faced integrity challenges in various states, with reports of cheating rings and compromised testing facilities in recent years. California's DMV oversees millions of licenses and has faced criticism over testing center operations and oversight. The specific flagged patterns suggest either systematic cheating at particular testing locations or coordinated fraud schemes. This enforcement action represents an unusual step by a state DMV to retroactively validate licenses already issued.",
+    "enhanced": true
+  },
+  {
     "id": "nissan-is-preparing-to-scrap-altima-sedan-as-it-pares-us-lineup-5a7071",
     "title": "Nissan Is Preparing to Scrap Altima Sedan as It Pares U.S. Lineup",
     "summary": "Nissan's sedan lineup is about to be a party of one, according to the brand's chief product officer in North America.",
@@ -502,23 +519,5 @@
     "whyMatters": "A $30,000 electric truck could democratize EV ownership by making electric vehicles accessible to mainstream truck buyers who've traditionally been priced out of the EV market. This move positions Ford to capture a significant share of the growing electric truck segment and maintain its dominance in the truck category it has long dominated with gas-powered vehicles.",
     "moreContext": "Ford has invested heavily in EV development over the past five years, launching vehicles like the Mustang Mach-E and F-150 Lightning to compete in the electric market. The truck segment remains critical to Ford's profitability and brand identity, making an affordable EV option strategically important. Competitors like Tesla (Cybertruck) and Chevrolet (Silverado EV) are already moving into this space, intensifying pressure on Ford. The $30,000 price point would undercut most current electric truck offerings, potentially reshaping market expectations around EV pricing.",
     "enhanced": true
-  },
-  {
-    "id": "2027-mercedes-maybach-s-class-c6665c",
-    "title": "2027 Mercedes-Maybach S-Class",
-    "summary": "Review, Pricing, and Specs",
-    "url": "https://www.caranddriver.com/mercedes-maybach/s580-s680-2027",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-07T21:24:00.000Z",
-    "fetchedAt": "2026-07-08T08:57:08.091Z",
-    "lang": "en",
-    "whatHappening": "Mercedes-Benz is unveiling the 2027 Maybach S-Class, the automaker's ultra-luxury flagship sedan that combines cutting-edge technology with handcrafted elegance. The vehicle represents the latest iteration of Mercedes' most exclusive and expensive passenger car offering.",
-    "whoInvolved": "Mercedes-Benz, the German luxury automotive manufacturer, is behind this release. The Maybach brand, originally a separate German automaker acquired by Daimler (Mercedes' parent company), has been revived as Mercedes' ultra-premium sub-brand since 2015.",
-    "whyMatters": "The 2027 Maybach S-Class signals how legacy luxury automakers are competing in an increasingly electric and technology-driven market while maintaining exclusivity and heritage. This refresh matters to high-net-worth consumers and investors watching whether traditional luxury can adapt to changing buyer preferences around sustainability and autonomous features.",
-    "moreContext": "The Maybach brand was dormant for decades before Mercedes relaunched it in 2015 to compete with Rolls-Royce and Bentley in the ultra-luxury segment. The current generation Maybach S-Class debuted in 2021 as an extended-wheelbase variant of the S-Class with bespoke interiors and personalization options. Mercedes has been incrementally updating this platform with new powertrains, infotainment systems, and design elements. The 2027 refresh comes as luxury automakers face pressure to electrify their lineups while maintaining the hand-assembled craftsmanship and exclusivity that justify $150,000+ price tags.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
