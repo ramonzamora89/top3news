@@ -1,5 +1,22 @@
 [
   {
+    "id": "lorde-slams-spotify-over-sloppy-ai-generated-song-descriptions-cd8a36",
+    "title": "Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions",
+    "summary": "The Grammy-winning artist slammed the streaming behemoth over its \"About the Song\" feature and accused it of sharing inaccurate information",
+    "url": "https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-07-16T23:02:30.000Z",
+    "fetchedAt": "2026-07-16T23:17:45.201Z",
+    "lang": "en",
+    "whatHappening": "Lorde is publicly criticizing Spotify's AI-generated \"About the Song\" feature for publishing inaccurate information about her music. The Grammy-winning artist called out the streaming platform for what she describes as sloppy execution of the automated description tool.",
+    "whoInvolved": "Lorde is a Grammy-winning New Zealand singer-songwriter known for albums like \"Melodrama\" and \"Solar Power.\" Spotify is the world's largest music streaming service with over 500 million users, which recently rolled out AI-powered features to enhance user experience.",
+    "whyMatters": "This highlights growing tensions between artists and streaming platforms over AI implementation and accuracy in music metadata. The incident underscores broader concerns about how AI-generated content can spread misinformation while potentially affecting how songs are discovered and understood by listeners.",
+    "moreContext": "Spotify has been increasingly integrating AI tools, including AI DJ features and automated playlist descriptions, as part of its strategy to personalize user experience. The music industry has expressed mixed feelings about AI adoption, with some artists embracing it and others worried about accuracy, compensation, and creative control. This controversy reflects the larger debate about AI quality control in consumer-facing products. Lorde has historically been vocal about industry issues, including her 2013 criticism of Spotify's payment model to artists.",
+    "enhanced": true
+  },
+  {
     "id": "see-ghostface-killah-de-la-soul-fat-joe-perform-at-knicks-centric-espys-dbd94b",
     "title": "See Ghostface Killah, De La Soul, Fat Joe Perform at Knicks-Centric ESPYs",
     "summary": "Slick Rick also takes the stage as ESPN’s annual award show celebrates New York’s NBA title",
@@ -507,22 +524,5 @@
     "enhanced": true,
     "twitterPosted": true,
     "fbPosted": true
-  },
-  {
-    "id": "watch-mick-jagger-and-ronnie-wood-perform-ringing-hollow-at-london-event-e2159e",
-    "title": "Watch Mick Jagger and Ronnie Wood Perform ‘Ringing Hollow’ at London Event",
-    "summary": "The song appears on their upcoming album Foreign Tongues, which arrives Friday",
-    "url": "https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-ronnie-wood-play-ringing-hollow-1235591361/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-07-08T23:45:53.000Z",
-    "fetchedAt": "2026-07-09T09:12:03.472Z",
-    "lang": "en",
-    "whatHappening": "Mick Jagger and Ronnie Wood performed 'Ringing Hollow' at a London event, showcasing new material ahead of its official release. The performance marks the rollout of their collaborative album Foreign Tongues, arriving Friday.",
-    "whoInvolved": "Mick Jagger and Ronnie Wood are legendary musicians best known as the lead singer and guitarist of The Rolling Stones, one of rock's most iconic bands. Their partnership spans decades, with Wood joining the Stones in 1975 and remaining a core member.",
-    "whyMatters": "The performance signals the arrival of fresh music from two elder statesmen of rock, keeping both artists relevant and active in the recording sphere. The album's release demonstrates their continued creative output and ability to draw media attention and fan interest despite their advanced ages.",
-    "moreContext": "Jagger and Wood have collaborated on solo material and side projects throughout their careers while maintaining their Stones commitments. The Foreign Tongues album represents a significant project that highlights their enduring partnership beyond the main band. This comes as The Rolling Stones continue touring and recording, with both members in their 80s. Their ability to produce and perform new work remains noteworthy given the longevity demands of the music industry.",
-    "enhanced": true
   }
 ]

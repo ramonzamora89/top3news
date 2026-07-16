@@ -1,5 +1,22 @@
 [
   {
+    "id": "conversational-ai-software-is-coming-to-some-hondas-and-acuras-07a254",
+    "title": "'Conversational' AI Software Is Coming to Some Hondas and Acuras",
+    "summary": "Nine Honda and three Acura models will get updated software featuring Google Gemini, an AI assistant that listens and talks to drivers in a conversational tone.",
+    "url": "https://www.caranddriver.com/news/a72737248/honda-acura-conversational-google-gemini-ai-software/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-16T20:57:00.000Z",
+    "fetchedAt": "2026-07-16T23:17:45.009Z",
+    "lang": "en",
+    "whatHappening": "Honda and Acura are rolling out Google Gemini AI assistant software to 12 vehicle models combined. The conversational AI will let drivers interact with their cars through natural dialogue rather than traditional voice commands or touchscreen menus.",
+    "whoInvolved": "Honda and Acura (luxury division of Honda) are partnering with Google to integrate Gemini, Google's latest AI assistant. Nine Honda models and three Acura models will receive the update, representing a significant deployment of advanced AI in mainstream vehicles.",
+    "whyMatters": "This represents the automotive industry's shift toward conversational interfaces that could improve driver safety and convenience by reducing the need to take eyes off the road or hands off the wheel. It also signals how major automakers are betting on generative AI to differentiate their in-car experience as a competitive advantage in an increasingly software-driven market.",
+    "moreContext": "Automakers have been gradually integrating voice assistants for years, but conversational AI powered by large language models like Gemini represents a generational leap in capability and natural interaction. Google has been aggressively positioning Gemini across consumer products as a differentiator from rivals like ChatGPT and Claude. This partnership follows the broader automotive trend of enhanced infotainment systems becoming key selling points, with companies like Tesla and legacy automakers investing heavily in software and AI capabilities to compete in the EV-dominated future.",
+    "enhanced": true
+  },
+  {
     "id": "this-crazy-v-12-powered-aston-martin-suv-is-ready-for-battle-d45fbd",
     "title": "This Crazy V-12-Powered Aston Martin SUV Is Ready for Battle",
     "summary": "The Dreadnought will exist solely in the virtual world of Call of Duty: Modern Warfare 4, and it looks like an absolute beast.",
@@ -499,24 +516,6 @@
     "whoInvolved": "Mercedes-AMG, the high-performance division of Mercedes-Benz, has long been known for engineering potent turbocharged engines in compact and mid-size vehicles. The company is one of the automotive industry's leading luxury performance brands competing directly with BMW M and Audi RS divisions.",
     "whyMatters": "The CLA45 EV signals that even traditional combustion-focused performance brands must embrace electrification to meet emissions regulations and consumer demands. This move could influence how luxury automakers balance performance credentials with environmental mandates, setting expectations for future AMG models and the broader premium automotive market.",
     "moreContext": "The original CLA45 AMG debuted in 2013 as a compact sedan with roughly 360 horsepower, establishing itself as an entry point to the AMG performance lineup. Mercedes has gradually expanded its electrified portfolio, but this marks one of the most powerful electric offerings from a traditional luxury performance marque. The shift to axial-flux motors—a newer, more compact motor technology—allows manufacturers to package multiple motors efficiently while delivering dramatic power outputs. This electric variant reflects broader industry trends where EV powertrains are becoming competitive or superior to traditional engines in raw performance metrics.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "2027-maserati-grecale-folgores-price-cut-is-much-more-than-a-fiat-topolino-df78fb",
-    "title": "2027 Maserati Grecale Folgore's Price Cut Is Much More Than a Fiat Topolino",
-    "summary": "The electric version of the Grecale is heavily discounted, with Maserati slashing over $22,000 off last year's starting price.",
-    "url": "https://www.caranddriver.com/news/a71867732/2027-maserati-grecale-folgore-price-cut/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-08T19:07:00.000Z",
-    "fetchedAt": "2026-07-09T09:12:03.081Z",
-    "lang": "en",
-    "whatHappening": "Maserati is significantly cutting the price of the 2027 Grecale Folgore electric SUV, slashing over $22,000 from last year's starting price. This aggressive pricing move marks a major shift in the Italian luxury automaker's EV strategy.",
-    "whoInvolved": "Maserati, the Italian luxury vehicle brand owned by Stellantis, is behind the price reduction. The company competes in the premium electric SUV segment against established players like Tesla, Porsche, and Mercedes-Benz.",
-    "whyMatters": "The steep discount makes the Grecale Folgore significantly more accessible to premium car buyers, potentially boosting sales in a competitive EV market. This pricing strategy could force competitors to reevaluate their own electric vehicle pricing to remain competitive.",
-    "moreContext": "The Grecale Folgore is Maserati's electric iteration of its popular Grecale SUV lineup, as the brand transitions toward electrification. The luxury automotive sector has seen increased price pressures as EV adoption accelerates and competition intensifies. Stellantis has been pushing aggressive electrification across its portfolio to meet emissions regulations and consumer demand. This price cut reflects broader industry trends where EV prices are falling as battery costs decrease and production scales up.",
     "enhanced": true,
     "fbPosted": true
   }

@@ -1,5 +1,23 @@
 [
   {
+    "id": "fortnite-is-getting-a-bunch-of-ai-powered-personas-10441b",
+    "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+    "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\"…",
+    "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-16T21:30:35.000Z",
+    "fetchedAt": "2026-07-16T23:17:45.057Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/uefn-conversations-blog-header-opt-02.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Epic Games is rolling out AI-powered character personas for Fortnite, giving creators the ability to publish experiences with AI-voiced characters starting July 30th. The company has pre-built 36 characters with consistent voices and personalities for creators to use.",
+    "whoInvolved": "Epic Games, the developer of Fortnite, is leading this initiative. Fortnite creators—the community members who build custom experiences within the game—will be the primary users of this new AI tool.",
+    "whyMatters": "This move democratizes AI character creation for game developers and creators who may lack voice acting resources or technical expertise. It could accelerate the creation of diverse game content and experiences within Fortnite, potentially making the platform more attractive for user-generated experiences while raising questions about AI voice labor and authenticity.",
+    "moreContext": "Epic Games has been investing heavily in creator tools and user-generated content features to keep Fortnite relevant beyond its battle royale core. The gaming industry is increasingly experimenting with AI for voice generation, character animation, and content creation. This announcement reflects broader trends of AI integration into creative platforms, where companies aim to lower barriers to entry for independent creators. Fortnite's creative mode already allows players to build custom maps and experiences, and AI personas represent the next evolution of those tools.",
+    "enhanced": true
+  },
+  {
     "id": "apple8217s-oled-ipad-mini-upgrade-is-on-the-way-as-prices-continue-to-rise-469e81",
     "title": "Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise",
     "summary": "The current 7th-generation iPad Mini includes a Liquid Retina display. | Photo: David Pierce / The Verge The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021…",
@@ -538,25 +556,6 @@
     "whoInvolved": "Sonos, the audio equipment company known for its speakers and premium audio products, is offering this discount on their latest flagship headphone model. The Ace represents Sonos's entry into the competitive wireless headphone market.",
     "whyMatters": "This 30% price cut makes premium active noise-canceling headphones more accessible to budget-conscious consumers considering high-end audio gear. For Sonos, aggressive pricing on new products can drive adoption and establish market share in the increasingly competitive headphone category dominated by established players like Apple, Sony, and Bose.",
     "moreContext": "The Sonos Ace launched as the company's first foray into personal audio headphones, positioning them as a premium alternative to existing options. The headphones feature active noise cancellation, spatial audio, and integration with Sonos's broader ecosystem of speakers and audio products. Summer promotions on electronics are common as retailers clear inventory and attract seasonal shoppers. This discount suggests either strong initial sales momentum prompting promotional activity or inventory management strategies ahead of potential new product announcements.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "get-a-30-credit-when-you-reserve-samsungs-upcoming-galaxy-phones-61fa8c",
-    "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
-    "summary": "Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the…",
-    "url": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-08T20:00:00.000Z",
-    "fetchedAt": "2026-07-09T09:12:03.148Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-unpacked-invite-wide-fold.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Samsung is offering a $30 credit to customers who reserve its upcoming Galaxy Z Fold phones ahead of the official announcement. The Galaxy Unpacked event where these phones will be revealed is scheduled for July 22nd, 2026.",
-    "whoInvolved": "Samsung, the South Korean tech giant, is using this early reservation strategy to build momentum before its major product launch event. The Verge is reporting on this promotional opportunity for consumers.",
-    "whyMatters": "This credit incentivizes early commitment from customers and helps Samsung gauge demand before the official reveal. For consumers, it's an easy way to get a discount on what are likely to be premium-priced foldable devices.",
-    "moreContext": "Samsung's Galaxy Z series foldable phones represent the company's flagship innovation in mobile technology, competing in the premium smartphone segment. The Galaxy Unpacked events are Samsung's primary venue for announcing new flagship devices and setting industry trends. Offering pre-order credits before official announcements has become a common strategy among major tech companies to drive early sales commitments. This approach also creates marketing buzz and media coverage in advance of the actual product reveal.",
     "enhanced": true,
     "fbPosted": true
   }
