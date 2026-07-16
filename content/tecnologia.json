@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple8217s-oled-ipad-mini-upgrade-is-on-the-way-as-prices-continue-to-rise-469e81",
+    "title": "Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise",
+    "summary": "The current 7th-generation iPad Mini includes a Liquid Retina display. | Photo: David Pierce / The Verge The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021…",
+    "url": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-16T15:04:12.000Z",
+    "fetchedAt": "2026-07-16T15:30:32.983Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Apple is planning to upgrade the iPad Mini with an OLED display as early as October, marking its most significant refresh since 2021. The move comes as Apple continues raising prices across its product lineup.",
+    "whoInvolved": "Apple is the tech giant behind the iPad Mini refresh. Mark Gurman of Bloomberg broke the news about the upcoming upgrade timeline.",
+    "whyMatters": "An OLED display would dramatically improve the iPad Mini's visual quality with better contrast, colors, and power efficiency compared to its current Liquid Retina LCD screen. This upgrade signals Apple's push to bring premium display technology across more product lines while facing consumer pushback over rising device costs.",
+    "moreContext": "The current 7th-generation iPad Mini still uses a Liquid Retina display technology introduced years ago. Apple has already brought OLED to iPhones and larger iPad Pro models, making the Mini the logical next candidate for the premium display upgrade. The iPad Mini hasn't seen a major overhaul since 2021, making it due for significant improvements. However, the timing comes as Apple faces criticism for steadily increasing prices on nearly all its products, potentially putting pressure on consumers considering the upgrade.",
+    "enhanced": true
+  },
+  {
     "id": "skullcandys-bass-boosting-crusher-headphones-now-come-with-boses-anc-0698a2",
     "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
     "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both…",
@@ -540,23 +558,5 @@
     "moreContext": "Samsung's Galaxy Z series foldable phones represent the company's flagship innovation in mobile technology, competing in the premium smartphone segment. The Galaxy Unpacked events are Samsung's primary venue for announcing new flagship devices and setting industry trends. Offering pre-order credits before official announcements has become a common strategy among major tech companies to drive early sales commitments. This approach also creates marketing buzz and media coverage in advance of the actual product reveal.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "microsoft8217s-xbox-reset-is-pivoting-obsidian-to-make-fallout-instead-of-avowed-d77c4b",
-    "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-    "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer…",
-    "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-08T18:50:27.000Z",
-    "fetchedAt": "2026-07-09T09:12:03.148Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Microsoft is redirecting Obsidian Entertainment to develop Fallout instead of its previously planned fantasy RPG Avengers. This shift is part of a major Xbox restructuring that includes 3,200 layoffs and a strategic pivot toward \"higher priority projects.\"",
-    "whoInvolved": "Microsoft owns Obsidian Entertainment, the studio known for RPGs like Grounded and The Outer Worlds. The decision reflects broader changes at Xbox leadership under Satya Nadella's direction as Microsoft reassesses its gaming portfolio.",
-    "whyMatters": "The move signals Microsoft's confidence in the Fallout franchise over new IP, potentially signaling better commercial prospects for an established series. The decision also demonstrates how major studio restructurings can abruptly alter game development roadmaps and player expectations.",
-    "moreContext": "Microsoft acquired Obsidian in 2018 as part of its strategy to build first-party game studios. Avowed was announced as an original high-fantasy RPG in development at Obsidian. The Xbox reset comes as Microsoft faces scrutiny over gaming portfolio performance and is consolidating resources on proven franchises. Fallout, owned by Microsoft via Bethesda, represents an established IP with demonstrated audience appeal.",
-    "enhanced": true
   }
 ]
