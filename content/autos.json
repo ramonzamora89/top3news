@@ -1,5 +1,22 @@
 [
   {
+    "id": "next-generation-bmw-m3-spotted-testing-with-six-cylinder-power-009165",
+    "title": "Next-Generation BMW M3 Spotted Testing with Six-Cylinder Power",
+    "summary": "BMW's iconic sports sedan will be offered with both electric and gas powertrains, and the six-cylinder M3 has now been spied testing at the Nürburgring.",
+    "url": "https://www.caranddriver.com/news/a73172774/2028-bmw-m3-gas-next-generation-spied/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-17T20:11:00.000Z",
+    "fetchedAt": "2026-07-17T23:16:57.182Z",
+    "lang": "en",
+    "whatHappening": "BMW's next-generation M3 sports sedan is undergoing testing with a six-cylinder engine at the Nürburgring. The automaker is developing the iconic performance car with both traditional gas and electric powertrain options.",
+    "whoInvolved": "BMW, the German luxury automaker known for its M performance division, is spearheading the M3's evolution. Car and Driver captured spy photos of the testing vehicle at Germany's famous racing circuit.",
+    "whyMatters": "The M3's dual powertrain strategy reflects the automotive industry's shift toward electrification while maintaining performance credentials. This approach signals BMW's commitment to preserving its gas-engine heritage while meeting stricter emissions regulations and changing consumer preferences.",
+    "moreContext": "The M3 has been a cornerstone of BMW's performance lineup since 1986, establishing the brand's reputation for high-performance sedans. Recent industry trends show luxury automakers increasingly offering hybrid and electric alternatives to traditionally gas-powered performance vehicles. BMW has already introduced electric versions in other segments, including the i7 and iX M60. The Nürburgring testing suggests BMW is validating both powertrains under demanding conditions to ensure comparable performance characteristics across the lineup.",
+    "enhanced": true
+  },
+  {
     "id": "jensen-interceptor-gtx-will-arrive-as-a-track-only-v-8-bruiser-20ee75",
     "title": "Jensen Interceptor GTX Will Arrive as a Track-Only V-8 Bruiser",
     "summary": "Jensen International Automotive is reviving the iconic V-8 grand tourer, and the initially track-only Interceptor GTX will preview future road-going models.",
@@ -500,23 +517,6 @@
     "whoInvolved": "Volkswagen Group, the world's largest automaker by volume, is the company driving this strategic shift. The decision affects the German manufacturer's operations across multiple global markets and its various brands.",
     "whyMatters": "Cutting unprofitable models could significantly improve VW's margins and allow it to invest more heavily in electric vehicles and new technologies where competition is intensifying. While U.S. customers may see fewer trim and variant options rather than complete model eliminations, the move signals VW's aggressive pivot toward profitability in a rapidly shifting automotive market.",
     "moreContext": "Volkswagen has faced mounting pressure to reduce costs and accelerate its EV transition while competing against Tesla and Chinese automakers. The company previously announced significant restructuring plans including potential plant closures in Germany and workforce reductions. This portfolio consolidation aligns with industry-wide trends as traditional automakers struggle with the capital-intensive shift to electric vehicles. The strategy reflects VW's need to streamline operations and focus on segments where it can maintain competitive advantages and healthy profit margins.",
-    "enhanced": true
-  },
-  {
-    "id": "2027-audi-rs-q8-8936f9",
-    "title": "2027 Audi RS Q8",
-    "summary": "Review, Pricing, and Specs",
-    "url": "https://www.caranddriver.com/audi/rs-q8-2027",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-09T20:19:00.000Z",
-    "fetchedAt": "2026-07-10T09:11:40.556Z",
-    "lang": "en",
-    "whatHappening": "Audi is unveiling the 2027 RS Q8, an updated performance SUV that combines luxury features with high-powered engineering. Car and Driver is providing a comprehensive review along with pricing and specification details for the refreshed model.",
-    "whoInvolved": "Audi, the German luxury automaker owned by Volkswagen Group, is the manufacturer behind the RS Q8. Car and Driver, a leading automotive publication, is covering the vehicle's debut with detailed analysis and specs.",
-    "whyMatters": "The 2027 RS Q8 represents Audi's commitment to the performance luxury SUV segment, which continues to grow as consumers prioritize high-powered vehicles with premium features. This refresh signals how traditional automakers are evolving their lineups in response to changing market preferences and competitive pressures from newer EV-focused manufacturers.",
-    "moreContext": "The RS Q8 is Audi's flagship performance variant of the Q8 luxury SUV, sitting at the top of the brand's lineup. The model has gained traction since its 2020 introduction as performance SUVs have become increasingly popular among affluent buyers seeking both speed and practicality. Audi's 2027 update cycle reflects the typical refresh pattern automakers use to maintain competitiveness, introduce new technology, and update styling. The luxury performance SUV segment remains highly competitive, with rivals including BMW's X6 M, Mercedes-AMG GLE 63, and Porsche Cayenne Turbo.",
     "enhanced": true
   }
 ]
