@@ -1,5 +1,23 @@
 [
   {
+    "id": "over-half-a-million-power-tool-batteries-have-been-recalled-due-to-a-usb-c-charg-55dfc9",
+    "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
+    "summary": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries \"producing smoke, sparking or catching fire…",
+    "url": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-17T14:05:29.000Z",
+    "fetchedAt": "2026-07-17T15:25:02.858Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/kobalt2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Greenworks Tools is recalling approximately 554,780 Kobalt-branded power tool batteries due to a USB-C charging defect that poses a fire hazard. The company has received 34 reports of batteries producing smoke, sparking, or catching fire during use or charging.",
+    "whoInvolved": "Greenworks Tools, a major power tool manufacturer, issued the recall for its Kobalt-branded yard work equipment line. The affected batteries are USB-C rechargeable units used across multiple cordless power tool models in the Kobalt product portfolio.",
+    "whyMatters": "The recall affects hundreds of thousands of consumer devices, creating immediate safety risks for homeowners and professionals using these tools. This incident highlights growing quality concerns around lithium-ion battery manufacturing and USB-C charging implementations in power tools, potentially triggering industry-wide scrutiny.",
+    "moreContext": "USB-C adoption in power tools has accelerated as manufacturers seek standardized charging solutions, but implementation quality varies significantly. Battery fires in cordless power tools have become an increasing concern as lithium-ion density increases to improve performance. The 34 documented incidents represent a significant failure rate for a consumer safety issue. Greenworks Tools has instructed customers to stop using affected batteries and contact the company for replacement or refund options.",
+    "enhanced": true
+  },
+  {
     "id": "samsungs-55-inch-frame-art-tv-is-200-cheaper-than-usual-b7b909",
     "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
     "summary": "Samsung’s art TV looks right at home alongside real paintings. | Image: Samsung Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery.…",
@@ -540,23 +558,5 @@
     "moreContext": "Microsoft committed in 2020 to becoming carbon negative by 2030 and reducing emissions by 75 percent by that same year. The company's emissions have been climbing as it accelerates AI investments and expands global data center operations to support OpenAI partnerships and enterprise AI services. Major tech firms including Amazon, Google, and Meta are similarly facing emissions growth despite sustainability pledges, as demand for AI compute power outpaces renewable energy deployment. This trend highlights the tension between the AI industry's rapid growth and the infrastructure needed to support global climate goals.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "netflix-reportedly-considers-adding-always-on-channels-8d2b48",
-    "title": "Netflix reportedly considers adding always-on channels",
-    "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that they're free -…",
-    "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-09T23:00:31.000Z",
-    "fetchedAt": "2026-07-10T09:11:40.713Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Netflix is exploring the addition of always-on channels that would continuously stream curated selections of shows and movies. This represents a potential shift in strategy for the streaming giant, moving toward a more traditional TV-like experience.",
-    "whoInvolved": "Netflix, the dominant streaming service with 230+ million subscribers, is considering this move. The concept mirrors competitors like Pluto TV and Tubi, which have built audiences around free, ad-supported linear streaming channels.",
-    "whyMatters": "Always-on channels could increase user engagement by reducing decision fatigue and keeping viewers watching longer. However, adding this feature to a subscription service undercuts the main competitive advantage of free alternatives, forcing Netflix to determine how to position and monetize such channels—potentially through advertising tiers or as premium features.",
-    "moreContext": "Free ad-supported streaming services like Pluto TV and Tubi have grown rapidly by mimicking traditional cable's passive viewing experience, proving consumer appetite for linear streaming. Netflix has already tested ad-supported tiers and acquired advertising capabilities, signaling willingness to diversify revenue beyond subscriptions. The move also reflects pressure from slowing subscriber growth and the need to differentiate as streaming becomes saturated. Industry observers have noted that linear channels could appeal to users seeking simpler navigation compared to the paradox of choice created by Netflix's massive catalog.",
-    "enhanced": true
   }
 ]

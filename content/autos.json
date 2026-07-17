@@ -1,5 +1,22 @@
 [
   {
+    "id": "jensen-interceptor-gtx-will-arrive-as-a-track-only-v-8-bruiser-20ee75",
+    "title": "Jensen Interceptor GTX Will Arrive as a Track-Only V-8 Bruiser",
+    "summary": "Jensen International Automotive is reviving the iconic V-8 grand tourer, and the initially track-only Interceptor GTX will preview future road-going models.",
+    "url": "https://www.caranddriver.com/news/a71017979/2026-jensen-interceptor-gtx-prototype-debut-coming/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-17T15:03:00.000Z",
+    "fetchedAt": "2026-07-17T15:25:02.790Z",
+    "lang": "en",
+    "whatHappening": "Jensen International Automotive is reviving the legendary Interceptor nameplate with a new track-only V-8 model called the Interceptor GTX. The car will serve as a performance preview for future road-legal versions of the reborn grand tourer.",
+    "whoInvolved": "Jensen International Automotive is the British automaker behind the revival of the iconic Interceptor brand, which was originally produced from 1966 to 1976. The company is working to resurrect one of the most celebrated V-8 grand tourers in automotive history.",
+    "whyMatters": "The Interceptor GTX launch signals growing momentum in the retro-revival segment, where manufacturers are tapping nostalgia and performance enthusiasts' appetite for classic nameplates. Success with the track-focused model could validate demand for a road-going version, potentially establishing Jensen as a niche player competing against other bespoke automakers.",
+    "moreContext": "The original Jensen Interceptor was a British grand tourer that gained cult status for its combination of style, performance, and luxury. Jensen ceased operations in 1976, leaving a 40+ year gap before the brand's revival. The track-only strategy mirrors industry trends seen with other heritage brands testing new models in motorsport before consumer launch. This approach allows Jensen to refine performance characteristics and generate buzz without the regulatory complexity of immediate road certification.",
+    "enhanced": true
+  },
+  {
     "id": "2026-lamborghini-temerario-aea7d1",
     "title": "2026 Lamborghini Temerario",
     "summary": "Review, Pricing, and Specs",
@@ -500,23 +517,6 @@
     "whoInvolved": "Audi, the German luxury automaker owned by Volkswagen Group, is the manufacturer behind the RS Q8. Car and Driver, a leading automotive publication, is covering the vehicle's debut with detailed analysis and specs.",
     "whyMatters": "The 2027 RS Q8 represents Audi's commitment to the performance luxury SUV segment, which continues to grow as consumers prioritize high-powered vehicles with premium features. This refresh signals how traditional automakers are evolving their lineups in response to changing market preferences and competitive pressures from newer EV-focused manufacturers.",
     "moreContext": "The RS Q8 is Audi's flagship performance variant of the Q8 luxury SUV, sitting at the top of the brand's lineup. The model has gained traction since its 2020 introduction as performance SUVs have become increasingly popular among affluent buyers seeking both speed and practicality. Audi's 2027 update cycle reflects the typical refresh pattern automakers use to maintain competitiveness, introduce new technology, and update styling. The luxury performance SUV segment remains highly competitive, with rivals including BMW's X6 M, Mercedes-AMG GLE 63, and Porsche Cayenne Turbo.",
-    "enhanced": true
-  },
-  {
-    "id": "2027-land-rover-defender-updates-include-ditching-the-turbo-four-4795d8",
-    "title": "2027 Land Rover Defender Updates Include Ditching the Turbo Four",
-    "summary": "Land Rover's bestselling SUV also adds a stylish Vertex model and a cornucopia of new personalization options.",
-    "url": "https://www.caranddriver.com/news/a71883187/2027-land-rover-defender-updates-price/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-09T19:39:00.000Z",
-    "fetchedAt": "2026-07-10T09:11:40.556Z",
-    "lang": "en",
-    "whatHappening": "Land Rover is overhauling its bestselling Defender SUV for 2027, ditching the turbocharged four-cylinder engine in favor of new powertrain options. The refresh also introduces a stylish new Vertex model variant and expanded personalization choices for buyers.",
-    "whoInvolved": "Land Rover, the British luxury SUV manufacturer owned by Jaguar Land Rover (part of Tata Motors), is making these changes to its flagship Defender model, which has become the company's volume seller since its 2020 relaunch.",
-    "whyMatters": "The powertrain shift suggests Land Rover is responding to market demand for different engine options, possibly electrified alternatives or larger displacement engines that better suit the Defender's premium positioning. The expanded personalization and new Vertex trim indicate the automaker is working to increase model diversity and appeal to buyers seeking more distinctive styling in the competitive luxury SUV segment.",
-    "moreContext": "The Defender was revived in 2020 after a 20-year hiatus, becoming Land Rover's sales leader and a critical success for the brand. The current generation uses a 2.0-liter turbocharged four-cylinder as its base engine. Adding the Vertex variant follows industry trends of creating sub-brands and special editions to justify premium pricing and differentiate models across trim levels. This 2027 update represents the first major refresh cycle for the modern Defender generation.",
     "enhanced": true
   }
 ]
