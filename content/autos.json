@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-perfect-first-car-is-a-truck-5cd663",
+    "title": "The Perfect First Car Is a Truck",
+    "summary": "The Ford Maverick is versatile, safe, and—dare I say—cool. It's the perfect first car, and used ones get cheaper every day.",
+    "url": "https://www.caranddriver.com/features/a72591225/the-perfect-first-car-is-a-truck/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-18T18:00:00.000Z",
+    "fetchedAt": "2026-07-18T23:17:15.504Z",
+    "lang": "en",
+    "whatHappening": "Car and Driver is making the case that the Ford Maverick represents an ideal entry-level vehicle for first-time car buyers. The publication highlights the truck's versatility, safety features, and appeal, while noting that used models are becoming increasingly affordable.",
+    "whoInvolved": "Ford, the American automaker, produces the Maverick as part of its truck lineup. Car and Driver is a leading automotive publication that reviews and evaluates vehicles for consumers.",
+    "whyMatters": "For budget-conscious first-time buyers, finding an affordable, practical vehicle is critical—and the Maverick offers utility without requiring a large investment. As used inventory grows and prices drop, the truck becomes an increasingly accessible option for younger drivers entering the market.",
+    "moreContext": "The Ford Maverick, introduced in 2022, disrupted the truck market by offering an affordable compact pickup in an era of expensive, full-size models. The vehicle starts at a lower price point than many competitors and appeals to buyers seeking practicality without premium pricing. Used truck prices have been declining as more models enter the secondary market, improving affordability for first-time buyers. The Maverick combines truck functionality with fuel efficiency and modern safety technology, distinguishing it from traditional heavy-duty trucks that appeal mainly to professional users.",
+    "enhanced": true
+  },
+  {
     "id": "head-turning-1948-mercury-woody-4x4-wagon-is-up-for-sale-on-bring-a-trailer-c2762f",
     "title": "Head-Turning 1948 Mercury Woody 4x4 Wagon Is up for Sale on Bring a Trailer",
     "summary": "This four-wheel-drive wagon was a precursor to the modern SUV.",
@@ -500,23 +517,5 @@
     "whyMatters": "Customized performance vehicles command premium prices on specialty auction platforms, reflecting growing collector interest in modified American muscle cars and wagons. This sale demonstrates the market's appetite for unique automotive builds that combine practicality with serious performance upgrades.",
     "moreContext": "The Cadillac CTS-V Wagon was already a rare offering—GM produced it for only two generations (2009-2014) before discontinuing it, making it a niche collector vehicle. Wagon enthusiasts have increasingly turned to modified versions of performance models to combine cargo versatility with track-capable power. Bring a Trailer has become the premier marketplace for such builds, regularly attracting six-figure bids for distinctive custom vehicles. The CTS-V platform, powered by a 6.2L supercharged V8, provides an excellent foundation for modifications that can significantly exceed its 556 factory horsepower.",
     "enhanced": true
-  },
-  {
-    "id": "bizzarrini-brings-a-1960s-beauty-to-life-with-modern-engineering-f94009",
-    "title": "Bizzarrini Brings a 1960s Beauty to Life with Modern Engineering",
-    "summary": "Only 10 of these gorgeous targa-topped throwbacks will be built.",
-    "url": "https://www.caranddriver.com/news/a71899658/bizzarrini-5300-gt-aperta-lusso-details/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-10T20:31:00.000Z",
-    "fetchedAt": "2026-07-11T08:38:22.106Z",
-    "lang": "en",
-    "whatHappening": "Bizzarrini is reviving a classic 1960s sports car design with modern engineering and will produce only 10 examples of this targa-topped vehicle. The limited production run combines vintage aesthetics with contemporary performance and technology.",
-    "whoInvolved": "Bizzarrini is an Italian automaker known for creating high-performance sports cars, particularly the iconic 5300 GT from the 1960s. The company has returned to manufacturing after decades away from production.",
-    "whyMatters": "This project taps into the growing luxury market for low-volume, hand-crafted vehicles that blend retro design with modern engineering. The extremely limited production (10 units) ensures exclusivity and collector appeal while positioning Bizzarrini as a niche player in the boutique automaker space.",
-    "moreContext": "The original Bizzarrini 5300 GT was a race-winning masterpiece from the 1960s that competed against Ferraris and other European supercars. The resurgence of retro-inspired sports cars has gained momentum in recent years, with brands like Nissan Z and Toyota GR86 drawing on heritage design language. Bizzarrini's return to production capitalizes on both nostalgia for classic Italian design and wealthy collectors' appetite for limited-edition vehicles with authentic provenance. The targa-top configuration offers an open-air driving experience while maintaining structural rigidity and modern safety standards.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
