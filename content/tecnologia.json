@@ -15,7 +15,8 @@
     "whoInvolved": "Google manufactures the Pixel smartphone line and designs custom Tensor processors for its devices. Mystic Leaks, a reliable source for Android hardware information, reported the processor specification.",
     "whyMatters": "This upgrade could deliver better performance and longevity for budget-conscious Pixel buyers who typically accept compromises. It signals Google may be rethinking its practice of intentionally handicapping mid-range models to protect flagship sales.",
     "moreContext": "Google has historically used previous-generation processors in its \"a\" series phones—the Pixel 10a came with the Tensor G5 while the Pixel 10 and 10 Pro featured the newer Tensor G6. This tiered approach preserved pricing distinctions between product lines. If confirmed, the Pixel 11a using current-generation silicon would represent a reversal of that strategy and could indicate Google is prioritizing competitive performance across its entire Pixel portfolio rather than artificial segmentation.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "google-is-open-sourcing-its-3d-emoji-1511dc",
