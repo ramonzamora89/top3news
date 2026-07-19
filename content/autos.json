@@ -1,5 +1,22 @@
 [
   {
+    "id": "from-the-archive-1993-luxury-sedan-comparison-test-e420c1",
+    "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+    "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+    "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-18T13:00:00.000Z",
+    "fetchedAt": "2026-07-19T23:17:36.006Z",
+    "lang": "en",
+    "whatHappening": "Car and Driver is revisiting a 1993 luxury sedan comparison test that pitted six premium vehicles against each other to determine the best in class. The publication evaluated the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E to crown the winner.",
+    "whoInvolved": "Car and Driver, one of the automotive industry's most influential publications, conducted the test. The competing manufacturers represent different automotive philosophies: German engineering (Audi, BMW, Mercedes), Japanese precision (Lexus), British tradition (Jaguar), and American luxury (Cadillac).",
+    "whyMatters": "This archival test captures a pivotal moment when Japanese luxury brands were challenging European dominance in the sedan market. The comparison reveals which vehicles best balanced performance, comfort, and value during the early 1990s economy—insights that shaped consumer preferences for years to come.",
+    "moreContext": "The early 1990s marked a watershed moment for luxury sedans, with the Lexus LS400's 1989 debut fundamentally challenging established German and British marques by offering Japanese reliability at competitive prices. This era saw intense competition as manufacturers raced to define what modern luxury meant through advanced technology, performance, and refinement. The six vehicles tested represented dramatically different approaches: Audi and BMW emphasized driving dynamics and technology, Mercedes prioritized engineering excellence, Jaguar offered classic British elegance, Lexus focused on reliability and value, and Cadillac aimed to reclaim American luxury prestige. Such comprehensive comparison tests were crucial purchasing guides for affluent consumers navigating an increasingly crowded luxury market.",
+    "enhanced": true
+  },
+  {
     "id": "if-this-bmw-m3-on-bat-was-good-enough-for-an-indycar-racer-its-good-enough-for-y-a46e43",
     "title": "If This BMW M3 on BaT Was Good Enough for an IndyCar Racer, It's Good Enough for You",
     "summary": "The 2006 M3 that's up for auction has the Dinan S Competition package and was purchased new by two-time Indianapolis 500 winner Dan Wheldon.",
@@ -501,23 +518,5 @@
     "whyMatters": "The sale highlights collector interest in early 1950s American racing history and dual-purpose vehicles that blur the line between street and track. Such vehicles represent an era when amateur and professional racing was more accessible and less regulated than modern motorsports.",
     "moreContext": "The 1950s marked a golden age for American automotive racing, with manufacturers like Studebaker competing in various racing series. Studebaker, founded in 1852 as a wagon maker before transitioning to automobiles, was known for producing nimble, efficient vehicles that performed well in racing despite the company's smaller scale compared to Big Three competitors. The rarity of surviving Studebaker race cars from this period makes authentic examples increasingly valuable among collectors. The dual street-legal and racing credentials of this particular car exemplify how automotive regulations and racing rules were more permissive during the 1950s.",
     "enhanced": true
-  },
-  {
-    "id": "2001-lexus-sc430-vs-mercedes-benz-clk430-comparison-test-5778c1",
-    "title": "2001 Lexus SC430 vs. Mercedes-Benz CLK430 Comparison Test",
-    "summary": "From the archive: Fancy convertibles of the Y2K era.",
-    "url": "https://www.caranddriver.com/reviews/comparison-test/a71850903/2001-lexus-sc430-vs-mercedes-benz-clk430-archive-comparison-test/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-11T22:20:00.000Z",
-    "fetchedAt": "2026-07-12T08:48:47.741Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver is revisiting a classic comparison test between two luxury convertibles from the early 2000s: the Lexus SC430 and Mercedes-Benz CLK430. This archive piece evaluates how these premium vehicles stacked up against each other during the Y2K era.",
-    "whoInvolved": "Lexus, Toyota's luxury division, and Mercedes-Benz, the German automotive luxury brand, both competed in the high-end convertible market. Car and Driver, a leading automotive publication, conducted the original testing and analysis of these vehicles.",
-    "whyMatters": "These vehicles represent a defining moment in luxury convertible design when manufacturers were balancing performance, comfort, and cutting-edge technology for affluent buyers. Retrospective comparisons like this offer insight into how automotive engineering and consumer preferences have evolved over two decades.",
-    "moreContext": "The early 2000s marked a golden age for luxury convertibles, as manufacturers invested heavily in this segment before market shifts toward SUVs and crossovers. The Lexus SC430, known for reliability and understated elegance, competed directly with Mercedes' CLK-Class convertible, which emphasized sporty handling and performance. Both vehicles featured retractable hard-top technology, a premium feature at the time. Archive content like this serves automotive enthusiasts and historians by documenting how different manufacturers approached luxury convertible design philosophy during this era.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
