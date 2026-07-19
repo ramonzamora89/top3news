@@ -1,5 +1,23 @@
 [
   {
+    "id": "orchid-is-a-delightfully-retro-and-approachable-hipster-synth-6098c2",
+    "title": "Orchid is a delightfully retro and approachable hipster synth",
+    "summary": "A modern tribute to electric chord organs which were basically giant harmonicas connected to a fan. | Photo: Terrence O’Brien / The Verge In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let…",
+    "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-19T15:15:00.000Z",
+    "fetchedAt": "2026-07-19T15:19:09.103Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268657_Orchid_TOBrien_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "The Verge is reviewing Orchid, a modern synthesizer designed as a contemporary take on vintage electric chord organs. The instrument combines retro aesthetics with modern functionality, appealing to musicians and gear enthusiasts seeking approachable, characterful sound design.",
+    "whoInvolved": "The Verge, a major technology and culture publication, is covering this synthesizer product. The review is written by someone deeply familiar with vintage music gear, having personal experience collecting and using classic instruments like Magnus chord organs.",
+    "whyMatters": "This reflects a broader trend of synthesizer manufacturers creating instruments that balance nostalgia with modern usability, making vintage sounds accessible to contemporary producers. The retro-hipster appeal of chord organs suggests growing consumer interest in tactile, analog-style music production tools in an increasingly digital landscape.",
+    "moreContext": "Electric chord organs were simple mechanical instruments popular in mid-20th century households—essentially keyboards connected to fans that produced harmonic textures. The reviewer's own $10 Craigslist purchase of a Magnus chord organ demonstrates the enduring appeal and affordability of vintage gear. Recent years have seen a resurgence in retro synth design, with manufacturers like Korg and Elektron creating modern instruments that echo classic designs. This mirrors broader cultural nostalgia trends and the revival of analog music production among younger musicians.",
+    "enhanced": true
+  },
+  {
     "id": "google-might-not-kneecap-the-pixel-11a-with-an-old-processor-0c1627",
     "title": "Google might not kneecap the Pixel 11a with an old processor",
     "summary": "The Pixel 10a shipped with a last gen processor. | Photo: Dominic Preston / The Verge Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a…",
@@ -541,23 +559,5 @@
     "moreContext": "State attorneys general have increasingly scrutinized major media mergers in recent years over concerns about competition and consumer impact. Rayfield's initial request for documents and delay suggested Oregon had concerns about the deal's implications for the state, though the specific nature of those concerns was not detailed. The withdrawal indicates either those concerns were resolved or the legal strategy proved untenable. Major media consolidation has drawn heightened regulatory attention as streaming and traditional media compete for market dominance.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "nintendos-talking-flower-got-a-small-price-cut-4a8f33",
-    "title": "Nintendo’s Talking Flower got a small price cut",
-    "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario…",
-    "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-11T15:00:00.000Z",
-    "fetchedAt": "2026-07-12T08:48:47.869Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Nintendo has reduced the price of its Talking Flower toy, a character-based gadget from Super Mario Bros. Wonder. The quirky device provides positive affirmations and is now more affordable for collectors and fans.",
-    "whoInvolved": "Nintendo is the video game company behind the product, which is based on a character that appears in Super Mario Bros. Wonder, one of their recent flagship titles for the Nintendo Switch console.",
-    "whyMatters": "The price cut makes the novelty item more accessible to a broader audience, potentially boosting sales for Nintendo's merchandise line. It signals Nintendo's strategy to leverage popular game characters into physical products that appeal beyond traditional gamers.",
-    "moreContext": "The Talking Flower is a licensed toy designed to appeal to fans seeking unique Nintendo merchandise and those interested in feel-good gadgets that offer encouragement and affirmation. Super Mario Bros. Wonder, released in 2023, introduced new characters and gameplay mechanics that have become popular with both longtime Mario fans and new players. Nintendo has increasingly focused on expanding its product ecosystem beyond video games into toys, accessories, and collectibles. This type of price adjustment is common in retail cycles as products age and inventory needs adjustment.",
-    "enhanced": true
   }
 ]
