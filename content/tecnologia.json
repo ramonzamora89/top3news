@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-odyssey-turned-me-into-an-imax-believer-1817e8",
+    "title": "The Odyssey turned me into an IMAX believer",
+    "summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little…",
+    "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-20T21:47:37.000Z",
+    "fetchedAt": "2026-07-20T23:20:32.537Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ODY_AdvSlvrSoldiers1Sht1_RGB_6SM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A film critic at The Verge has become convinced of IMAX's value as a theatrical format after watching Christopher Nolan's The Odyssey in early screenings. The experience prompted a reconsideration of the technology's merits, particularly for large-scale cinematic set pieces.",
+    "whoInvolved": "Christopher Nolan, the acclaimed filmmaker known for ambitious sci-fi and action films, directed The Odyssey. The Verge, a major technology and culture publication, published the review reflecting on the IMAX experience.",
+    "whyMatters": "This endorsement signals IMAX's continued relevance in premium theatrical experiences at a time when streaming and home viewing options proliferate. Positive critical reception of IMAX presentations for major studio films can influence both filmmaker choices and consumer ticket-buying decisions for big-budget releases.",
+    "moreContext": "Christopher Nolan has long been a champion of theatrical formats and large-format filmmaking, frequently shooting in IMAX and 70mm. The Odyssey represents a significant studio release, and critical commentary on its technical presentation carries weight in Hollywood's ongoing conversation about theatrical exhibition standards. IMAX has faced competition from other premium formats like Dolby Cinema, making positive coverage from influential tech-focused publications particularly noteworthy for the format's positioning.",
+    "enhanced": true
+  },
+  {
     "id": "dr-jill-lepore-on-why-ai-backlash-is-vital-for-the-future-896376",
     "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
     "summary": "Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns in history, and…",
@@ -539,25 +557,6 @@
     "whoInvolved": "Xinzhou Wu leads Nvidia's automotive division, which is betting heavily on self-driving car technology. Nvidia is the world's most valuable chipmaker and dominant supplier of GPUs powering the AI industry boom, making it a gatekeeper for compute resources across multiple business units.",
     "whyMatters": "The internal resource struggle reveals how constrained Nvidia's supply remains despite record production and how fiercely different segments compete for access. It underscores that even within one company, the AI computing bottleneck creates difficult trade-offs between potentially lucrative business opportunities in autonomous vehicles and immediate GPU demand from AI model makers.",
     "moreContext": "Nvidia has become the essential infrastructure provider for the AI boom, with its GPUs commanding premium prices and long wait times across industries. The company's automotive ambitions represent a major growth opportunity beyond data centers, but securing engineering resources and chips internally demonstrates how severely compute remains constrained. GPU scarcity has become a competitive advantage in itself, forcing even Nvidia executives to battle internally for allocation. This tension reflects broader industry dynamics where demand for AI computing vastly outpaces supply across all segments.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "waze-is-getting-a-bunch-of-new-ai-powered-features-04b529",
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating…",
-    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-13T09:00:00.000Z",
-    "fetchedAt": "2026-07-13T09:11:54.771Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Google is integrating its Gemini AI assistant into Waze, the popular navigation app, bringing AI-powered personalization features to drivers. The update includes four new features, with two specifically leveraging Gemini's capabilities to enhance trip planning and customization.",
-    "whoInvolved": "Google, the tech giant that owns Waze, is the primary driver behind this integration. Waze is Google's widely-used navigation and traffic app with millions of daily active users who rely on it for real-time directions and traffic updates.",
-    "whyMatters": "This move positions Waze as a more intelligent, personalized navigation tool in an increasingly AI-driven tech landscape. The integration could improve user experience by tailoring routes and trip information to individual preferences, while also deepening Google's reach into consumer daily routines and driving behavior data.",
-    "moreContext": "Gemini is Google's flagship generative AI assistant, positioned as a competitor to ChatGPT and other large language models. This marks another instance of Google embedding Gemini across its product ecosystem to expand the AI's utility and user exposure. Navigation apps have become critical touchpoints for consumer tech, with Waze facing competition from Apple Maps and Google Maps itself. The AI integration trend reflects the broader industry shift toward embedding generative AI into established consumer products rather than launching standalone applications.",
     "enhanced": true,
     "fbPosted": true
   }
