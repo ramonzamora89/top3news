@@ -1,5 +1,23 @@
 [
   {
+    "id": "dr-jill-lepore-on-why-ai-backlash-is-vital-for-the-future-896376",
+    "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
+    "summary": "Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns in history, and…",
+    "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-20T15:00:00.000Z",
+    "fetchedAt": "2026-07-20T15:34:21.706Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Harvard professor and New Yorker writer Dr. Jill Lepore is releasing a new book, The Rise and Fall of the Artificial State, on August 25. She's making the case that public skepticism and backlash against AI is necessary and healthy for society's future.",
+    "whoInvolved": "Dr. Jill Lepore is a renowned historian and staff writer at The New Yorker known for identifying institutional patterns throughout history. She holds a position at Harvard and has built a reputation as one of the most incisive writers analyzing technology and society.",
+    "whyMatters": "The discussion around AI backlash is critical as the technology becomes increasingly integrated into institutions and daily life. Understanding the historical patterns and societal warnings Lepore outlines could shape how policymakers, tech companies, and the public approach AI development and regulation going forward.",
+    "moreContext": "This conversation arrives amid growing public concern about AI's rapid deployment in workplaces, education, and government without adequate oversight or public debate. Lepore's expertise in institutional history positions her to draw parallels between AI's rise and previous technological transformations that disrupted society. The book's title suggests a cyclical pattern—that artificial systems, like other institutions, may experience periods of dominance followed by inevitable decline. Her work contributes to a broader cultural moment where voices are pushing back against techno-utopianism and demanding more thoughtful integration of AI into society.",
+    "enhanced": true
+  },
+  {
     "id": "kodak-ec35-is-a-dirt-cheap-point-and-shoot-film-camera-ededa4",
     "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
     "summary": "I’m partial to that avocado green one. | Image: Reto Project Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a…",
@@ -541,23 +559,5 @@
     "moreContext": "Gemini is Google's flagship generative AI assistant, positioned as a competitor to ChatGPT and other large language models. This marks another instance of Google embedding Gemini across its product ecosystem to expand the AI's utility and user exposure. Navigation apps have become critical touchpoints for consumer tech, with Waze facing competition from Apple Maps and Google Maps itself. The AI integration trend reflects the broader industry shift toward embedding generative AI into established consumer products rather than launching standalone applications.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "shall-we-go-on-sinning-so-that-grace-may-increase-is-hypnotic-healing-and-hopefu-441d63",
-    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-    "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming…",
-    "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-12T19:40:00.000Z",
-    "fetchedAt": "2026-07-13T09:11:54.771Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Drew Daniel of experimental electronic duo Matmos has released a new project titled 'Shall We Go On Sinning So That Grace May Increase?' that critics are describing as hypnotic, healing, and hopeful. The work showcases Daniel's signature sound while exploring introspective and emotional territories.",
-    "whoInvolved": "Drew Daniel is one half of Matmos, an acclaimed experimental electronic music duo known for their innovative production work and solo records. The pair has collaborated extensively with major artists, most notably producing Bjork's landmark album Vespertine, and have built a reputation for pushing genre boundaries in contemporary music.",
-    "whyMatters": "This release demonstrates the continued artistic evolution of one of experimental music's most respected figures and adds to Matmos' cultural influence in electronic music. Daniel's prolific output across multiple projects reinforces the duo's significance in shaping contemporary experimental and art music.",
-    "moreContext": "Matmos established themselves as innovative producers through critically acclaimed solo work, including Daniel's masterpiece 'A Chance to Cut Is a Chance to Cure,' and their transformative production on Bjork's 'Vespertine,' which became a defining record of 2000s art-pop. Drew Daniel is known for his ferociously prolific creative process, constantly working on multiple projects simultaneously. The experimental electronic music landscape has increasingly valued the kind of introspective, emotionally intelligent approach that characterizes recent Matmos work, moving the genre beyond purely technical showcases.",
-    "enhanced": true
   }
 ]

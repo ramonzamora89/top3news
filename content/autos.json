@@ -1,5 +1,22 @@
 [
   {
+    "id": "redesigned-2027-vw-atlas-arrives-with-a-notably-higher-base-price-c932a5",
+    "title": "Redesigned 2027 VW Atlas Arrives with a Notably Higher Base Price",
+    "summary": "The Atlas enters its second generation with a revised four-cylinder engine and a more luxurious cabin, but that comes at a cost.",
+    "url": "https://www.caranddriver.com/news/a73191586/2027-volkswagen-atlas-price/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-20T15:23:00.000Z",
+    "fetchedAt": "2026-07-20T15:34:21.669Z",
+    "lang": "en",
+    "whatHappening": "Volkswagen has unveiled the redesigned 2027 Atlas with a refreshed four-cylinder engine and upgraded interior appointments. The second-generation SUV arrives with a notably higher starting price than its predecessor.",
+    "whoInvolved": "Volkswagen, the German automaker, is redesigning its three-row Atlas SUV, a key vehicle in its North American lineup. Car and Driver, a leading automotive publication, is reporting on the changes and pricing.",
+    "whyMatters": "The price increase may pressure consumers in a competitive SUV market already dealing with inflation concerns. However, the upgraded cabin and revised powertrain could help VW justify the premium and attract buyers seeking more features in the midsize SUV segment.",
+    "moreContext": "The Atlas is one of VW's most important vehicles for the North American market, competing against rivals like the Honda Pilot, Toyota Highlander, and Mazda CX-9. The second-generation redesign represents a significant update to the model since its 2018 introduction. Rising production costs and consumer demand for more luxurious interiors have prompted automakers across the industry to push pricing higher. The revised four-cylinder engine is part of VW's broader strategy to balance performance with efficiency amid changing emissions regulations.",
+    "enhanced": true
+  },
+  {
     "id": "view-photos-of-the-1993-luxury-sedan-comparison-test-f8ba15",
     "title": "View Photos of the 1993 Luxury Sedan Comparison Test",
     "summary": "See the interior and exterior of the 1993 Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E.",
@@ -502,22 +519,5 @@
     "moreContext": "The Integra nameplate has held iconic status in Japanese-American car culture since its 1986 debut, particularly among tuning and racing communities. The Integra 40 designation likely references a significant racing variant or anniversary model from the car's history. By restoring and driving a period race car rather than simply displaying it statically, Acura is tapping into the growing trend of experiential marketing and nostalgia-driven content that resonates with automotive enthusiasts. This aligns with broader industry interest in preserving and celebrating automotive heritage during a period of rapid electrification.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "mgs-go-concept-is-a-funky-electric-mini-rivaling-hot-hatchback-8b2747",
-    "title": "MG's GO! Concept Is a Funky Electric Mini-Rivaling Hot Hatchback",
-    "summary": "MG hasn't had a presence in the United States for almost 50 years, but this little hatch makes us wish it still did.",
-    "url": "https://www.caranddriver.com/news/a71900902/mg-go-concept-revealed/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-11T13:00:00.000Z",
-    "fetchedAt": "2026-07-13T09:11:54.713Z",
-    "lang": "en",
-    "whatHappening": "MG has unveiled the GO!, a funky electric mini hot hatchback concept that's generating buzz among automotive enthusiasts. The vehicle combines compact dimensions with performance and electric powertrain appeal in a retro-inspired package.",
-    "whoInvolved": "MG, the British-heritage automotive brand now owned by Chinese conglomerate SAIC, is behind this concept vehicle. The company last sold cars in the U.S. market nearly 50 years ago but has been reviving its global presence through new models and electric vehicle development.",
-    "whyMatters": "The GO! concept signals MG's potential interest in re-entering the highly competitive American market with an electric vehicle that could rival established players like Mini Cooper and hot hatchback makers. A successful U.S. return could shake up the affordable EV segment and give consumers more quirky, performance-oriented options in the under-$30,000 range.",
-    "moreContext": "MG exited the U.S. market around 1980 but has experienced a global resurgence in recent years, particularly in Europe and Asia, where it's become one of the world's best-selling EV brands. The electric hatchback segment is increasingly crowded with offerings from established automakers like Volkswagen, Hyundai, and Kia, all competing for younger, design-conscious buyers. Mini Coopers and hot hatchbacks have maintained a dedicated enthusiast following in America for decades. A concept vehicle like the GO! typically signals MG's design direction and market testing before potential production decisions.",
-    "enhanced": true
   }
 ]
