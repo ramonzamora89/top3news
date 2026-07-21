@@ -1,5 +1,23 @@
 [
   {
+    "id": "neill-blomkamps-new-zombie-ai-film-is-just-slop-warmed-over-5c3800",
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios,…",
+    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-21T22:06:43.000Z",
+    "fetchedAt": "2026-07-21T23:18:22.826Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Director Neill Blomkamp has unveiled a 13-minute sci-fi short called Nightborne created using AI technology through his new startup Barley Studios. The project is loosely based on Peter Watts' 2014 novel Echopraxia and has drawn criticism for being low-quality AI-generated content.",
+    "whoInvolved": "Neill Blomkamp is known for directing acclaimed sci-fi films like District 9 and Gran Turismo. He recently launched Barley Studios, an AI startup and production company focused on creating film and video content.",
+    "whyMatters": "This signals how established Hollywood directors are embracing AI tools to generate content at scale, potentially disrupting traditional filmmaking workflows. However, the critical reception suggests audiences and critics are skeptical of AI-generated storytelling quality, raising questions about whether AI-first production can compete with traditional filmmaking.",
+    "moreContext": "The AI-generated content trend has accelerated significantly in entertainment, with various studios experimenting with generative tools for visual effects, scripts, and full productions. Blomkamp's project represents a major director betting on AI as a primary creative medium rather than a supporting tool. The critical label of 'slop' reflects growing industry concern that flooding markets with AI content prioritizes quantity over artistic merit. This comes amid ongoing debates about AI's role in creative industries and its impact on traditional filmmakers and workers.",
+    "enhanced": true
+  },
+  {
     "id": "the-light-flip-is-a-minimalist-flip-phone-with-a-point-to-prove-c3a5e7",
     "title": "The Light Flip is a minimalist flip phone with a point to prove",
     "summary": "It’s a Light Phone. It’s a flip phone. | Photo: Light A few years ago, the team at Light shipped the most smartphone-like device they'd ever created. The Light Phone III still kept to its minimalist, no-distractions ethos, but it was a phone-size rectangle with a phone-size…",
@@ -542,23 +560,5 @@
     "moreContext": "OpenAI has faced an unusually litigious year with lawsuits from various parties, but Apple's involvement signals that even major tech partners view certain OpenAI initiatives as competitive threats. The hardware space has become increasingly central to AI companies' strategies as they seek to differentiate beyond software models. OpenAI's hardware push represents a significant capital commitment and strategic pivot away from its pure software focus. This lawsuit comes as tensions between major tech companies over AI development and device integration continue to escalate across the industry.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "oneplus-is-reportedly-bailing-on-the-us-977711",
-    "title": "OnePlus is reportedly bailing on the US",
-    "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors…",
-    "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-13T21:48:43.000Z",
-    "fetchedAt": "2026-07-14T08:48:56.790Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "OnePlus and parent company Oppo are reportedly announcing plans to exit the US and European markets in the coming days. The move would end the Chinese smartphone maker's presence in these regions after months of speculation about the brand's future.",
-    "whoInvolved": "OnePlus is a Chinese smartphone manufacturer owned by Oppo, part of the BBK Electronics conglomerate. The company has been a notable mid-range phone competitor in Western markets since its 2014 launch.",
-    "whyMatters": "The exit would reshape the competitive landscape for premium mid-range smartphones in the US and Europe, eliminating a popular alternative to Samsung and Apple. For consumers, it means losing access to OnePlus's value-oriented flagships and potential price increases from remaining competitors.",
-    "moreContext": "OnePlus has faced mounting challenges in Western markets, including increased competition from Samsung's Galaxy A series and Apple's iPhone SE, plus regulatory pressures on Chinese tech companies. The brand previously had strong community loyalty through its early online-only sales model, but that advantage eroded as competitors adopted similar strategies. Rumors of an exit have circulated for months as Oppo itself has struggled to establish a foothold outside Asia. This move would allow OnePlus and Oppo to consolidate their efforts in more profitable Asian markets where they maintain stronger market positions.",
-    "enhanced": true
   }
 ]
