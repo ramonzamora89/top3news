@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-light-flip-is-a-minimalist-flip-phone-with-a-point-to-prove-c3a5e7",
+    "title": "The Light Flip is a minimalist flip phone with a point to prove",
+    "summary": "It’s a Light Phone. It’s a flip phone. | Photo: Light A few years ago, the team at Light shipped the most smartphone-like device they'd ever created. The Light Phone III still kept to its minimalist, no-distractions ethos, but it was a phone-size rectangle with a phone-size…",
+    "url": "https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-21T15:00:00.000Z",
+    "fetchedAt": "2026-07-21T15:31:10.563Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Toolbox.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Light is launching the Light Flip, a minimalist flip phone that combines the company's distraction-free philosophy with a nostalgic form factor. The device represents a departure from their recent rectangular smartphone designs while maintaining their core mission of reducing digital overwhelm.",
+    "whoInvolved": "Light is a company founded on the principle of creating intentional, distraction-free devices that prioritize well-being over endless features. They've built a niche following among users seeking alternatives to mainstream smartphones.",
+    "whyMatters": "The Light Flip signals growing consumer interest in alternative phone designs that reject constant connectivity and social media engagement. This reflects a broader cultural shift toward digital minimalism and could influence how other manufacturers think about feature-light device categories.",
+    "moreContext": "Light previously released the Light Phone III, their most smartphone-like device to date, which featured a rectangular form factor but retained their minimalist ethos. The flip phone form factor itself has experienced a resurgence in recent years, with Samsung, Motorola, and others reintroducing foldable and flip designs. Light's version distinguishes itself by leaning into simplicity rather than technical innovation, targeting consumers fatigued by feature-bloated smartphones. The company has cultivated a dedicated community of users willing to pay premium prices for intentionally limited devices.",
+    "enhanced": true
+  },
+  {
     "id": "here-are-the-30000-songs-sony-is-suing-udio8217s-ai-music-generator-over-5e8cc6",
     "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
     "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a…",
@@ -540,24 +558,6 @@
     "whoInvolved": "OnePlus is a Chinese smartphone manufacturer owned by Oppo, part of the BBK Electronics conglomerate. The company has been a notable mid-range phone competitor in Western markets since its 2014 launch.",
     "whyMatters": "The exit would reshape the competitive landscape for premium mid-range smartphones in the US and Europe, eliminating a popular alternative to Samsung and Apple. For consumers, it means losing access to OnePlus's value-oriented flagships and potential price increases from remaining competitors.",
     "moreContext": "OnePlus has faced mounting challenges in Western markets, including increased competition from Samsung's Galaxy A series and Apple's iPhone SE, plus regulatory pressures on Chinese tech companies. The brand previously had strong community loyalty through its early online-only sales model, but that advantage eroded as competitors adopted similar strategies. Rumors of an exit have circulated for months as Oppo itself has struggled to establish a foothold outside Asia. This move would allow OnePlus and Oppo to consolidate their efforts in more profitable Asian markets where they maintain stronger market positions.",
-    "enhanced": true
-  },
-  {
-    "id": "a-two-pack-of-dji8217s-most-capable-wireless-mics-just-got-its-first-price-cut-741766",
-    "title": "A two-pack of DJI’s most capable wireless mics just got its first price cut",
-    "summary": "The full DJI Mic 3 kit in its charging case. Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your…",
-    "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-13T21:03:14.000Z",
-    "fetchedAt": "2026-07-14T08:48:56.790Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/DJI-Mic-3-charging-case.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "DJI's Mic 3 wireless microphone kit is receiving its first price reduction. The two-pack system, which includes a charging case, is now more affordable for content creators looking to improve mobile video audio.",
-    "whoInvolved": "DJI is a Chinese technology company that dominates the consumer drone market and has expanded into audio and imaging accessories. The Mic 3 represents their latest entry into the wireless microphone space for smartphone videographers.",
-    "whyMatters": "Smartphone microphones remain a significant weak point in mobile video production despite cameras becoming increasingly sophisticated. This price cut makes professional-grade wireless audio more accessible to creators, streamers, and journalists who rely on smartphones for video work.",
-    "moreContext": "Smartphone video quality has advanced dramatically with computational photography and stabilization, but built-in microphones still struggle with wind noise and distance recording. The wireless lavalier microphone category has grown as content creation on platforms like TikTok, YouTube, and Instagram accelerates. DJI's entry into this market leverages their reputation for consumer tech innovation, though they face competition from established audio brands. Price cuts on new tech products typically indicate either strong sales momentum or inventory management, and signal the product line's transition into mainstream adoption.",
     "enhanced": true
   }
 ]
