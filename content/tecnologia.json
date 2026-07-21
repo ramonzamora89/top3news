@@ -15,7 +15,8 @@
     "whoInvolved": "Sony Music Entertainment, one of the three major record labels controlling roughly two-thirds of the global music market, is suing Udio, an AI music generation startup that allows users to create original songs using artificial intelligence. Udio competes with other AI music tools like OpenAI's Jukebox and Google's MusicLM.",
     "whyMatters": "This lawsuit represents a major escalation in the music industry's battle against AI training on copyrighted material without permission or compensation. The outcome could set legal precedent for how AI companies must handle music rights and potentially reshape the economics of AI music generation. A Sony victory could force Udio to license music or significantly limit its training data.",
     "moreContext": "Sony and other major labels have been aggressively pursuing legal action against AI music platforms over concerns that generative AI trained on their catalogs threatens artist revenue and intellectual property rights. Similar lawsuits have been filed against other AI platforms, and the music industry has expressed fears that AI-generated music could devalue human artists' work. This case follows broader tech industry battles over AI training data, with questions about whether AI training constitutes fair use under copyright law remaining largely unsettled in courts.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "the-fcc-is-planning-to-retroactively-ban-disguised-dji-gadgets-169f4b",
