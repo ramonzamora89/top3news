@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-wont-have-to-face-the-next-planned-social-media-addiction-trial-61d1b8",
+    "title": "Meta won’t have to face the next planned social media addiction trial",
+    "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of…",
+    "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-22T22:03:53.000Z",
+    "fetchedAt": "2026-07-22T23:20:15.583Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A lawsuit against Meta claiming the platform causes social media addiction has been dropped just days before trial in Los Angeles. The case, brought by a 15-year-old Florida plaintiff, was set to be the second major addiction-related trial against the tech giant.",
+    "whoInvolved": "Meta, the parent company of Facebook and Instagram, faces ongoing legal challenges over its platform's addictive design. The plaintiff, a minor identified as R.K.C., brought the case arguing the platform caused them harm through deliberate engagement tactics.",
+    "whyMatters": "This dismissal removes a high-profile test case that could have set precedent for holding social media companies liable for addiction-related harms to minors. The ruling could affect other pending litigation and influence how regulators approach platform accountability going forward.",
+    "moreContext": "Meta has faced multiple lawsuits alleging its platforms use manipulative features designed to maximize user engagement at the expense of mental health, particularly for young users. This case was part of a coordinated legal strategy with multiple similar suits in various jurisdictions. The dismissal comes as Meta continues defending against federal antitrust cases and state-level investigations into its business practices. Previous social media addiction cases have struggled to establish clear legal liability, making Meta's avoidance of trial significant for understanding how courts currently view these claims.",
+    "enhanced": true
+  },
+  {
     "id": "philips-new-smart-toothbrush-shows-you-where-you-didnt-properly-brush-ac7102",
     "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
     "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a…",
@@ -540,25 +558,6 @@
     "whoInvolved": "JBL, a subsidiary of Harman International (owned by Samsung), is a major player in portable audio equipment. The Verge, a leading technology publication, is covering the deal.",
     "whyMatters": "The sale makes an already competitively-priced portable speaker even more accessible to budget-conscious consumers looking for quality audio. This deal reflects ongoing competition in the portable speaker market where discounts are common tactics to drive sales during peak seasons.",
     "moreContext": "The Flip series has been a flagship line for JBL in the portable speaker category for years, known for combining durability, water resistance, and sound quality at mid-range price points. Bluetooth speakers have become essential outdoor gear, particularly as more consumers seek entertainment solutions beyond smartphones for travel and recreation. Sales promotions on established speaker models typically intensify during summer months when outdoor activities peak. The 40% discount represents a significant markdown, suggesting either end-of-season clearance or promotional competition from rivals like Ultimate Ears and Anker.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "starlinks-v5-dish-is-now-available-heres-how-it-compares-e78e94",
-    "title": "Starlink’s V5 dish is now available — here’s how it compares",
-    "summary": "The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more…",
-    "url": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-15T07:17:27.000Z",
-    "fetchedAt": "2026-07-15T08:51:36.874Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Starlink_Standard_4_5_Comparison.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "SpaceX is rolling out its new Starlink V5 residential dish in select areas. The upgraded model is smaller, lighter, and more power-efficient than the previous V4 version.",
-    "whoInvolved": "SpaceX, the aerospace company led by Elon Musk, continues to expand its Starlink satellite internet service. The company has been aggressively pushing satellite-based broadband as an alternative to traditional terrestrial internet providers.",
-    "whyMatters": "A smaller, lighter dish with better power efficiency makes Starlink more practical for a wider range of installations and reduces operational costs. This incremental hardware improvement helps SpaceX remain competitive in the growing satellite internet market and could accelerate adoption in underserved areas.",
-    "moreContext": "Starlink has been steadily rolling out hardware upgrades since launching commercial service in 2021. The V4 dish represented a previous generation of the technology that served as the baseline for residential deployments. The V5 represents SpaceX's continued iteration on the hardware design to improve performance and user experience. Broader rollout to more areas is planned, suggesting this is part of a phased release strategy rather than an immediate global availability.",
     "enhanced": true,
     "fbPosted": true
   }
