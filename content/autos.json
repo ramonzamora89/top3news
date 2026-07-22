@@ -1,5 +1,22 @@
 [
   {
+    "id": "2027-audi-sq7-619038",
+    "title": "2027 Audi SQ7",
+    "summary": "What We Know So Far",
+    "url": "https://www.caranddriver.com/audi/sq7-2027",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-22T15:27:00.000Z",
+    "fetchedAt": "2026-07-22T15:30:17.762Z",
+    "lang": "en",
+    "whatHappening": "Audi is preparing to launch the 2027 SQ7, the high-performance variant of its popular Q7 luxury SUV. The automaker is releasing preliminary details about what consumers can expect from the next generation.",
+    "whoInvolved": "Audi, the German luxury automotive brand owned by Volkswagen Group, is spearheading the SQ7 development. Car and Driver, a leading automotive journalism outlet, is reporting on the vehicle's specifications and features.",
+    "whyMatters": "The SQ7 refresh signals Audi's commitment to evolving its performance SUV lineup as luxury buyers increasingly demand both power and advanced technology. This model is crucial for Audi's competitiveness against rivals like BMW's X7 M and Mercedes-AMG GLS in the premium performance segment.",
+    "moreContext": "The SQ7 has been a cornerstone of Audi's performance SUV portfolio, offering turbocharged power and dynamic handling in a three-row luxury package. The 2027 model year update comes as the automotive industry accelerates electrification, with many manufacturers introducing hybrid and electric variants of their performance models. Audi has been rolling out incremental updates to its Q-series SUVs while simultaneously developing electric alternatives under its e-tron sub-brand. The timing of the 2027 SQ7 refresh reflects broader industry trends of extending traditional performance vehicles while transitioning toward electrified powertrains.",
+    "enhanced": true
+  },
+  {
     "id": "2028-land-rover-range-rover-gt-603c9f",
     "title": "2028 Land Rover Range Rover GT",
     "summary": "What We Know So Far",
@@ -502,23 +519,6 @@
     "whoInvolved": "Goodwood, a historic English estate, hosts the festival as a platform for luxury automakers, hypercar manufacturers, and professional racing drivers to display their latest innovations and achievements.",
     "whyMatters": "The festival has become the definitive venue for hypercar manufacturers to reveal next-generation vehicles to global media and enthusiasts, influencing industry narratives and consumer interest. Its growth signals the automotive industry's continued investment in high-performance experiences and exclusive events as marketing channels.",
     "moreContext": "The festival originated as a modest one-day race held on the Goodwood estate's private driveway, establishing its unique venue and intimate-yet-grand character. Over decades, it evolved into a multi-day international event attracting hundreds of thousands of attendees and becoming a mandatory calendar fixture for luxury brands launching flagship models. The event reflects broader automotive trends toward experiential marketing and the sustained cultural cachet of motorsport in brand positioning. Goodwood's combination of competitive racing, static exhibitions, and exclusive debuts has created a model that competitors struggle to replicate, cementing its status as the premier automotive gathering outside Formula 1 and traditional motorsport championships.",
-    "enhanced": true
-  },
-  {
-    "id": "view-photos-of-the-2026-goodwood-festival-of-speed-9ed9cb",
-    "title": "View Photos of the 2026 Goodwood Festival of Speed",
-    "summary": "See photos of the 2026 Goodwood Festival of Speed from every angle.",
-    "url": "https://www.caranddriver.com/photos/g71930075/2026-goodwood-festival-of-speed-gallery/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-14T22:29:00.000Z",
-    "fetchedAt": "2026-07-15T08:51:36.697Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver is releasing a photo gallery showcasing the 2026 Goodwood Festival of Speed. The collection captures vehicles and action from multiple angles at the prestigious automotive event.",
-    "whoInvolved": "Car and Driver, a leading automotive publication, is documenting the 2026 Goodwood Festival of Speed—an annual showcase held at Goodwood House in West Sussex, England that attracts manufacturers, collectors, and racing teams from around the world.",
-    "whyMatters": "The photo coverage provides enthusiasts with visual access to rare vehicles, concept cars, and performance machines that appear at one of the automotive world's most exclusive events. This documentation helps automotive fans and industry observers stay informed about new reveals and classic car presentations without attending in person.",
-    "moreContext": "The Goodwood Festival of Speed, held annually since 1993, is one of the world's largest automotive events, known for its hillclimb races and exclusive vehicle debuts. The event attracts manufacturers showcasing everything from hypercars to restored classics, and it serves as a major platform for automotive announcements. The 2026 edition continues this tradition of bringing together the automotive industry's most significant players and most coveted vehicles in one location.",
     "enhanced": true
   }
 ]

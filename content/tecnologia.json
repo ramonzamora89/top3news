@@ -1,5 +1,23 @@
 [
   {
+    "id": "philips-new-smart-toothbrush-shows-you-where-you-didnt-properly-brush-ac7102",
+    "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+    "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a…",
+    "url": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-22T15:09:44.000Z",
+    "fetchedAt": "2026-07-22T15:30:17.813Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/philips1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Philips has launched the Next-Generation DiamondClean 9900 Prestige, a smart electric toothbrush that uses third-generation AI to give real-time feedback on brushing technique. The device tells users exactly where they missed or didn't brush properly, removing guesswork from daily oral hygiene.",
+    "whoInvolved": "Philips, the Dutch consumer electronics giant, continues to expand its Sonicare line of smart toothbrushes with AI-powered features. Sonicare is one of the leading brands in the premium electric toothbrush market competing against Oral-B and other connected dental devices.",
+    "whyMatters": "Smart toothbrushes with AI coaching could significantly improve oral health outcomes by teaching better brushing habits and reducing plaque buildup. For Philips, this positions the company deeper in the health-tech ecosystem where connected devices and AI feedback drive consumer engagement and potential recurring revenue through app ecosystems.",
+    "moreContext": "The smart toothbrush category has grown substantially as consumers embrace connected health devices and real-time behavioral coaching. Philips has been iterating on AI models for dental feedback over multiple generations, indicating sustained investment in this category. Competitors like Oral-B have similarly launched AI-powered variants, making intelligent brushing guidance increasingly standard in premium segments. The shift reflects broader trends where everyday personal care products are becoming connected, data-generating wellness tools.",
+    "enhanced": true
+  },
+  {
     "id": "samsung-galaxy-unpacked-july-2026-how-to-watch-eb356b",
     "title": "Samsung Galaxy Unpacked July 2026: How to watch",
     "summary": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely be the stars of the show. Samsung is…",
@@ -542,23 +560,5 @@
     "moreContext": "Starlink has been steadily rolling out hardware upgrades since launching commercial service in 2021. The V4 dish represented a previous generation of the technology that served as the baseline for residential deployments. The V5 represents SpaceX's continued iteration on the hardware design to improve performance and user experience. Broader rollout to more areas is planned, suggesting this is part of a phased release strategy rather than an immediate global availability.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "google-and-epic-give-up-fighting-third-party-android-app-stores-are-coming-next--03cb1c",
-    "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-    "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the…",
-    "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-15T03:28:53.000Z",
-    "fetchedAt": "2026-07-15T08:51:36.874Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Epic Games and Google have withdrawn their joint settlement attempt in their ongoing lawsuit, meaning Google will be forced to allow third-party app stores to operate within its own platform starting next week. This marks a significant shift in how Android apps can be distributed in the United States.",
-    "whoInvolved": "Epic Games, the maker of Fortnite, has been fighting major tech companies over app store restrictions and commission fees. Google, which controls the Android operating system and Google Play Store, is the defendant in this case that will reshape mobile app distribution.",
-    "whyMatters": "This decision opens Android to direct competition from alternative app stores, potentially lowering costs for app developers by reducing the commission fees they pay and giving consumers more choices for where they download apps. The outcome could set a precedent for how major tech platforms must operate their app ecosystems globally.",
-    "moreContext": "Epic Games initiated legal battles against both Google and Apple over their app store monopolies and 30% commission rates. The lawsuit against Google has already resulted in court rulings requiring changes to how Android handles app distribution. This withdrawal of the settlement attempt means Google cannot negotiate its way out of these requirements, forcing them to implement sideloading and third-party app store options sooner rather than later. The case is part of a broader wave of regulatory and legal pressure on Big Tech's control over digital marketplaces.",
-    "enhanced": true
   }
 ]
