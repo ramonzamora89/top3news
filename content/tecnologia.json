@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-new-halo-remake-is-a-reminder-of-what-xbox-used-to-be-74d158",
+    "title": "The new Halo remake is a reminder of what Xbox used to be",
+    "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which stem from years of bad…",
+    "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-23T15:00:00.000Z",
+    "fetchedAt": "2026-07-23T15:36:51.974Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_6773ca4386fb78b10c987902bf2f66a1038d7829.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Microsoft has released a new Halo remake, but the game serves as a stark reminder of Xbox's fallen status in the gaming industry. The launch arrives amid a period of significant turbulence for the company's gaming division, marked by layoffs and studio closures.",
+    "whoInvolved": "Microsoft, the tech giant behind Xbox, is the primary company involved. The gaming division has been led through a period of strategic missteps and organizational upheaval that has weakened its competitive position.",
+    "whyMatters": "Halo was once the flagship franchise that defined Xbox's identity and drove console sales, but its struggles now reflect broader problems within Microsoft's gaming strategy. The disconnect between releasing a marquee title while dismantling the studios and teams that built Xbox's legacy signals deeper structural issues that could affect future competitiveness against Sony and Nintendo.",
+    "moreContext": "Xbox has historically relied on Halo as its primary system-seller since the original console's 2001 launch. Recent years have seen Microsoft's gaming division plagued by mismanaged acquisitions, canceled projects, and a lack of clear strategic direction. The company has undergone extensive layoffs affecting thousands of employees across multiple studios, including some of its major acquisitions. These problems stem from years of questionable decisions that have left Xbox without a robust pipeline of exclusive titles to compete in the current console generation.",
+    "enhanced": true
+  },
+  {
     "id": "legos-donkey-kong-arcade-machine-lets-mario-jump-endless-barrels-miyamoto-is-rep-d3b508",
     "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
     "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200…",
@@ -542,23 +560,5 @@
     "moreContext": "The original Crusher headphones built Skullcandy's reputation on customizable bass-boosting capabilities, differentiating them in a crowded market. Bose's QuietControl technology has long been considered the gold standard for active noise cancellation in consumer electronics. This collaboration suggests a trend of audio technology licensing and cross-brand partnerships as the wireless headphone market matures. The addition of spatial audio reflects broader industry movement toward immersive audio features becoming standard rather than premium offerings.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "apples-reportedly-raising-the-price-for-applecare-plus-on-macs-and-ipads-d2bf9f",
-    "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-    "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus…",
-    "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-15T22:39:40.000Z",
-    "fetchedAt": "2026-07-16T08:51:57.368Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Apple is raising AppleCare Plus subscription prices for Mac and iPad users. New customers will pay an extra $0.50 per month or $5 per year, while existing subscribers keep current rates.",
-    "whoInvolved": "Apple is implementing the price increase, reported by Bloomberg's Mark Gurman, a reliable source on Apple's business decisions and product announcements. The change affects Mac and iPad owners considering or renewing AppleCare Plus coverage.",
-    "whyMatters": "The hike represents Apple's continued monetization of its services business, which generates high-margin recurring revenue. For consumers, it modestly increases the cost of device protection, though the $0.50/month bump is relatively small and may push price-sensitive buyers to reconsider coverage.",
-    "moreContext": "AppleCare Plus is Apple's extended warranty and support program that covers accidental damage, hardware failures, and technical support beyond the standard one-year warranty. The company has steadily expanded its services revenue stream, with AppleCare being a significant contributor to that growth. Previous price adjustments to AppleCare have typically occurred every few years as Apple adjusts for inflation and market conditions. This marks the latest in a series of incremental price increases across Apple's service offerings.",
-    "enhanced": true
   }
 ]

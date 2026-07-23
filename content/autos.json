@@ -1,5 +1,22 @@
 [
   {
+    "id": "honda-civic-si-and-manual-integra-production-to-pause-after-2026-976a2f",
+    "title": "Honda Civic Si and Manual Integra Production to Pause After 2026",
+    "summary": "Honda will put the Civic Si and manual-equipped Acura Integra A-Spec on hold after the 2026 model year, but it promises they will return.",
+    "url": "https://www.caranddriver.com/news/a73246600/honda-civic-si-acura-manual-integra-production-pause/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-23T14:59:00.000Z",
+    "fetchedAt": "2026-07-23T15:36:51.906Z",
+    "lang": "en",
+    "whatHappening": "Honda is halting production of the Civic Si and manual-transmission Acura Integra A-Spec after the 2026 model year. The company says both models will make a comeback, though no timeline has been announced.",
+    "whoInvolved": "Honda Motor Company and its luxury division Acura are making this decision. Both brands have built loyal followings around these performance-oriented, manual-transmission vehicles that appeal to driving enthusiasts.",
+    "whyMatters": "Manual transmissions and performance variants like the Si are increasingly rare as automakers shift to automatics and electrification. This move reflects broader industry headwinds for gas-powered enthusiast cars, though Honda's commitment to bringing them back suggests the market for these vehicles hasn't disappeared entirely.",
+    "moreContext": "The Civic Si has been a entry-level performance staple since 1984, known for offering manual transmission and tuning potential at an accessible price point. The Acura Integra, which returned in 2023 after a 17-year hiatus, marked Honda's effort to revive the enthusiast nameplate and included a manual A-Spec variant. Rising emissions regulations and consumer preference shifts toward SUVs and electric vehicles have pressured automakers to discontinue niche manual models. Honda's decision to pause rather than cancel entirely signals confidence in eventual demand recovery, possibly tied to future powertrains or market conditions.",
+    "enhanced": true
+  },
+  {
     "id": "mercedes-benz-faces-potential-ban-in-the-us-due-to-senate-moves-5114f3",
     "title": "Mercedes-Benz Faces Potential Ban in the U.S. Due to Senate Moves",
     "summary": "While an outright ban seems unlikely, newly approved legislation could put the German automaker in jeopardy.",
@@ -503,23 +520,6 @@
     "whoInvolved": "Infiniti, Nissan's luxury vehicle division, is behind the delay. The company has been working to establish itself as a competitor in the high-performance luxury SUV segment against brands like BMW and Mercedes-Benz.",
     "whyMatters": "The delay signals Infiniti's commitment to delivering a genuinely competitive performance vehicle rather than rushing a product to market. For consumers interested in sporty luxury SUVs, this pushes their availability timeline back three years but potentially delivers a more capable competitor to established rivals.",
     "moreContext": "The QX80 Red Sport was conceived as Infiniti's answer to other luxury performance SUVs in an increasingly crowded segment. The decision to delay reflects broader industry trends where manufacturers are investing heavily in performance tuning to differentiate their vehicles. Infiniti has faced challenges establishing itself as a performance-focused luxury brand and has been restructuring its lineup in recent years. This extended development timeline suggests the company believes additional engineering refinement is necessary to meet performance targets and justify the Red Sport's premium positioning.",
-    "enhanced": true
-  },
-  {
-    "id": "2026-hyundai-ioniq-5-ns-price-cut-makes-641-hp-way-more-affordable-0a7a0d",
-    "title": "2026 Hyundai Ioniq 5 N's Price Cut Makes 641 HP Way More Affordable",
-    "summary": "With the arrival of the Ioniq 6 N sedan still up in the air, Hyundai's OG performance EV is more enticing than it's ever been.",
-    "url": "https://www.caranddriver.com/news/a71993675/2026-hyundai-ioniq-5-n-price-cut/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-15T20:14:00.000Z",
-    "fetchedAt": "2026-07-16T08:51:57.242Z",
-    "lang": "en",
-    "whatHappening": "Hyundai has cut the price on the 2026 Ioniq 5 N, its high-performance electric vehicle that delivers 641 horsepower. The price reduction makes this performance EV significantly more competitive in the market.",
-    "whoInvolved": "Hyundai, the South Korean automaker, is making the move with its performance-focused N division. The company is positioning the Ioniq 5 N as a flagship performance EV while the status of the upcoming Ioniq 6 N sedan remains uncertain.",
-    "whyMatters": "The price cut removes a major barrier for consumers interested in high-powered electric vehicles, potentially driving sales and market share in the growing performance EV segment. This move could establish the Ioniq 5 N as the go-to performance EV option as competitors continue developing their own offerings.",
-    "moreContext": "The Ioniq 5 N represents Hyundai's push into performance electrification, competing against vehicles like the BMW i4 M and Tesla Model Y Performance. With 641 horsepower and performance credentials built for track use, the vehicle targets enthusiasts willing to pay premium prices for EVs. The Ioniq 6 N sedan, which would expand Hyundai's N-badged EV lineup, has faced delays and uncertainty around its development and release timeline. This price cut suggests Hyundai is doubling down on the Ioniq 5 N as its primary performance EV offering while the sedan's future remains in question.",
     "enhanced": true
   }
 ]
