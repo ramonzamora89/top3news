@@ -1,5 +1,23 @@
 [
   {
+    "id": "alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions-62dc90",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and…",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-23T21:15:06.000Z",
+    "fetchedAt": "2026-07-23T23:18:31.330Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Amazon is rolling out an AI update to Alexa Plus that enables the assistant to handle more complex smart home commands and connect to devices from multiple manufacturers. The preview version now integrates with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others.",
+    "whoInvolved": "Amazon, the e-commerce and cloud computing giant, is behind Alexa Plus, its premium voice assistant offering. The update involves partnerships with major smart home device makers including appliance manufacturers (Whirlpool, Bosch), robot vacuum companies (iRobot, Ecovacs), smart lock providers (Yale Home), and IoT specialists (Tapo, Eufy).",
+    "whyMatters": "This expands Alexa's utility for users by allowing more natural, multi-step smart home commands across different brands in one ecosystem. It strengthens Amazon's position in the competitive smart home market and could drive adoption of Alexa Plus as a premium subscription service.",
+    "moreContext": "Amazon has been investing heavily in making Alexa smarter and more capable as voice assistants face increasing competition from ChatGPT-powered alternatives and Apple's Siri. Smart home integration has become a key battleground, with platforms competing to support the widest range of third-party devices. This preview stage suggests Amazon is still testing the feature's reliability before full rollout. The update represents a shift toward more sophisticated AI that understands context and can execute sequential commands rather than just single tasks.",
+    "enhanced": true
+  },
+  {
     "id": "the-new-halo-remake-is-a-reminder-of-what-xbox-used-to-be-74d158",
     "title": "The new Halo remake is a reminder of what Xbox used to be",
     "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which stem from years of bad…",
@@ -540,25 +558,6 @@
     "whoInvolved": "Apple is the tech giant behind the iPad Mini refresh. Mark Gurman of Bloomberg broke the news about the upcoming upgrade timeline.",
     "whyMatters": "An OLED display would dramatically improve the iPad Mini's visual quality with better contrast, colors, and power efficiency compared to its current Liquid Retina LCD screen. This upgrade signals Apple's push to bring premium display technology across more product lines while facing consumer pushback over rising device costs.",
     "moreContext": "The current 7th-generation iPad Mini still uses a Liquid Retina display technology introduced years ago. Apple has already brought OLED to iPhones and larger iPad Pro models, making the Mini the logical next candidate for the premium display upgrade. The iPad Mini hasn't seen a major overhaul since 2021, making it due for significant improvements. However, the timing comes as Apple faces criticism for steadily increasing prices on nearly all its products, potentially putting pressure on consumers considering the upgrade.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "skullcandys-bass-boosting-crusher-headphones-now-come-with-boses-anc-0698a2",
-    "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-    "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both…",
-    "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-16T00:00:00.000Z",
-    "fetchedAt": "2026-07-16T08:51:57.368Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Skullcandy is launching an upgraded version of its Crusher wireless headphones that now includes Bose's QuietControl active noise cancellation and head-tracking spatial audio technology. This marks a significant integration of Bose's premium audio features into Skullcandy's consumer-focused product line.",
-    "whoInvolved": "Skullcandy, known for its bass-heavy audio products and accessible price points, is partnering with Bose, a premium audio manufacturer renowned for industry-leading noise cancellation technology. The collaboration combines Skullcandy's signature sound profile with Bose's audio engineering expertise.",
-    "whyMatters": "This partnership elevates Skullcandy's competitive positioning in the wireless headphone market by adding legitimacy through Bose's established ANC credentials, potentially attracting audiophiles to a more affordable brand. The move signals that even budget-conscious headphone makers are now competing on advanced features like spatial audio, which could accelerate consumer adoption of these technologies across price tiers.",
-    "moreContext": "The original Crusher headphones built Skullcandy's reputation on customizable bass-boosting capabilities, differentiating them in a crowded market. Bose's QuietControl technology has long been considered the gold standard for active noise cancellation in consumer electronics. This collaboration suggests a trend of audio technology licensing and cross-brand partnerships as the wireless headphone market matures. The addition of spatial audio reflects broader industry movement toward immersive audio features becoming standard rather than premium offerings.",
     "enhanced": true,
     "fbPosted": true
   }

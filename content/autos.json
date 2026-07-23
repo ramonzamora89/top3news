@@ -1,5 +1,22 @@
 [
   {
+    "id": "toyota-updates-the-oddball-crown-for-2027-with-new-hybrid-setup-b8ca5f",
+    "title": "Toyota Updates the Oddball Crown for 2027 with New Hybrid Setup",
+    "summary": "Toyota says the Crown XLE, Limited, and Nightshade get an updated hybrid system, but it's being coy about the details of this revised setup.",
+    "url": "https://www.caranddriver.com/news/a73249953/2027-toyota-crown-update-details/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-23T21:26:00.000Z",
+    "fetchedAt": "2026-07-23T23:18:31.224Z",
+    "lang": "en",
+    "whatHappening": "Toyota is refreshing its 2027 Crown lineup with an updated hybrid system across the XLE, Limited, and Nightshade trim levels. The automaker has remained tight-lipped about the specific details of this revised powertrain setup.",
+    "whoInvolved": "Toyota, the Japanese automotive giant known for pioneering hybrid technology, is making these changes to its Crown sedan, a model that has regained U.S. market relevance after a decades-long absence.",
+    "whyMatters": "The hybrid update signals Toyota's continued commitment to electrification amid tightening emissions regulations and consumer demand for fuel efficiency. Better hybrid efficiency could improve the Crown's competitive positioning in the sedan market, where hybrid powertrains are becoming increasingly standard.",
+    "moreContext": "The Crown nameplate made its triumphant return to North America in 2023 after nearly two decades away, targeting luxury sedan buyers seeking an alternative to traditional German competitors. Toyota's hybrid expertise has established it as an industry leader in electrification, with the technology now spanning multiple segments beyond its iconic Prius. The company's reluctance to reveal specifics about the hybrid updates suggests potential performance or efficiency gains that may be unveiled closer to the 2027 model year launch. This refresh demonstrates how even established model lines require continuous powertrain evolution to meet market demands and regulatory requirements.",
+    "enhanced": true
+  },
+  {
     "id": "honda-civic-si-and-manual-integra-production-to-pause-after-2026-976a2f",
     "title": "Honda Civic Si and Manual Integra Production to Pause After 2026",
     "summary": "Honda will put the Civic Si and manual-equipped Acura Integra A-Spec on hold after the 2026 model year, but it promises they will return.",
@@ -503,23 +520,6 @@
     "whoInvolved": "Aston Martin, the legendary British luxury automaker known for high-performance sports cars and James Bond vehicles, partnered with Activision's Call of Duty franchise. The collaboration brings the iconic car brand into the gaming space.",
     "whyMatters": "This partnership represents a growing trend of luxury brands leveraging gaming platforms to reach younger, digital-native audiences and build brand engagement beyond traditional automotive channels. For gamers, it adds exclusive branded content that enhances the Call of Duty experience with premium automotive design.",
     "moreContext": "Luxury and performance brands increasingly use video games as marketing channels, recognizing that gaming audiences represent a massive and valuable demographic. Call of Duty: Modern Warfare 4 continues the franchise's tradition of featuring premium branded vehicles and equipment. Aston Martin has a storied history of producing limited-edition and specially commissioned vehicles, making a virtual-exclusive design an unconventional but on-brand move. This type of in-game branded content has become standard practice in modern AAA gaming titles.",
-    "enhanced": true
-  },
-  {
-    "id": "infiniti-delays-sporty-qx80-suv-to-inject-even-more-performance-6bbc72",
-    "title": "Infiniti Delays Sporty QX80 SUV to Inject Even More Performance",
-    "summary": "The Red Sport was supposed to arrive this year, but now the hopped-up QX80 is being pushed back to 2028 as Infiniti extracts even more performance.",
-    "url": "https://www.caranddriver.com/news/a72054470/infiniti-qx80-red-sport-delayed-upgrades/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-15T20:38:00.000Z",
-    "fetchedAt": "2026-07-16T08:51:57.242Z",
-    "lang": "en",
-    "whatHappening": "Infiniti is delaying its high-performance QX80 Red Sport SUV from its originally planned 2025 launch to 2028. The luxury automaker is using the extra time to enhance the vehicle's performance capabilities beyond its initial specifications.",
-    "whoInvolved": "Infiniti, Nissan's luxury vehicle division, is behind the delay. The company has been working to establish itself as a competitor in the high-performance luxury SUV segment against brands like BMW and Mercedes-Benz.",
-    "whyMatters": "The delay signals Infiniti's commitment to delivering a genuinely competitive performance vehicle rather than rushing a product to market. For consumers interested in sporty luxury SUVs, this pushes their availability timeline back three years but potentially delivers a more capable competitor to established rivals.",
-    "moreContext": "The QX80 Red Sport was conceived as Infiniti's answer to other luxury performance SUVs in an increasingly crowded segment. The decision to delay reflects broader industry trends where manufacturers are investing heavily in performance tuning to differentiate their vehicles. Infiniti has faced challenges establishing itself as a performance-focused luxury brand and has been restructuring its lineup in recent years. This extended development timeline suggests the company believes additional engineering refinement is necessary to meet performance targets and justify the Red Sport's premium positioning.",
     "enhanced": true
   }
 ]
