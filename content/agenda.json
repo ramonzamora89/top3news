@@ -1,11 +1,11 @@
 [
   {
-    "id": "sm-parks-42af9ee5",
-    "title": "Pickleball Tournament",
-    "description": "Event date: July 17, 2026 Event Time: 05:00 PM - 07:00 PM Location: 6121 SW 68 St South Miami, FL 33143",
-    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3807",
-    "eventDate": "2026-06-30T21:21:04.000Z",
-    "source": "South Miami Parks & Rec",
-    "fetchedAt": "2026-07-16T23:17:48.509Z"
+    "id": "sm-events-70a834b7",
+    "title": "Back to School Splash Bash",
+    "description": "Event date: August 1, 2026 Event Time: 12:00 PM - 04:00 PM Location: 6701 SW 58 Place South Miami, FL 33143",
+    "url": "https://www.southmiamifl.gov/Calendar.aspx?EID=3817",
+    "eventDate": "2026-07-21T21:04:19.000Z",
+    "source": "South Miami Special Events",
+    "fetchedAt": "2026-07-23T08:58:23.968Z"
   }
 ]
