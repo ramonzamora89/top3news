@@ -1,5 +1,23 @@
 [
   {
+    "id": "after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses-abcb32",
+    "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+    "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson…",
+    "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-24T22:27:46.000Z",
+    "fetchedAt": "2026-07-24T23:21:01.854Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0075.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Meta is pausing its plan to charge a $20 monthly subscription fee for a smart glasses audio feature after facing public backlash. The company had proposed putting a paywall on functionality that runs locally on the device and doesn't require cloud servers.",
+    "whoInvolved": "Meta, the tech giant behind Ray-Ban smart glasses, proposed the subscription model for a feature that enhances audio clarity between wearers. The pause comes after criticism from users and tech observers who questioned charging for local device processing.",
+    "whyMatters": "This reversal signals that consumer pushback can influence major tech companies' monetization decisions, even after they've publicly announced plans. It also highlights growing skepticism about paywalling features that don't require backend infrastructure, which could impact how companies justify future subscription models for wearable tech.",
+    "moreContext": "Meta has been aggressively pushing its Ray-Ban smart glasses as a key product in its augmented reality strategy. The company has faced criticism over pricing and feature limitations as it competes with other tech firms developing AR wearables. The proposed subscription fee seemed designed to create recurring revenue streams, but it triggered immediate backlash for essentially charging users for local processing power already built into the device. This pause reflects broader tension between hardware makers seeking new revenue models and consumers resistant to subscription fees for basic device functionality.",
+    "enhanced": true
+  },
+  {
     "id": "one-of-the-best-2-in-1-chromebooks-is-almost-200-off-for-today-only-e3fff8",
     "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
     "summary": "The Spin 514 has a 16:10 aspect ratio IPS touchscreen with a 120Hz refresh rate — impressive specs for a sub-$600 Chromebook. | Image: The Verge Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want…",
@@ -540,25 +558,6 @@
     "whoInvolved": "Greenworks Tools, a major power tool manufacturer, issued the recall for its Kobalt-branded yard work equipment line. The affected batteries are USB-C rechargeable units used across multiple cordless power tool models in the Kobalt product portfolio.",
     "whyMatters": "The recall affects hundreds of thousands of consumer devices, creating immediate safety risks for homeowners and professionals using these tools. This incident highlights growing quality concerns around lithium-ion battery manufacturing and USB-C charging implementations in power tools, potentially triggering industry-wide scrutiny.",
     "moreContext": "USB-C adoption in power tools has accelerated as manufacturers seek standardized charging solutions, but implementation quality varies significantly. Battery fires in cordless power tools have become an increasing concern as lithium-ion density increases to improve performance. The 34 documented incidents represent a significant failure rate for a consumer safety issue. Greenworks Tools has instructed customers to stop using affected batteries and contact the company for replacement or refund options.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "samsungs-55-inch-frame-art-tv-is-200-cheaper-than-usual-b7b909",
-    "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
-    "summary": "Samsung’s art TV looks right at home alongside real paintings. | Image: Samsung Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery.…",
-    "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-16T20:47:30.000Z",
-    "fetchedAt": "2026-07-17T08:48:54.744Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/samsungtheframetv75inch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Samsung's 55-inch Frame art TV is currently discounted $200 below its typical price. The device functions as both a conventional 4K television and an art display when not actively watching content.",
-    "whoInvolved": "Samsung, the South Korean electronics giant, created the Frame as part of its lifestyle TV lineup. The Verge, a major tech publication, is reporting on the pricing promotion.",
-    "whyMatters": "The price reduction makes Samsung's premium art TV more accessible to consumers seeking stylish home entertainment alternatives. This discount could drive adoption of Samsung's gallery-focused TV concept among price-conscious buyers who value aesthetic home integration.",
-    "moreContext": "The Frame TV addresses a growing consumer desire for multifunctional home devices that blend seamlessly with interior design rather than dominating living spaces. Samsung's strategy positions the Frame as furniture-like décor that doubles as entertainment, differentiating it from traditional TVs. The ability to display curated artwork during standby time appeals to design-conscious consumers and those in smaller living spaces. Promotional pricing on premium lifestyle products often signals inventory management or competitive positioning against similar offerings from LG and other manufacturers entering the art TV segment.",
     "enhanced": true,
     "fbPosted": true
   }

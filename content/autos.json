@@ -1,5 +1,22 @@
 [
   {
+    "id": "report-chevrolet-is-already-cooking-up-a-next-generation-equinox-ev-74f699",
+    "title": "Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV",
+    "summary": "The next version of the compact electric SUV is expected to arrive for the 2029 model year and will ride on a new platform.",
+    "url": "https://www.caranddriver.com/news/a73259033/chevy-equinox-ev-next-gen-report/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-24T20:33:00.000Z",
+    "fetchedAt": "2026-07-24T23:21:01.678Z",
+    "lang": "en",
+    "whatHappening": "Chevrolet is developing a next-generation Equinox EV that will launch for the 2029 model year. The redesigned compact electric SUV will be built on an entirely new platform.",
+    "whoInvolved": "Chevrolet, General Motors' mass-market brand, is spearheading the development. GM has been aggressively expanding its EV lineup as part of its broader electrification strategy.",
+    "whyMatters": "The next-gen Equinox EV signals GM's commitment to refreshing its electric vehicle portfolio with more advanced technology and capability. A new platform typically means improved range, performance, and cost efficiency, which could strengthen Chevrolet's competitive position in the growing affordable EV segment.",
+    "moreContext": "The current Equinox EV launched in 2024 as one of Chevrolet's most affordable electric options, priced competitively to undercut Tesla's Model Y. GM has been investing heavily in EV development and battery technology to meet electrification targets. The 2029 timeline suggests Chevrolet will use the intervening years to refine the platform and integrate next-generation battery innovations. A redesigned platform typically enables manufacturers to reduce production costs while expanding features, which is critical as the EV market becomes increasingly price-sensitive.",
+    "enhanced": true
+  },
+  {
     "id": "2027-aston-martin-vanquish-45f79b",
     "title": "2027 Aston Martin Vanquish",
     "summary": "Review, Pricing, and Specs",
@@ -504,23 +521,5 @@
     "whyMatters": "The Interceptor GTX launch signals growing momentum in the retro-revival segment, where manufacturers are tapping nostalgia and performance enthusiasts' appetite for classic nameplates. Success with the track-focused model could validate demand for a road-going version, potentially establishing Jensen as a niche player competing against other bespoke automakers.",
     "moreContext": "The original Jensen Interceptor was a British grand tourer that gained cult status for its combination of style, performance, and luxury. Jensen ceased operations in 1976, leaving a 40+ year gap before the brand's revival. The track-only strategy mirrors industry trends seen with other heritage brands testing new models in motorsport before consumer launch. This approach allows Jensen to refine performance characteristics and generate buzz without the regulatory complexity of immediate road certification.",
     "enhanced": true
-  },
-  {
-    "id": "2026-lamborghini-temerario-aea7d1",
-    "title": "2026 Lamborghini Temerario",
-    "summary": "Review, Pricing, and Specs",
-    "url": "https://www.caranddriver.com/lamborghini/temerario",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-16T20:37:00.000Z",
-    "fetchedAt": "2026-07-17T08:48:54.695Z",
-    "lang": "en",
-    "whatHappening": "Lamborghini is unveiling the 2026 Temerario, a new supercar model that marks a significant addition to the Italian automaker's lineup. The vehicle comes with detailed specifications, pricing information, and comprehensive reviews from automotive experts.",
-    "whoInvolved": "Lamborghini, the Italian luxury supercar manufacturer owned by Audi (part of Volkswagen Group), is behind this release. Car and Driver, a leading automotive publication, is providing the official review and specifications.",
-    "whyMatters": "The Temerario's debut signals Lamborghini's continued evolution in the ultra-premium supercar market as consumer preferences shift toward new performance standards and potential electrification. The pricing and specs will influence how competitors position their high-end offerings and set expectations for the next generation of exotic vehicles.",
-    "moreContext": "Lamborghini has been refreshing its model lineup over the past few years, transitioning from purely internal combustion engines toward hybrid and electric powertrains. The automaker previously discontinued iconic models like the Aventador to make room for new designs that balance performance with evolving emissions standards. The Temerario name continues Lamborghini's tradition of naming cars after legendary bulls, maintaining brand heritage while signaling a modern direction. This release reflects the broader automotive industry trend of luxury makers launching new platforms to compete in an increasingly regulated and technology-driven market.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
