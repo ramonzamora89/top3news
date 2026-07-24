@@ -1,5 +1,23 @@
 [
   {
+    "id": "one-of-the-best-2-in-1-chromebooks-is-almost-200-off-for-today-only-e3fff8",
+    "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
+    "summary": "The Spin 514 has a 16:10 aspect ratio IPS touchscreen with a 120Hz refresh rate — impressive specs for a sub-$600 Chromebook. | Image: The Verge Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want…",
+    "url": "https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-24T15:11:03.000Z",
+    "fetchedAt": "2026-07-24T15:28:26.323Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/acerspin514.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "The Asus Chromebook Flip Spin 514 is on sale for nearly $200 off today only, bringing this high-end 2-in-1 Chromebook to under $600. The device features an impressive 16:10 aspect ratio IPS touchscreen with 120Hz refresh rate and higher-than-typical RAM specs for the Chromebook category.",
+    "whoInvolved": "Asus is the manufacturer behind the Chromebook Flip Spin 514, a Taiwan-based tech company known for producing laptops and computing devices. The Verge, a major tech publication, is reporting on the sale.",
+    "whyMatters": "This deal makes premium Chromebook features — like high refresh rate displays and multitasking-friendly RAM configurations — accessible at mid-range prices, potentially attracting users who normally wouldn't consider the category. For budget-conscious consumers and students, the savings represent a significant opportunity to upgrade from basic Chromebooks to a convertible device with better performance specs.",
+    "moreContext": "Most Chromebooks typically ship with 8GB of RAM, which limits multitasking capabilities. The Spin 514's 120Hz display and superior RAM options address a common pain point for power users of Chrome OS devices. 2-in-1 convertible Chromebooks remain a niche but growing segment as manufacturers seek to differentiate their offerings. Flash sales like this one-day promotion are common retail tactics in the competitive laptop market, particularly for inventory management.",
+    "enhanced": true
+  },
+  {
     "id": "the-echo-show-21-is-a-great-smart-home-hub-thats-80-off-23fe67",
     "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
     "summary": "Echo Show's 21 attached to the adjustable stand, which is sold separately (and also discounted). | Image: Amazon Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch…",
@@ -542,23 +560,5 @@
     "moreContext": "The Frame TV addresses a growing consumer desire for multifunctional home devices that blend seamlessly with interior design rather than dominating living spaces. Samsung's strategy positions the Frame as furniture-like décor that doubles as entertainment, differentiating it from traditional TVs. The ability to display curated artwork during standby time appeals to design-conscious consumers and those in smaller living spaces. Promotional pricing on premium lifestyle products often signals inventory management or competitive positioning against similar offerings from LG and other manufacturers entering the art TV segment.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "netflix-says-around-300-titles-used-generative-ai-45ae18",
-    "title": "Netflix says around 300 titles used generative AI",
-    "summary": "A scene from The American Experiment, one of the Netflix titles to use generative AI | Image: Netflix Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter…",
-    "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-16T20:29:27.000Z",
-    "fetchedAt": "2026-07-17T08:48:54.744Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Netflix has disclosed that approximately 300 titles on its platform have incorporated generative AI technology, with the majority of usage occurring during post-production phases. The streaming giant revealed this information in its second-quarter earnings report.",
-    "whoInvolved": "Netflix, the world's largest streaming service with over 230 million subscribers, disclosed the AI usage data. The company has been increasingly exploring AI applications across content creation and production processes.",
-    "whyMatters": "This revelation signals Netflix's significant investment in AI-assisted content production, potentially lowering production costs and accelerating time-to-market for titles. However, it raises questions about creative labor displacement and transparency with viewers regarding AI-generated content.",
-    "moreContext": "Netflix has been experimenting with generative AI in various capacities, from thumbnail generation to script assistance. The disclosure comes as Hollywood grapples with AI's role in production, following 2023 writers' and actors' strikes that included concerns about artificial intelligence replacing creative workers. Most of Netflix's AI usage occurred in post-production tasks like visual effects, color grading, or background generation rather than primary creative elements, suggesting the company is positioning AI as a productivity tool for finishing work rather than core creative development.",
-    "enhanced": true
   }
 ]

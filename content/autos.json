@@ -1,5 +1,22 @@
 [
   {
+    "id": "2027-aston-martin-vanquish-45f79b",
+    "title": "2027 Aston Martin Vanquish",
+    "summary": "Review, Pricing, and Specs",
+    "url": "https://www.caranddriver.com/aston-martin/vanquish-2027",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-24T14:57:59.000Z",
+    "fetchedAt": "2026-07-24T15:28:26.076Z",
+    "lang": "en",
+    "whatHappening": "Aston Martin has unveiled the 2027 Vanquish, its latest flagship grand tourer featuring a redesigned exterior, updated interior technology, and refined performance specifications. The automaker is positioning this model as a direct competitor in the high-performance luxury vehicle segment.",
+    "whoInvolved": "Aston Martin, the British luxury automaker founded in 1913, continues its legacy of producing exclusive sports cars and grand tourers for ultra-high-net-worth individuals. Car and Driver, one of the automotive industry's most respected publications, is providing comprehensive coverage of the vehicle's pricing, specifications, and performance attributes.",
+    "whyMatters": "The new Vanquish represents Aston Martin's effort to maintain relevance in an increasingly competitive luxury performance segment where electrification and autonomous technology are reshaping consumer expectations. This refresh is critical for the brand's financial health, as flagship models drive brand prestige and aspirational appeal across the entire lineup.",
+    "moreContext": "The Vanquish nameplate has been central to Aston Martin's identity since 2001, with previous generations serving as symbols of British automotive engineering and luxury craftsmanship. The 2027 model comes as the luxury car market faces pressure from electric vehicle adoption and shifting consumer preferences toward sustainability. Aston Martin has been working to modernize its product lineup while preserving the brand heritage that appeals to its traditional customer base. This launch reflects the broader automotive industry trend of balancing heritage and performance with contemporary technology requirements.",
+    "enhanced": true
+  },
+  {
     "id": "view-interior-photos-of-the-2027-toyota-sequoia-trailhunter-7a1ebd",
     "title": "View Interior Photos of the 2027 Toyota Sequoia Trailhunter",
     "summary": "The 2027 Toyota Sequoia is the latest model to get a Trailhunter package. See it from every interior angle.",
@@ -505,22 +522,5 @@
     "moreContext": "Lamborghini has been refreshing its model lineup over the past few years, transitioning from purely internal combustion engines toward hybrid and electric powertrains. The automaker previously discontinued iconic models like the Aventador to make room for new designs that balance performance with evolving emissions standards. The Temerario name continues Lamborghini's tradition of naming cars after legendary bulls, maintaining brand heritage while signaling a modern direction. This release reflects the broader automotive industry trend of luxury makers launching new platforms to compete in an increasingly regulated and technology-driven market.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "honda-kills-off-the-electric-prologue-suv-after-just-three-years-2f0084",
-    "title": "Honda Kills Off the Electric Prologue SUV After Just Three Years",
-    "summary": "Based on a Chevy Blazer EV, the Prologue will not make it to the 2027 model year after sales dropped sharply in 2026.",
-    "url": "https://www.caranddriver.com/news/a72753661/honda-prologue-discontinued/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-16T19:26:00.000Z",
-    "fetchedAt": "2026-07-17T08:48:54.695Z",
-    "lang": "en",
-    "whatHappening": "Honda is discontinuing the electric Prologue SUV after just three model years, ending production before the 2027 model year arrives. The decision comes as sales for the vehicle plummeted in 2026.",
-    "whoInvolved": "Honda, the Japanese automaker, developed the Prologue as part of its EV expansion strategy. The vehicle was based on General Motors' Chevrolet Blazer EV platform, representing a partnership between the two automotive giants.",
-    "whyMatters": "The Prologue's early death signals challenges in Honda's electrification strategy and raises questions about the viability of platform-sharing agreements with GM. This reflects broader struggles in the EV market where consumer demand has softened and competition remains fierce, particularly in the crowded electric SUV segment.",
-    "moreContext": "The Prologue launched for the 2024 model year as Honda's answer to the growing EV SUV market, leveraging GM's Ultium platform to accelerate development. Built on the same architecture as the Chevy Blazer EV and Equinox EV, the vehicle was positioned as a premium electric option. However, it faced stiff competition from established players and newer EV brands, and pricing pressures in the EV market intensified throughout 2025-2026. The sharp sales decline in 2026 apparently convinced Honda that continuing the model was no longer economically viable.",
-    "enhanced": true
   }
 ]
