@@ -1,5 +1,22 @@
 [
   {
+    "id": "3700-mile-2008-audi-s4-avant-on-bring-a-trailer-6c69a4",
+    "title": "3700-Mile 2008 Audi S4 Avant on Bring a Trailer",
+    "summary": "With a V-8 and a manual transmission, this wagon is one rare machine.",
+    "url": "https://www.caranddriver.com/news/a73247820/2008-audi-s4-avant-bring-a-trailer-auction/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-25T15:00:00.000Z",
+    "fetchedAt": "2026-07-25T15:21:12.720Z",
+    "lang": "en",
+    "whatHappening": "A pristine 2008 Audi S4 Avant with only 3,700 miles on the odometer is being auctioned on Bring a Trailer. The wagon is equipped with a V-8 engine and manual transmission—a increasingly rare combination in the modern automotive market.",
+    "whoInvolved": "Bring a Trailer is an online auction platform specializing in collector and enthusiast vehicles. Audi, the German luxury automaker, produced the S4 Avant as a high-performance wagon variant during the mid-2000s.",
+    "whyMatters": "Manual transmissions have become nearly extinct in performance vehicles, making this example particularly valuable to driving enthusiasts. Ultra-low mileage collector cars like this one often command premium prices as preserved examples of automotive history.",
+    "moreContext": "The 2008 S4 Avant represents the B7 generation, which featured a 4.2-liter naturally-aspirated V-8 producing 350 horsepower. Audi discontinued the manual transmission option in the S4 lineup after the 2009 model year, transitioning to dual-clutch automatics. This generation of S4 has become increasingly sought-after by collectors who value naturally-aspirated engines and traditional transmissions. The combination of low mileage, proper specification, and wagon body style makes this particular example exceptionally rare in the used market.",
+    "enhanced": true
+  },
+  {
     "id": "view-photos-of-the-2001-sports-sedan-comparison-test-b15a76",
     "title": "View Photos of the 2001 Sports Sedan Comparison Test",
     "summary": "See the interior and exterior of the 2001 Saab 9-3 SE, Mercedes-Benz C240, Volvo S60 T5, Lexus IS300, Audi A4 2.8 Quattro and BMW 325i from every angle.",
@@ -505,23 +522,5 @@
     "whyMatters": "The discontinuations reflect automakers' shift toward electrification and profitability priorities, as traditional gas-powered sports cars face stricter emissions regulations and declining sales volumes. Enthusiasts are losing accessible, affordable performance options in an increasingly EV-dominated market.",
     "moreContext": "The automotive industry has aggressively pivoted toward electric vehicles to meet global emissions standards, making low-volume sports cars economically challenging to produce. The BMW Z4, Lexus LC, and Toyota GR Supra represented different market segments—roadster, luxury coupe, and lightweight sports car respectively—but all shared declining sales as consumers shifted toward SUVs and crossovers. Stricter upcoming emissions regulations in 2027 and beyond make it uneconomical to continue producing models with limited production runs. These discontinuations signal that traditional high-performance combustion vehicles are becoming luxury items reserved for ultra-premium brands, while mainstream manufacturers prioritize electrified alternatives.",
     "enhanced": true
-  },
-  {
-    "id": "next-generation-bmw-m3-spotted-testing-with-six-cylinder-power-009165",
-    "title": "Next-Generation BMW M3 Spotted Testing with Six-Cylinder Power",
-    "summary": "BMW's iconic sports sedan will be offered with both electric and gas powertrains, and the six-cylinder M3 has now been spied testing at the Nürburgring.",
-    "url": "https://www.caranddriver.com/news/a73172774/2028-bmw-m3-gas-next-generation-spied/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-17T20:11:00.000Z",
-    "fetchedAt": "2026-07-17T23:16:57.182Z",
-    "lang": "en",
-    "whatHappening": "BMW's next-generation M3 sports sedan is undergoing testing with a six-cylinder engine at the Nürburgring. The automaker is developing the iconic performance car with both traditional gas and electric powertrain options.",
-    "whoInvolved": "BMW, the German luxury automaker known for its M performance division, is spearheading the M3's evolution. Car and Driver captured spy photos of the testing vehicle at Germany's famous racing circuit.",
-    "whyMatters": "The M3's dual powertrain strategy reflects the automotive industry's shift toward electrification while maintaining performance credentials. This approach signals BMW's commitment to preserving its gas-engine heritage while meeting stricter emissions regulations and changing consumer preferences.",
-    "moreContext": "The M3 has been a cornerstone of BMW's performance lineup since 1986, establishing the brand's reputation for high-performance sedans. Recent industry trends show luxury automakers increasingly offering hybrid and electric alternatives to traditionally gas-powered performance vehicles. BMW has already introduced electric versions in other segments, including the i7 and iX M60. The Nürburgring testing suggests BMW is validating both powertrains under demanding conditions to ensure comparable performance characteristics across the lineup.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
