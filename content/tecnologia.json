@@ -1,5 +1,23 @@
 [
   {
+    "id": "is-this-e-reader-case-a-gun-f068f8",
+    "title": "Is this e-reader case a gun?",
+    "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a…",
+    "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-25T13:00:00.000Z",
+    "fetchedAt": "2026-07-25T13:31:39.996Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/3d_gun.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A Kentucky-based creator named Luke The Maker has designed a 3D-printed case for the Kindle-competitor Xteink X4 e-reader that's shaped like a pistol, with the device sitting vertically on the plastic gun's slide. The design raises questions about whether functional objects that resemble firearms should be regulated or restricted.",
+    "whoInvolved": "Luke The Maker is a Louisville-based content creator known for innovative and unconventional product designs. The Xteink X4 is a minimalist e-reader competing in the crowded digital reading market dominated by Amazon's Kindle.",
+    "whyMatters": "The case highlights the growing tension between creative freedom and public safety as 3D-printing technology makes it increasingly easy to produce gun-shaped objects. It raises legal and ethical questions about the boundaries between novelty items and functional replicas, with potential implications for product design regulation and 3D-printing oversight.",
+    "moreContext": "3D-printed firearm replicas and accessories have become a controversial gray area in product design, particularly as home manufacturing technology becomes more accessible. The Xteink X4 case incident reflects broader debates about whether objects designed primarily as tools but shaped like weapons should face the same scrutiny as actual firearms. Previous 3D-printed gun cases and accessories have prompted discussions among lawmakers and tech companies about potential restrictions. This story intersects multiple ongoing cultural conversations: the accessibility of manufacturing technology, Second Amendment implications, and how platforms moderate novel designs.",
+    "enhanced": true
+  },
+  {
     "id": "after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses-abcb32",
     "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
     "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson…",
@@ -541,25 +559,6 @@
     "whoInvolved": "Taylor Farms is a major US agriculture producer based in Santa Maria, California, specializing in harvested produce. The company is one of the largest lettuce suppliers to American retailers and foodservice operations.",
     "whyMatters": "Cyclosporiasis is a parasitic infection that causes severe gastrointestinal illness, potentially affecting thousands of consumers who purchased affected lettuce. The recall impacts food supply chains and consumer confidence in fresh produce, while raising questions about agricultural safety protocols and oversight.",
     "moreContext": "Cyclospora outbreaks linked to fresh produce have occurred periodically in the US, with leafy greens—particularly lettuce and cilantro—identified as common sources. The parasite thrives in warm climates and contaminated water, making produce from certain regions more susceptible during specific seasons. Previous cyclosporiasis outbreaks have sickened hundreds and led to widespread recalls, prompting increased FDA scrutiny of produce suppliers. This incident underscores ongoing tensions between farm-to-table efficiency and food safety measures in an industry where contamination risks remain difficult to eliminate entirely.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "over-half-a-million-power-tool-batteries-have-been-recalled-due-to-a-usb-c-charg-55dfc9",
-    "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
-    "summary": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries \"producing smoke, sparking or catching fire…",
-    "url": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-17T14:05:29.000Z",
-    "fetchedAt": "2026-07-17T15:25:02.858Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/kobalt2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Greenworks Tools is recalling approximately 554,780 Kobalt-branded power tool batteries due to a USB-C charging defect that poses a fire hazard. The company has received 34 reports of batteries producing smoke, sparking, or catching fire during use or charging.",
-    "whoInvolved": "Greenworks Tools, a major power tool manufacturer, issued the recall for its Kobalt-branded yard work equipment line. The affected batteries are USB-C rechargeable units used across multiple cordless power tool models in the Kobalt product portfolio.",
-    "whyMatters": "The recall affects hundreds of thousands of consumer devices, creating immediate safety risks for homeowners and professionals using these tools. This incident highlights growing quality concerns around lithium-ion battery manufacturing and USB-C charging implementations in power tools, potentially triggering industry-wide scrutiny.",
-    "moreContext": "USB-C adoption in power tools has accelerated as manufacturers seek standardized charging solutions, but implementation quality varies significantly. Battery fires in cordless power tools have become an increasing concern as lithium-ion density increases to improve performance. The 34 documented incidents represent a significant failure rate for a consumer safety issue. Greenworks Tools has instructed customers to stop using affected batteries and contact the company for replacement or refund options.",
     "enhanced": true,
     "fbPosted": true
   }

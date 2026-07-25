@@ -1,5 +1,22 @@
 [
   {
+    "id": "view-photos-of-the-2001-sports-sedan-comparison-test-b15a76",
+    "title": "View Photos of the 2001 Sports Sedan Comparison Test",
+    "summary": "See the interior and exterior of the 2001 Saab 9-3 SE, Mercedes-Benz C240, Volvo S60 T5, Lexus IS300, Audi A4 2.8 Quattro and BMW 325i from every angle.",
+    "url": "https://www.caranddriver.com/photos/g73256479/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test-gallery/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-25T12:00:00.000Z",
+    "fetchedAt": "2026-07-25T13:31:39.959Z",
+    "lang": "en",
+    "whatHappening": "Car and Driver is showcasing a comprehensive photo gallery from its 2001 sports sedan comparison test. The feature provides interior and exterior views of six competing luxury sport sedans from multiple angles.",
+    "whoInvolved": "Car and Driver, a leading automotive publication, is comparing vehicles from major manufacturers: Saab, Mercedes-Benz, Volvo, Lexus, Audi, and BMW. These brands represent the premium and performance segments of the automotive market.",
+    "whyMatters": "This comparison test helps consumers understand how top-tier sport sedans stack up against each other in design, features, and overall appeal. Visual documentation of these vehicles provides potential buyers with detailed reference material for making informed purchasing decisions in a competitive luxury market segment.",
+    "moreContext": "The early 2000s marked a pivotal era for sport sedans, with manufacturers aggressively competing to attract performance-minded luxury buyers. The Lexus IS300, BMW 325i, and Audi A4 represented Japanese and German engineering prowess, while the Saab 9-3 SE, Mercedes C240, and Volvo S60 T5 showcased European alternatives. This period saw rapid advancement in sedan design, technology, and performance capabilities as automakers pushed boundaries in handling, power delivery, and interior refinement to differentiate themselves in an increasingly crowded segment.",
+    "enhanced": true
+  },
+  {
     "id": "report-chevrolet-is-already-cooking-up-a-next-generation-equinox-ev-74f699",
     "title": "Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV",
     "summary": "The next version of the compact electric SUV is expected to arrive for the 2029 model year and will ride on a new platform.",
@@ -506,22 +523,5 @@
     "moreContext": "The M3 has been a cornerstone of BMW's performance lineup since 1986, establishing the brand's reputation for high-performance sedans. Recent industry trends show luxury automakers increasingly offering hybrid and electric alternatives to traditionally gas-powered performance vehicles. BMW has already introduced electric versions in other segments, including the i7 and iX M60. The Nürburgring testing suggests BMW is validating both powertrains under demanding conditions to ensure comparable performance characteristics across the lineup.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "jensen-interceptor-gtx-will-arrive-as-a-track-only-v-8-bruiser-20ee75",
-    "title": "Jensen Interceptor GTX Will Arrive as a Track-Only V-8 Bruiser",
-    "summary": "Jensen International Automotive is reviving the iconic V-8 grand tourer, and the initially track-only Interceptor GTX will preview future road-going models.",
-    "url": "https://www.caranddriver.com/news/a71017979/2026-jensen-interceptor-gtx-prototype-debut-coming/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-17T15:03:00.000Z",
-    "fetchedAt": "2026-07-17T15:25:02.790Z",
-    "lang": "en",
-    "whatHappening": "Jensen International Automotive is reviving the legendary Interceptor nameplate with a new track-only V-8 model called the Interceptor GTX. The car will serve as a performance preview for future road-legal versions of the reborn grand tourer.",
-    "whoInvolved": "Jensen International Automotive is the British automaker behind the revival of the iconic Interceptor brand, which was originally produced from 1966 to 1976. The company is working to resurrect one of the most celebrated V-8 grand tourers in automotive history.",
-    "whyMatters": "The Interceptor GTX launch signals growing momentum in the retro-revival segment, where manufacturers are tapping nostalgia and performance enthusiasts' appetite for classic nameplates. Success with the track-focused model could validate demand for a road-going version, potentially establishing Jensen as a niche player competing against other bespoke automakers.",
-    "moreContext": "The original Jensen Interceptor was a British grand tourer that gained cult status for its combination of style, performance, and luxury. Jensen ceased operations in 1976, leaving a 40+ year gap before the brand's revival. The track-only strategy mirrors industry trends seen with other heritage brands testing new models in motorsport before consumer launch. This approach allows Jensen to refine performance characteristics and generate buzz without the regulatory complexity of immediate road certification.",
-    "enhanced": true
   }
 ]
