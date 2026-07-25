@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-basically-confirms-the-pixel-11-is-getting-a-price-hike-a9a9b2",
+    "title": "Google basically confirms the Pixel 11 is getting a price hike",
+    "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price…",
+    "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-25T18:13:36.000Z",
+    "fetchedAt": "2026-07-25T23:18:47.863Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Google's VP of Devices and Services has essentially confirmed that the upcoming Pixel 11 smartphone will carry a higher price tag than its predecessor, the Pixel 10. The confirmation comes amid industry-wide supply constraints affecting RAM production.",
+    "whoInvolved": "Shakil Barkat, Google's Vice President of Devices and Services, made the statement in an interview with 9to5 Google. Google manufactures the Pixel line of smartphones, which competes with Apple's iPhone and Samsung's Galaxy devices in the premium smartphone market.",
+    "whyMatters": "A price increase could make Google's flagship phone less accessible to budget-conscious consumers and potentially impact market share in a competitive smartphone landscape. Higher device costs may also affect Google's ability to capture new users for its services ecosystem and advertising network. The move reflects broader industry pressures that could reshape consumer purchasing patterns across the entire premium phone segment.",
+    "moreContext": "The smartphone industry is grappling with RAM supply shortages driven by explosive growth in AI data center infrastructure, which has diverted chip production capacity away from consumer devices. Google has been gradually positioning Pixel phones as premium devices with advanced AI features like Magic Eraser and real-time translation. Previous Pixel generations have offered competitive pricing relative to Samsung and Apple flagships, but narrowing margins and component costs are forcing manufacturers to reassess pricing strategies. This price hike signals that even Google, which has emphasized value pricing, cannot insulate consumers from the broader cost pressures reshaping the tech industry.",
+    "enhanced": true
+  },
+  {
     "id": "teenage-engineerings-unique-music-machines-are-30-percent-off-1bc622",
     "title": "Teenage Engineering’s unique music machines are 30 percent off",
     "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re…",
@@ -543,23 +561,5 @@
     "moreContext": "Mountain biking has traditionally been dominated by purist attitudes favoring human-powered ascents, with e-bike riders often dismissed as taking an easy route. The e-bike market has exploded in recent years with increasingly sophisticated technology and premium offerings, forcing a reckoning with outdated gatekeeping attitudes. High-end electric mountain bikes now rival traditional bikes in engineering and performance, blurring the lines between legitimate riding and 'cheating.' This reassessment reflects broader tech industry trends of electrification and accessibility becoming normalized across multiple sports and outdoor activities.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "shark8217s-versatile-chillpill-cooling-system-is-back-to-its-best-price-70a7f5",
-    "title": "Shark’s versatile ChillPill cooling system is back to its best price",
-    "summary": "You can clip the versatile cooling gadget, wear it, and use it as a desk fan. | Image: Shark Portable fans are one of the easiest ways to stay cool during the summer, and you don’t have to spend much to find a decent one. If you’re looking for something more versatile, though,…",
-    "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-17T20:15:54.000Z",
-    "fetchedAt": "2026-07-18T08:38:17.185Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/shark_chillpill3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Shark's ChillPill cooling system is available at its best price point. The versatile gadget can be clipped to clothing, worn as a wearable device, or used as a standalone desk fan.",
-    "whoInvolved": "Shark, the consumer electronics and home appliance company, has developed the ChillPill as part of its portable cooling product line. The device targets consumers seeking practical cooling solutions beyond traditional fans.",
-    "whyMatters": "Affordable cooling options help consumers manage summer heat without major expenses or air conditioning reliance. A multi-use device like this provides value by replacing the need to purchase separate cooling gadgets, making personal temperature control more accessible.",
-    "moreContext": "Portable fans have become increasingly popular as practical summer cooling solutions that don't require significant investment. The ChillPill represents an evolution beyond basic fan design, offering flexibility through multiple wearing and usage modes. This price reset comes as retailers adjust cooling product pricing throughout the season. Consumer interest in personal cooling devices has grown as people seek alternatives to traditional air conditioning systems.",
-    "enhanced": true
   }
 ]
