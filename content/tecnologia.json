@@ -1,5 +1,23 @@
 [
   {
+    "id": "you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-off-aa99c0",
+    "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+    "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba…",
+    "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-26T15:00:00.000Z",
+    "fetchedAt": "2026-07-26T15:22:12.620Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Xbox Game Pass Ultimate subscriptions are available at a significant discount through digital code retailer Eneba, offering three months of service for roughly half the regular price of $69. This deal comes as Microsoft seeks to make its premium gaming subscription more appealing to consumers.",
+    "whoInvolved": "Microsoft operates Xbox Game Pass Ultimate, the company's flagship subscription service bundling games, cloud gaming, and online multiplayer access. Eneba is a digital marketplace specializing in discounted game keys and subscription codes.",
+    "whyMatters": "The deal provides immediate savings for gamers looking to access hundreds of games without committing to full-price monthly subscriptions. This pricing strategy reflects Microsoft's effort to compete in the crowded gaming subscription market while addressing subscriber hesitation about recurring costs.",
+    "moreContext": "Microsoft reduced Xbox Game Pass Ultimate's monthly price from $29.99 to $22.99 earlier this year, signaling pressure to retain subscribers amid competition from PlayStation Plus and other services. The shift toward discounted multi-month codes suggests Microsoft is willing to trade full-price revenue for increased subscriber acquisition and retention. Game Pass Ultimate includes access to Microsoft's extensive library, EA Play integration, and cloud gaming capabilities. Third-party key retailers like Eneba have become common channels for Microsoft to indirectly offer promotional pricing while maintaining official retail pricing.",
+    "enhanced": true
+  },
+  {
     "id": "synth-historian-oli-freke-will-spend-big-on-a-good-bicycle-37ff9e",
     "title": "Synth historian Oli Freke will spend big on a good bicycle",
     "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the…",
@@ -542,24 +560,5 @@
     "whyMatters": "Open-sourcing 3D emoji democratizes high-quality design assets, allowing developers and creators to build richer visual experiences without starting from scratch. This move could accelerate adoption of 3D emoji across apps and platforms, potentially influencing industry standards for how emoji are represented beyond 2D illustrations.",
     "moreContext": "Google's 3D emoji represent a evolution beyond traditional 2D emoji designs, addressing design complexities specific to three-dimensional rendering like depth, lighting, and perspective. The company's decision to share these assets reflects a broader trend of tech companies open-sourcing design systems and tools. World Emoji Day, celebrated annually on July 17, has become a platform for major tech companies to showcase emoji innovations and announce updates to their emoji libraries. This move positions Google as a contributor to the broader emoji ecosystem rather than keeping proprietary design advantage.",
     "enhanced": true
-  },
-  {
-    "id": "dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-generation-a4dd37",
-    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-    "summary": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays,…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-18T20:54:42.000Z",
-    "fetchedAt": "2026-07-18T23:17:15.654Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Author Dave Eggers addressed roughly 200 OpenAI employees, warning that ChatGPT and similar AI tools are \"silencing an entire generation\" of creative writers and thinkers. The talk, arranged by OpenAI CEO Sam Altman, highlighted concerns about AI's impact on human creativity and intellectual output.",
-    "whoInvolved": "Dave Eggers is a prolific novelist and screenwriter known for works like \"A Heartbreaking Work of Staggering Genius.\" OpenAI, the company behind ChatGPT, is led by Sam Altman and has become central to the AI boom reshaping technology and creative industries.",
-    "whyMatters": "The criticism from a respected literary figure amplifies growing concerns among creators about AI's threat to human authorship and originality. This signals potential tension between the tech industry and creative communities over who benefits from generative AI and what happens to traditional artistic careers.",
-    "moreContext": "OpenAI's ChatGPT launched in late 2022 and has sparked widespread debate about AI's role in replacing human labor, particularly in writing, coding, and knowledge work. Authors and artists have raised concerns about AI training on copyrighted material without consent. Eggers' invitation to speak directly to OpenAI staff suggests the company is at least engaging with its critics, though his message indicates significant philosophical disagreements remain about AI's proper role in creative fields.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
