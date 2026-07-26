@@ -1,5 +1,23 @@
 [
   {
+    "id": "champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies-a0861c",
+    "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+    "summary": "Thankfully the movie is bonkers enough to live up to the artwork. | Image: Vinegar Syndrome There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition…",
+    "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-26T21:24:07.000Z",
+    "fetchedAt": "2026-07-26T23:19:35.329Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Champagne-and-Bullets.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "The Verge is reviewing \"Champagne and Bullets,\" a film that exemplifies the \"so bad it's good\" movie genre. The critic argues the movie is bizarre enough to warrant inclusion alongside cult classics like The Room and Troll 2.",
+    "whoInvolved": "The Verge, a technology and culture publication, is covering the film distributed by Vinegar Syndrome, a specialty label known for releasing obscure and cult cinema. The movie itself represents the work of filmmakers operating outside mainstream Hollywood standards.",
+    "whyMatters": "This review highlights the enduring cultural fascination with intentionally (or unintentionally) terrible films that achieve cult status. Such coverage normalizes niche cinema appreciation and drives audience interest toward unconventional entertainment that studios typically ignore.",
+    "moreContext": "The \"so bad it's good\" film phenomenon has grown into a legitimate cultural category, with The Room (2003) becoming a midnight movie staple and spawning a major film adaptation. Vinegar Syndrome specializes in rescuing and distributing forgotten films, making obscure movies accessible to modern audiences. This trend reflects broader shifts in entertainment consumption, where streaming and specialty labels enable discovery of content that traditional theatrical distribution ignored for decades.",
+    "enhanced": true
+  },
+  {
     "id": "you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-off-aa99c0",
     "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
     "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba…",
@@ -543,23 +561,5 @@
     "moreContext": "Google has historically used previous-generation processors in its \"a\" series phones—the Pixel 10a came with the Tensor G5 while the Pixel 10 and 10 Pro featured the newer Tensor G6. This tiered approach preserved pricing distinctions between product lines. If confirmed, the Pixel 11a using current-generation silicon would represent a reversal of that strategy and could indicate Google is prioritizing competitive performance across its entire Pixel portfolio rather than artificial segmentation.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "google-is-open-sourcing-its-3d-emoji-1511dc",
-    "title": "Google is open-sourcing its 3D emoji",
-    "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration…",
-    "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-18T16:40:55.000Z",
-    "fetchedAt": "2026-07-19T08:51:21.649Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_212.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Google is open-sourcing its 3D emoji, making them available for use in external projects and creations. The tech giant shared design details and reasoning behind the emoji as part of World Emoji Day celebrations on Friday.",
-    "whoInvolved": "Google, the search and tech giant known for its design work across digital products, is the primary player here. The announcement ties into the broader emoji community's World Emoji Day, an annual celebration of emoji culture and standardization.",
-    "whyMatters": "Open-sourcing 3D emoji democratizes high-quality design assets, allowing developers and creators to build richer visual experiences without starting from scratch. This move could accelerate adoption of 3D emoji across apps and platforms, potentially influencing industry standards for how emoji are represented beyond 2D illustrations.",
-    "moreContext": "Google's 3D emoji represent a evolution beyond traditional 2D emoji designs, addressing design complexities specific to three-dimensional rendering like depth, lighting, and perspective. The company's decision to share these assets reflects a broader trend of tech companies open-sourcing design systems and tools. World Emoji Day, celebrated annually on July 17, has become a platform for major tech companies to showcase emoji innovations and announce updates to their emoji libraries. This move positions Google as a contributor to the broader emoji ecosystem rather than keeping proprietary design advantage.",
-    "enhanced": true
   }
 ]
