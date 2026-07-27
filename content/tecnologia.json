@@ -15,7 +15,8 @@
     "whoInvolved": "Amazon is the primary actor, leveraging its cloud infrastructure and logistics expertise to enter the satellite communications space. The FCC must approve the application before Amazon can proceed with the multi-billion dollar deployment.",
     "whyMatters": "Success would give Amazon a competitive edge in global connectivity and emergency services, reaching remote areas currently without reliable cell coverage. The move intensifies competition with SpaceX's Starlink and could reshape the telecommunications landscape by making satellite internet and messaging a mainstream utility rather than niche service.",
     "moreContext": "This announcement follows years of FCC filings and regulatory preparation by Amazon's Kuiper division. SpaceX's Starlink has already launched thousands of satellites and demonstrated commercial viability of LEO constellations for broadband. The satellite internet market is heating up as companies recognize demand from underserved regions and as technology costs decline. Amazon's entry signals that major tech companies see long-term profit potential in direct-to-device satellite service, not just traditional broadband.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "apple-is-banking-on-privacy-to-set-its-smart-glasses-apart-2dc882",
