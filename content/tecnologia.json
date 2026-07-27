@@ -1,5 +1,23 @@
 [
   {
+    "id": "x-money-is-launching-in-the-us-starting-today-406208",
+    "title": "X Money is launching in the US starting today",
+    "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X…",
+    "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-27T22:10:18.000Z",
+    "fetchedAt": "2026-07-27T23:22:16.752Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "X Money, a payment platform featuring digital wallet and peer-to-peer payment capabilities, launches in the US today. The service includes a metal Visa card branded with X, positioning it as a direct competitor to apps like Venmo.",
+    "whoInvolved": "Elon Musk's X (formerly Twitter) is spearheading the launch as part of its broader push to become an \"everything app.\" The move represents X's expansion beyond social media into financial services, similar to how WeChat operates in China.",
+    "whyMatters": "X Money's launch signals Musk's ambition to transform X into a multipurpose platform where users can socialize, communicate, and conduct financial transactions without leaving the app. Success could reshape how digital payments compete in the US market, though regulatory scrutiny of financial services by social platforms remains a key challenge.",
+    "moreContext": "X has been gradually rolling out new features and services since Musk's acquisition in October 2022, with payments representing a significant expansion into financial technology. The \"everything app\" concept mirrors the success of Asian super-apps like WeChat and Alipay. Musk has previously expressed interest in banking services and payments, framing them as essential components of X's long-term vision. The timing comes as fintech competition intensifies with traditional banks, PayPal, Square, and other players vying for digital payment market share.",
+    "enhanced": true
+  },
+  {
     "id": "amazon8217s-trying-to-launch-a-global-satellite-cellphone-network-in-2028-d25e8d",
     "title": "Amazon’s trying to launch a global satellite cellphone network in 2028",
     "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites…",
@@ -543,23 +561,5 @@
     "moreContext": "Film photography has experienced a resurgence among younger generations seeking tangible, creative alternatives to digital photography. Reto Project's previous Snapic A1 demonstrated market appetite for affordable film cameras at under $100. The EC35's $34.99 price point undercuts that model significantly, suggesting the company is racing to capture price-sensitive consumers. This reflects broader industry trends of major brands—including Kodak—capitalizing on film's cultural comeback through accessible product lines.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "i-hate-that-i-dont-hate-this-song-made-with-suno-80786d",
-    "title": "I hate that I don’t hate this song made with Suno",
-    "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs…",
-    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-19T17:35:54.000Z",
-    "fetchedAt": "2026-07-20T09:09:03.180Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "A music creator named 1010Benja has released a song made with AI music generation tool Suno, sparking debate about the quality and legitimacy of AI-generated music. The artist is unapologetic about using the technology, even as critics dismiss AI music as creatively bankrupt.",
-    "whoInvolved": "1010Benja is a musician/creator who publicly embraced AI music generation. Suno is an AI music generation platform that allows users to create songs from text prompts, competing in a growing market of generative music tools.",
-    "whyMatters": "The story reflects a cultural turning point where AI-generated music is becoming harder to ignore or dismiss outright, forcing the industry to reckon with authenticity questions. As these tools improve and more creators adopt them, the music industry faces disruption similar to what generative AI has triggered in visual arts and writing.",
-    "moreContext": "Generative AI music tools like Suno have emerged in 2023-2024 as the technology races ahead of industry standards and artist protections. The debate mirrors broader tensions in creative fields: while some artists like Holly Herndon have experimentally integrated AI into legitimate work, most AI-generated music has been criticized as formulaic and creatively hollow. Copyright questions loom large as these tools are trained on existing music, raising concerns about artist compensation and consent.",
-    "enhanced": true
   }
 ]

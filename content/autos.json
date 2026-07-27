@@ -1,5 +1,22 @@
 [
   {
+    "id": "land-rover-discontinues-the-discovery-sport-after-11-years-f808a4",
+    "title": "Land Rover Discontinues the Discovery Sport After 11 Years",
+    "summary": "The Discovery Sport will end production in December, with 2026 becoming the compact SUV's final model year.",
+    "url": "https://www.caranddriver.com/news/a73276744/land-rover-discovery-sport-discontinued/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-27T20:33:00.000Z",
+    "fetchedAt": "2026-07-27T23:22:16.551Z",
+    "lang": "en",
+    "whatHappening": "Land Rover is discontinuing the Discovery Sport, its compact SUV that has been in production for 11 years. Production will end in December, with 2026 being the final model year.",
+    "whoInvolved": "Land Rover, the British luxury automaker owned by Jaguar Land Rover (a subsidiary of Tata Motors), is making this decision. The Discovery Sport has been a key model in their lineup since its 2014 debut.",
+    "whyMatters": "The discontinuation reflects shifting market demands toward electric vehicles and larger SUVs, forcing traditional automakers to streamline their lineups. For buyers, this signals fewer options in the compact luxury SUV segment and may drive demand toward remaining competitors or push consumers toward Land Rover's other models.",
+    "moreContext": "The Discovery Sport launched in 2014 as a replacement for the Freelander, becoming one of Land Rover's best-selling models globally. The move aligns with parent company Jaguar Land Rover's broader electrification strategy, as the company transitions toward battery-powered vehicles. This discontinuation comes as the automotive industry faces pressure to reduce internal combustion engine offerings. Land Rover continues to offer the larger Discovery and the Range Rover Sport, which may cannibalize some Discovery Sport sales.",
+    "enhanced": true
+  },
+  {
     "id": "honda-could-target-subaru-outback-buyers-with-a-lifted-accord-suv-e199fb",
     "title": "Honda Could Target Subaru Outback Buyers with a Lifted Accord SUV",
     "summary": "Honda hopes that in the wake of the Outback's transformation into a more traditional SUV, buyers will flock to a reimagination of the Accord Crosstour.",
@@ -503,23 +520,6 @@
     "whoInvolved": "Car and Driver, a leading automotive publication, compiled this comparison featuring vehicles from Audi, BMW, Cadillac, Jaguar, Lexus, and Mercedes-Benz. These manufacturers represented the pinnacle of luxury automotive engineering in the early 1990s.",
     "whyMatters": "This retrospective comparison captures a pivotal moment when Japanese luxury brands like Lexus were beginning to challenge European dominance in the premium sedan segment. Understanding how these vehicles competed then provides insight into brand positioning and technology benchmarks that shaped the modern luxury market.",
     "moreContext": "The early 1990s marked a significant shift in luxury cars as Lexus's LS400 (launched in 1989) proved that Japanese manufacturers could build vehicles rivaling Mercedes-Benz on quality and reliability while undercutting prices. This era saw traditional European luxury makers like BMW, Mercedes, and Jaguar facing unprecedented competition, prompting innovation in comfort, technology, and engineering. The 1993 model year represented the height of analog luxury before rapid digitalization transformed the industry. Such comparisons were (and remain) essential automotive journalism, helping consumers navigate the substantial investment required to purchase vehicles in this premium category.",
-    "enhanced": true
-  },
-  {
-    "id": "tested-dodge-charger-rt-is-heavier-than-a-three-row-mazda-cx-90-e2d73c",
-    "title": "Tested: Dodge Charger R/T Is Heavier Than a Three-Row Mazda CX-90",
-    "summary": "We aren't calling anyone overweight, but it's a little concerning that the eight-passenger SUV is lighter than the muscle car.",
-    "url": "https://www.caranddriver.com/news/a72756338/dodge-charger-rt-heavier-than-mazda-cx-90-tested/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-18T13:00:00.000Z",
-    "fetchedAt": "2026-07-20T09:09:03.128Z",
-    "lang": "en",
-    "whatHappening": "A new Dodge Charger R/T muscle car weighs more than a three-row Mazda CX-90 SUV, despite the SUV's larger passenger capacity. The comparison highlights how modern muscle cars have become unexpectedly heavy vehicles.",
-    "whoInvolved": "Dodge, the American muscle car manufacturer owned by Stellantis, produces the Charger R/T. Mazda, the Japanese automaker, manufactures the CX-90 compact luxury SUV. Car and Driver, a leading automotive publication, conducted the weight comparison test.",
-    "whyMatters": "The weight disparity raises concerns about fuel efficiency and performance in modern muscle cars, which have grown heavier with safety features and technology. This trend affects consumer choices between traditional muscle cars and practical family SUVs, as buyers increasingly prioritize efficiency and versatility. The finding underscores how automotive design priorities have shifted toward electrification and safety over lightweight construction.",
-    "moreContext": "Modern muscle cars have added significant weight due to advanced safety systems, infotainment technology, emission controls, and structural reinforcement. The Charger R/T, a traditional V8-powered performance vehicle, represents the older generation of American muscle cars before the industry's shift toward electrification. Mazda's CX-90, meanwhile, incorporates lightweight engineering principles and is available with a plug-in hybrid option, reflecting contemporary efficiency priorities. This weight comparison exemplifies how the automotive industry has fundamentally transformed, with practical family vehicles now outperforming traditional performance cars in engineering efficiency.",
     "enhanced": true
   }
 ]
