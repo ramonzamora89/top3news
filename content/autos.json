@@ -1,5 +1,22 @@
 [
   {
+    "id": "honda-could-target-subaru-outback-buyers-with-a-lifted-accord-suv-e199fb",
+    "title": "Honda Could Target Subaru Outback Buyers with a Lifted Accord SUV",
+    "summary": "Honda hopes that in the wake of the Outback's transformation into a more traditional SUV, buyers will flock to a reimagination of the Accord Crosstour.",
+    "url": "https://www.caranddriver.com/news/a73272367/honda-accord-lifted-suv-report/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-27T15:37:00.000Z",
+    "fetchedAt": "2026-07-27T15:51:16.254Z",
+    "lang": "en",
+    "whatHappening": "Honda is considering reviving the Accord Crosstour as a lifted SUV to compete in the segment Subaru's Outback once dominated. The automaker sees an opportunity to capture buyers who are dissatisfied with the Outback's shift toward a more traditional SUV design.",
+    "whoInvolved": "Honda, the Japanese automaker known for sedans and crossovers, is looking to capitalize on Subaru's strategic pivot. Subaru, maker of the Outback wagon-SUV hybrid, recently redesigned the model as a more conventional SUV, potentially alienating buyers who preferred its car-based platform.",
+    "whyMatters": "A new Accord Crosstour could fill a niche gap for buyers seeking a vehicle with car-like handling and efficiency but with added ground clearance and cargo space. This move could help Honda attract Outback customers and strengthen its position in the crossover segment, which continues to grow.",
+    "moreContext": "The original Accord Crosstour, produced from 2010 to 2015, was Honda's attempt at a lifted wagon but faced lukewarm sales due to uncertain positioning. Subaru's Outback has traditionally appealed to buyers wanting practicality without committing to a fully rugged SUV. The crossover market has exploded in recent years, with manufacturers increasingly creating variations to capture different buyer preferences. If Honda moves forward, it would represent a bet that there's still demand for car-based, efficiency-focused alternatives to traditional SUVs.",
+    "enhanced": true
+  },
+  {
     "id": "view-photos-of-the-2001-qvale-mangusta-43f46b",
     "title": "View Photos of the 2001 Qvale Mangusta",
     "summary": "See the interior and exterior of the 2001 Qvale Mangusta from every angle.",
@@ -503,23 +520,6 @@
     "whoInvolved": "Dodge, the American muscle car manufacturer owned by Stellantis, produces the Charger R/T. Mazda, the Japanese automaker, manufactures the CX-90 compact luxury SUV. Car and Driver, a leading automotive publication, conducted the weight comparison test.",
     "whyMatters": "The weight disparity raises concerns about fuel efficiency and performance in modern muscle cars, which have grown heavier with safety features and technology. This trend affects consumer choices between traditional muscle cars and practical family SUVs, as buyers increasingly prioritize efficiency and versatility. The finding underscores how automotive design priorities have shifted toward electrification and safety over lightweight construction.",
     "moreContext": "Modern muscle cars have added significant weight due to advanced safety systems, infotainment technology, emission controls, and structural reinforcement. The Charger R/T, a traditional V8-powered performance vehicle, represents the older generation of American muscle cars before the industry's shift toward electrification. Mazda's CX-90, meanwhile, incorporates lightweight engineering principles and is available with a plug-in hybrid option, reflecting contemporary efficiency priorities. This weight comparison exemplifies how the automotive industry has fundamentally transformed, with practical family vehicles now outperforming traditional performance cars in engineering efficiency.",
-    "enhanced": true
-  },
-  {
-    "id": "from-the-archive-1993-luxury-sedan-comparison-test-e420c1",
-    "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
-    "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
-    "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-18T13:00:00.000Z",
-    "fetchedAt": "2026-07-19T23:17:36.006Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver is revisiting a 1993 luxury sedan comparison test that pitted six premium vehicles against each other to determine the best in class. The publication evaluated the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E to crown the winner.",
-    "whoInvolved": "Car and Driver, one of the automotive industry's most influential publications, conducted the test. The competing manufacturers represent different automotive philosophies: German engineering (Audi, BMW, Mercedes), Japanese precision (Lexus), British tradition (Jaguar), and American luxury (Cadillac).",
-    "whyMatters": "This archival test captures a pivotal moment when Japanese luxury brands were challenging European dominance in the sedan market. The comparison reveals which vehicles best balanced performance, comfort, and value during the early 1990s economy—insights that shaped consumer preferences for years to come.",
-    "moreContext": "The early 1990s marked a watershed moment for luxury sedans, with the Lexus LS400's 1989 debut fundamentally challenging established German and British marques by offering Japanese reliability at competitive prices. This era saw intense competition as manufacturers raced to define what modern luxury meant through advanced technology, performance, and refinement. The six vehicles tested represented dramatically different approaches: Audi and BMW emphasized driving dynamics and technology, Mercedes prioritized engineering excellence, Jaguar offered classic British elegance, Lexus focused on reliability and value, and Cadillac aimed to reclaim American luxury prestige. Such comprehensive comparison tests were crucial purchasing guides for affluent consumers navigating an increasingly crowded luxury market.",
     "enhanced": true
   }
 ]

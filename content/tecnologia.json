@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon8217s-trying-to-launch-a-global-satellite-cellphone-network-in-2028-d25e8d",
+    "title": "Amazon’s trying to launch a global satellite cellphone network in 2028",
+    "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites…",
+    "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-27T15:40:38.000Z",
+    "fetchedAt": "2026-07-27T15:51:16.333Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/amazon-leo-announcement-hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Amazon filed an FCC application to launch a global satellite cellphone network consisting of 5,105 satellites in low Earth orbit. The Kuiper constellation aims to provide direct-to-device satellite service for voice, messaging, data, and emergency services, with deployment expected to begin in 2028.",
+    "whoInvolved": "Amazon is the primary actor, leveraging its cloud infrastructure and logistics expertise to enter the satellite communications space. The FCC must approve the application before Amazon can proceed with the multi-billion dollar deployment.",
+    "whyMatters": "Success would give Amazon a competitive edge in global connectivity and emergency services, reaching remote areas currently without reliable cell coverage. The move intensifies competition with SpaceX's Starlink and could reshape the telecommunications landscape by making satellite internet and messaging a mainstream utility rather than niche service.",
+    "moreContext": "This announcement follows years of FCC filings and regulatory preparation by Amazon's Kuiper division. SpaceX's Starlink has already launched thousands of satellites and demonstrated commercial viability of LEO constellations for broadband. The satellite internet market is heating up as companies recognize demand from underserved regions and as technology costs decline. Amazon's entry signals that major tech companies see long-term profit potential in direct-to-device satellite service, not just traditional broadband.",
+    "enhanced": true
+  },
+  {
     "id": "apple-is-banking-on-privacy-to-set-its-smart-glasses-apart-2dc882",
     "title": "Apple is banking on privacy to set its smart glasses apart",
     "summary": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may…",
@@ -542,24 +560,5 @@
     "whyMatters": "The story reflects a cultural turning point where AI-generated music is becoming harder to ignore or dismiss outright, forcing the industry to reckon with authenticity questions. As these tools improve and more creators adopt them, the music industry faces disruption similar to what generative AI has triggered in visual arts and writing.",
     "moreContext": "Generative AI music tools like Suno have emerged in 2023-2024 as the technology races ahead of industry standards and artist protections. The debate mirrors broader tensions in creative fields: while some artists like Holly Herndon have experimentally integrated AI into legitimate work, most AI-generated music has been criticized as formulaic and creatively hollow. Copyright questions loom large as these tools are trained on existing music, raising concerns about artist compensation and consent.",
     "enhanced": true
-  },
-  {
-    "id": "this-unpronounceable-series-of-glyphs-is-an-incredible-side-project-from-kieran--c42702",
-    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-    "summary": "Sure is a lot of porcelein in there. | Image: Kieran Hebden Just why? ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥ What am I…",
-    "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-19T21:02:45.000Z",
-    "fetchedAt": "2026-07-19T23:17:36.094Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Kieran Hebden, the electronic musician behind Four Tet, has launched an unusual side project featuring an unpronounceable series of Unicode glyphs and corrupted characters as its name. The project apparently involves significant amounts of porcelain, though details remain deliberately obscure.",
-    "whoInvolved": "Kieran Hebden is an acclaimed British electronic musician and producer known for his experimental Four Tet project, which has influenced ambient and electronic music since the late 1990s. The Verge is reporting on this quirky venture into his creative side explorations.",
-    "whyMatters": "The project demonstrates how established artists continue to pursue unconventional creative outlets outside their primary work, blending digital aesthetics with physical materials. It reflects broader trends of artists using internet culture and glitch aesthetics as legitimate artistic expression.",
-    "moreContext": "Four Tet has a long history of experimental output and surprise releases, often dropping music in unexpected ways on platforms like SoundCloud and Bandcamp. Hebden is known for his interest in both cutting-edge production techniques and analog materials, frequently incorporating field recordings and found sounds. The deliberate use of corrupted Unicode characters as a project name taps into glitch art and internet culture aesthetics that have gained mainstream recognition in digital art circles. This unnamed project continues Hebden's pattern of keeping audiences guessing about his creative intentions and outputs.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
