@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-us-is-banning-foreign-robots-9aaa08",
+    "title": "The US is banning foreign robots",
+    "summary": "The Chinese robot maker, Unitree, will likely be impacted by the ban. | Bloomberg via Getty Images The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an…",
+    "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-28T22:37:53.000Z",
+    "fetchedAt": "2026-07-28T23:20:28.551Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "The US government is implementing a new import ban on advanced robotic devices and power inverters manufactured outside the country. The move is explicitly targeting China and foreign manufacturers in response to national security and economic concerns.",
+    "whoInvolved": "Chinese robot maker Unitree is among the companies expected to be directly impacted by the ban. The US government is enforcing the restrictions, with Reuters first reporting on the policy.",
+    "whyMatters": "The ban could reshape the global robotics supply chain and limit American consumers' access to affordable Chinese-made robots. It signals an escalating trade war with China while potentially protecting domestic robotics manufacturers from foreign competition.",
+    "moreContext": "This ban is part of a broader US strategy to restrict advanced technology imports from China, following years of trade tensions under multiple administrations. The robotics sector has become increasingly strategic as automation grows across manufacturing, logistics, and consumer markets. Power inverters are critical components in renewable energy systems, making their restriction relevant to both tech competition and clean energy policy. The move reflects growing concerns about technology dependencies and supply chain vulnerabilities exposed during recent geopolitical friction.",
+    "enhanced": true
+  },
+  {
     "id": "apples-reported-homepad-may-launch-as-early-as-october-c63780",
     "title": "Apple’s reported ‘HomePad’ may launch as early as October",
     "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some…",
@@ -543,23 +561,5 @@
     "moreContext": "Sony and other major labels have been aggressively pursuing legal action against AI music platforms over concerns that generative AI trained on their catalogs threatens artist revenue and intellectual property rights. Similar lawsuits have been filed against other AI platforms, and the music industry has expressed fears that AI-generated music could devalue human artists' work. This case follows broader tech industry battles over AI training data, with questions about whether AI training constitutes fair use under copyright law remaining largely unsettled in courts.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "the-fcc-is-planning-to-retroactively-ban-disguised-dji-gadgets-169f4b",
-    "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-    "summary": "The Skyrover X1 vs the DJI Mini 4 Pro. | Image: AirPhotography Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to…",
-    "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-20T22:16:14.000Z",
-    "fetchedAt": "2026-07-21T08:58:33.445Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "The FCC is preparing to retroactively ban DJI drones that were disguised or misrepresented during the approval process, even though they've already received clearance to be sold in the US. This marks the agency's first major enforcement action using powers it granted itself last October to revoke previously approved gadgets.",
-    "whoInvolved": "The FCC (Federal Communications Commission) is the US regulatory body overseeing device approvals and spectrum use. DJI, the Chinese drone manufacturer and market leader, is the company whose products face potential retroactive bans for allegedly concealing their true identity during the approval process.",
-    "whyMatters": "This sets a precedent for the FCC to police gadgets already in circulation and challenge Chinese tech companies' transparency in regulatory submissions. The action could prompt a broader review of approved devices and create uncertainty in the consumer drone market, potentially affecting existing DJI Mini 4 Pro owners and similar products.",
-    "moreContext": "The FCC granted itself retroactive banning authority last October amid growing concerns about Chinese tech companies and national security. DJI has faced repeated scrutiny from US regulators and lawmakers over data collection and ties to the Chinese government. The company has previously faced import restrictions and export controls. This enforcement action suggests the FCC is willing to use its new powers aggressively to address what it views as deceptive approval practices.",
-    "enhanced": true
   }
 ]

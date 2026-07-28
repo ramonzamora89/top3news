@@ -1,5 +1,22 @@
 [
   {
+    "id": "bmw-i4-convertible-spotted-with-soft-top-and-neue-klasse-styling-39e187",
+    "title": "BMW i4 Convertible Spotted with Soft Top and Neue Klasse Styling",
+    "summary": "BMW's upcoming electric 4-series convertible was spotted testing, and despite camouflage, there's plenty to see.",
+    "url": "https://www.caranddriver.com/news/a73287243/2028-bmw-i4-convertible-spy-photos/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-28T21:07:00.000Z",
+    "fetchedAt": "2026-07-28T23:20:28.469Z",
+    "lang": "en",
+    "whatHappening": "BMW's electric 4-series convertible is undergoing real-world testing, with spy photos revealing a soft-top design and styling cues from the upcoming Neue Klasse platform. Despite heavy camouflage, the vehicle's convertible architecture and electric underpinnings are becoming visible to keen observers.",
+    "whoInvolved": "BMW, the German luxury automaker, is developing this new model as part of its electrification strategy. The company has been aggressively expanding its i-branded EV lineup while preparing to launch its next-generation Neue Klasse platform.",
+    "whyMatters": "This convertible represents BMW's commitment to offering electric alternatives across its entire model portfolio, capturing the premium EV convertible market that currently has limited options. The vehicle's development signals BMW's confidence in EV demand for lifestyle vehicles and could influence competitor strategies in the luxury convertible segment.",
+    "moreContext": "BMW's 4-series convertible has been a key lifestyle offering in its lineup, and the shift to electric power reflects broader industry trends toward EV diversification beyond sedans and SUVs. The Neue Klasse platform, debuting with upcoming models, represents BMW's modernized EV architecture designed for improved efficiency and range. The soft-top design choice aligns with BMW's convertible heritage while potentially offering weight savings compared to traditional hard-tops, a consideration for EV range optimization. This testing phase typically precedes a launch within 12-24 months.",
+    "enhanced": true
+  },
+  {
     "id": "2026-honda-cr-v-ex-l-vs-2026-mazda-cx-5-premium-plus-comparison-test-a66f6e",
     "title": "2026 Honda CR-V EX-L vs. 2026 Mazda CX-5 Premium Plus Comparison Test",
     "summary": "The CX-5 and CR-V are both longtime Car and Driver favorites, but with the Mazda fully redesigned for 2026, which one comes out on top?",
@@ -505,22 +522,5 @@
     "moreContext": "Maybach was revived by Mercedes-Benz in 2021 after a 12-year hiatus, initially with the S-Class sedan as its only offering. The SUV market has dramatically reshaped luxury vehicle sales, with premium brands increasingly developing SUV models to meet consumer preferences for elevated driving positions and cargo space. Mercedes' current GLS-Class is already one of the brand's most popular models, and the Maybach variant will offer enhanced exclusivity, bespoke interiors, and performance tuning to justify premium pricing in the already-crowded ultra-luxury SUV segment.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "view-exterior-photos-of-the-2027-mercedes-maybach-gls680-0b4ed5",
-    "title": "View Exterior Photos of the 2027 Mercedes-Maybach GLS680",
-    "summary": "See the outside of the new Mercedes-Maybach GLS6980 luxury SUV from every angle.",
-    "url": "https://www.caranddriver.com/photos/g73195336/2027-mercedes-maybach-gls680-revealed-exterior-gallery/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-21T03:00:00.000Z",
-    "fetchedAt": "2026-07-21T08:58:33.383Z",
-    "lang": "en",
-    "whatHappening": "Mercedes-Benz has revealed exterior photos of the upcoming 2027 Mercedes-Maybach GLS680, its new ultra-luxury SUV. The vehicle showcases the brand's latest design language applied to the high-end sport utility segment.",
-    "whoInvolved": "Mercedes-Benz, the German luxury automaker, is behind this release through its Maybach sub-brand, which focuses on ultra-premium vehicles for the world's wealthiest consumers. Car and Driver, a major automotive publication, is covering the debut imagery.",
-    "whyMatters": "The GLS680 represents Mercedes' push deeper into the lucrative luxury SUV market, where competitors like Rolls-Royce (Cullinan) and Bentley (Bentayga) have found significant demand. This model could capture market share from ultra-wealthy buyers seeking flagship SUVs with uncompromising luxury credentials.",
-    "moreContext": "The Maybach brand, revived in 2021 after a decade-long hiatus, has focused on limited-production sedans priced above $160,000. The GLS680 marks Maybach's entry into the SUV category, building on the success of Mercedes' standard GLS lineup while elevating it with exclusive Maybach styling, materials, and performance. The 2027 timeline suggests Mercedes is continuing its multi-year rollout of new Maybach models to re-establish the brand's position at the pinnacle of automotive luxury.",
-    "enhanced": true
   }
 ]
