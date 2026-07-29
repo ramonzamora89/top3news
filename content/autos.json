@@ -1,5 +1,22 @@
 [
   {
+    "id": "2027-genesis-gv60-magma-gives-you-641-hp-for-just-under-72000-31d31f",
+    "title": "2027 Genesis GV60 Magma Gives You 641 HP for Just Under $72,000",
+    "summary": "The high-performance electric SUV is the brand's first Magma model, and its base price won't break the bank.",
+    "url": "https://www.caranddriver.com/news/a73299287/2027-genesis-gv60-magma-price/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-29T22:00:00.000Z",
+    "fetchedAt": "2026-07-29T23:20:32.242Z",
+    "lang": "en",
+    "whatHappening": "Genesis is launching the 2027 GV60 Magma, a high-performance electric SUV delivering 641 horsepower with a starting price just under $72,000. This marks the brand's debut in the Magma performance line, combining luxury sedan heritage with EV muscle.",
+    "whoInvolved": "Genesis, Hyundai's luxury vehicle brand, is making this move as it ramps up its electric vehicle portfolio and performance offerings. The South Korean automaker has been aggressively positioning itself as a premium competitor to Tesla and traditional luxury brands.",
+    "whyMatters": "The aggressive pricing undercuts competitors in the high-performance EV SUV segment, potentially accelerating consumer adoption of premium electric vehicles. This signals Genesis's commitment to making performance EVs accessible beyond ultra-luxury price points, which could reshape the competitive landscape in the $70K segment.",
+    "moreContext": "Genesis introduced the Magma performance sub-brand to elevate its sporty credentials alongside competitors like BMW's M division and Mercedes' AMG line. The 2027 model year arrives as the EV market matures and consumers increasingly expect performance from electric powertrains. Prior Genesis electric models like the GV60 sedan have gained traction for their design and technology, establishing proof-of-concept for the brand's EV strategy. A sub-$72K entry point for 641 HP positions this as a value proposition in the growing performance EV space.",
+    "enhanced": true
+  },
+  {
     "id": "rams-new-rumble-bee-street-trucks-carry-an-attractive-base-price-ac3d0f",
     "title": "Ram's New Rumble Bee Street Trucks Carry an Attractive Base Price",
     "summary": "The Rumble Bee will offer three engines, from the entry-level 5.7-liter Hemi V-8 to the supercharged 6.2-liter that cranks out 777 horsepower.",
@@ -506,22 +523,5 @@
     "moreContext": "Land Rover has increasingly focused on creating multiple variants within the Range Rover family, including the Range Rover Sport and Range Rover Evoque, to reach different customer segments. The GT designation typically indicates a grand touring focus—combining performance with luxury and comfort for long-distance driving. This launch aligns with industry trends toward electrification and performance-focused variants of mainstream luxury models. The 2028 timeline suggests Land Rover is planning significant design and engineering work before the vehicle's market debut.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "view-photos-of-the-land-rover-range-rover-gt-9c4b7a",
-    "title": "View Photos of the Land Rover Range Rover GT",
-    "summary": "See interior and exterior photos of the new electric model from Land Rover, the Range Rover GT.",
-    "url": "https://www.caranddriver.com/photos/a73219883/land-rover-range-rover-gt-prototype-revealed-gallery/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-21T23:01:00.000Z",
-    "fetchedAt": "2026-07-22T08:57:41.157Z",
-    "lang": "en",
-    "whatHappening": "Land Rover has unveiled the Range Rover GT, a new electric vehicle that marks the automaker's push into the EV market. Photos of the vehicle's interior and exterior designs are now available for public viewing.",
-    "whoInvolved": "Land Rover, the British luxury SUV brand owned by Jaguar Land Rover (part of India's Tata Motors), is introducing this new model. The company has a heritage spanning decades of producing premium off-road and luxury vehicles.",
-    "whyMatters": "The Range Rover GT signals Land Rover's commitment to electrification as automakers face increasing pressure to shift away from internal combustion engines. This move could help the brand compete in the growing luxury EV segment while appealing to environmentally conscious buyers.",
-    "moreContext": "Land Rover has long dominated the luxury SUV market with gas and diesel-powered Range Rovers. The automotive industry is experiencing rapid electrification, with traditional luxury brands like Mercedes, BMW, and Porsche launching premium EV models. Land Rover's parent company Tata Motors has been investing in electric vehicle technology globally. The GT nameplate indicates this model may target performance-oriented buyers seeking electric alternatives to traditional Range Rover offerings.",
-    "enhanced": true
   }
 ]
