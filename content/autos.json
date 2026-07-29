@@ -1,5 +1,22 @@
 [
   {
+    "id": "rams-new-rumble-bee-street-trucks-carry-an-attractive-base-price-ac3d0f",
+    "title": "Ram's New Rumble Bee Street Trucks Carry an Attractive Base Price",
+    "summary": "The Rumble Bee will offer three engines, from the entry-level 5.7-liter Hemi V-8 to the supercharged 6.2-liter that cranks out 777 horsepower.",
+    "url": "https://www.caranddriver.com/news/a73295353/2027-ram-1500-rumble-bee-srt-pricing/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-29T14:34:00.000Z",
+    "fetchedAt": "2026-07-29T15:35:20.494Z",
+    "lang": "en",
+    "whatHappening": "Ram is launching the new Rumble Bee street trucks with a competitive base price point. The lineup features three engine options spanning from a 5.7-liter Hemi V-8 to a supercharged 6.2-liter producing 777 horsepower.",
+    "whoInvolved": "Ram, Stellantis's truck division, is the primary player bringing this model to market. The Rumble Bee represents Ram's effort to capture performance-focused truck buyers in a competitive segment.",
+    "whyMatters": "An attractive base price makes high-performance trucks more accessible to mainstream buyers, potentially expanding Ram's market share in the lucrative pickup segment. This move signals Ram's commitment to offering varied powertrain options to compete with Ford and Chevrolet's performance truck offerings.",
+    "moreContext": "The Rumble Bee name carries heritage from Dodge's performance brand identity, now being revived under Ram. The truck market increasingly demands both capability and style, with consumers willing to pay premiums for distinctive trim levels and engine options. Offering multiple engine choices allows Ram to serve both value-conscious buyers and those seeking maximum performance without forcing customers into all-or-nothing packages. This strategy reflects broader industry trends of tiered performance options within single model lines.",
+    "enhanced": true
+  },
+  {
     "id": "2027-audi-q9-e5ccfb",
     "title": "2027 Audi Q9",
     "summary": "What We Know So Far",
@@ -505,23 +522,5 @@
     "whyMatters": "The Range Rover GT signals Land Rover's commitment to electrification as automakers face increasing pressure to shift away from internal combustion engines. This move could help the brand compete in the growing luxury EV segment while appealing to environmentally conscious buyers.",
     "moreContext": "Land Rover has long dominated the luxury SUV market with gas and diesel-powered Range Rovers. The automotive industry is experiencing rapid electrification, with traditional luxury brands like Mercedes, BMW, and Porsche launching premium EV models. Land Rover's parent company Tata Motors has been investing in electric vehicle technology globally. The GT nameplate indicates this model may target performance-oriented buyers seeking electric alternatives to traditional Range Rover offerings.",
     "enhanced": true
-  },
-  {
-    "id": "range-rover-breaks-the-mold-and-goes-low-with-the-new-electric-gt-ceb188",
-    "title": "Range Rover Breaks the Mold and Goes Low with the New Electric GT",
-    "summary": "The Range Rover GT prototype asks the question: what if a Range Rover were also a sedan?",
-    "url": "https://www.caranddriver.com/news/a73191489/land-rover-range-rover-gt-prototype-revealed/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-21T23:01:00.000Z",
-    "fetchedAt": "2026-07-21T23:18:22.785Z",
-    "lang": "en",
-    "whatHappening": "Range Rover has unveiled a new electric GT prototype that reimagines the luxury SUV as a low-slung sedan. The concept vehicle blends Range Rover's DNA with sports car proportions, challenging traditional SUV design conventions.",
-    "whoInvolved": "Range Rover, the iconic British luxury vehicle brand owned by Jaguar Land Rover, is pushing its electrification strategy with this experimental prototype. The move reflects the broader automotive industry's shift toward EV innovation and design reinvention.",
-    "whyMatters": "This prototype signals that premium automakers are willing to radically reimagine heritage brands for the electric vehicle era. The concept could influence future luxury sedan and crossover designs, potentially capturing consumers seeking performance-oriented electric vehicles with Range Rover's prestige.",
-    "moreContext": "Range Rover has dominated the luxury SUV market for decades but faces pressure from EV startups and competitors launching electric alternatives. Jaguar Land Rover has committed to an all-electric lineup by 2039, making concept vehicles like the GT essential for exploring new market segments. The sedan-like proportions represent a departure from the brand's traditional boxy silhouette, suggesting the company is testing whether luxury buyers will accept unconventional form factors if performance and technology deliver.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
