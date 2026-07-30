@@ -1,5 +1,23 @@
 [
   {
+    "id": "xiaomis-skynomad-n90-max-is-an-extended-range-ev-with-a-transforming-interior-47ff67",
+    "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+    "summary": "Hopefully nobody is giving coffee to that dog. The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max…",
+    "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-30T15:05:09.000Z",
+    "fetchedAt": "2026-07-30T15:36:15.174Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Xiaomi has unveiled the SkyNomad N90 Max, its first extended-range electric SUV with a claimed range exceeding 1,705 km (1,059 miles). The vehicle features a transforming interior and comes in both five- and seven-seat configurations.",
+    "whoInvolved": "Xiaomi, the Chinese tech giant known for smartphones and smart home devices, is expanding into the automotive market with this EV offering. The company has been increasingly investing in electric vehicle development as part of its broader business diversification strategy.",
+    "whyMatters": "This launch signals Xiaomi's serious push into the competitive EV market, challenging established automakers with a tech-forward approach and extended-range capabilities that address consumer range anxiety. The vehicle's modular interior design and multi-seat configurations appeal to diverse consumer needs, potentially capturing market share in the premium EV SUV segment.",
+    "moreContext": "Xiaomi entered the automotive industry in 2021 with ambitions to become a major EV player, initially focusing on developing core vehicle technology and partnerships. The extended-range EV category has grown significantly as manufacturers seek to balance battery weight, cost, and consumer range requirements. Extended-range vehicles use a combination of battery and gasoline or other fuel sources to achieve longer distances. This launch represents Xiaomi's evolution from initial EV concept announcements to delivering a production-ready vehicle with premium features and competitive specifications.",
+    "enhanced": true
+  },
+  {
     "id": "mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents-77ce92",
     "title": "Mark Zuckerberg is planning a big push into personal AI agents",
     "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal…",
@@ -542,24 +560,5 @@
     "whyMatters": "Tesla's revenue recovery signals renewed demand in the EV market, but weak profits suggest the company is struggling with pricing power and cost management. This matters for investors evaluating Tesla's long-term profitability and for the broader EV industry's financial viability as it matures.",
     "moreContext": "Tesla experienced significant headwinds starting in 2023, marked by aggressive price cuts, production challenges, and increased competition eroding its market dominance. The China International Supply Chain Expo appearance underscores Tesla's strategic focus on the world's largest EV market. Despite early leadership, Tesla now competes against established automakers like BMW and Mercedes entering the EV space, plus aggressive Chinese competitors like BYD. The revenue bounce-back comes as global EV adoption accelerates, but Tesla's margin compression reflects industrywide pricing pressure as the market becomes increasingly competitive.",
     "enhanced": true
-  },
-  {
-    "id": "meta-wont-have-to-face-the-next-planned-social-media-addiction-trial-61d1b8",
-    "title": "Meta won’t have to face the next planned social media addiction trial",
-    "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of…",
-    "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-22T22:03:53.000Z",
-    "fetchedAt": "2026-07-22T23:20:15.583Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "A lawsuit against Meta claiming the platform causes social media addiction has been dropped just days before trial in Los Angeles. The case, brought by a 15-year-old Florida plaintiff, was set to be the second major addiction-related trial against the tech giant.",
-    "whoInvolved": "Meta, the parent company of Facebook and Instagram, faces ongoing legal challenges over its platform's addictive design. The plaintiff, a minor identified as R.K.C., brought the case arguing the platform caused them harm through deliberate engagement tactics.",
-    "whyMatters": "This dismissal removes a high-profile test case that could have set precedent for holding social media companies liable for addiction-related harms to minors. The ruling could affect other pending litigation and influence how regulators approach platform accountability going forward.",
-    "moreContext": "Meta has faced multiple lawsuits alleging its platforms use manipulative features designed to maximize user engagement at the expense of mental health, particularly for young users. This case was part of a coordinated legal strategy with multiple similar suits in various jurisdictions. The dismissal comes as Meta continues defending against federal antitrust cases and state-level investigations into its business practices. Previous social media addiction cases have struggled to establish clear legal liability, making Meta's avoidance of trial significant for understanding how courts currently view these claims.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "future-electric-vehicles-the-evs-youll-soon-be-able-to-buy-1f5d86",
+    "title": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
+    "summary": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
+    "url": "https://www.caranddriver.com/news/g29994375/future-electric-cars-trucks/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-30T15:19:00.000Z",
+    "fetchedAt": "2026-07-30T15:36:15.083Z",
+    "lang": "en",
+    "whatHappening": "Car and Driver is showcasing upcoming electric vehicles that are still in development across various stages from concept to near-production. These EVs represent the next wave of models consumers will be able to purchase in the coming years, though some may never reach the market.",
+    "whoInvolved": "Major automakers are racing to expand their EV portfolios with new models at different development stages. These companies are responding to shifting consumer demand and regulatory pressure to electrify their lineups.",
+    "whyMatters": "The diversity of incoming EVs will give consumers more choices in price points, vehicle types, and performance levels as electrification accelerates. This expansion signals the automotive industry's commitment to transitioning away from internal combustion engines and meeting climate and regulatory mandates globally.",
+    "moreContext": "The EV market has grown rapidly over the past five years as battery technology improved and costs declined, making electric vehicles more competitive with traditional cars. Automakers have shifted from treating EVs as niche products to core business strategies, with most major manufacturers announcing significant EV investments and production targets. Regulatory pressures in Europe, China, and increasingly in North America have accelerated timelines for phasing out gas-powered vehicles. This article highlights how manufacturers are now moving beyond early EV adopters to develop vehicles aimed at mass-market appeal across multiple segments.",
+    "enhanced": true
+  },
+  {
     "id": "toyota-and-nissan-suspend-production-after-earthquake-shakes-japan-014ea5",
     "title": "Toyota and Nissan Suspend Production After Earthquake Shakes Japan",
     "summary": "Earthquake destruction around Toyota and Nissan's plants in southwestern Japan may affect production of new vehicles bound for the United States.",
@@ -505,23 +522,5 @@
     "whyMatters": "The move signals Nissan's commitment to offering driver engagement options in an era when manual transmissions are disappearing from the market. This decision directly appeals to enthusiasts who value traditional driving experiences, potentially influencing buyer decisions in the affordable sports car segment.",
     "moreContext": "The Z nameplate has a storied history dating back to 1969, and Nissan reintroduced the modern Z in 2023 after a years-long hiatus. The NISMO variant represents the brand's high-performance sub-label. The pricing strategy of charging the same for both manual and automatic transmissions is unusual in today's market, where manuals typically command premium pricing or are offered at a discount depending on demand and production costs.",
     "enhanced": true
-  },
-  {
-    "id": "the-800-hp-rezvani-dune-is-an-even-wilder-lamborghini-sterrato-bd64ac",
-    "title": "The 800-HP Rezvani Dune Is an Even Wilder Lamborghini Sterrato",
-    "summary": "Rezvani took a Huracán and gave it more power, more clearance, and more completely insane bodywork.",
-    "url": "https://www.caranddriver.com/news/a73235738/rezvani-dune-revealed/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-22T22:00:00.000Z",
-    "fetchedAt": "2026-07-22T23:20:15.515Z",
-    "lang": "en",
-    "whatHappening": "Rezvani has unveiled the Dune, an extreme off-road variant of the Lamborghini Huracán that cranks power up to 800 horsepower and adds aggressive styling with increased ground clearance. The customization shop has transformed a supercar designed for pavement into a wild, high-performance desert machine.",
-    "whoInvolved": "Rezvani is a Los Angeles-based custom car manufacturer known for creating heavily modified versions of exotic vehicles, particularly Lamborghinis. The company specializes in reimagining performance cars with bespoke engineering and dramatic aesthetic upgrades.",
-    "whyMatters": "This vehicle exemplifies the growing trend of ultra-wealthy buyers seeking one-of-a-kind, unconventional supercars that blur the line between road and off-road capability. It demonstrates how custom shops are pushing boundaries on what's possible when modifying already-extreme machines, potentially influencing future factory offerings in the adventure supercar category.",
-    "moreContext": "Lamborghini itself entered the off-road supercar space with the Sterrato in 2023, a lifted Huracán variant that garnered significant media attention. Rezvani's Dune builds on this trend but takes it further with more extensive modifications and significantly higher horsepower figures. Custom Lamborghini builders have become increasingly popular among collectors seeking differentiation from standard models. This movement reflects broader automotive interest in combining luxury performance with rugged capability, a niche that traditional manufacturers are only beginning to explore.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
