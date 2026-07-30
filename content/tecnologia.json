@@ -15,7 +15,8 @@
     "whoInvolved": "Microsoft, led by CEO Satya Nadella, is developing the app as part of its broader AI strategy. The company has been heavily investing in generative AI through its partnership with OpenAI and integration of Copilot across its product suite.",
     "whyMatters": "A unified Copilot super app could accelerate AI adoption by consolidating fragmented tools into a single interface, potentially strengthening Microsoft's competitive position against rivals like Google and Meta in consumer AI. For enterprises, the commercial integration could drive higher adoption of AI-assisted workflows across business operations.",
     "moreContext": "Microsoft has been rolling out Copilot incrementally across Windows, Microsoft 365, and its developer tools over the past year. The company's AI ambitions center on Copilot as a central platform, following its $13 billion investment in OpenAI and integration of GPT-4 capabilities. Recent competitive pressures from Google's Gemini and other AI products have intensified the need for Microsoft to present a cohesive AI offering. This super app represents a strategic shift toward positioning AI as an omnipresent assistant rather than isolated feature additions.",
-    "enhanced": true
+    "enhanced": true,
+    "fbPosted": true
   },
   {
     "id": "doordash-is-going-airborne-with-new-drone-delivery-division-b6f48e",
