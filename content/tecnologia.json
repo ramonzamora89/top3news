@@ -1,5 +1,23 @@
 [
   {
+    "id": "tim-cook-hints-at-icloud-plus-tier-for-ai-power-users-6d9d78",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities…",
+    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-30T22:29:45.000Z",
+    "fetchedAt": "2026-07-30T23:21:15.553Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Apple CEO Tim Cook is signaling that the company plans to offer a premium iCloud Plus tier that would give power users higher limits on Apple Intelligence and Siri AI usage. Cook stated during an earnings call that Apple recognizes people will want to use these AI features heavily and will provide \"upgrade possibilities\" to accommodate that demand.",
+    "whoInvolved": "Tim Cook is Apple's CEO and has led the company since 2011. Apple is the tech giant rolling out Apple Intelligence, its on-device AI system, across its ecosystem of products including iPhones, iPads, and Macs.",
+    "whyMatters": "This tiered approach could create a new revenue stream for Apple while addressing potential bottlenecks in AI feature usage. It also signals that Apple expects significant demand for its AI capabilities, positioning the company to monetize its intelligence features similarly to how it handles cloud storage and other premium services.",
+    "moreContext": "Apple Intelligence was announced at WWDC 2024 as the company's answer to competitors' AI offerings, emphasizing on-device processing for privacy. The feature integrates a redesigned Siri with enhanced capabilities across Apple's product line. Apple currently offers iCloud+ with storage tiers starting at 50GB, and this would represent an expansion of that service model into AI usage limits—a strategy that mirrors how other tech companies handle computing resource constraints for power users.",
+    "enhanced": true
+  },
+  {
     "id": "xiaomis-skynomad-n90-max-is-an-extended-range-ev-with-a-transforming-interior-47ff67",
     "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
     "summary": "Hopefully nobody is giving coffee to that dog. The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max…",
@@ -543,23 +561,5 @@
     "moreContext": "Lego has increasingly focused on licensed sets targeting adult builders, particularly around gaming and entertainment franchises. Merriam's previous Nintendo collaborations, including sets inspired by Game Boy and iconic Mario enemies, have been successful retail products. The Donkey Kong arcade machine represents an escalation in complexity, adding functional gameplay to traditional Lego building. This aligns with Nintendo's broader strategy of monetizing its classic game catalog through merchandise and collaborative products.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "teslas-revenues-are-bouncing-back-but-profits-are-still-weak-5d21dd",
-    "title": "Tesla’s revenues are bouncing back, but profits are still weak",
-    "summary": "A Tesla Model 3 electric car is seen during the China International Supply Chain Expo (CISCE) in Beijing on July 16, 2025. (Photo by Jade GAO / AFP) (Photo by JADE GAO/AFP via Getty Images) | AFP via Getty Images After a dismal two years of weakening demand, falling sales, and…",
-    "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-22T20:17:46.000Z",
-    "fetchedAt": "2026-07-23T08:58:19.289Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Tesla's revenues are recovering after two years of declining sales and weakening demand. However, the company's profit margins remain under pressure despite the revenue rebound.",
-    "whoInvolved": "Tesla, the world's leading electric vehicle manufacturer headed by Elon Musk, is navigating a competitive EV market. The company has faced intensifying competition from traditional automakers and Chinese EV makers ramping up production.",
-    "whyMatters": "Tesla's revenue recovery signals renewed demand in the EV market, but weak profits suggest the company is struggling with pricing power and cost management. This matters for investors evaluating Tesla's long-term profitability and for the broader EV industry's financial viability as it matures.",
-    "moreContext": "Tesla experienced significant headwinds starting in 2023, marked by aggressive price cuts, production challenges, and increased competition eroding its market dominance. The China International Supply Chain Expo appearance underscores Tesla's strategic focus on the world's largest EV market. Despite early leadership, Tesla now competes against established automakers like BMW and Mercedes entering the EV space, plus aggressive Chinese competitors like BYD. The revenue bounce-back comes as global EV adoption accelerates, but Tesla's margin compression reflects industrywide pricing pressure as the market becomes increasingly competitive.",
-    "enhanced": true
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "shelbys-f-150-super-snake-sport-packs-810-hp-with-a-two-door-cab-47eb23",
+    "title": "Shelby's F-150 Super Snake Sport Packs 810 HP with a Two-Door Cab",
+    "summary": "Shelby American is bringing back the two-door Super Snake Sport, and the lowered street truck is capable of making significant power.",
+    "url": "https://www.caranddriver.com/news/a73309686/2026-shelby-f-150-super-snake-sport-details/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-30T21:09:00.000Z",
+    "fetchedAt": "2026-07-30T23:21:15.447Z",
+    "lang": "en",
+    "whatHappening": "Shelby American is reviving the two-door F-150 Super Snake Sport, a high-performance pickup truck that delivers 810 horsepower. The lowered street truck combines classic truck styling with modern performance engineering.",
+    "whoInvolved": "Shelby American, the legendary performance car manufacturer founded by racing driver Carroll Shelby, is behind this project. The company is known for creating high-horsepower variants of Ford vehicles, continuing its decades-long partnership with the automaker.",
+    "whyMatters": "The return of a two-door performance truck taps into growing demand for high-powered, customized vehicles in the luxury truck segment. This move signals that specialty truck builders see opportunity in performance-oriented, street-focused pickups rather than purely utilitarian models.",
+    "moreContext": "The Super Snake nameplate has a storied history with Shelby, previously appearing on high-performance Ford muscle cars and trucks. The two-door configuration is increasingly rare in modern truck lineups, where four-door cabs dominate sales. With 810 hp, this truck sits in an exclusive performance tier typically reserved for specialty builders rather than factory production. Shelby's focus on lowered, street-oriented trucks reflects a broader customization trend among enthusiasts seeking alternatives to stock factory offerings.",
+    "enhanced": true
+  },
+  {
     "id": "future-electric-vehicles-the-evs-youll-soon-be-able-to-buy-1f5d86",
     "title": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
     "summary": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
@@ -506,22 +523,5 @@
     "moreContext": "The Senate action reflects growing concerns about foreign automotive dominance in the U.S. market and potential national security issues related to vehicle technology and supply chains. Mercedes-Benz has maintained a significant American presence through imports and some domestic manufacturing. Recent years have seen increased congressional scrutiny of foreign automakers, particularly regarding electric vehicle production and semiconductor sourcing. The legislation appears designed to strengthen American automotive competitiveness rather than completely eliminate foreign competitors.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "2027-nissan-z-nismo-with-new-six-speed-manual-starts-under-69k-329627",
-    "title": "2027 Nissan Z NISMO with New Six-Speed Manual Starts Under $69K",
-    "summary": "All prices rise by $1460, but you'll pay the same for a new 2027 Nissan Z whether or not you choose the DIY gearbox.",
-    "url": "https://www.caranddriver.com/news/a73232708/2027-nissan-z-nismo-manual-price/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-22T20:25:00.000Z",
-    "fetchedAt": "2026-07-23T08:58:19.160Z",
-    "lang": "en",
-    "whatHappening": "Nissan is pricing the 2027 Z NISMO with a new six-speed manual transmission starting under $69,000. All 2027 Z models are seeing price increases of $1,460, but the manual and automatic variants are priced identically.",
-    "whoInvolved": "Nissan, the Japanese automaker, is reviving the manual transmission option for its Z sports car line. Car and Driver is reporting on the pricing and availability of this performance variant.",
-    "whyMatters": "The move signals Nissan's commitment to offering driver engagement options in an era when manual transmissions are disappearing from the market. This decision directly appeals to enthusiasts who value traditional driving experiences, potentially influencing buyer decisions in the affordable sports car segment.",
-    "moreContext": "The Z nameplate has a storied history dating back to 1969, and Nissan reintroduced the modern Z in 2023 after a years-long hiatus. The NISMO variant represents the brand's high-performance sub-label. The pricing strategy of charging the same for both manual and automatic transmissions is unusual in today's market, where manuals typically command premium pricing or are offered at a discount depending on demand and production costs.",
-    "enhanced": true
   }
 ]
