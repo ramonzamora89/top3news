@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operation-79cb8a",
+    "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
+    "summary": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as…",
+    "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-07-31T15:30:13.000Z",
+    "fetchedAt": "2026-07-31T15:40:04.199Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "New York Attorney General Letitia James is suing Kalshi, accusing the prediction market platform of operating an illegal gambling operation. The lawsuit claims Kalshi accepted wagers without obtaining proper licensing from the state's gaming commission.",
+    "whoInvolved": "Kalshi is a prediction market platform that allows users to bet on future events. New York Attorney General Letitia James is leading the state's legal action against the company.",
+    "whyMatters": "The lawsuit signals intensifying regulatory scrutiny of prediction markets and crypto-adjacent financial platforms in major U.S. states. A ruling against Kalshi could set precedent for how prediction markets are classified and regulated nationwide, potentially limiting their operations or forcing significant compliance changes.",
+    "moreContext": "Prediction markets have operated in a regulatory gray area, with supporters arguing they serve as information aggregation tools while critics contend they constitute gambling. Kalshi previously received approval from the Commodity Futures Trading Commission (CFTC) to operate certain prediction market contracts, creating a conflict between federal and state regulatory frameworks. New York has historically maintained strict gambling regulations and has been aggressive in enforcing gaming laws. This lawsuit reflects broader tension between emerging fintech platforms seeking to operate nationally and state authorities asserting jurisdiction over activities they classify as wagering.",
+    "enhanced": true
+  },
+  {
     "id": "xbox-ceo-lays-out-priorities-in-memo-after-major-8216reset8217-da86a6",
     "title": "Xbox CEO lays out priorities in memo after major ‘reset’",
     "summary": "Asha Sharma. | Image: The Verge, Microsoft After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which…",
@@ -540,25 +558,6 @@
     "whoInvolved": "Brendan Carr is the chairman of the Federal Communications Commission (FCC), the agency regulating the nation's broadcast and communications infrastructure. He operates under the Trump administration and has significant leverage over broadcasters, networks, and digital platforms that must comply with FCC rules.",
     "whyMatters": "This represents a potential threat to press freedom and editorial independence, as regulatory power is being weaponized against protected speech. The FCC's authority over licensing and compliance gives it substantial leverage to chill free expression, with implications for what stories get covered and how broadcasters operate.",
     "moreContext": "The FCC has historical authority to regulate broadcast standards, but using that power to punish content based on viewpoint or editorial choices represents a departure from traditional regulatory practice. This reflects broader tensions between the Trump administration and mainstream media outlets over coverage. First Amendment protections for broadcasters have been a subject of legal debate, particularly around the Fairness Doctrine and content regulations, though outright government retaliation for speech raises constitutional concerns.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions-62dc90",
-    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and…",
-    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-23T21:15:06.000Z",
-    "fetchedAt": "2026-07-23T23:18:31.330Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Amazon is rolling out an AI update to Alexa Plus that enables the assistant to handle more complex smart home commands and connect to devices from multiple manufacturers. The preview version now integrates with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others.",
-    "whoInvolved": "Amazon, the e-commerce and cloud computing giant, is behind Alexa Plus, its premium voice assistant offering. The update involves partnerships with major smart home device makers including appliance manufacturers (Whirlpool, Bosch), robot vacuum companies (iRobot, Ecovacs), smart lock providers (Yale Home), and IoT specialists (Tapo, Eufy).",
-    "whyMatters": "This expands Alexa's utility for users by allowing more natural, multi-step smart home commands across different brands in one ecosystem. It strengthens Amazon's position in the competitive smart home market and could drive adoption of Alexa Plus as a premium subscription service.",
-    "moreContext": "Amazon has been investing heavily in making Alexa smarter and more capable as voice assistants face increasing competition from ChatGPT-powered alternatives and Apple's Siri. Smart home integration has become a key battleground, with platforms competing to support the widest range of third-party devices. This preview stage suggests Amazon is still testing the feature's reliability before full rollout. The update represents a shift toward more sophisticated AI that understands context and can execute sequential commands rather than just single tasks.",
     "enhanced": true,
     "fbPosted": true
   }
