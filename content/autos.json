@@ -1,5 +1,22 @@
 [
   {
+    "id": "2027-porsche-macan-electric-65af19",
+    "title": "2027 Porsche Macan Electric",
+    "summary": "Review, Pricing, and Specs",
+    "url": "https://www.caranddriver.com/porsche/macan-ev-2027",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-07-31T20:44:47.000Z",
+    "fetchedAt": "2026-07-31T23:20:33.838Z",
+    "lang": "en",
+    "whatHappening": "Porsche is unveiling the 2027 Macan Electric, its latest electric vehicle offering that aims to compete in the premium EV crossover segment. The new model brings Porsche's performance engineering to the battery-powered market with updated specs and pricing.",
+    "whoInvolved": "Porsche, the German luxury automaker owned by Volkswagen Group, is spearheading this electric vehicle expansion. Car and Driver, a leading automotive publication, is providing the comprehensive review and specifications.",
+    "whyMatters": "This launch signals Porsche's accelerating shift toward electrification as traditional automakers race to capture market share in the booming EV segment. The Macan Electric's positioning matters for affluent consumers seeking premium electric crossovers and reflects broader industry pressure to abandon combustion engines.",
+    "moreContext": "Porsche previously offered the Macan as a gas-powered luxury crossover that became one of the brand's best-sellers. The automaker has committed to electrifying its lineup, with the Taycan sedan already available as an EV since 2020. The premium EV crossover market has intensified with competitors like Tesla Model X, Audi Q4 e-tron, and BMW iX capturing significant demand. This 2027 model year timing aligns with Porsche's broader electrification strategy to transition away from internal combustion engines over the next decade.",
+    "enhanced": true
+  },
+  {
     "id": "ford-ceo-warns-that-arrival-of-chinese-automakers-is-coming-soon-8993ad",
     "title": "Ford CEO Warns That Arrival of Chinese Automakers Is Coming Soon",
     "summary": "The executive reportedly told employees that despite the numerous trade barriers that currently bar them, Americans could start seeing Chinese cars in the next five to 10 years.",
@@ -506,22 +523,5 @@
     "moreContext": "Toyota introduced the Trailhunter nameplate to appeal to outdoor enthusiasts and off-road adventurers, with previous models including the Sequoia Trailhunter in earlier generations. The 2027 refresh indicates the package's success and Toyota's strategy of offering lifestyle-focused variants across its SUV lineup. This trend reflects broader industry movement toward adventure-ready vehicles, as competitors like Ford (with Raptor and Tremor lines) and General Motors have similarly emphasized rugged capability. The Sequoia's three-row configuration makes it particularly attractive to families wanting both off-road credentials and practical passenger space.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "view-exterior-photos-of-the-2027-toyota-sequoia-trailhunter-b06764",
-    "title": "View Exterior Photos of the 2027 Toyota Sequoia Trailhunter",
-    "summary": "The 2027 Toyota Sequoia is the latest model to get a Trailhunter package. See it from every exterior angle.",
-    "url": "https://www.caranddriver.com/photos/a73248100/2027-toyota-sequoia-trailhunter-revealed-exterior-gallery/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-23T18:39:39.000Z",
-    "fetchedAt": "2026-07-24T08:56:04.047Z",
-    "lang": "en",
-    "whatHappening": "Toyota is unveiling the 2027 Sequoia with a new Trailhunter package, showcasing the three-row SUV's rugged exterior styling from multiple angles. The Trailhunter variant represents Toyota's latest effort to inject off-road capability into its mainstream vehicle lineup.",
-    "whoInvolved": "Toyota, the world's largest automaker by production volume, is continuing its strategy of offering adventure-focused variants across its portfolio. Car and Driver, a leading automotive publication, is providing first-look coverage of the redesigned model.",
-    "whyMatters": "The Trailhunter package positions the Sequoia to compete directly with other rugged SUV offerings in the premium large-vehicle segment where buyers increasingly prioritize off-road aesthetics and capability. This move signals Toyota's commitment to capturing the lucrative adventure and lifestyle market that has driven strong sales for competitor models like the Ford Expedition and Chevrolet Tahoe variants.",
-    "moreContext": "Toyota introduced the Trailhunter nameplate across multiple models in recent years, with successful implementations on vehicles like the 4Runner and Tundra. The Sequoia, Toyota's three-row full-size SUV competitor, competes in a segment where rugged styling packages have become increasingly popular with consumers seeking adventure-ready vehicles. The 2027 model year refresh represents a significant update cycle for the Sequoia platform. This expansion of the Trailhunter brand demonstrates Toyota's strategy to appeal to outdoor enthusiasts and lifestyle-oriented buyers across its entire lineup.",
-    "enhanced": true
   }
 ]
