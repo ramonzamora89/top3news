@@ -1,5 +1,22 @@
 [
   {
+    "id": "2008-mercedes-benz-slr-mclaren-roadster-on-bring-a-trailer-01ebfc",
+    "title": "2008 Mercedes-Benz SLR McLaren Roadster on Bring a Trailer",
+    "summary": "The road-car collaboration between Mercedes-Benz and McLaren followed from their F1 tie-up.",
+    "url": "https://www.caranddriver.com/news/a73316676/2008-mercedes-benz-slr-mclaren-roadster-bring-a-trailer-auction/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-08-01T15:00:00.000Z",
+    "fetchedAt": "2026-08-01T15:21:01.411Z",
+    "lang": "en",
+    "whatHappening": "A 2008 Mercedes-Benz SLR McLaren Roadster is being auctioned on Bring a Trailer. This rare supercar represents one of the final examples of the iconic limited-production model.",
+    "whoInvolved": "Mercedes-Benz and McLaren, two automotive powerhouses, collaborated on the SLR project. Mercedes provided engineering expertise and manufacturing, while McLaren contributed performance technology from its Formula 1 program and design innovation.",
+    "whyMatters": "The SLR McLaren is a highly collectible modern supercar that commands strong prices at auction, reflecting growing investor interest in early 2000s performance vehicles. The model's rarity and pedigree make it a bellwether for the market value of collaborative luxury performance cars.",
+    "moreContext": "The Mercedes-Benz SLR McLaren was born from the automakers' successful Formula 1 partnership and launched in 2003 as a spiritual successor to the legendary 300 SLR of the 1950s. The roadster variant, introduced in 2007, removed the removable hardtop for an open-air experience while maintaining the car's 641-horsepower engine. Only 2,157 SLRs were produced before production ended in 2009, making it significantly rarer than contemporaries like the Ferrari F430. The model has appreciated substantially since its original $495,000 launch price, with well-maintained examples now regularly exceeding $1 million at auction.",
+    "enhanced": true
+  },
+  {
     "id": "genesis-confirms-that-the-upcoming-gv90-will-have-coach-doors-a9be3c",
     "title": "Genesis Confirms That the Upcoming GV90 Will Have Coach Doors",
     "summary": "Inspired by the 2024 Neolun concept, the GV90 is set to finally be revealed in August.",
@@ -504,23 +521,5 @@
     "whyMatters": "This comparison test helps consumers understand how top-tier sport sedans stack up against each other in design, features, and overall appeal. Visual documentation of these vehicles provides potential buyers with detailed reference material for making informed purchasing decisions in a competitive luxury market segment.",
     "moreContext": "The early 2000s marked a pivotal era for sport sedans, with manufacturers aggressively competing to attract performance-minded luxury buyers. The Lexus IS300, BMW 325i, and Audi A4 represented Japanese and German engineering prowess, while the Saab 9-3 SE, Mercedes C240, and Volvo S60 T5 showcased European alternatives. This period saw rapid advancement in sedan design, technology, and performance capabilities as automakers pushed boundaries in handling, power delivery, and interior refinement to differentiate themselves in an increasingly crowded segment.",
     "enhanced": true
-  },
-  {
-    "id": "report-chevrolet-is-already-cooking-up-a-next-generation-equinox-ev-74f699",
-    "title": "Report: Chevrolet Is Already Cooking Up a Next-Generation Equinox EV",
-    "summary": "The next version of the compact electric SUV is expected to arrive for the 2029 model year and will ride on a new platform.",
-    "url": "https://www.caranddriver.com/news/a73259033/chevy-equinox-ev-next-gen-report/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-24T20:33:00.000Z",
-    "fetchedAt": "2026-07-24T23:21:01.678Z",
-    "lang": "en",
-    "whatHappening": "Chevrolet is developing a next-generation Equinox EV that will launch for the 2029 model year. The redesigned compact electric SUV will be built on an entirely new platform.",
-    "whoInvolved": "Chevrolet, General Motors' mass-market brand, is spearheading the development. GM has been aggressively expanding its EV lineup as part of its broader electrification strategy.",
-    "whyMatters": "The next-gen Equinox EV signals GM's commitment to refreshing its electric vehicle portfolio with more advanced technology and capability. A new platform typically means improved range, performance, and cost efficiency, which could strengthen Chevrolet's competitive position in the growing affordable EV segment.",
-    "moreContext": "The current Equinox EV launched in 2024 as one of Chevrolet's most affordable electric options, priced competitively to undercut Tesla's Model Y. GM has been investing heavily in EV development and battery technology to meet electrification targets. The 2029 timeline suggests Chevrolet will use the intervening years to refine the platform and integrate next-generation battery innovations. A redesigned platform typically enables manufacturers to reduce production costs while expanding features, which is critical as the EV market becomes increasingly price-sensitive.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
