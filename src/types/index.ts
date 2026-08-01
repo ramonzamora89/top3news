@@ -16,6 +16,8 @@ export interface Article {
   whoInvolved?: string;
   whyMatters?: string;
   moreContext?: string;
+  articleBody?: string;
+  linkAnchorText?: string;
   enhanced?: boolean;
 }
 

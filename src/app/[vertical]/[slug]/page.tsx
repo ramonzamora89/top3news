@@ -57,6 +57,49 @@ function Section({ label, children }: { label: string; children: React.ReactNode
   );
 }
 
+function ArticleBody({ body, anchorText, url }: { body: string; anchorText?: string; url: string }) {
+  const paragraphs = body.split('\n\n').filter(Boolean);
+  // Case-insensitive: Claude may capitalize the anchor differently when it starts a sentence.
+  const anchorRegex = anchorText
+    ? new RegExp(anchorText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i')
+    : null;
+  const anchorIndex = anchorRegex ? paragraphs.findIndex((p) => anchorRegex.test(p)) : -1;
+
+  return (
+    <div className="mb-8">
+      {paragraphs.map((paragraph, i) => {
+        const match = i === anchorIndex && anchorRegex ? paragraph.match(anchorRegex) : null;
+        if (!match || match.index === undefined) {
+          return (
+            <p key={i} className="text-base text-gray-700 leading-relaxed mb-4">
+              {paragraph}
+            </p>
+          );
+        }
+        const start = match.index;
+        const end = start + match[0].length;
+        return (
+          <p key={i} className="text-base text-gray-700 leading-relaxed mb-4">
+            {paragraph.slice(0, start)}
+            <a href={url} target="_blank" rel="noopener noreferrer" className="text-brand font-bold hover:text-brand-dark">
+              {match[0]}
+            </a>
+            {paragraph.slice(end)}
+          </p>
+        );
+      })}
+      {anchorIndex === -1 && (
+        <p className="text-sm text-gray-500">
+          Source:{' '}
+          <a href={url} target="_blank" rel="noopener noreferrer" className="text-brand font-bold hover:text-brand-dark">
+            {new URL(url).hostname.replace(/^www\./, '')}
+          </a>
+        </p>
+      )}
+    </div>
+  );
+}
+
 export default function ArticlePage({ params }: Props) {
   const vertical = params.vertical as Vertical;
   if (!VALID_VERTICALS.includes(vertical)) notFound();
@@ -132,22 +175,31 @@ export default function ArticlePage({ params }: Props) {
         )}
       </div>
 
-      {article.moreContext && (
-        <div className="mb-8">
-          <p className="text-[10px] font-black text-brand uppercase tracking-widest mb-3">More context</p>
-          <p className="text-base text-gray-700 leading-relaxed">{article.moreContext}</p>
-        </div>
-      )}
+      {article.articleBody ? (
+        <>
+          <p className="text-[10px] font-black text-brand uppercase tracking-widest mb-3">The story</p>
+          <ArticleBody body={article.articleBody} anchorText={article.linkAnchorText} url={article.url} />
+        </>
+      ) : (
+        <>
+          {article.moreContext && (
+            <div className="mb-8">
+              <p className="text-[10px] font-black text-brand uppercase tracking-widest mb-3">More context</p>
+              <p className="text-base text-gray-700 leading-relaxed">{article.moreContext}</p>
+            </div>
+          )}
 
-      <a
-        href={article.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-flex items-center gap-2 bg-brand text-white text-sm font-bold px-6 py-3 hover:bg-brand-dark transition-colors uppercase tracking-wide"
-        style={{ textDecoration: 'none' }}
-      >
-        Read full story on {article.source} ↗
-      </a>
+          <a
+            href={article.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-brand text-white text-sm font-bold px-6 py-3 hover:bg-brand-dark transition-colors uppercase tracking-wide"
+            style={{ textDecoration: 'none' }}
+          >
+            Read full story on {article.source} ↗
+          </a>
+        </>
+      )}
     </article>
   );
 }
