@@ -1,5 +1,24 @@
 [
   {
+    "id": "samsungs-hdr10-plus-advanced-is-launching-this-month-on-prime-video-498952",
+    "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
+    "summary": "After previewing HDR10 Plus Advanced late last year, Samsung's not-Dolby Vision 2 spec will launch globally on Amazon's Prime Video this month. The first TVs announced with support are Samsung's 2026 lineup, which will be able to make use of the extra metadata to deliver more…",
+    "url": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-08-04T15:43:59.000Z",
+    "fetchedAt": "2026-08-04T15:45:25.670Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-hdr10-plus-advanced-prime-video-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Samsung's HDR10 Plus Advanced, a new HDR standard designed as an alternative to Dolby Vision, is launching globally on Amazon Prime Video this month. Samsung's 2026 TV lineup will be the first devices to support the enhanced metadata format.",
+    "whoInvolved": "Samsung, the South Korean multinational conglomerate and world's fifth-highest valued brand as of 2024, is behind the HDR10 Plus Advanced specification. Amazon Prime Video, the American subscription streaming service owned by Amazon, will be the launch platform for the technology.",
+    "whyMatters": "The launch represents a significant push by Samsung to establish HDR10 Plus Advanced as a mainstream alternative to Dolby Vision in the premium home entertainment space. If adoption accelerates across streaming services and TV manufacturers, it could reshape how premium video content is distributed and viewed, offering consumers choice in advanced display technologies.",
+    "articleBody": "Samsung is bringing its HDR10 Plus Advanced specification to Amazon Prime Video this month, marking the technology's commercial debut after being previewed late last year. The first televisions to support the standard will be Samsung's 2026 lineup, which will leverage the advanced metadata capabilities to deliver enhanced picture quality on compatible content.\n\nHDR10 Plus Advanced represents Samsung's answer to Dolby Vision, offering an alternative path for premium content delivery and display technology. According to The Verge, the specification will allow streaming services and content creators to embed additional metadata that enables televisions to optimize brightness, contrast, and color rendering on a per-scene or per-frame basis, potentially delivering a more refined viewing experience than standard HDR10.\n\nThe partnership with Amazon Prime Video is a crucial validation for Samsung's technology. Prime Video, owned by Amazon and distributed as both a standalone service and bundled with Amazon Prime membership, reaches millions of subscribers globally. By launching HDR10 Plus Advanced content through the platform, Samsung gains immediate access to a large audience while providing early adopters of 2026 Samsung TVs with premium content that showcases their hardware's capabilities.\n\nSamsung's approach reflects the company's broader strategy to differentiate its television offerings in a competitive market. Rather than relying exclusively on Dolby Vision, which has dominated premium HDR for years, Samsung is offering manufacturers and content creators a royalty-based alternative that could appeal to those seeking different technological approaches. The launch of 2026 models with native support signals confidence in the standard's future adoption.\n\nThe timing of the announcement suggests Samsung is laying groundwork for broader industry support. By establishing the technology on a major streaming platform with new TV hardware, Samsung creates momentum for other manufacturers to consider implementation in future models and encourages streaming services to encode content in the format. This month's launch will be closely watched to determine whether HDR10 Plus Advanced can gain meaningful traction against Dolby Vision's established market position.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "the-studio-behind-pokemon-struggles-to-find-its-voice-in-beast-of-reincarnation-2040b9",
     "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
     "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning…",
@@ -556,23 +575,5 @@
     "moreContext": "Gaming keyboards have traditionally relied on mechanical switches as their primary input method, with manufacturers differentiating through RGB lighting, macro keys, and additional features like built-in screens. Razer and competitors are now introducing analog switches that offer variable input sensitivity, appealing to players who want more control in games. This technological shift mirrors broader trends in gaming peripherals where innovation increasingly focuses on alternative input methods rather than purely aesthetic upgrades. The Huntsman V3 Pro's doubleshot PBT keycaps also represent a quality upgrade, as PBT plastic is more durable and resistant to shine than standard ABS keycaps.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "xboxs-huge-outage-even-blocked-games-on-disc-5a2c3f",
-    "title": "Xbox’s huge outage even blocked games on disc",
-    "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented…",
-    "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-27T19:53:50.000Z",
-    "fetchedAt": "2026-07-28T09:00:13.860Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Xbox is experiencing a major outage that began Sunday evening around 11PM ET, blocking players from accessing both digital and disc-based games. The widespread service disruption has left Xbox users unable to play their libraries regardless of how they purchased their games.",
-    "whoInvolved": "Microsoft's Xbox division, which operates one of the three major gaming consoles competing against PlayStation and Nintendo Switch. The outage affects millions of Xbox users worldwide who rely on the platform's online authentication systems.",
-    "whyMatters": "This outage reveals a critical vulnerability in modern gaming: even offline, single-player disc games require online verification to launch, meaning a service failure essentially bricks physical media. It highlights how dependent console gaming has become on always-online infrastructure, raising questions about digital ownership and consumer access.",
-    "moreContext": "Xbox has increasingly integrated online authentication requirements across its ecosystem, even for disc-based games that theoretically don't require internet connectivity. This outage is particularly significant because it demonstrates that Microsoft's infrastructure issues can render both digital and physical game collections unplayable simultaneously. Gaming industry outages have become more frequent as services consolidate, with similar incidents affecting PlayStation and other platforms in recent years. The incident underscores a broader tension in the industry between convenience of digital services and consumer rights regarding purchased content.",
-    "enhanced": true
   }
 ]
