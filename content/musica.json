@@ -1,5 +1,23 @@
 [
   {
+    "id": "geddy-lee-alex-lifeson-and-famous-guest-drummers-honor-neil-peart-in-new-documen-ae9c4d",
+    "title": "Geddy Lee, Alex Lifeson, and Famous Guest Drummers Honor Neil Peart in New Documentary",
+    "summary": "Chad Smith, Stewart Copeland, and Danny Carey all play Rush songs with Lee and Lifeson in Neil Peart: No One’s Disciple, which debuts in September",
+    "url": "https://www.rollingstone.com/music/music-news/geddy-lee-alex-lifeson-neil-peart-documentary-1235604273/",
+    "source": "Rolling Stone",
+    "sourceId": "rolling-stone",
+    "vertical": "musica",
+    "publishedAt": "2026-08-05T22:40:46.000Z",
+    "fetchedAt": "2026-08-05T23:21:03.058Z",
+    "lang": "en",
+    "whatHappening": "A new documentary honoring late Rush drummer Neil Peart is bringing together Geddy Lee and Alex Lifeson with guest drummers including Chad Smith, Stewart Copeland, and Danny Carey to perform Rush songs. The film, titled Neil Peart: No One's Disciple, will debut in September.",
+    "whoInvolved": "Geddy Lee and Alex Lifeson are the surviving members of Rush, the progressive rock band founded with Peart. Neil Peart, who passed away in January 2020, was Rush's drummer, percussionist, and primary lyricist, nicknamed \"the Professor\" for his resemblance to a Gilligan's Island character; he was renowned for his technical drumming proficiency and demanding live performances. The guest drummers—Chad Smith of the Red Hot Chili Peppers, Stewart Copeland of The Police, and Danny Carey of Tool—are among rock's most technically accomplished percussionists.",
+    "whyMatters": "The documentary serves as a high-profile tribute to one of rock's most influential and technically skilled drummers at a time when his legacy continues to resonate with musicians across genres. By bringing together world-class drummers to perform Peart's work alongside his bandmates, the film celebrates his outsized influence on progressive rock and modern drumming while keeping his memory and artistry alive for both longtime fans and new audiences.",
+    "articleBody": "Geddy Lee and Alex Lifeson, the surviving members of Rush, are stepping into the spotlight to honor their late bandmate Neil Peart through a new documentary that assembles some of rock's greatest drummers. According to Rolling Stone, the film Neil Peart: No One's Disciple will debut in September, showcasing Lee and Lifeson performing Rush classics alongside Chad Smith, Stewart Copeland, and Danny Carey, three of the most technically proficient drummers in rock music.\n\nNeil Peart, who passed away in January 2020, was far more than Rush's timekeeper. As the band's drummer, percussionist, and primary lyricist, Peart shaped the intellectual and musical identity of progressive rock for decades. Nicknamed \"the Professor\" after his physical resemblance to the Gilligan's Island character, Peart became legendary for the technical proficiency of his drumming and the exacting nature of his live performances, which demanded extraordinary stamina and precision. His contributions extended beyond the kit—he was the creative mind behind many of Rush's most ambitious lyrics and conceptual frameworks, earning numerous awards for his musical performances throughout his career.\n\nThe decision to feature multiple guest drummers performing Rush material reflects the profound reach of Peart's influence across different rock subgenres. Chad Smith, Stewart Copeland, and Danny Carey each represent distinct approaches to progressive and alternative rock, yet all have been shaped by or have deep respect for Peart's innovations. By bringing these musicians together with Lee and Lifeson, the documentary creates a dialogue across generations and styles of drumming, illustrating how Peart's legacy extends far beyond Rush's original fanbase.\n\nFor Rush devotees, the documentary offers a rare opportunity to see Lee and Lifeson performing the band's catalog in a new context, collaborating with drummers who have each pushed the boundaries of what's possible on percussion. The film arrives nearly four years after Peart's death, at a moment when streaming and digital platforms have made progressive rock more accessible to younger audiences discovering these innovations for the first time.\n\nThe September debut will mark a significant moment in how the music world collectively remembers Peart's contributions. Rather than a simple archival retrospective, the documentary's emphasis on live performance and collaboration suggests an active, celebratory approach to his memory—one that positions him not as a historical figure but as an ongoing influence on how rock musicians think about complexity, precision, and artistic ambition.",
+    "linkAnchorText": "according to Rolling Stone",
+    "enhanced": true
+  },
+  {
     "id": "jay-z-drops-first-new-verse-in-years-on-beyonces-new-morning-dew-donk-remix-a58660",
     "title": "Jay-Z Drops First New Verse in Years on Beyoncé’s New ‘Morning Dew (Donk)’ Remix",
     "summary": "The updated version of the archival single features elements of songs from Soulja Boy, the Isley Brothers, and Sheck Wes",
@@ -525,22 +543,5 @@
     "enhanced": true,
     "twitterPosted": true,
     "fbPosted": true
-  },
-  {
-    "id": "willie-nelson-voices-concern-about-data-centers-invading-our-land-ac40ae",
-    "title": "Willie Nelson Voices Concern About ‘Data Centers Invading Our Land’",
-    "summary": "\"The strength of rural America has never come from big industrial footprints,\" the musician wrote. \"It comes from generations of people, open spaces, local businesses, and a connection to the land\"",
-    "url": "https://www.rollingstone.com/music/music-news/willie-nelson-data-centers-statement-1235600229/",
-    "source": "Rolling Stone",
-    "sourceId": "rolling-stone",
-    "vertical": "musica",
-    "publishedAt": "2026-07-29T07:07:25.000Z",
-    "fetchedAt": "2026-07-29T09:01:54.930Z",
-    "lang": "en",
-    "whatHappening": "Willie Nelson is publicly opposing the expansion of data centers into rural America, arguing they threaten the character and values of farming communities. The country music icon used his platform to warn that massive industrial facilities are fundamentally altering the landscape and way of life in rural regions.",
-    "whoInvolved": "Willie Nelson, the legendary country musician and longtime rural America advocate, is raising alarm about data center developers and tech companies expanding infrastructure into agricultural areas. Nelson has a long history of supporting farmers and rural communities through activism and benefit concerts.",
-    "whyMatters": "Data center expansion in rural areas could accelerate the decline of traditional farming communities and reshape landscapes that have remained largely unchanged for generations. This highlights growing tension between tech industry growth demands and rural communities seeking to preserve their agricultural heritage and local economies.",
-    "moreContext": "Data centers have increasingly moved to rural areas due to cheaper land, lower operating costs, and proximity to power sources. Tech giants like Amazon, Google, and Microsoft have been aggressively expanding data infrastructure to support cloud computing and AI operations. Rural communities are divided on these projects—some see economic opportunity through jobs and tax revenue, while others fear environmental damage, water usage concerns, and the loss of farmland. Nelson's stance reflects broader concerns from agricultural advocates about tech companies' footprint on America's heartland.",
-    "enhanced": true
   }
 ]

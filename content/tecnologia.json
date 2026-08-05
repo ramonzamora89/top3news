@@ -1,5 +1,24 @@
 [
   {
+    "id": "x-product-chief-nikita-bier-is-leaving-after-one-year-7519b6",
+    "title": "X product chief Nikita Bier is leaving after one year",
+    "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the…",
+    "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-08-05T22:19:55.000Z",
+    "fetchedAt": "2026-08-05T23:21:02.737Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Nikita Bier, X's head of product, is stepping down after just over one year in the role. He will transition to an advisory position and plans to return to being an active user on the platform.",
+    "whoInvolved": "Nikita Bier is an American entrepreneur and product manager who previously developed social networking applications including tbh and Gas. X, formerly Twitter, is a major social media platform owned by SpaceX's artificial intelligence subsidiary and counts among the world's largest social networks.",
+    "whyMatters": "Leadership departures at major tech platforms can signal shifts in strategy or internal dynamics, particularly after relatively brief tenures. Bier's move back to an advisory role and his stated desire to return to being an active user may reflect broader questions about the direction X is taking under its current ownership and leadership structure.",
+    "articleBody": "Nikita Bier has announced his departure from his role as head of product at X, ending a tenure that lasted just over one year. According to The Verge, Bier shared the news on the platform itself, stating that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He will remain involved with the company in an advisory capacity rather than leaving entirely.\n\nBier is a seasoned product entrepreneur who has built a track record developing social networking applications. His previous ventures included tbh and Gas, both of which gained traction in the social media space. His appointment to the head of product role at X appeared to signal confidence in his ability to shape the platform's direction during a critical period following the company's ownership transition.\n\nThe timing of Bier's departure comes just over a month after he marked his one-year anniversary in the position. The relatively short duration of his tenure raises questions about whether challenges in the role, changes in strategic direction, or other internal factors contributed to his decision to step back. His characterization of the move as a \"demotion\" to his \"natural state\" as an active user suggests he may have felt constrained by management responsibilities or that his vision for the platform diverged from evolving priorities.\n\nX, formerly known as Twitter, is one of the world's largest social media platforms and continues to offer core features including short text posts, images, video sharing, direct messaging, and various communication tools. The platform also integrates the Grok chatbot and features job search and community functionalities. Leadership and product decisions at such a major platform draw significant attention given the service's influence on public discourse and information sharing.\n\nBier's transition to an advisory role preserves a connection between him and X while freeing him from day-to-day product leadership responsibilities. The move allows the company to bring in new product leadership while retaining his input on strategic matters. For Bier, it represents a shift away from the operational pressures of heading product at a major social platform toward a lighter advisory engagement.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "rogue-ai-agents-created-fake-online-identities-in-another-hacking-attempt-da1ab6",
     "title": "Rogue AI agents created fake online identities in another hacking attempt",
     "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight…",
@@ -559,25 +578,6 @@
     "whoInvolved": "DoorDash, the largest food delivery app in the US, is spearheading this initiative. The company has previously partnered with Wing (Google's drone delivery service) but is now moving toward vertical integration of drone technology.",
     "whyMatters": "This move positions DoorDash to reduce delivery times and costs while building a competitive moat in last-mile logistics. Success could transform how food and goods reach customers, though regulatory and safety hurdles remain significant obstacles to widespread adoption.",
     "moreContext": "Drone delivery has been a long-promised technology gaining real-world traction in recent years, with companies like Amazon and Wing operating limited delivery services. The food delivery sector faces intense competition on speed and margins, making drone technology an attractive efficiency play. DoorDash's shift to building proprietary drones signals confidence in the technology's viability and suggests the company sees drones as essential to its future competitiveness rather than a niche experiment.",
-    "enhanced": true,
-    "fbPosted": true
-  },
-  {
-    "id": "ariana-grande-is-suing-the-hackers-who8217ve-been-leaking-her-songs-and-videos-f-bbd231",
-    "title": "Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years",
-    "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as…",
-    "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-28T21:48:50.000Z",
-    "fetchedAt": "2026-07-29T09:01:54.604Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2255276905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Ariana Grande filed a lawsuit Monday in Los Angeles County Superior Court against unidentified hackers who have been stealing and leaking her private songs and videos for years. The legal action seeks to unmask the perpetrators and stop the unauthorized distribution of her content.",
-    "whoInvolved": "Ariana Grande is one of the world's biggest pop stars with a massive global fanbase. The defendants are currently unknown hackers who have systematically accessed and released her unreleased material without authorization.",
-    "whyMatters": "The lawsuit represents a significant legal pushback against persistent content theft that has plagued Grande for years. It sets a precedent for how major artists combat organized hacking operations and protects intellectual property rights in an era of digital security breaches.",
-    "moreContext": "Celebrity hacking has become increasingly common, with numerous high-profile leaks of unreleased music and private content targeting artists across genres. Grande's case is notable for its multi-year duration, suggesting a sophisticated, organized operation rather than isolated incidents. The lawsuit's focus on unmasking anonymous hackers reflects the entertainment industry's growing frustration with digital security vulnerabilities. This action aligns with broader efforts by major artists and studios to combat piracy and unauthorized content distribution.",
     "enhanced": true,
     "fbPosted": true
   }
