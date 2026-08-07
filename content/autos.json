@@ -1,5 +1,23 @@
 [
   {
+    "id": "2027-toyota-prius-phev-7f81d6",
+    "title": "2027 Toyota Prius PHEV",
+    "summary": "Review, Pricing, and Specs",
+    "url": "https://www.caranddriver.com/toyota/prius-phev-2027",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-08-06T20:43:58.000Z",
+    "fetchedAt": "2026-08-07T00:46:15.110Z",
+    "lang": "en",
+    "whatHappening": "Toyota is introducing a 2027 model year Prius plug-in hybrid electric vehicle (PHEV), combining the automaker's long-running hybrid nameplate with plug-in charging capability. Car and Driver is providing an early review, pricing details, and full specifications on the upcoming model.",
+    "whoInvolved": "Toyota, the Japanese automaker behind the Prius since its 1997 debut, is launching this new plug-in variant. Car and Driver, a major automotive journalism outlet, is covering the vehicle's arrival with comprehensive review and spec information.",
+    "whyMatters": "The 2027 Prius PHEV represents Toyota's effort to offer consumers greater electric-driving range alongside traditional hybrid efficiency, as automakers balance transition to electrification with plug-in flexibility. For buyers seeking reduced fuel consumption and emissions with the convenience of home charging, this model bridges the gap between conventional hybrids and fully electric vehicles during a critical period of powertrain evolution.",
+    "articleBody": "Toyota is refreshing its iconic Prius lineup for 2027 with a plug-in hybrid variant designed to give drivers extended all-electric driving capability while retaining the fuel efficiency that made the original model famous. According to Car and Driver, the new PHEV version brings together Toyota's proven Hybrid Synergy Drive system with rechargeable battery technology that allows owners to charge via an external power source—a departure from conventional hybrids that rely solely on internal combustion engines and regenerative braking to power their electric motors.\n\nThe Prius has evolved significantly since its 1997 introduction as a subcompact four-door sedan. For more than two decades, the nameplate has served as Toyota's flagship for demonstrating that hybrid technology could be both practical and popular with mainstream buyers. Since 2003, all Prius models have been built as compact five-door liftbacks, a body style that balances passenger space with aerodynamic efficiency. The addition of plug-in capability to this established platform extends Toyota's hybrid leadership into the PHEV segment, where buyers want greater electric-only range without committing fully to battery-electric powertrains.\n\nPlug-in hybrids occupy a distinctive market position. Unlike traditional hybrids that charge only from engine power and braking, PHEVs like this new Prius variant allow owners to replenish their battery packs by plugging into household or public charging stations. This dual-power approach appeals to drivers with predictable daily commutes who could run on battery power most days while retaining gasoline backup for longer journeys. The 2027 Prius PHEV combines that flexibility with Toyota's reputation for reliability and fuel economy.\n\nThe automaker is releasing the new model at a pivotal moment in the automotive industry. Regulatory pressure and consumer interest in electrification continue to accelerate, yet many buyers remain hesitant about fully electric vehicles due to charging infrastructure concerns and upfront costs. Plug-in hybrids bridge this gap by offering reduced tailpipe emissions and lower fuel costs for typical driving patterns while eliminating range anxiety for weekend trips or cross-country travel.\n\nCar and Driver's coverage includes detailed pricing and complete specifications, helping prospective buyers understand what the 2027 model delivers. The review should clarify key questions about battery capacity, all-electric range, total output when both drivetrain systems work together, and how the plug-in variant's efficiency and real-world performance compare to the conventional hybrid Prius. Such details matter significantly for consumers deciding between hybrid and plug-in hybrid options.",
+    "linkAnchorText": "according to Car and Driver",
+    "enhanced": true
+  },
+  {
     "id": "2027-mercedes-amg-gt53-a-536-hp-ev-that-makes-straight-six-sounds-276736",
     "title": "2027 Mercedes-AMG GT53: A 536-HP EV That Makes Straight-Six Sounds",
     "summary": "It's less powerful than the 1153-hp GT63, but this new entry-level variant will still be plenty quick.",
@@ -526,23 +544,6 @@
     "whoInvolved": "Toyota and Nissan are Japan's two largest automakers and among the world's top vehicle producers. Both companies operate major production facilities in southwestern Japan that supply the global market, particularly the United States.",
     "whyMatters": "The production halt could create supply chain disruptions for American consumers facing potential vehicle shortages and price pressures. Both short-term inventory constraints and longer-term manufacturing delays may ripple through the auto industry as these companies are critical suppliers to the U.S. market.",
     "moreContext": "Japan's automotive sector has faced multiple supply chain challenges in recent years, from semiconductor shortages to pandemic-related disruptions. Southwestern Japan hosts some of the most critical manufacturing hubs for global vehicle production. Toyota and Nissan collectively account for a significant portion of vehicles sold in the United States, making any production interruption consequential for American consumers and dealers. Earthquake damage assessments are underway to determine the extent of facility damage and timeline for resuming operations.",
-    "enhanced": true
-  },
-  {
-    "id": "best-auto-gifts-and-gadgets-for-car-loving-moms-4351ac",
-    "title": "Best Auto Gifts and Gadgets for Car-Loving Moms",
-    "summary": "Whether it's Mother's Day, her birthday, or the holidays, check out our expert picks for the best practical, stylish, and safety-minded automotive gifts for moms who love to drive.",
-    "url": "https://www.caranddriver.com/shopping-advice/g41912156/best-car-gifts-gadgets-mom/",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-29T20:19:00.000Z",
-    "fetchedAt": "2026-07-30T08:59:30.536Z",
-    "lang": "en",
-    "whatHappening": "Car and Driver has curated a collection of automotive gifts tailored specifically for mothers who are passionate about driving. The gift guide covers practical, stylish, and safety-focused options across multiple occasions like Mother's Day, birthdays, and holidays.",
-    "whoInvolved": "Car and Driver, a leading automotive publication and authority on vehicles and car culture, has compiled expert recommendations based on their editorial experience covering the automotive industry.",
-    "whyMatters": "Gift guides serve as valuable consumer resources during peak shopping periods, helping buyers make informed purchasing decisions. For car enthusiasts who are mothers, targeted gift recommendations can enhance driving experiences, improve vehicle safety, and celebrate their passion for automobiles.",
-    "moreContext": "Automotive gift guides have become increasingly popular as the intersection of lifestyle and car culture grows among diverse demographics. The focus on mother-specific recommendations reflects the expanding market of female car enthusiasts and drivers. Seasonal gift-giving occasions—Mother's Day in spring, holiday shopping in winter, and birthday celebrations year-round—drive consistent demand for curated product recommendations. Car and Driver's editorial expertise positions the publication to identify products that balance practical functionality with style preferences that resonate with their target audience.",
     "enhanced": true
   }
 ]

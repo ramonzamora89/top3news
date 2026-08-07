@@ -1,5 +1,24 @@
 [
   {
+    "id": "jony-ive8217s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart-speake-83d876",
+    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-08-06T20:55:39.000Z",
+    "fetchedAt": "2026-08-07T00:46:15.168Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176",
+    "lang": "en",
+    "whatHappening": "OpenAI is developing a smart speaker device with renowned designer Jony Ive, and the gadget is taking shape as a battery-powered, hockey puck-sized speaker without a display. The project represents a significant move by OpenAI into hardware, with the device expected to launch in the coming months.",
+    "whoInvolved": "Jony Ive, the British-American designer best known as Apple's former senior vice-president of industrial design and chief design officer, is collaborating with OpenAI, the San Francisco-based AI research organization behind ChatGPT. Ive founded LoveFrom, a creative collective that counts OpenAI among its clients.",
+    "whyMatters": "The device signals OpenAI's ambitions to move beyond software and establish a consumer hardware presence, leveraging one of the world's most acclaimed designers. Success could reshape how users interact with AI in their daily lives, while also positioning OpenAI to compete directly with established smart speaker makers and challenge Apple's dominance in premium consumer devices.",
+    "articleBody": "OpenAI's foray into hardware is taking concrete form with a novel smart speaker design created in collaboration with Jony Ive, one of the technology industry's most influential designers. According to Bloomberg reporter Mark Gurman, the device is roughly the size of a hockey puck, doughnut-shaped, and battery-powered—essentially a smart speaker without a visual display component. The hardware is expected to launch within the coming months.\n\nJony Ive brings exceptional credentials to the project. The British-American designer spent his career at Apple Inc., where he served as senior vice-president of industrial design and chief design officer, overseeing the aesthetic direction of iconic products that defined the company for decades. After departing Apple, Ive founded LoveFrom, a creative collective that works with major global brands including Ferrari, Airbnb, and OpenAI. His involvement signals OpenAI's commitment to hardware design quality and consumer appeal.\n\nOpenAI itself has established itself as the dominant force in generative AI since releasing ChatGPT in November 2022, an event widely credited with catalyzing the recent AI boom. The organization, headquartered in San Francisco and structured as a for-profit public benefit corporation partially controlled by its nonprofit foundation, develops the GPT series of large language models. Until now, the company's presence has been almost entirely software-based, with users accessing its AI primarily through web interfaces and API integrations.\n\nThe introduction of a dedicated hardware device marks a strategic shift for OpenAI. A small, portable smart speaker without a display suggests the company is designing for voice-first interaction, positioning the device for use cases where screens are impractical or undesirable. The battery-powered form factor implies portability and independence from wall outlets, distinguishing it from many existing smart speakers on the market.\n\nThe timing and design philosophy also represent a potential challenge to Apple's ecosystem. While Apple has established itself as a premium hardware maker, the collaboration between OpenAI and Ive could create a compelling alternative for users seeking deep AI integration in a thoughtfully designed, portable device. The project underscores a broader trend of AI companies expanding into consumer hardware to create more direct user relationships and control the experience end-to-end.",
+    "linkAnchorText": "according to Bloomberg reporter Mark Gurman",
+    "enhanced": true
+  },
+  {
     "id": "elon-musk8217s-attempt-at-an-ai-wikipedia-hasn8217t-been-updated-in-months-cf37b4",
     "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
     "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in…",
@@ -565,23 +584,5 @@
     "moreContext": "Meta has been increasingly focused on AI development over the past several years, integrating AI features into Instagram, Facebook, and WhatsApp. The push into personal AI agents follows broader industry trends, with competitors like Google and OpenAI also investing heavily in autonomous AI systems. Zuckerberg's preview on the earnings call represents Meta's commitment to move beyond AI as a supporting feature to a core product offering. This announcement comes as the AI arms race among tech giants intensifies.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "qualcomm-is-raising-phone-chip-prices-starting-september-1st-2571cc",
-    "title": "Qualcomm is raising phone chip prices starting September 1st",
-    "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports.…",
-    "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-29T21:41:56.000Z",
-    "fetchedAt": "2026-07-30T08:59:30.748Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Qualcomm is raising prices on all its mobile processors effective September 1st. CEO Cristiano Amon announced the across-the-board price increase during a Wednesday earnings call.",
-    "whoInvolved": "Qualcomm, the dominant supplier of smartphone processors, designs the chips that power most Android phones globally. CEO Cristiano Amon leads the company, which reported strong earnings but is now signaling cost pressures to customers.",
-    "whyMatters": "The price hike will likely get passed to consumers through higher phone costs, compounding affordability concerns already driven by other rising expenses. This directly impacts smartphone manufacturers who rely on Qualcomm's Snapdragon chips and ultimately consumers shopping for new devices.",
-    "moreContext": "Phone prices have faced upward pressure from multiple directions recently, including memory chip shortages (dubbed 'RAMageddon') and supply chain inflation. Qualcomm's move signals the company believes it has enough market power to raise prices despite competitive pressures. The September 1st timing gives manufacturers six weeks to adjust pricing and inventory strategies. This comes as the smartphone market remains competitive, with manufacturers already grappling with reduced demand and inventory corrections.",
-    "enhanced": true
   }
 ]
