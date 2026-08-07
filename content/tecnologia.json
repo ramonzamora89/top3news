@@ -1,5 +1,24 @@
 [
   {
+    "id": "the-gaming-site-sponsored-by-walmart-lays-off-its-editorial-staff-509824",
+    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is…",
+    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-08-07T22:05:08.000Z",
+    "fetchedAt": "2026-08-07T23:11:18.957Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Restart, a gaming media website backed by Walmart and launched late last year, has eliminated its entire editorial staff in a sudden layoff. Multiple staffers, including former editor-in-chief Brandy Berthelson, announced their departures on Friday.",
+    "whoInvolved": "Restart is a games media outlet sponsored by Walmart, the American multinational retail corporation headquartered in Bentonville, Arkansas. Brandy Berthelson served as the site's editor-in-chief before the layoffs.",
+    "whyMatters": "The shutdown of Restart's editorial team suggests Walmart's experiment in gaming media may be ending or undergoing major restructuring just months after its launch. It raises questions about the sustainability of corporate-backed media ventures and the precarious job market for gaming journalists.",
+    "articleBody": "Restart, a gaming media website launched in late 2024 with backing from Walmart, has laid off its entire editorial staff, according to The Verge. The news came Friday through a post from Brandy Berthelson, who served as the site's editor-in-chief, along with other staffers announcing their own departures on social media.\n\nWalmart Inc., the American multinational omnichannel retail corporation headquartered in Bentonville, Arkansas, had sponsored the launch of Restart as an apparent foray into gaming media and content. The company, which operates a vast chain of hypermarkets, discount department stores, grocery stores, pharmacies, and gas stations across the United States and 19 other countries, has substantial resources to fund such ventures. Yet the rapid shutdown of Restart's newsroom suggests the initiative did not proceed as planned.\n\nThe sudden layoff marks a striking reversal for a site that had only recently begun operations. Restart launched in the final months of 2024 with the stated mission of covering gaming news and culture, positioning itself as a fresh voice in the crowded games media landscape. The fact that the entire editorial team has been cut indicates either a fundamental shift in Walmart's strategy or a decision to pull back from the gaming media space altogether.\n\nThe layoffs add to the broader turbulence in gaming journalism, where outlets have faced mounting pressures from changing audience habits, advertising fluctuations, and corporate consolidation. For Restart's editorial staff, the sudden termination represents the loss of what many likely hoped would be stable employment in a notoriously competitive field. Berthelson's public announcement of the layoffs suggests the company did not offer the affected employees a grace period before the news became public.\n\nThe reasons behind Walmart's decision to shut down Restart's editorial operations remain unclear. The company has not yet issued a formal public statement about the layoffs or its plans for the gaming media venture going forward. Whether the site will continue in some modified form, be sold off, or be shuttered entirely has not been disclosed.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "samsungs-z-fold-8-ultra-is-more-of-the-same-but-better-than-ever-25b59c",
     "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
     "summary": "The Z Fold 8 Ultra retains the boxy shape of Samsung’s previous foldables. What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and…",
@@ -568,23 +587,5 @@
     "moreContext": "The Xbox reset included thousands of employee layoffs and the spinoff of four studios, marking one of the gaming industry's most significant recent reorganizations. This comes as Xbox faces intense competition from PlayStation and growing pressure in the subscription gaming market, where Game Pass is central to Microsoft's strategy. The company has been investing heavily in acquiring studios and expanding its gaming portfolio, but recent results have prompted this strategic recalibration. Sharma's memo represents management's commitment to a leaner, more focused approach to game development and Xbox's overall business model going forward.",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "apple8217s-iphone-and-mac-sales-keep-growing-despite-ram-shortages-7f979b",
-    "title": "Apple’s iPhone and Mac sales keep growing despite RAM shortages",
-    "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35…",
-    "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-07-30T20:49:32.000Z",
-    "fetchedAt": "2026-07-31T09:05:44.797Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Apple's iPhone and Mac sales are surging despite a global memory shortage affecting the tech industry. iPhone sales jumped 22% to $54.25 billion and Mac sales increased 29% to $10.35 billion in the company's third-quarter earnings report.",
-    "whoInvolved": "Apple, the world's largest tech company by market capitalization, reported these results in its quarterly earnings. The company faces competition from other device makers who are struggling with the same RAM and chip supply constraints.",
-    "whyMatters": "Apple's resilience during a supply crunch demonstrates its pricing power and brand loyalty while competitors struggle. This growth suggests strong consumer demand for premium devices and positions Apple favorably as the shortage eventually eases, potentially capturing market share from weaker competitors.",
-    "moreContext": "Global memory shortages have plagued device manufacturers throughout 2021-2022, driving up component costs and limiting production capacity across the industry. Apple's vertical integration and supply chain dominance have allowed it to secure chip allocations better than rivals. The company's ability to maintain growth despite these headwinds contrasts sharply with reports of other tech companies cutting production forecasts and facing inventory challenges.",
-    "enhanced": true
   }
 ]
