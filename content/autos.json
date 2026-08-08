@@ -1,5 +1,23 @@
 [
   {
+    "id": "2000-corbin-sparrow-lands-on-bring-a-trailer-03c34f",
+    "title": "2000 Corbin Sparrow Lands On Bring a Trailer",
+    "summary": "Back in 2000, EVs were pretty weird.",
+    "url": "https://www.caranddriver.com/news/a73358449/2000-corbin-sparrow-bring-a-trailer-auction/",
+    "source": "Car and Driver",
+    "sourceId": "caranddriver",
+    "vertical": "autos",
+    "publishedAt": "2026-08-08T15:00:00.000Z",
+    "fetchedAt": "2026-08-08T15:06:06.206Z",
+    "lang": "en",
+    "whatHappening": "A 2000 Corbin Sparrow, an early electric vehicle from the era when EVs were still novelties, has appeared for sale on Bring a Trailer, the online marketplace for enthusiast vehicles. The listing offers collectors a rare glimpse into automotive history from two decades ago.",
+    "whoInvolved": "Corbin Motors, the manufacturer behind the Sparrow, was an early pioneer in personal electric vehicles during the late 1990s and early 2000s. The company later transitioned to Myers Motors, which continued producing three-wheeled electric commuter vehicles into the 2010s.",
+    "whyMatters": "The sale highlights how far electric vehicle technology and consumer acceptance have evolved since 2000, when EVs were considered quirky alternatives rather than mainstream options. This particular vehicle serves as a tangible artifact of the EV movement's early, experimental phase, before Tesla and other manufacturers brought the category into the mainstream consciousness.",
+    "articleBody": "A 2000 Corbin Sparrow has surfaced on Bring a Trailer, one of the internet's premier marketplaces for unusual and collectible vehicles. According to Car and Driver, back in 2000, EVs were pretty weird—and this particular machine is a perfect embodiment of that era's boldly unconventional approach to electric propulsion.\n\nThe Sparrow represents a specific moment in automotive history when manufacturers were exploring radically different form factors for battery-powered vehicles. Corbin Motors designed the Sparrow as a practical urban commuter, though its unconventional three-wheeled design and minimal footprint made it a curiosity rather than a mainstream choice. The vehicle emerged from the same lineage that would later produce the Myers Motors NmG, a single-passenger, three-wheeled battery electric vehicle that the company manufactured from 1999 into the early 2010s specifically for commuting and city driving. After 2005, production shifted to Myers Motors, which continued refining the concept as a personal electric vehicle (PEV) category was still being defined.\n\nWhat makes the Sparrow's appearance on Bring a Trailer significant is the broader context it provides for understanding EV development. In 2000, the technology was vastly more limited than today—batteries offered shorter ranges, charging infrastructure was virtually nonexistent, and the vehicles themselves carried the stigma of being science-fair experiments rather than serious transportation. Yet manufacturers like Corbin pushed forward with earnest attempts to solve real urban mobility problems, even if their solutions looked bizarre by modern standards.\n\nThe sale of this particular 2000 model offers collectors and enthusiasts a tangible piece of that experimental era. Bring a Trailer's platform has become known for surfacing forgotten automotive oddities and giving them a second life with preservationists who recognize their historical value. A Corbin Sparrow from the turn of the millennium falls squarely into that category—it's a vehicle that was ahead of its time conceptually, even if the execution and technology felt alien to most drivers in 2000.\n\nToday's EV market has rendered the Sparrow a historical curio. Modern electric vehicles offer dramatically longer ranges, faster charging, and performance that would have seemed miraculous to Corbin engineers. Yet the Sparrow's existence underscores an important truth: the push toward electrified transportation didn't begin with Elon Musk or recent policy incentives. Visionary manufacturers were already building electric vehicles two decades ago, experimenting with geometry and functionality in ways that feel both earnest and endearingly awkward in retrospect.",
+    "linkAnchorText": "according to Car and Driver",
+    "enhanced": true
+  },
+  {
     "id": "ram-rumble-bee-based-hennessey-maximus-is-a-1000-hp-street-truck-19d94d",
     "title": "Ram Rumble Bee-Based Hennessey Maximus Is a 1000-HP Street Truck",
     "summary": "Hennessey teased the hi-po pickup that features a supercharged Hellcat V-8, a prominent rear wing, and a claimed 200-mph top speed.",
@@ -533,23 +551,5 @@
     "whyMatters": "The R2 represents Rivian's entry into the more affordable, mass-market EV segment, which is critical for the company's growth and profitability. Successful execution of this model could significantly expand Rivian's addressable market and help it achieve scale production goals.",
     "moreContext": "Rivian has positioned the R2 as a smaller, more affordable alternative to its R1S, targeting broader consumer appeal in the competitive EV market. The company has faced production challenges and capital constraints since going public in 2021, making the timely launch of the R2 essential to its business strategy. Industry observers view the R2 as Rivian's opportunity to compete directly with Tesla's Model Y and other mainstream electric SUVs. The 2026 launch timeline suggests the vehicle is in advanced development stages, with design finalization now underway.",
     "enhanced": true
-  },
-  {
-    "id": "2027-porsche-macan-electric-65af19",
-    "title": "2027 Porsche Macan Electric",
-    "summary": "Review, Pricing, and Specs",
-    "url": "https://www.caranddriver.com/porsche/macan-ev-2027",
-    "source": "Car and Driver",
-    "sourceId": "caranddriver",
-    "vertical": "autos",
-    "publishedAt": "2026-07-31T20:44:47.000Z",
-    "fetchedAt": "2026-07-31T23:20:33.838Z",
-    "lang": "en",
-    "whatHappening": "Porsche is unveiling the 2027 Macan Electric, its latest electric vehicle offering that aims to compete in the premium EV crossover segment. The new model brings Porsche's performance engineering to the battery-powered market with updated specs and pricing.",
-    "whoInvolved": "Porsche, the German luxury automaker owned by Volkswagen Group, is spearheading this electric vehicle expansion. Car and Driver, a leading automotive publication, is providing the comprehensive review and specifications.",
-    "whyMatters": "This launch signals Porsche's accelerating shift toward electrification as traditional automakers race to capture market share in the booming EV segment. The Macan Electric's positioning matters for affluent consumers seeking premium electric crossovers and reflects broader industry pressure to abandon combustion engines.",
-    "moreContext": "Porsche previously offered the Macan as a gas-powered luxury crossover that became one of the brand's best-sellers. The automaker has committed to electrifying its lineup, with the Taycan sedan already available as an EV since 2020. The premium EV crossover market has intensified with competitors like Tesla Model X, Audi Q4 e-tron, and BMW iX capturing significant demand. This 2027 model year timing aligns with Porsche's broader electrification strategy to transition away from internal combustion engines over the next decade.",
-    "enhanced": true,
-    "fbPosted": true
   }
 ]
