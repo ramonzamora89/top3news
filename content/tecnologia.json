@@ -1,5 +1,24 @@
 [
   {
+    "id": "doodle-generative-compositions-in-your-browser-with-musical-spirograph-8e6dac",
+    "title": "Doodle generative compositions in your browser with Musical Spirograph",
+    "summary": "So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm…",
+    "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-08-22T17:00:00.000Z",
+    "fetchedAt": "2026-08-22T23:03:22.830Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "A new browser-based tool lets users create generative music compositions while drawing with Spirograph-style geometric patterns. The interactive experience combines the hypnotic visual appeal of the classic toy with algorithmic music generation.",
+    "whoInvolved": "The Verge reports on the tool, which appears to be a web-based creative application. The original Spirograph toy was developed by British engineer Denys Fisher and first sold commercially in 1965.",
+    "whyMatters": "This represents a creative fusion of nostalgic toy mechanics with modern generative art and music technology, making both disciplines accessible through an intuitive browser interface. It demonstrates how classic design concepts can be reimagined for contemporary creative expression and digital media.",
+    "articleBody": "A new browser-based tool is bringing together two distinct creative experiences: the meditative geometry of Spirograph drawing and the complexity of algorithmic music composition. The application allows users to doodle generative musical compositions in real time, combining visual pattern-making with sound design in a single interactive experience.\n\nThe Spirograph itself has a rich history rooted in mathematical precision. Developed by British engineer Denys Fisher, the toy was first sold in 1965 and became a cultural phenomenon among children and artists alike. The device produces mathematical roulette curves known technically as hytrochoids and epitrochoids—complex geometric patterns that emerge from rolling circles within or around other circles. These mesmerizing designs have captivated generations with their intricate, symmetrical beauty.\n\nAccording to The Verge, the new digital tool taps into that same hypnotic appeal while extending the creative potential of the original concept. By layering generative music composition onto the Spirograph drawing process, the application creates a multisensory creative experience. Users can watch their geometric patterns unfold on screen while simultaneously hearing a unique musical composition that corresponds to their drawing movements.\n\nGenerative music composition—where algorithms create musical pieces based on rules and parameters set by the creator—has grown increasingly accessible to mainstream audiences through web-based tools. This browser-based Spirograph adaptation makes both visual pattern generation and musical creation available without requiring downloads or specialized software. The convergence of these two creative domains in a single interface suggests a growing interest in tools that blur traditional boundaries between visual art and sound design.\n\nThe appeal of such tools lies partly in nostalgia and partly in discovery. Much as the original Spirograph toy delighted users by revealing unexpected patterns through mechanical interaction, this digital version combines the familiar pleasure of drawing with the surprise of hearing what your visual choices produce sonically. The result is an application designed primarily for exploration and creative play rather than professional music or art production.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "amazon-just-hiked-the-prices-for-echo-fire-tv-and-kindle-products-by-up-to-60-pe-cfda88",
     "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
     "summary": "The Echo Dot Max went from $50 to $80 overnight. | Photo by Jennifer Pattison Tuohy / The Verge Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60…",
@@ -564,24 +583,5 @@
     "linkAnchorText": "according to The Verge",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "a-ramageddon-guide-to-back-to-school-laptop-shopping-bd5880",
-    "title": "A RAMageddon guide to back-to-school laptop shopping",
-    "summary": "The MacBook Neo is an easy recommendation. | Photo by Amelia Holowaty Krales / The Verge If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch,…",
-    "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-08-14T18:32:47.000Z",
-    "fetchedAt": "2026-08-15T08:08:12.309Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Computer prices have become inflated due to ongoing RAM and storage shortages, making back-to-school laptop shopping challenging for budget-conscious students. The Verge is offering guidance on navigating the market, with the MacBook Neo highlighted as an accessible recommendation despite broader pricing pressures.",
-    "whoInvolved": "Apple, the computer manufacturer behind the MacBook line, is central to this story. The MacBook brand has been Apple's primary laptop offering since 2006, with the newer MacBook Neo entering the lineup in 2026 as part of the company's efforts to serve different market segments.",
-    "whyMatters": "High laptop prices during back-to-school season directly affect students' ability to purchase necessary computing equipment for their studies. The RAM and storage crunch creating these inflated prices has broader implications for the entire consumer electronics market, potentially influencing purchasing decisions across educational institutions and households.",
-    "articleBody": "Back-to-school season traditionally brings a surge in laptop purchases, but this year students and parents face an unusually difficult market. Computer prices have become significantly elevated due to ongoing shortages in RAM and storage components, creating what amounts to a supply-driven pricing crisis. The Verge reports that finding an affordable laptop requires careful shopping and realistic expectations about what features students can secure at reasonable price points.\n\nApple's laptop offerings have long dominated the education market. The MacBook brand, which replaced the PowerBook and iBook lines during Apple's transition to Intel processors in 2006, currently consists of the MacBook Pro, MacBook Air, and the newer MacBook Neo. These machines run macOS and serve different price tiers and user needs. According to The Verge, the MacBook Neo represents an easy recommendation for students seeking affordability, suggesting that Apple has positioned this newer entry-level model as a practical option even as component costs remain elevated.\n\nThe supply chain disruptions affecting RAM and storage components stem from broader semiconductor market dynamics. Random-access memory, which serves as the working storage for computer operations, has become particularly constrained. These components are fundamental to laptop functionality, storing both data and machine code that applications require during operation. When RAM and storage supplies tighten, manufacturers have limited ability to reduce prices, pushing costs to consumers.\n\nFor students shopping this season, the guidance appears to be twofold: accept that prices are higher than historical norms, but recognize that some options remain more reasonable than others. The MacBook Neo's emergence as a recommended choice suggests Apple has created a product specifically designed to address budget constraints during this period of elevated component costs. Students evaluating laptops should prioritize their actual needs rather than aspirational specifications, given that premium configurations will command premium prices in this constrained market.",
-    "linkAnchorText": "according to The Verge",
-    "enhanced": true
   }
 ]
