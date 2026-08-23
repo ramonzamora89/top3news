@@ -1,7 +1,7 @@
 {
-  "temp": 86,
-  "description": "Sunny",
-  "emoji": "☀️",
+  "temp": 85,
+  "description": "Partly Cloudy ",
+  "emoji": "⛅",
   "city": "Miami",
-  "fetchedAt": "2026-08-23T15:03:52.382Z"
+  "fetchedAt": "2026-08-23T23:03:49.312Z"
 }
