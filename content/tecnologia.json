@@ -1,5 +1,24 @@
 [
   {
+    "id": "you-can-watch-the-coolant-flow-inside-ugreens-liquid-cooled-power-bank-9e3fe2",
+    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+    "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really…",
+    "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-09-03T22:00:00.000Z",
+    "fetchedAt": "2026-09-03T23:04:57.324Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Ugreen has launched the MagFlow Pro Magnetic Power Bank, a liquid-cooled portable charger featuring a transparent window that lets users watch coolant circulate through the device. The premium accessory is priced at $149.99 and available starting today.",
+    "whoInvolved": "Ugreen is a Chinese consumer electronics brand based in Shenzhen that specializes in USB hardware, wireless chargers, and mobile accessories. Founded in 2012 by Zhang Qingsen, the company has expanded into various consumer tech categories and is now venturing into high-end power bank design.",
+    "whyMatters": "The move signals how manufacturers are blending aesthetic appeal with functional cooling technology in portable electronics, targeting consumers willing to pay premium prices for visually distinctive products. As power banks become more powerful and compact, thermal management becomes increasingly important, and Ugreen's approach demonstrates one way brands can address both performance and consumer desire for premium design.",
+    "articleBody": "Ugreen has entered the premium power bank market with an unconventional approach: making the cooling system itself part of the appeal. The company's new MagFlow Pro Magnetic Power Bank, available today for $149.99, features what Ugreen calls \"CryoPulse technology\" and a \"Cyber Window\" that allows users to see the coolant actively flowing through the device during use. The transparent design transforms a typically hidden internal component into a visual feature.\n\nThe MagFlow Pro represents Ugreen's push into more sophisticated product categories. The Shenzhen-based company, established in 2012 by Zhang Qingsen, has built its reputation on USB hardware like cables and adapters, but has gradually expanded into wireless chargers, audio equipment, and other mobile accessories. This liquid-cooled power bank signals ambitions to compete at the higher end of the portable charging market, where aesthetics and premium features command higher prices.\n\nLiquid cooling in consumer electronics is not entirely new, but its integration into portable power banks remains relatively uncommon. The technology is designed to manage heat more effectively than traditional air cooling, particularly important as power banks deliver higher wattages to charge multiple devices or larger batteries simultaneously. By making the cooling visible through a transparent window, Ugreen transforms what is functionally a heat-management solution into a product differentiator that appeals to consumers interested in the technical specs and visual design of their gadgets.\n\nAccording to The Verge, the $149.99 price point positions the MagFlow Pro in the premium accessory category, where buyers expect distinctive design elements alongside core functionality. This pricing strategy reflects a broader shift in the portable charger market, where consumers increasingly view power banks as lifestyle products rather than purely utilitarian devices. Magnetic attachment compatibility suggests the device is optimized for iPhone integration, aligning with the current trend of magnetic accessories in the Apple ecosystem.\n\nThe launch underscores how thermal management and visual design are converging in consumer electronics. As batteries become denser and charging speeds increase, managing heat without compromising portability becomes a central engineering challenge. Ugreen's decision to showcase rather than conceal this solution suggests confidence that consumers value both the performance benefits and the distinctive appearance such technology provides.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "google-says-its-ai-weather-model-is-getting-better-3b6f84",
     "title": "Google says its AI weather model is getting better",
     "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext…",
@@ -568,26 +587,6 @@
     "linkAnchorText": "according to The Verge",
     "enhanced": true,
     "twitterPosted": true,
-    "fbPosted": true
-  },
-  {
-    "id": "xiaomis-new-redmi-phone-lasts-for-three-days-on-a-single-charge-91cfb9",
-    "title": "Xiaomi’s new Redmi phone lasts for three days on a single charge",
-    "summary": "The Note 17 Pro Max also has a photochromic design, which is revealed by sunlight. The 9,210mAh dual-cell battery in the new Redmi Note 17 Pro Max is the biggest that Xiaomi has fit in any phone it's sold in Europe - and remarkably, in some other markets the phone comes with an…",
-    "url": "https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-08-27T11:00:00.000Z",
-    "fetchedAt": "2026-08-27T11:28:47.534Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/redmi-note-17-pro-max-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "Xiaomi's Redmi subsidiary has unveiled the Note 17 Pro Max, featuring a massive 9,210mAh dual-cell battery that enables three days of usage on a single charge. The phone also incorporates a photochromic design that changes appearance when exposed to sunlight.",
-    "whoInvolved": "Xiaomi is a Chinese multinational technology company and the world's third-largest smartphone seller as of 2025. Redmi, launched as a separate sub-brand in 2019, handles Xiaomi's entry-level and mid-range devices, including this new flagship battery offering.",
-    "whyMatters": "The advancement represents a significant milestone in smartphone battery technology, directly addressing one of consumers' most persistent complaints about mobile devices. With 754.1 million global monthly active users, Xiaomi's battery innovation could influence industry standards and set expectations for competitors across the sector.",
-    "articleBody": "Xiaomi's Redmi brand is pushing the boundaries of smartphone battery capacity with the announcement of the Note 17 Pro Max, a device that achieves an impressive three days of battery life on a single charge. The accomplishment hinges on the integration of a 9,210mAh dual-cell battery, the largest capacity Xiaomi has ever installed in any phone sold in Europe, according to The Verge, with even larger configurations reportedly available in certain other markets.\n\nThe Note 17 Pro Max distinguishes itself not only through its battery prowess but also through an innovative photochromic design feature. This design element remains hidden under normal lighting conditions but reveals itself when exposed to sunlight, creating a dynamic aesthetic that changes based on environmental conditions. The combination of extended battery life and responsive design elements signals Xiaomi's focus on both practical functionality and consumer appeal.\n\nXiaomi, headquartered in Beijing, has established itself as a major force in global consumer electronics. As the third-largest smartphone seller in the world as of 2025, the company operates through multiple brand tiers. Redmi was established as a separate sub-brand in 2019, specifically to oversee entry-level and mid-range devices while the parent Xiaomi brand focuses on upper-range and flagship products. This strategic division allows Xiaomi to address diverse market segments effectively and maintain strong positioning across price points.\n\nThe Redmi Note 17 Pro Max's battery achievement addresses one of the most consistent pain points in smartphone consumer satisfaction: device endurance. Most modern flagship phones require daily charging, making three-day battery life a significant competitive advantage. The dual-cell architecture suggests engineering sophistication designed to manage the thermal and longevity challenges associated with larger battery systems.\n\nWith 754.1 million global monthly active users as of December 2025, Xiaomi commands substantial influence over smartphone industry trends and consumer expectations. Advances in battery technology from such a major player often establish benchmarks that competitors must address in subsequent product releases. The Note 17 Pro Max demonstrates that meaningful improvements in practical usability remain possible even as the smartphone market has matured.\n\nThe European release of the Note 17 Pro Max marks another step in Redmi's effort to establish itself as a credible alternative to premium-priced competitors. By delivering extended battery capacity at accessible price points, the brand appeals to practical consumers who prioritize longevity and value over cutting-edge specifications alone.",
-    "linkAnchorText": "according to The Verge",
-    "enhanced": true,
     "fbPosted": true
   }
 ]
