@@ -1,5 +1,24 @@
 [
   {
+    "id": "audacity-4-is-a-complete-revamp-of-the-worlds-most-popular-audio-editor-be62ef",
+    "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+    "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more…",
+    "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-09-04T21:23:50.000Z",
+    "fetchedAt": "2026-09-04T23:04:18.715Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Audacity 4, a complete overhaul of the free and open-source audio editor, has officially launched after an extended development cycle. The new version includes a redesigned logo that addresses the controversial early iterations that circulated last year.",
+    "whoInvolved": "Audacity is the free and open-source digital audio editor available across Windows, macOS, Linux, and other Unix-like operating systems. The project has a large user base, with The Verge describing it as the 'world's most popular' audio editor.",
+    "whyMatters": "Audacity 4 represents a significant refresh of a tool relied upon by millions of users globally, from casual podcasters to professional audio engineers. The new version's design and functionality changes signal the project's continued evolution to remain competitive and user-friendly in an increasingly crowded audio software landscape.",
+    "articleBody": "Audacity 4 has officially arrived, marking a comprehensive redesign of the free and open-source audio editing software that serves millions of users worldwide. According to The Verge, the new version represents the culmination of work that has been in development for some time, bringing updated visuals, interface improvements, and enhanced functionality to what many consider the most accessible entry point into digital audio editing.\n\nThe development process has not been without its share of public discussion. Last October, an early redesigned logo that was circulating online generated considerable pushback from the community, sparking a minor controversy around the project's aesthetic direction. However, the final icon that ships with Audacity 4 represents a more measured approach that addresses earlier concerns without alienating the user base.\n\nAudacity itself has been a staple of audio production for years, available across Windows, macOS, Linux, and other Unix-like operating systems. As free and open-source software, it has democratized audio editing for hobbyists, students, podcasters, and professionals who might otherwise be priced out of commercial alternatives. The release of version 4 signals the maintainers' commitment to keeping the platform modern and relevant.\n\nThe complete revamp suggests more than just cosmetic changes. While specific feature additions remain partially obscured in the available summary, a full version bump from 3 to 4 typically indicates substantial architectural improvements, UI refinements, and possibly new capabilities aimed at expanding the software's appeal and functionality. Such updates are critical for retaining users who might otherwise migrate to competing tools.\n\nFor the broader audio editing community, Audacity 4's release reinforces the viability of open-source alternatives to proprietary software. The project's ability to undergo a complete redesign while maintaining its core mission of accessibility suggests a healthy development ecosystem with sufficient community support and resources to invest in major updates.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "alienwares-refurbished-16-aurora-is-almost-200-off-at-woot-c949e0",
     "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
     "summary": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIEN used at checkout).…",
@@ -565,26 +584,6 @@
     "linkAnchorText": "according to The Verge",
     "enhanced": true,
     "twitterPosted": true,
-    "fbPosted": true
-  },
-  {
-    "id": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules-bd64a8",
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court,…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-08-28T03:14:06.000Z",
-    "fetchedAt": "2026-08-28T11:57:19.006Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "A federal judge has ruled that the Pentagon's blacklisting of Anthropic earlier this year violated the Constitution. The decision marks a major legal victory for the AI company in its monthslong dispute with the Trump administration.",
-    "whoInvolved": "Anthropic is an AI safety-focused company founded in 2021 by former OpenAI members including CEO Dario Amodei and President Daniela Amodei, headquartered in San Francisco. The company, known for its Claude large language models, faced action from the Pentagon under the Trump administration's current term, which began in 2025.",
-    "whyMatters": "The ruling affirms constitutional protections against arbitrary government action and establishes legal precedent for AI companies facing regulatory pressure from federal agencies. The outcome could influence how the Trump administration approaches AI companies going forward and signals judicial limits on executive power in tech regulation.",
-    "articleBody": "A federal judge on Thursday ruled that the Pentagon's blacklisting of Anthropic earlier this year violated constitutional protections, handing the artificial intelligence company a significant legal victory in its escalating dispute with the Trump administration. The lawsuit, filed in March in a California district court, challenged the legality of the government's decision to exclude Anthropic from Pentagon contracts and business opportunities. The monthslong legal battle represents a rare instance of a tech company successfully pushing back against federal agency action during the current administration.\n\nAnthropic, a San Francisco-based AI safety company founded in 2021 by former OpenAI members including CEO Dario Amodei and President Daniela Amodei, has positioned itself as focused on developing safer artificial intelligence systems. The company's flagship product, Claude, is a series of proprietary large language models that compete in the expanding generative AI market. Despite its relatively recent founding, Anthropic has grown into a significant player in AI development, though it remains privately held.\n\nThe Pentagon's decision to blacklist Anthropic came as part of broader policy actions by the Trump administration toward AI companies. According to The Verge, the judge found the government's action lacked sufficient legal basis and violated procedural protections afforded to private companies. The specific constitutional grounds cited in the ruling underscore limitations on executive agencies' ability to unilaterally exclude companies from government contracting without due process.\n\nThe case reflects broader tensions between federal agencies and technology companies over AI regulation and national security concerns. The Trump administration has taken an increasingly assertive stance toward AI development, though this ruling suggests courts may constrain how aggressively agencies can act against specific companies without clearer legal justification.\n\nFor Anthropic, the decision potentially restores access to government contracts and business opportunities that the blacklisting had blocked. The company's reported plans for an initial public offering in fall 2026 may also benefit from the legal validation that the government acted improperly, reducing regulatory uncertainty heading into potential capital markets activity.",
-    "linkAnchorText": "according to The Verge",
-    "enhanced": true,
     "fbPosted": true
   }
 ]
