@@ -1,5 +1,24 @@
 [
   {
+    "id": "audis-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet-ab7f0a",
+    "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+    "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the…",
+    "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+    "source": "The Verge",
+    "sourceId": "the-verge",
+    "vertical": "tecnologia",
+    "publishedAt": "2026-09-07T20:03:41.000Z",
+    "fetchedAt": "2026-09-07T23:04:50.065Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "lang": "en",
+    "whatHappening": "Audi has unveiled the new A2 E-tron, an electric vehicle that breaks the typical trade-off between affordability and efficiency. The car combines a lower price point with strong energy efficiency, a rare combination in today's EV market.",
+    "whoInvolved": "Audi AG, a German luxury automotive manufacturer and wholly owned subsidiary of the Volkswagen Group headquartered in Ingolstadt, Bavaria, is behind the A2 E-tron launch. The company has a history with the A2 nameplate, having produced the original A2 compact hatchback from 2000 to 2005, which was notable for its lightweight aluminum construction and fuel efficiency.",
+    "whyMatters": "This vehicle addresses a critical pain point in EV adoption: the perception that buyers must choose between cost and range. Successfully delivering both affordable pricing and strong efficiency could expand the addressable market for electric vehicles and challenge competitors to improve their value propositions.",
+    "articleBody": "Audi is making a play for the mass-market electric vehicle segment with its new A2 E-tron, a model designed to shatter the conventional wisdom that affordable EVs must sacrifice driving range and efficiency. The automotive industry has long operated under the assumption that budget-conscious buyers accept lower efficiency ratings in exchange for lower sticker prices, while those seeking maximum energy efficiency pay a premium. The A2 E-tron challenges this binary choice.\n\nThe new model revives a nameplate with proven efficiency credentials. The original Audi A2, produced from 2000 to 2005, was a five-door compact hatchback that earned a reputation for exceptional fuel economy thanks to its innovative aluminum construction, which kept weight low without compromising structural integrity. That legacy of efficiency-focused design philosophy appears to inform the E-tron variant, though in a fully electric form rather than a traditional combustion engine.\n\nAccording to The Verge, the challenge in the EV market has been the persistent trade-off between purchase price and real-world performance. Mass-market offerings typically feature smaller batteries and reduced range to hit lower price points, while models targeting efficiency and long-range capability command premium prices that put them beyond reach for many consumers. Audi's approach with the A2 E-tron attempts to thread that needle by engineering a vehicle that does not ask buyers to sacrifice one dimension for another.\n\nThe competitive landscape for affordable EVs continues to intensify as manufacturers recognize growing consumer demand for electric vehicles at accessible price points. However, the addition of a model that combines both affordability and efficiency represents a meaningful shift in how the industry approaches the entry-level EV segment. Success with the A2 E-tron could influence how competing automakers, particularly within the Volkswagen Group, design their own affordable electric offerings.\n\nAs the broader automotive industry transitions away from internal combustion engines, vehicles like the A2 E-tron may become increasingly important in accelerating adoption. Making electric vehicles both financially accessible and genuinely practical for daily use removes a significant barrier that has kept many consumers on the sidelines of the EV revolution.",
+    "linkAnchorText": "according to The Verge",
+    "enhanced": true
+  },
+  {
     "id": "ecoflow-makes-the-miniature-power-station-even-smaller-d9b712",
     "title": "EcoFlow makes the miniature power station even smaller",
     "summary": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The…",
@@ -565,24 +584,5 @@
     "linkAnchorText": "according to The Verge",
     "enhanced": true,
     "fbPosted": true
-  },
-  {
-    "id": "enormous-12tb-steam-leak-includes-abandoned-half-life-2-episode-3-assets-35cdf9",
-    "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-    "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3,…",
-    "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-    "source": "The Verge",
-    "sourceId": "the-verge",
-    "vertical": "tecnologia",
-    "publishedAt": "2026-08-30T19:14:08.000Z",
-    "fetchedAt": "2026-08-31T08:22:48.630Z",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "lang": "en",
-    "whatHappening": "A massive 12-terabyte data leak has exposed builds of every game uploaded to Steam between 2003 and 2013, including assets from the long-canceled Half-Life 2: Episode 3. Researchers are still cataloging the archive's full contents due to its enormous size, but abandoned development materials are already surfacing.",
-    "whoInvolved": "Valve Corporation, the American video game developer and publisher headquartered in Bellevue, Washington, is the primary company affected. Valve owns Steam, the digital distribution service that hosted these game builds, and developed the Half-Life franchise, which has been dormant for nearly two decades.",
-    "whyMatters": "The leak exposes sensitive development data spanning a critical decade in gaming history and reveals what might have been in a long-awaited sequel that fans have speculated about for years. It raises security concerns about the integrity of historical game archives and could affect how studios handle legacy code and unreleased assets going forward.",
-    "articleBody": "Over 12 terabytes of Steam data spanning a decade of game development has leaked online, offering an unprecedented window into the evolution of digital gaming from 2003 to 2013. The archive contains builds of every game uploaded to Steam during that period, making it one of the largest gaming leaks in history. According to The Verge, the sheer volume of the leaked data means its full contents remain unknown, with researchers still combing through the files to catalog what was included.\n\nAmong the discoveries already made are assets related to Half-Life 2: Episode 3, the long-canceled sequel that Valve never officially released. Half-Life 2, a landmark 2004 first-person shooter that introduced physics-based gameplay and vehicle mechanics to the genre, spawned two episodic sequels after its initial release. Episode Three was announced but ultimately abandoned, leaving fans to speculate for nearly two decades about what the game might have contained. The leaked assets provide tangible evidence of the development work that went into the project before it was shelved.\n\nValve Corporation, which developed Half-Life and numerous other major gaming franchises including Counter-Strike, Portal, and Team Fortress, has not yet publicly commented on the breach. The company, also known as Valve Software, operates Steam as its primary digital distribution platform, which revolutionized how games reach consumers. The leaked data effectively captures Steam's earliest years and the diversity of titles published during gaming's shift toward digital delivery.\n\nThe leak raises significant questions about data security and the preservation of gaming history. Development builds and assets from unreleased games are typically confidential material that studios guard closely. The exposure of a decade's worth of such material—including abandoned projects, early iterations of released games, and potentially proprietary tools—could have implications for how companies handle archival and legacy data going forward.\n\nFor enthusiasts and historians, the leak offers rare insight into the creative process behind some of gaming's most influential titles. Researchers are expected to spend considerable time examining the archive, potentially uncovering stories about canceled games, development timelines, and design decisions that shaped the industry during a transformative period. The Half-Life 2: Episode 3 materials are just the beginning of what may prove to be a treasure trove of gaming history.",
-    "linkAnchorText": "according to The Verge",
-    "enhanced": true
   }
 ]
